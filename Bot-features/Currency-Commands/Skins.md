@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-07-05T22:35:55.168Z
+date: 2023-07-11T00:43:55.556Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -132,6 +132,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PoliceBadge" target="_blank">PoliceBadge</a>** | Legacy Police Badge | <img src="/bot-features/skins/item-skins/policebadge-legacypolicebadge.png" alt="Legacy Police Badge" width="50" height="50"> {: #PoliceBadgeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Potato" target="_blank">Potato ☭</a>** | Sussy Legacy Variant | <img src="/bot-features/skins/item-skins/potato-sussylegacyvariant.png" alt="Sussy Legacy Variant" width="50" height="50"> {: #PotatoSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#RareFish" target="_blank">Rare Fish</a>** | Legacy Rare Fish | <img src="/bot-features/skins/item-skins/rarefish-legacyrarefish.png" alt="Legacy Rare Fish" width="50" height="50"> {: #RareFishSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Collectables#RarePepe" target="_blank">Rare Pepe</a>** | Mona Lisa Variant | <img src="/bot-features/skins/item-skins/monalisapepeitem.png" alt="Mona Lisa Variant" width="50" height="50"> {: #RarePepeSkin}
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#RobbersMask" target="_blank">Robbers Mask</a>** | Legacy Robbers Mask | <img src="/bot-features/skins/item-skins/robbersmask-legacyrobbersmask.png" alt="Legacy Robbers Mask" width="50" height="50"> {: #RobbersMaskSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SanicHotDog" target="_blank">Sanic Hot Dog</a>** | Sandwich Variant | <img src="/bot-features/skins/item-skins/sanichotdog-sandwichvariant.png" alt="Sandwich Variant" width="50" height="50"> {: #SanicHotDogSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#SantasBag" target="_blank">Santa's Bag</a>** | Legacy Santa's Bag | <img src="/bot-features/skins/item-skins/santasbag-legacysantasbag.png" alt="Legacy Santa's Bag" width="50" height="50"> {: #SantasBagSkin} |
