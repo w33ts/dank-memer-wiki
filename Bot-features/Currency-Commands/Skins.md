@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-07-11T00:48:54.037Z
+date: 2023-07-11T01:02:30.577Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -183,7 +183,7 @@ This commands shows the following:
 | **<a href="/Bot-features/Currency-Commands/Pets#DragonPet" target="_blank">Dragon Pet</a>** | Legacy Emoji Dragon Variant | <img src="/bot-features/skins/pet-skins/dragonpet-legacyemojidragonvariant.png" alt="Legacy Emoji Dragon Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#DragonPet" target="_blank">Dragon Pet</a>** | Modern Pet Dragon Variant | <img src="/bot-features/skins/pet-skins/dragonpet-modernpetdragonvariant.png" alt="Modern Pet Dragon Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Duck" target="_blank">Duck Pet</a>** | Duck X Variant | <img src="/bot-features/skins/pet-skins/duckpet-duckplatinumvariant.png" alt="Duck X Variant" width="50" height="50"> |
-| **<a href="/Bot-features/Currency-Commands/Pets#Duck" target="_blank">Duck Pet</a>** | Pic Duck Variant | <img src="/bot-features/skins/pet-skins/picduckpet.png" alt="Pic Duck Variant" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Pets#Duck" target="_blank">Duck Pet</a>** | Rich Duck Variant | <img src="/bot-features/skins/pet-skins/picduckpet.png" alt="Pic Duck Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Fox" target="_blank">Fox Pet</a>** | Weeb Fox Variant | <img src="/bot-features/skins/pet-skins/foxpet-weebfoxvariant.png" alt="Weeb Fox Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Fox" target="_blank">Fox Pet</a>** | Zoo Fox Variant | <img src="/bot-features/skins/pet-skins/foxpet-zoofoxvariant.png" alt="Zoo Fox Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#JackoLantern" target="_blank">Jack o' Lantern Pet</a>** | Spotlight Jacky Pet Variant | <img src="/bot-features/skins/pet-skins/jackolanternpet-spotlightjackypetvariant.gif" alt="Spotlight Jacky Pet Variant" width="50" height="50"> |
