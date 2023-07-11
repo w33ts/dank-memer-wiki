@@ -2,7 +2,7 @@
 title: Profile
 description: Learn about Dank Memer profiles, profile titles, the showcase, and the advanced profile customization upgrade.
 published: true
-date: 2023-07-05T23:09:23.578Z
+date: 2023-07-11T16:32:13.020Z
 tags: titles, title list, title set, profile, profile customization, advanced profile customization upgrade, basic commands, showcase
 editor: markdown
 dateCreated: 2023-05-29T20:50:53.899Z
@@ -120,28 +120,34 @@ After clicking on the **Edit Profile** button, you'll notice two drop-down menus
     <th colspan=4>Profile Customization Sections</th>
     <tr>
       <td>Coins</td>
-      <td>Friends</td>
-      <td>Market</td>
-      <td>Showcase</td>
+      <td>Gambling</td>
+      <td>Marriage</td>
+      <td>Vote levels</td>
     </tr>
     <tr>
       <td>Collector</td>
-      <td>Gambling</td>
-      <td>Marriage</td>
-      <td>Streaks</td>
+      <td>Gems</td>
+      <td>Pets</td>
+      <td>Work</td>
     </tr>
     <tr>
       <td>Commands</td>
       <td>Items</td>
-      <td>Pets</td>
-      <td>Vote Levels</td>
+      <td>Robbing</td>
+      <td></td>
     </tr>
     <tr>
       <td>Donor</td>
       <td>Level</td>
-      <td>Robbing</td>
-      <td>Work</td>
+      <td>Showcase</td>
+      <td></td>
     </tr>
+    <tr>
+      <td>Friends</td>
+      <td>Market</td>
+      <td>Streaks</td>
+      <td></td>
+    </tr>  
   </table>
 </center>
   </div>
