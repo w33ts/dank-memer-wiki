@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-07-11T00:43:55.556Z
+date: 2023-07-11T00:48:54.037Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -183,6 +183,7 @@ This commands shows the following:
 | **<a href="/Bot-features/Currency-Commands/Pets#DragonPet" target="_blank">Dragon Pet</a>** | Legacy Emoji Dragon Variant | <img src="/bot-features/skins/pet-skins/dragonpet-legacyemojidragonvariant.png" alt="Legacy Emoji Dragon Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#DragonPet" target="_blank">Dragon Pet</a>** | Modern Pet Dragon Variant | <img src="/bot-features/skins/pet-skins/dragonpet-modernpetdragonvariant.png" alt="Modern Pet Dragon Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Duck" target="_blank">Duck Pet</a>** | Duck X Variant | <img src="/bot-features/skins/pet-skins/duckpet-duckplatinumvariant.png" alt="Duck X Variant" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Pets#Duck" target="_blank">Duck Pet</a>** | Pic Duck Variant | <img src="/bot-features/skins/pet-skins/picduckpet.png" alt="Pic Duck Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Fox" target="_blank">Fox Pet</a>** | Weeb Fox Variant | <img src="/bot-features/skins/pet-skins/foxpet-weebfoxvariant.png" alt="Weeb Fox Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Fox" target="_blank">Fox Pet</a>** | Zoo Fox Variant | <img src="/bot-features/skins/pet-skins/foxpet-zoofoxvariant.png" alt="Zoo Fox Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#JackoLantern" target="_blank">Jack o' Lantern Pet</a>** | Spotlight Jacky Pet Variant | <img src="/bot-features/skins/pet-skins/jackolanternpet-spotlightjackypetvariant.gif" alt="Spotlight Jacky Pet Variant" width="50" height="50"> |
@@ -196,6 +197,7 @@ This commands shows the following:
 | **<a href="/Bot-features/Currency-Commands/Pets#PandaBear" target="_blank">Panda Bear Pet</a>** | Kung Foo Variant | <img src="/bot-features/skins/pet-skins/pandabearpet-kungfoovariant.png" alt="Kung Foo Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#PandaBear" target="_blank">Panda Bear Pet</a>** | Red Variant | <img src="/bot-features/skins/pet-skins/pandabearpet-redvariant.png" alt="Red Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#PepePet" target="_blank">Pepe Pet</a>** | Cursed Variant (Melmsie Edition) | <img src="/bot-features/skins/pet-skins/pepepet-cursedvariant(melmsieedition).png" alt="Cursed Variant (Melmsie Edition)" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Pets#PepePet" target="_blank">Pepe Pet</a>** | Meat Mouth Variant | <img src="/bot-features/skins/pet-skins/chickenpepepet.png" alt="Meath Mouth Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#PepePet" target="_blank">Pepe Pet</a>** | Peepo Christmas Variant | <img src="/bot-features/skins/pet-skins/pepepet-peepochristmasvariant.png" alt="Peepo Christmas Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#PepePet" target="_blank">Pepe Pet</a>** | Plush Variant | <img src="/bot-features/skins/pet-skins/pepepet-plushvariant.png" alt="Plush Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Rock" target="_blank">Rock Pet</a>** | Dumb Brick Rock Variant | <img src="/bot-features/skins/pet-skins/rockpet-dumbbrickrockvariant.png" alt="Dumb Brick Rock Variant" width="50" height="50"> |
