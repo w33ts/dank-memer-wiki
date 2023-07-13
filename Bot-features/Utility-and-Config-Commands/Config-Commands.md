@@ -2,7 +2,7 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2023-06-09T22:11:45.862Z
+date: 2023-07-13T23:03:22.350Z
 tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
@@ -179,11 +179,11 @@ When using the `/serversettings` command, there are several options you can mana
 
 | Setting option | Does what? |
 |:------:|:----:|
-| Bank Robbing | Enable or disable bankrobbing in your server. |
-| Events Manager | Add/edit a role ID that will be in charge of managing <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">/serverevents</a>  in your server. |
+| Bank Robbing | Enable or disable bankrobbing in your server. <br> NOTE: **Only** the owner of the server can change this setting. |
+| Events Manager | Add/edit a role ID that will be in charge of managing <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">/serverevents</a>  in your server. <br> NOTE: **Only** the owner of the server can change this setting. |
 | Random Events | Enable or disable random events in your server. |
 | Rob Protection | Enable or disable the rob protection in your server, which makes it that members who joined within the last day can not rob anyone for 24 hours. |
-| Robbing | Enable or disable robbing in your server.|
+| Robbing | Enable or disable robbing in your server. <br> NOTE: **Only** the owner of the server can change this setting. |
 
 If the information above does not answer your questions, you can also ask for help in the <a href="https://discord.com/invite/dankmemerbot" target="_blank">Dank Memer Support Server</a>.
 
