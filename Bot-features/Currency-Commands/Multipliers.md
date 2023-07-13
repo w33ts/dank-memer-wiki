@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-13T23:33:46.944Z
+date: 2023-07-13T23:57:26.930Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -14,9 +14,9 @@ There are 2 multipliers, a coin multiplier and an experience multiplier.
 You can check your coin multiplier with the `/multipliers coins` command. This shows you how much extra % coins you get from grinding commands.
 
 You can check your experience multiplier with the `/multipliers xp` command. This shows you by how many times your base XP gain gets multiplied.
-
+<br>
 <center>
-<img src="/bot-features/grinding/multipliers.png" alt="mutlipliers.">
+<img src="/bot-features/grinding/multipliers2.png" alt="mutlipliers.">
 </center>
 
 ### Your XP multiplier can be affected by {: #XPMulti}
