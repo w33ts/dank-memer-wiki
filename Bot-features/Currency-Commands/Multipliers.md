@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-06T18:44:57.836Z
+date: 2023-07-13T23:33:46.944Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -27,15 +27,16 @@ You can check your experience multiplier with the `/multipliers xp` command. Thi
 | Double XP Days | x2.00 | 5 days at random during each month | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers) |
 | Level 15,000 adjustment | x2195.00 | Until you Prestige/go Omega | Caps at x2195.00 regardless of other boosts, can't go higher |
 | Gem Store | x1.50 | 6 hours | Buying multiple of this boost will extend the time duration the boost lasts, the XP multi will remain the same |
+| Global Boost | x2.00 | 30 minutes per boost | **Any** user can purchase & extend the duration of the boost via the gem store |
 | Omega level | 1+ x0.10 | Indefinitely | Stacks with each Omega level |
 | Partner server | x1.20 | Indefinitely | Check `/partners` to find a partner server |
-| <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 30 minutes | Can only use one at a time |
+| <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 15 minutes | Can only use one at a time |
 | Premium rewards | x1.05, x1.15, x1.20,  x1.25, x1.50 | 5-7 days after rewards are received | Check `/premium info` for the exact multiplier |
 | Premium server | x1.50 | As long as server is premium | $10+ Premium members can type `/premium premiumserver add` in a server to make it premium |
 | Prestige level | 1 + x0.01 | Until the next Omega level | Stacks with each Prestige level |
 | Quest rewards | Varies | Varies based on the quest | Check your `/quests` daily |
 | Scratch rewards | Varies | Varies | Depends on the `/scratch` reward at that time |
-| <a href="https://dankmemer.wiki/en/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to x1.85 | Until the next Prestige/Omega | Can consume up to 30 cheese |
+| <a href="https://dankmemer.wiki/en/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to x1.50 | Until the next Prestige/Omega | Can consume up to 50 cheese |
 | <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | x1.50 | 20 minutes | 2 times a x1.50 XP Multiplier if voted on both sites at the same time |
 
 ### Your Coin Multiplier can be affected by {: #Coin}
@@ -49,7 +50,8 @@ You can check your experience multiplier with the `/multipliers xp` command. Thi
 | Daily Streak | +2% - 40% | Until you lose your daily streak | Depends on your streak | 
 | Level 420 | +420% | Only during level 420 | Obtainable each Prestige/Omega |
 | Level up rewards | +5% - 94% | Until next Prestige/Omega | Multiplier depends on usage of Taco before the latest level rewards update |
-| Gem Store | x500% | 6 hours | Buying multiple of this boost will extend the time duration the boost lasts, the Coin multi will remain the same |
+| Gem Store | +500% | 6 hours | Buying multiple of this boost will extend the time duration the boost lasts, the Coin multi will remain the same |
+| Global Boost | +250% | 30 minutes per boost | **Any** user can purchase & extend the duration of the boost via the gem store |
 | Partner server | +30% | Indefinitely | Check `/partners` to find a partner server |
 | Premium member | +2%-45% | Until your premium subscription expires | Depends on your premium subscription |
 | Premium server | +25% | As long as server is premium | $10+ Premium members can type `/premium premiumserver add` in a server to make it premium |
