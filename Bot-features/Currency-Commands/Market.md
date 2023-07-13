@@ -2,7 +2,7 @@
 title: Market
 description: Learn about market commands, selling and buying items for coins or items for items.
 published: true
-date: 2023-07-05T21:58:44.074Z
+date: 2023-07-13T23:41:48.888Z
 tags: market, trading, selling, buying, items for items, coins for coins, items, coins, global market
 editor: markdown
 dateCreated: 2023-06-02T18:40:00.691Z
@@ -12,15 +12,17 @@ dateCreated: 2023-06-02T18:40:00.691Z
 
 The market is the primary way of buying and selling items for coins or other items. It is a global market, and users can post ads that anyone can accept. A detailed guide on how to use the market for trading can be found <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">here</a>, and information for how to use the partial market feature is <a href="https://dankmemer.lol/tutorial/partials" target="_blank">here</a>.
 
-With `/market`, you can view the market, sell, buy, and accept others' offers. After negotiating a deal, you can also make private market offers by adding the optional private market setting when you do the command.
+With `/market`, you can view the market, sell, buy, and accept others' offers. After negotiating a deal, you can also make private market offers by adding the optional private market setting when you do the command. It is also possible to remove your own market offers with a button click on the red "remove" button in `/market view`.
 
 In order to post offers on the market, you have to pay a `5% base fee` (of the average market price of that item) **and** a 0.2% extra fee **per day** you want to post that offer. The max a fee can cost is 100,000,000, no matter the item/amount of days.
 
 <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium Members</a> do not pay a fee for the first 3 days. Anything longer than that they'll also start paying a 0.2% fee per extra day.
 
+
+
 <br>
 <center>
-  <img src="/bot-features/market/market_view.png" alt="market view." height=600>
+  <img src="/bot-features/market/marketview.png" alt="market view." height=700>
   </center>
 
 ## Basic Market Commands
