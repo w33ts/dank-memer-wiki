@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-07-11T00:53:29.065Z
+date: 2023-07-13T23:48:28.287Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -204,12 +204,12 @@ The `/remove` command can be used to remove any effect that an item may have on 
 
 The `/shop` command is important in the progression of new starters and professional players. The shop has basic items that many players use every day. What is in the shop can sometimes change every few months, but you can see what is currently available with `/shop view`. 
 
-There are 2 types of shops you can check via `/shop view`, both of the shops have certain options that will rotate every 6 hours.
+There are 2 types of shops you can check via `/shop view`, both of the shops have certain sales that will rotate every 6 hours. The sales that rotate have a little icon in the top left corner of their picture.
 
 ### <font color =b32d2d> Coin Shop</font>
 <br>
 <center>
-<img src="/bot-features/basic-commands/coin_shop.png" alt="coin shop example.">
+<img src="/bot-features/basic-commands/coinshop.png" alt="coin shop example.">
 </center>
 <br>
 
@@ -219,7 +219,7 @@ This is the regular shop where you can spend your Dank Memer Coins, just by clic
 
 <br>
 <center>
-<img src="/bot-features/basic-commands/gem_shop.png" alt="gem shop example.">
+<img src="/bot-features/basic-commands/gemshop.png" alt="gem shop example.">
 </center>
 <br>
 
