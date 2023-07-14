@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-14T00:20:57.533Z
+date: 2023-07-14T00:27:01.293Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -56,7 +56,7 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | 5000+ Fight Wins | +15% | Indefinitely | Win 5000 or more Fights |
 | Badges | +15% per badge | Indefinitely | 35 badges are obtainable right now -> 35 * 15% multi max |
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#CupidsBigToe" target="_blank">Cupid's Big Toe</a> | +69% | 69 seconds | Obtainable through market |
-| Daily Streak | +2% - 40% | Until you lose your daily streak | Depends on your streak | 
+| Daily Streak | +2% - 30% | Until you lose your daily streak | Depends on your streak | 
 | Level 420 | +420% | Only during level 420 | Obtainable each Prestige/Omega |
 | Level up rewards | +5% - 94% | Until next Prestige/Omega | Multiplier depends on usage of Taco before the latest level rewards update |
 | Gem Store | +500% | 6 hours | Buying multiple of this boost will extend the time duration the boost lasts, the Coin multi will remain the same |
