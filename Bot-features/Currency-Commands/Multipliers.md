@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-14T00:47:38.779Z
+date: 2023-07-14T00:54:47.183Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -69,7 +69,7 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#PrestigeCoin" target="_blank">Prestige Coin</a> | +250% | 8 hours | Obtainable through prestiging |
 | Quests | Varies | Varies | Depends on the quest |
 | <a href="https://dankmemer.wiki/en/Items/Collectables#StonkCoin" target="_blank">Stonk Coin</a> | +500% | 24 hours | Can only use one item at a time |
-| <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | +50%/website + 5% through the bot/website | 20 minutes + 15% | The +5% lasts for 12 hours while the +50% lasts for 20 minutes |
+| <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | +50%/website & 5% per vote | 20 minutes & 12 hours | The +5% lasts for 12 hours while the +50% lasts for 20 minutes |
 
 <br>
 
