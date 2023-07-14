@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-07-05T22:11:17.851Z
+date: 2023-07-14T01:08:20.956Z
 tags: titles, title list, title set, profile, profile customization
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -20,25 +20,37 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 ### From Achievements
 #### <font color =b32d2d>Not obtainable</font> 
 - Professional Petter
+- Satan
 
 #### <font color =b32d2d>Obtainable</font> 
+- Achievement Hunter
 - Always Dead
 - Bad Plant Parent
+- Badger Binger
 - Bundled Baby
 - Chain Fighter
 - Crafter
+- Daily Grinder
 - Developer Simp
+- Dirty Hands
+- Employee of the Month
+- Generous Friend
 - High Every Day
 - Limited Time Buyer
+- Lottery Noob
+- Lottery Wiener
 - Massive Showoff
+- Melmsie's Favorite
 - No-Lifer
+- Nosy Neighbor
 - Omega God
 - Omega Player
 - Overachiever
 - Popular Farmer
 - Prestige Royalty
-- Satan
 - Stream Queen
+- Terrible Pet Owner
+- Use me?
 - Wet and Dirty
 
 ### From Adventures
@@ -124,6 +136,10 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Platypus (Platinum Rank)
 - Green like Pepe (Jade Rank)
 - Elite Fighter (Amethyst Rank)
+
+### From Gem Store
+- No Rizz
+- Not a lawyer
 
 ### From Leveling
 #### <font color =b32d2d>Not obtainable</font> 
