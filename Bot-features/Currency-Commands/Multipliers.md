@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-14T00:27:01.293Z
+date: 2023-07-14T00:47:38.779Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -51,12 +51,12 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 ### <font color =b32d2d>Your Coin Multiplier can be affected by</font> {: #Coin}
 | Name | Coin Multiplier | Duration | Extra info |
 |:------:|:----:|:----:|:----:|
-| 2500+ Trivia Wins | +15% | Indefinitely | Win 2500 or more Trivia questions |
-| 2500+ TTT Wins | +15% | Indefinitely | Win 2500 or more Tic Tac Toe games |
-| 5000+ Fight Wins | +15% | Indefinitely | Win 5000 or more Fights |
+| 2500+ Trivia Wins | +5% | Indefinitely | Win 2500 or more Trivia questions |
+| 2500+ TTT Wins | +5% | Indefinitely | Win 2500 or more Tic Tac Toe games |
+| 5000+ Fight Wins | +5% | Indefinitely | Win 5000 or more Fights |
 | Badges | +15% per badge | Indefinitely | 35 badges are obtainable right now -> 35 * 15% multi max |
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#CupidsBigToe" target="_blank">Cupid's Big Toe</a> | +69% | 69 seconds | Obtainable through market |
-| Daily Streak | +2% - 30% | Until you lose your daily streak | Depends on your streak | 
+| Daily Streak | +2% - 60% | Until you lose your daily streak | Depends on your streak | 
 | Level 420 | +420% | Only during level 420 | Obtainable each Prestige/Omega |
 | Level up rewards | +5% - 94% | Until next Prestige/Omega | Multiplier depends on usage of Taco before the latest level rewards update |
 | Gem Store | +500% | 6 hours | Buying multiple of this boost will extend the time duration the boost lasts, the Coin multi will remain the same |
@@ -68,12 +68,8 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | Prestige | +5%/prestige | Until next Omega | Caps at prestige 20 with a +100% multi |
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#PrestigeCoin" target="_blank">Prestige Coin</a> | +250% | 8 hours | Obtainable through prestiging |
 | Quests | Varies | Varies | Depends on the quest |
-| Sharing | +2%-+20% | Indefinitely | Depends on how much you shared recently |
 | <a href="https://dankmemer.wiki/en/Items/Collectables#StonkCoin" target="_blank">Stonk Coin</a> | +500% | 24 hours | Can only use one item at a time |
-| Tips Enabled | +10% | Indefinitely | Have Tips enables in your `/settings` |
-| Vote reminder | +2% | Indefinitely | Have the vote reminders off in your `/settings` | 
-| <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | +50%/website + 15% through the bot/website | 20 minutes + 15% | The +15% lasts for 12 hours while the +50% lasts for 20 minutes |
-| <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a> | +5% | Indefinitely | Once you worked 500+ shifts you get this boost |
+| <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | +50%/website + 5% through the bot/website | 20 minutes + 15% | The +5% lasts for 12 hours while the +50% lasts for 20 minutes |
 
 <br>
 
