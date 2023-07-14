@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-07-13T23:48:28.287Z
+date: 2023-07-14T00:01:40.498Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -244,6 +244,13 @@ The `/use` command allows you to use <a href="/Items/Lootboxes" target="_blank">
 </center>
 
 If you are opening lootboxes, <a href="/About-Dank-Memer/Premium-users" target="_blank">premium supporters</a> can reroll the loot from boxes for a chance to change what they received!
+
+A `Use Again` button will pop up after you used an item (besides lootboxes) under the embed or when an item expires through the DM Notifications.
+
+<br>
+<center>
+<img src="/bot-features/basic-commands/useagain.png" alt="use example.">
+</center>
 
 ## Vacation {: #Vacation}
 
