@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2023-07-05T21:07:41.157Z
+date: 2023-07-14T01:03:42.048Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -142,6 +142,7 @@ dateCreated: 2023-04-30T21:33:10.040Z
 - <a href="https://dankmemer.wiki/en/Items/Sellables#LotusFlower" target="_blank">Lotus Flower</a>
 - <a href="https://dankmemer.wiki/en/Items/Tools#LotusSeeds" target="_blank">Lotus Seeds</a>
 - <a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>
+- <a href="https://dankmemer.wiki/en/Items/Collectables#MelmsiesBanana" target="_blank">Melmsie's Banana</a>
 - <a href="https://dankmemer.wiki/en/Items/Collectables#MelmsiesBeard" target="_blank">Melmsie's Beard</a>
 - <a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>
 - <a href="https://dankmemer.wiki/en/Items/Packs#MembershipPack" target="_blank">Membership Pack</a>
