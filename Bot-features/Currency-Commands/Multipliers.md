@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-13T23:57:26.930Z
+date: 2023-07-14T00:20:57.533Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -19,7 +19,16 @@ You can check your experience multiplier with the `/multipliers xp` command. Thi
 <img src="/bot-features/grinding/multipliers2.png" alt="mutlipliers.">
 </center>
 
-### Your XP multiplier can be affected by {: #XPMulti}
+## Global Multipliers
+
+It is possible to buy global multiplier boosts in the <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> that can be found via `/shop view`.
+
+When you purchase one of these, you can write a custom message that will be shown in the `/multipliers` command to anyone who checks the command during that boost duration.
+
+When purchasing a global boost while one is active already, your boost will be queued in line, showing you how many are in front of yours. 
+You will be notified when your boost starts and ends, with a notifiation at the end that will tell you how many people saw your message in the `/multiplier` command.
+
+### <font color =b32d2d>Your XP multiplier can be affected by</font> {: #XPMulti}
 | Name | XP Multiplier | Duration | Extra info |
 |:------:|:----:|:----:|:----:|
 | <a href="https://dankmemer.wiki/en/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> | x2.00 | 4 hours | Can only use one at a time |
@@ -39,7 +48,7 @@ You can check your experience multiplier with the `/multipliers xp` command. Thi
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to x1.50 | Until the next Prestige/Omega | Can consume up to 50 cheese |
 | <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | x1.50 | 20 minutes | 2 times a x1.50 XP Multiplier if voted on both sites at the same time |
 
-### Your Coin Multiplier can be affected by {: #Coin}
+### <font color =b32d2d>Your Coin Multiplier can be affected by</font> {: #Coin}
 | Name | Coin Multiplier | Duration | Extra info |
 |:------:|:----:|:----:|:----:|
 | 2500+ Trivia Wins | +15% | Indefinitely | Win 2500 or more Trivia questions |
