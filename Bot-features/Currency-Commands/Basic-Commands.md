@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-07-14T00:01:40.498Z
+date: 2023-07-14T00:11:46.196Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -224,6 +224,8 @@ This is the regular shop where you can spend your Dank Memer Coins, just by clic
 <br>
 
 This is the gem shop where you can spend gems that you can purchase from the <a href="https://dankmemer.lol/store" target="_blank">web store</a>.
+
+Here you can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multiplier</a> boosts which affect **every** player. 
 
 Opening the `/shop view` for the **first** time will give you 175 <a href="https://dankmemer.lol/store" target="_blank">gems</a> for free to use in the gem store.
 
