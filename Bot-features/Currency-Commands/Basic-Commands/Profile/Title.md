@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-07-14T01:08:20.956Z
+date: 2023-07-14T07:12:54.778Z
 tags: titles, title list, title set, profile, profile customization
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -140,6 +140,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 ### From Gem Store
 - No Rizz
 - Not a lawyer
+- VAT cat
 
 ### From Leveling
 #### <font color =b32d2d>Not obtainable</font> 
