@@ -2,7 +2,7 @@
 title: Dank Memer Wiki Home
 description: 
 published: true
-date: 2023-07-11T20:33:24.679Z
+date: 2023-07-14T01:10:00.012Z
 tags: home
 editor: markdown
 dateCreated: 2023-04-28T15:54:28.873Z
@@ -21,7 +21,7 @@ The Dank Memer Wiki is entirely volunteer run by a team of avid Dank Memer playe
 
   <table style ="border: solid #000000; word-wrap: break-word;">
   <td style="background-color:#080808; color:#E0E0E0; font: 20px Roboto; font-weight: bold;">Most Recent Wiki Update</td>
-      <td style="font: 18px Roboto"> <a href="https://dankmemer.lol/changelog" target="_blank">Update 2023.28.1 on 07/10/2023</a></td>
+      <td style="font: 18px Roboto"> <a href="https://dankmemer.lol/changelog" target="_blank">Update 2023.28.3 on 07/14/2023</a></td>
   </table>
 
 </center>
