@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-07-14T16:01:14.717Z
+date: 2023-07-15T00:12:23.028Z
 tags: titles, title list, title set, profile, profile customization
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -138,10 +138,12 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Elite Fighter (Amethyst Rank)
 
 ### From Gem Store
+- I embezzled this title
 - No Rizz
 - Not a lawyer
 - Tax fraud
 - VAT Cat
+
 
 ### From Leveling
 #### <font color =b32d2d>Not obtainable</font> 
