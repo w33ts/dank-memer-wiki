@@ -2,7 +2,7 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2023-07-13T23:03:22.350Z
+date: 2023-07-17T22:05:42.087Z
 tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
@@ -99,7 +99,7 @@ Some servers do this to create custom channels, like a channel for opening <a hr
 |:------:|:----:|
 | `/disableuse channel` | Disable use for a channel |
 | `/disableuse role` | Disable use for a role |
-| `/disableuse server` | Disable use for a user | 
+| `/disableuse server` | Disable use for a server | 
 | `/disableuse user` | Disable use for a user |
 | `/disableuse list` | List of all disable use rules |
 | `/disableuse remove` | Remove a disabled use rule from the `/disableuse list` | 
