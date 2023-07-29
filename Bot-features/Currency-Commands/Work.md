@@ -2,8 +2,8 @@
 title: Work
 description: Learn how to work on Dank Memer, about the various jobs, and possible work items you can receive.
 published: true
-date: 2023-06-05T03:51:27.283Z
-tags: work, teacher, scientist, professional fisherman, professional hunter, gravedigger, fast food cook, discord mod, adventurer, babysitter, housewife, twitch streamer, youtuber, bartender, robber, police officer, pro gamer, manager, developer, day trader, santa clause, politician, pharmacist, shopkeeper, work list, work shift, work rewards, ghost, doctor, lawyer
+date: 2023-07-29T13:11:21.353Z
+tags: work, teacher, scientist, professional fisherman, professional hunter, gravedigger, fast food cook, discord mod, adventurer, babysitter, housewife, twitch streamer, youtuber, bartender, robber, police officer, pro gamer, manager, developer, day trader, santa clause, politician, pharmacist, shopkeeper, work list, work shift, work rewards, ghost, doctor, lawyer, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:49:29.820Z
 ---
