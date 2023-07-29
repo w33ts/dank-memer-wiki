@@ -2,8 +2,8 @@
 title: About Dank Memer
 description: 
 published: true
-date: 2023-04-29T23:10:14.524Z
-tags: 
+date: 2023-07-29T13:14:38.703Z
+tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T21:59:47.712Z
 ---
