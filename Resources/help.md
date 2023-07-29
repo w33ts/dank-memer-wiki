@@ -2,8 +2,8 @@
 title: Help Commands
 description: Learn about Dank Memer's help commands, including tutorials, tips, command descriptions, and more.
 published: true
-date: 2023-06-05T01:50:08.615Z
-tags: commands, help, help tutorial, help tips, tips, tutorials, command categories, command description
+date: 2023-07-29T13:12:33.727Z
+tags: commands, help, help tutorial, help tips, tips, tutorials, command categories, command description, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T09:56:49.073Z
 ---
