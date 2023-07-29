@@ -2,8 +2,8 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-07-05T22:28:09.828Z
-tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon
+date: 2023-07-29T12:16:41.220Z
+tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
 ---
