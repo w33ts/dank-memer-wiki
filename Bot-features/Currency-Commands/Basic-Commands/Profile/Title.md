@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-07-15T00:12:23.028Z
+date: 2023-07-29T11:05:40.998Z
 tags: titles, title list, title set, profile, profile customization
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -139,6 +139,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 
 ### From Gem Store
 - I embezzled this title
+- Gem Rat
 - No Rizz
 - Not a lawyer
 - Tax fraud
