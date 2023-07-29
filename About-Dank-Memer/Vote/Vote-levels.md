@@ -2,8 +2,8 @@
 title: Vote Level Rewards
 description: Learn about the possible rewards you can receive from voting and earning vote levels each month.
 published: true
-date: 2023-06-06T18:31:37.901Z
-tags: vote, voting, advancements vote, vote levels, voting levels, vote rewards, voter, topgg, discordbotlist
+date: 2023-07-29T13:23:10.810Z
+tags: vote, voting, advancements vote, vote levels, voting levels, vote rewards, voter, topgg, discordbotlist, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T22:53:32.350Z
 ---
