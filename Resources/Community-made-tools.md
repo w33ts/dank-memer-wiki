@@ -2,8 +2,8 @@
 title: Community Made Tools
 description: Learn about community-made tools and resources to help you with your Dank Memer gameplay, including a prestige and omega calculator, collector list, and bundle cost calculator.
 published: true
-date: 2023-06-04T22:43:50.885Z
-tags: bundle list, bundle cost calculator, community tools, prestige calculator, omega calculator, collectors list, collecting, collection
+date: 2023-07-29T13:13:23.675Z
+tags: bundle list, bundle cost calculator, community tools, prestige calculator, omega calculator, collectors list, collecting, collection, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:28:59.982Z
 ---
