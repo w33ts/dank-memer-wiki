@@ -2,8 +2,8 @@
 title: Friends
 description: Learn about the friend system and how you can add or remove friends and share items and coins.
 published: true
-date: 2023-06-05T02:41:00.377Z
-tags: friends, friends add, friends share coins, friends share items, friends share, friend remove
+date: 2023-07-29T13:12:22.735Z
+tags: friends, friends add, friends share coins, friends share items, friends share, friend remove, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:54:50.914Z
 ---
