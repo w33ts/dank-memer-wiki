@@ -2,8 +2,8 @@
 title: Rob and Heist
 description: Learn about robbing and bankrobs in Dank Memer, tools to help you rob, and how to protect yourself.
 published: true
-date: 2023-07-05T21:22:00.588Z
-tags: robber, rob, robbing, bankrob, robbers mask, heist, heisting, alcohol, whiskey, bottle of whiskey
+date: 2023-07-29T12:45:27.434Z
+tags: robber, rob, robbing, bankrob, robbers mask, heist, heisting, alcohol, whiskey, bottle of whiskey, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T19:05:19.528Z
 ---
