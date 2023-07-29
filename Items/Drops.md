@@ -2,8 +2,8 @@
 title: Drops
 description: Learn about drop items and the drop command.
 published: true
-date: 2023-06-05T00:31:13.845Z
-tags: stonk coin, drops, pepe sus, pepe ribbon, boxed chocolate, fart in a bottle, sugar skull, /drop, drop items, birthday cake, fools notifs, holiday stocking, new years poppers, candy corn, toilet paper, rusty machine
+date: 2023-07-29T13:13:10.685Z
+tags: stonk coin, drops, pepe sus, pepe ribbon, boxed chocolate, fart in a bottle, sugar skull, /drop, drop items, birthday cake, fools notifs, holiday stocking, new years poppers, candy corn, toilet paper, rusty machine, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:30:51.821Z
 ---
