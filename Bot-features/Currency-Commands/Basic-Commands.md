@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-07-14T00:16:14.430Z
+date: 2023-07-29T10:57:23.562Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -219,7 +219,7 @@ This is the regular shop where you can spend your Dank Memer Coins, just by clic
 
 <br>
 <center>
-<img src="/bot-features/basic-commands/gemshop.png" alt="gem shop example.">
+<img src="/bot-features/basic-commands/shopview.png" alt="gem shop example.">
 </center>
 <br>
 
