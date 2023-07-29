@@ -2,8 +2,8 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-07-05T22:17:29.719Z
-tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks
+date: 2023-07-29T12:16:25.579Z
+tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
 ---
