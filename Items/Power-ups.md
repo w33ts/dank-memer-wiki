@@ -2,8 +2,8 @@
 title: Power-ups
 description: Learn about Dank Memer power-up items that can help give you a boost when running commands.
 published: true
-date: 2023-07-24T00:08:43.746Z
-tags: robbers mask, alcohol, bottle of whiskey, adventure compass, ammo, bait, fishing bait, life saver, lucky horseshoe, apple
+date: 2023-07-29T12:06:15.910Z
+tags: robbers mask, alcohol, bottle of whiskey, adventure compass, ammo, bait, fishing bait, life saver, lucky horseshoe, apple, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:05.066Z
 ---
