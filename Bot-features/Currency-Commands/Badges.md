@@ -2,8 +2,8 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2023-07-05T22:05:17.041Z
-tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals
+date: 2023-07-29T12:16:11.042Z
+tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
 ---
