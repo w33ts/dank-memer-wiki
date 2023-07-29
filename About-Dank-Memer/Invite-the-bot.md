@@ -2,8 +2,8 @@
 title: Invite the Bot
 description: Learn how to invite the bot to a server, to set the bot up, and about server commands.
 published: true
-date: 2023-06-05T01:42:13.114Z
-tags: invite, invite the bot, server settings, server commands, disablue use, audit, automeme, server events, set up the bot, setting up the bot, guided setup
+date: 2023-07-29T13:12:45.688Z
+tags: invite, invite the bot, server settings, server commands, disablue use, audit, automeme, server events, set up the bot, setting up the bot, guided setup, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:31:44.842Z
 ---
