@@ -2,8 +2,8 @@
 title: Sellables
 description: Browse the possible sellable-type items that are available on the bot, including animals, work items, and more.
 published: true
-date: 2023-07-06T18:43:23.684Z
-tags: kraken, dragon, sellables, sellable items, aplus, a plus, ant, rabbit, deer, aha, pitcher plant, legendary fish, rare fish, common fish, stickbug, lady bug, duck, skunk, worm, mole man, fossil, meteorite, music note, beaker of sus fluid, vaccine, law degree, trash, junk, garbage, fresh bread, star fragment, lasso
+date: 2023-07-29T12:44:21.978Z
+tags: kraken, dragon, sellables, sellable items, aplus, a plus, ant, rabbit, deer, aha, pitcher plant, legendary fish, rare fish, common fish, stickbug, lady bug, duck, skunk, worm, mole man, fossil, meteorite, music note, beaker of sus fluid, vaccine, law degree, trash, junk, garbage, fresh bread, star fragment, lasso, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:25.441Z
 ---
