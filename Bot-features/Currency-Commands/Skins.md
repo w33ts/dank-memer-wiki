@@ -2,8 +2,8 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-07-11T01:02:30.577Z
-tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments
+date: 2023-07-29T12:03:52.738Z
+tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
 ---
