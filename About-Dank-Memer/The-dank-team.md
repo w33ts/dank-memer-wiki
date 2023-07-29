@@ -2,8 +2,8 @@
 title: The Dank Team
 description: Info about the Dank Memer team, including bot developers and employees, server staff, and the wiki staff.
 published: true
-date: 2023-07-20T19:00:34.871Z
-tags: about us, server staff, wiki staff, bot developers, dank developers, dank employees, badosz, zig, aetheryx, melmsie, kable, aiphey, townie, thelazytownie, kablekompany, inblue, bunny, aha!, lilmisssunbear, weet, dr.john, zomb, pixel artist, graphic designer, moderators
+date: 2023-07-29T12:05:55.815Z
+tags: about us, server staff, wiki staff, bot developers, dank developers, dank employees, badosz, zig, aetheryx, melmsie, kable, aiphey, townie, thelazytownie, kablekompany, inblue, bunny, aha!, lilmisssunbear, weet, dr.john, zomb, pixel artist, graphic designer, moderators, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-01T18:06:11.862Z
 ---
