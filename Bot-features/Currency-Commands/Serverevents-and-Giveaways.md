@@ -2,8 +2,8 @@
 title: Serverevents and Giveaways
 description: Learn about global giveaways you can do on your own and serverevents and giveaway features.
 published: true
-date: 2023-07-13T23:00:36.246Z
-tags: serverevents, raffles, giveaways, split or steal, events
+date: 2023-07-29T12:05:27.425Z
+tags: serverevents, raffles, giveaways, split or steal, events, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:52:08.435Z
 ---
