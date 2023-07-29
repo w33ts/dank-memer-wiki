@@ -2,8 +2,8 @@
 title: Crime Options
 description: Learn about the different options you might encounter when using /crime and the possible rewards.
 published: true
-date: 2023-06-06T04:47:57.104Z
-tags: rewards, crime, grinding
+date: 2023-07-29T13:23:23.095Z
+tags: rewards, crime, grinding, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-04T14:29:34.035Z
 ---
