@@ -2,8 +2,8 @@
 title: Leaderboards
 description: Learn about the different leaderboards available throughout the bot to compare yourself to other users, including stats, games, adventures, and items.
 published: true
-date: 2023-06-05T07:45:24.848Z
-tags: leaderboards, user leaderboards, item leaderboards, stats leaderboards, net worth, adventure leaderboards, game leaderboards
+date: 2023-07-29T13:25:26.242Z
+tags: leaderboards, user leaderboards, item leaderboards, stats leaderboards, net worth, adventure leaderboards, game leaderboards, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T13:17:26.295Z
 ---
