@@ -2,8 +2,8 @@
 title: Lotteries
 description: Learn about the Dank Memer lottery and the black hole lottery, how to enter, and where to see if you win.
 published: true
-date: 2023-07-05T21:24:15.176Z
-tags: lottery, black hole lottery, blackhole, winners, lotteries, blackhole lottery
+date: 2023-07-29T12:15:14.155Z
+tags: lottery, black hole lottery, blackhole, winners, lotteries, blackhole lottery, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T19:06:54.960Z
 ---
