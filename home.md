@@ -2,8 +2,8 @@
 title: Dank Memer Wiki Home
 description: 
 published: true
-date: 2023-07-29T11:03:33.965Z
-tags: home
+date: 2023-07-29T11:28:10.605Z
+tags: home, dank memer wiki
 editor: markdown
 dateCreated: 2023-04-28T15:54:28.873Z
 ---
