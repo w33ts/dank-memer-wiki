@@ -2,8 +2,8 @@
 title: Lootboxes
 description: Learn about the various lootboxes obtainable in Dank Memer, including god boxes, daily boxes, meme boxes, box box, pepe boxes, and more.
 published: true
-date: 2023-07-05T22:40:46.480Z
-tags: meme, daily, daily box, normie, normie box, meme box, dank box, pepe box, work box, developer box, god box, wedding gift, old box, patreon box
+date: 2023-07-29T12:17:20.742Z
+tags: meme, daily, daily box, normie, normie box, meme box, dank box, pepe box, work box, developer box, god box, wedding gift, old box, patreon box, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:31:15.011Z
 ---
