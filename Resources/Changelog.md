@@ -2,8 +2,8 @@
 title: Changelog
 description: Stay updated on bot changes and news with the changelogs.
 published: true
-date: 2023-06-04T22:16:57.470Z
-tags: changelog, updates, alerts
+date: 2023-07-29T13:13:36.980Z
+tags: changelog, updates, alerts, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:19:26.607Z
 ---
