@@ -2,8 +2,8 @@
 title: Bot Rules
 description: Information about the Dank Memer bot rules.
 published: true
-date: 2023-06-04T13:43:47.130Z
-tags: bot rules, rules, rmt, automation, macro, scamming, exploits, exploiting, alts, tos
+date: 2023-07-29T13:13:50.833Z
+tags: bot rules, rules, rmt, automation, macro, scamming, exploits, exploiting, alts, tos, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:21:32.540Z
 ---
