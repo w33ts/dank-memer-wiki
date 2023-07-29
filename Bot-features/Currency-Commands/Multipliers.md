@@ -2,8 +2,8 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-07-14T00:54:47.183Z
-tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots
+date: 2023-07-29T12:04:54.566Z
+tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
 ---
