@@ -2,8 +2,8 @@
 title: Bundles
 description: Earn the Collector's Badge by completing all of the bundles in /bundle list.
 published: true
-date: 2023-07-05T20:26:52.129Z
-tags: collector's, collector's badge, goals, bundles, bundle list, dank goals
+date: 2023-07-29T12:45:41.032Z
+tags: collector's, collector's badge, goals, bundles, bundle list, dank goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:19:53.161Z
 ---
