@@ -2,8 +2,8 @@
 title: Utility and Config Commands
 description: Learn more about Utility and Config commands, including alert, audit, automeme, block, disableuse, flow, help, invite, partners, ping, premium, reminder, report, resetmydata, serversettings, settings, usage, and vote.
 published: true
-date: 2023-06-05T03:49:11.244Z
-tags: premium, invite, partners, audit, automeme, utility commands, config commands, non-currency commands, vote, alert, block, disableuse, flow, help, ping, reminder, report, resetmydata, serversettings, settings, usage
+date: 2023-07-29T13:11:34.986Z
+tags: premium, invite, partners, audit, automeme, utility commands, config commands, non-currency commands, vote, alert, block, disableuse, flow, help, ping, reminder, report, resetmydata, serversettings, settings, usage, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T04:11:51.230Z
 ---
