@@ -2,8 +2,8 @@
 title: Consumables
 description: Browse consumable items, such as postcards, boxed chocolates, fart in a bottle, sugar skull, and coin voucher
 published: true
-date: 2023-07-05T23:06:15.186Z
-tags: items, consumable, postcards, post card, boxed chocolate, fart in a bottle, sugar skull, coin voucher
+date: 2023-07-29T12:42:16.058Z
+tags: items, consumable, postcards, post card, boxed chocolate, fart in a bottle, sugar skull, coin voucher, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:30:33.791Z
 ---
