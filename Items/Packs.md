@@ -2,8 +2,8 @@
 title: Packs
 description: Browse the list of possible packs you can find on Dank Memer, including membership packs, prestige packs, vote packs, and more.
 published: true
-date: 2023-07-05T21:27:17.281Z
-tags: use, vote pack, prestige pack, pack, premium pack
+date: 2023-07-29T12:15:41.664Z
+tags: use, vote pack, prestige pack, pack, premium pack, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:31:34.581Z
 ---
