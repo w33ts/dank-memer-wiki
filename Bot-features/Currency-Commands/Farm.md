@@ -2,8 +2,8 @@
 title: Farm
 description: Learn about the farm command, what tools and seeds are needed, farming patterns, and more.
 published: true
-date: 2023-07-05T21:19:43.460Z
-tags: farm, watermelon, potato, potato seeds, watermelon seeds, corncob, corn seeds, carrots, carrot seeds, broccoli, broccoli seeds, fertilizer, hoe, watering can, water bucket, elf on a shelf, farming, crops, seeds
+date: 2023-07-29T12:46:39.728Z
+tags: farm, watermelon, potato, potato seeds, watermelon seeds, corncob, corn seeds, carrots, carrot seeds, broccoli, broccoli seeds, fertilizer, hoe, watering can, water bucket, elf on a shelf, farming, crops, seeds, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:17:27.856Z
 ---
