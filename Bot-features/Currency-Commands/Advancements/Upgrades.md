@@ -2,7 +2,7 @@
 title: Advancements Upgrades
 description: Learn about possible upgrades that can be purchased through the advancements upgrades command, including monthly, advanced profile customization, a refresh button, auto lottery,  user leaderboards, net worth sort, and more pets and flows.
 published: true
-date: 2023-06-06T20:11:44.371Z
+date: 2023-07-29T10:47:31.073Z
 tags: upgrades, profile customization, monthly, net worth sort, refresh button, autolottery, auto lottery, flows, pets, more pets, leaderboards, user leaderboards
 editor: markdown
 dateCreated: 2023-05-29T20:51:36.240Z
@@ -44,7 +44,7 @@ The Monthly coin upgrade in <a href="/Bot-features/Currency-Commands/Advancement
 </center>
 
 ## More Flows {: #MoreFlows}
-The More Flows upgrade allows you to add up to 5 more <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">flows</a> every time you purchase the upgrade. Once you purchase the upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you can instantly record or add new flows to your `/flow list`. 
+You start out with 2, but buying the More Flows upgrade allows you to add up to 5 more <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">flows</a> every time you purchase the upgrade. Once you purchase the upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you can instantly record or add new flows to your `/flow list`. 
 
 Without upgrading this, you can only keep one flow in your list. You can read more about flows and how they work in the <a href="https://dankmemer.lol/tutorial/flows" target="_blank">flow tutorial</a>. 
 
