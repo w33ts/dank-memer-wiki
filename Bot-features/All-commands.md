@@ -2,8 +2,8 @@
 title: All commands
 description: 
 published: true
-date: 2023-07-07T15:15:45.123Z
-tags: 
+date: 2023-07-29T12:45:15.218Z
+tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T22:20:13.396Z
 ---
