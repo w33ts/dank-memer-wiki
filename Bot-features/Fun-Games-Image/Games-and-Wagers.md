@@ -2,8 +2,8 @@
 title: Games and Wagers
 description: Learn about the games available to play or wager on, including Connect4, Tic-Tac-Toe (TTT), Rock-Paper-Scissors (RPS), Fight, and Petfight.
 published: true
-date: 2023-06-05T04:15:40.187Z
-tags: fight, game, connect4, ttt, tictactoe, rockpaperscissors, rps, petfight, wager
+date: 2023-07-29T13:25:37.513Z
+tags: fight, game, connect4, ttt, tictactoe, rockpaperscissors, rps, petfight, wager, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T11:26:13.575Z
 ---
