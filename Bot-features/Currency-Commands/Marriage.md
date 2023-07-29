@@ -2,8 +2,8 @@
 title: Marriage
 description: Learn about marriages on the bot, how to get married, how to level up, and marriage perks.
 published: true
-date: 2023-07-06T18:45:18.766Z
-tags: marriage, divorce, engagement ring, marriage view, marriage levels, wedding gifts
+date: 2023-07-29T12:44:41.220Z
+tags: marriage, divorce, engagement ring, marriage view, marriage levels, wedding gifts, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:46:17.680Z
 ---
