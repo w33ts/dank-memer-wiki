@@ -2,7 +2,7 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2023-07-17T22:05:42.087Z
+date: 2023-07-29T10:51:08.329Z
 tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
@@ -198,6 +198,7 @@ The following are the settings that can be changed:
 | <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Customization" target="_blank">Customize Your Profile</a> | Edit your profile & personalize it to your own liking! You can buy advanced profile customization in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>. | 
 | DM <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Fight" target="_blank">Fight</a> Logs {: #DMLogs} | Enable or disable whether you receive a DM of fight logs after a fight. |
 | Ephemeral Notifications | Ephemeral messages are pop-up notifications only you can see that you can receive when running commands. Use this setting to customize which type of ephemeral messages you'd like to receive. |
+| Expose IDs | When you enable this you'll be able to see User ID's in leaderboards, fighting ranking and market accept notifications. |
 | Hide Public | Enable or disable yourself being shown on <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">leaderboards</a>. Having this set to true hides your username from the leaderboards, so it shows you only as "Hidden User." |
 | <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Level Up</a> Notifications | Enable, disable, or change your level-up notifications. Notifications are sent to DMs, and you can customize what type of notifications you want to see, such as only one every minute, every level, or only for rewards.| 
 | <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#NetWorthSort" target="_blank">Net Worth Sort</a> | Once you purchase the <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#NetWorthSort" target="_blank">Net Worth Sort</a> upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you can use this to disable it and put your inventory back into alphabetical order. | 
