@@ -2,8 +2,8 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-07-29T10:57:23.562Z
-tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop
+date: 2023-07-29T12:08:03.180Z
+tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
 ---
