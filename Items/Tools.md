@@ -2,8 +2,8 @@
 title: Tools
 description: Learn about the various tool items you can use when playing Dank Memer, including shovels, hunting rifles, fishing poles, adventure tickets, and more.
 published: true
-date: 2023-07-05T21:03:04.340Z
-tags: potato seeds, watermelon seeds, corn seeds, carrot seeds, broccoli seeds, fertilizer, hoe, watering can, tools, vote pack, tool items, shovels, hunting rifle, rifle, fishing pole, pole, adventure ticket, bean seeds
+date: 2023-07-29T12:46:08.328Z
+tags: potato seeds, watermelon seeds, corn seeds, carrot seeds, broccoli seeds, fertilizer, hoe, watering can, tools, vote pack, tool items, shovels, hunting rifle, rifle, fishing pole, pole, adventure ticket, bean seeds, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:48.085Z
 ---
