@@ -2,8 +2,8 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2023-07-14T01:03:42.048Z
-tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs
+date: 2023-07-29T12:04:13.604Z
+tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
 ---
