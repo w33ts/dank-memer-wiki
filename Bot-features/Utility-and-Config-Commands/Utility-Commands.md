@@ -2,8 +2,8 @@
 title: Utility Commands
 description: Learn about basic utility commands available in Dank Memer, including invite, ping, reminder, resetmydata, and usage.
 published: true
-date: 2023-06-05T07:56:49.372Z
-tags: invite, ping, reminder, resetmydata, usage, reminders, reminder every, reset my data, reset data
+date: 2023-07-29T13:24:33.942Z
+tags: invite, ping, reminder, resetmydata, usage, reminders, reminder every, reset my data, reset data, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T06:41:51.720Z
 ---
