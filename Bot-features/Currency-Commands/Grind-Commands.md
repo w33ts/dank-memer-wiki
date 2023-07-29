@@ -2,8 +2,8 @@
 title: Grind Commands
 description: Learn about basic grind commands, including beg, crime, dig, fish, flow, highlow, hunt, postmeme, scratch, search, and stream.
 published: true
-date: 2023-06-05T21:52:32.317Z
-tags: flow, hunt, fish, dig, beg, search, crime, highlow, postmeme, post memes, postmemes, scratch, stream, grinding, grind commands
+date: 2023-07-29T13:23:47.191Z
+tags: flow, hunt, fish, dig, beg, search, crime, highlow, postmeme, post memes, postmemes, scratch, stream, grinding, grind commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-01T18:42:48.843Z
 ---
