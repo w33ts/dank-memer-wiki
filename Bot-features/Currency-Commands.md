@@ -2,8 +2,8 @@
 title: Currency Commands
 description: Information about Dank Memer currency commands.
 published: true
-date: 2023-06-05T14:18:02.790Z
-tags: commands, currency commands
+date: 2023-07-29T13:23:58.792Z
+tags: commands, currency commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T15:28:48.532Z
 ---
