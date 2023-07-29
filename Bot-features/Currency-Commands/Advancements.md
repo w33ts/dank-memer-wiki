@@ -2,8 +2,8 @@
 title: Advancements
 description: Learn about the advancements commands, including levels, voting, Omega, prestige, and upgrades.
 published: true
-date: 2023-06-06T20:01:29.136Z
-tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote
+date: 2023-07-29T13:22:59.964Z
+tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T18:12:11.087Z
 ---
