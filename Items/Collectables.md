@@ -2,8 +2,8 @@
 title: Collectables
 description: Browe Dank Memer's collectable-type items, including pepe items, developer items, craftable items, and more.
 published: true
-date: 2023-07-14T01:02:57.288Z
-tags: bean mp3, aetheryx flower, melmsie's beard, zomb's zombee, adventure voucher, pepe trophy, pepe medal, pepe ring, pepe sus, pepe ribbon, bunny's apron, blue's plane, badosz card, pepe statue
+date: 2023-07-29T12:04:32.120Z
+tags: bean mp3, aetheryx flower, melmsie's beard, zomb's zombee, adventure voucher, pepe trophy, pepe medal, pepe ring, pepe sus, pepe ribbon, bunny's apron, blue's plane, badosz card, pepe statue, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T20:35:17.911Z
 ---
