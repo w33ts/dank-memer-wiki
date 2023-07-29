@@ -2,8 +2,8 @@
 title: Market
 description: Learn about market commands, selling and buying items for coins or items for items.
 published: true
-date: 2023-07-13T23:41:48.888Z
-tags: market, trading, selling, buying, items for items, coins for coins, items, coins, global market
+date: 2023-07-29T12:05:12.095Z
+tags: market, trading, selling, buying, items for items, coins for coins, items, coins, global market, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:40:00.691Z
 ---
