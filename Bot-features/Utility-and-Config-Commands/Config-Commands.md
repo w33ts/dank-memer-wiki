@@ -2,8 +2,8 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2023-07-29T11:00:22.699Z
-tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config
+date: 2023-07-29T12:08:40.317Z
+tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
 ---
