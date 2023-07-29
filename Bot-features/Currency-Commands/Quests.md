@@ -2,8 +2,8 @@
 title: Quests
 description: Information about the quests command, daily quests, and weekly quests.
 published: true
-date: 2023-06-05T07:51:23.942Z
-tags: daily quests, quests, weekly quests, quest badge
+date: 2023-07-29T13:25:06.098Z
+tags: daily quests, quests, weekly quests, quest badge, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T13:35:47.336Z
 ---
