@@ -2,8 +2,8 @@
 title: Dank Blog
 description: The Dank Memer blog is a useful resource for staying updated on the bot, learning about future plans, and gaining information from the developers.
 published: true
-date: 2023-06-05T08:37:15.018Z
-tags: market, friends, report redux, dank memer blog, blog, blog posts, appeals, new way to trade, alpha testers, gambling removal, gambling commands
+date: 2023-07-29T13:24:12.487Z
+tags: market, friends, report redux, dank memer blog, blog, blog posts, appeals, new way to trade, alpha testers, gambling removal, gambling commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:49:15.378Z
 ---
