@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-07-29T11:33:49.817Z
+date: 2023-07-30T00:40:49.650Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -138,6 +138,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Elite Fighter (Amethyst Rank)
 
 ### From Gem Store
+- barely surviving
 - I embezzled this title
 - Gem Rat
 - No Rizz
