@@ -2,8 +2,8 @@
 title: Vote
 description: 
 published: true
-date: 2023-07-05T20:05:00.938Z
-tags: 
+date: 2023-07-30T00:23:15.908Z
+tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
 ---
