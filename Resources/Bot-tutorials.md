@@ -2,7 +2,7 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-07-29T12:16:25.579Z
+date: 2023-07-30T19:09:26.597Z
 tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
@@ -24,6 +24,7 @@ The below bot tutorials are official tutorials released by Dank Memer and writte
 | <a href="https://dankmemer.lol/tutorial/farming" target="_blank">Farming</a> | Learn how to farm crops. | 
 | <a href="https://dankmemer.lol/tutorial/fighting" target="_blank">Fighting</a> | Learn about the new /fight command, /fight rankings, and how to create custom fight modes. |
 | <a href="https://dankmemer.lol/tutorial/flows" target="_blank">Flows</a> | Learn how to use flows to make grinding easier than ever, how to add and remove flows, and how to create your own.|
+| <a href="https://dankmemer.lol/tutorial/interaction-locks" target="_blank">Interaction Locks</a> | Find out more why you sometimes get locked out of commands. |
 | <a href="https://dankmemer.lol/tutorial/partials" target="_blank">Partial Accepting</a> | Learn how to partially accept a market offer. |
 | <a href="https://dankmemer.lol/tutorial/patreon-to-website-transition" target="_blank">Patreon To Website Transition</a> | Learn how to switch your premium membership from Patreon to the Dank Memer website.|
 | <a href="https://dankmemer.lol/tutorial/premium-redemption" target="_blank">Premium Perks</a> | Learn about all the available premium perks, how they work, and how to redeem them. |
