@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-08-01T17:45:32.297Z
+date: 2023-08-01T17:57:19.450Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -33,19 +33,19 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 |:------:|:----:|:----:|:----:|
 | <a href="https://dankmemer.wiki/en/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> | x2.00 | 4 hours | Can only use one at a time. |
 | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DailyBox" target="_blank">Daily Box</a> | x2.00 | 5 minutes | Can use more than 1 at a time. |
-| Double XP Days | x2.00 | 6 days at random during each month | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers) |
+| Double XP Days | x2.00 | 6 days at random during each month | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers). |
 | Level 15,000 adjustment | x2195.00 | Until you Prestige/go Omega | Caps your multiplier at x2195.00 regardless of other boosts, and can't go higher. |
-| Gem Store | x1.85, x1.50, or x1.15 | 3, 6, or 8 hours | Buying multiple of the same type of boost will extend the time that specific boost lasts and does not givem multiple of the same value boost. For exmaple, buying two 6 hour 1.85x boosts will give you 1.85x for 12 hours. </p> If you buy different value multipliers, such as 1.85x and 1.15x, you will have both increasing your multiplier. |
-| Global Boost | x2.25 | 30 minutes per boost | **Any** user can purchase this via the gem store and it becomes active for everyone. Buying multiple does not increase the multiplier give, but it does extend the duration of the boost. |
+| Gem Store | x1.85, x1.50, or x1.15 | 3, 6, or 8 hours | Buying multiple of the same type of boost will extend the time that specific boost lasts and does not give multiple of the same value boost. For example, buying two 6 hour 1.85x boosts will give you 1.85x for 12 hours. </p> If you buy different value multipliers, such as 1.85x and 1.15x, you will have both increasing your multiplier. |
+| Global Boost | x2.25 | 30 minutes per boost | **Any** user can purchase this via the gem store and it becomes active for everyone. Buying multiple does not increase the multiplier given, but it does extend the duration of the boost. |
 | Omega Level | 1 + (Omega Level x 0.10) | Indefinitely |  Increases with each Omega Level. |
 | Partner Server | x1.20 | Indefinitely | Check <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">/partners</a> to find a partner server. | 
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 15 minutes | Can only use one at a time. |
 | Premium Rewards | x1.05, x1.15, x1.20,  x1.25, x1.50 | 5-7 days after rewards are received | Check <a href="/About-Dank-Memer/Premium-users#Perks" target="_blank">/premium info</a> for the exact multiplier available at each tier. | 
-| Premium Server | x1.50 | As long as server is premium | $10+ Premium members can type `/premium premiumserver add` in a server to make it premium |
+| Premium Server | x1.50 | As long as server is premium | $10+ Premium members can type `/premium premiumserver add` in a server to make it premium. |
 | Prestige Level | 1 + (Prestige Level x 0.01) | Indefinitely, unless you go Omega and lose your prestiges | Increases with each prestige level. |
-| Quest Rewards | Varies | Varies based on the quest | Check your `/quests` daily |
+| Quest Rewards | Varies | Varies based on the quest | Check your `/quests` daily. |
 | Scratch Rewards | Varies | Varies | Depends on the <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">/scratch</a> reward at that time. |
-| <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to x1.50 | Until the next Prestige/Omega | Consume cheese until 1.5x multipler is reached. Can require up to 50 cheese. |
+| <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to x1.50 | Until the next Prestige/Omega | Consume cheese until 1.5x multipler is reached. Requires 50 cheese successfully consumed. |
 | <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a> | x1.50 | 20 minutes </p> Topgg can last 40 minutes on weekends | Each site gives a 1.50x XP multiplier. |
 
 ### <font color =b32d2d>Your Coin Multiplier can be affected by</font> {: #Coin}
