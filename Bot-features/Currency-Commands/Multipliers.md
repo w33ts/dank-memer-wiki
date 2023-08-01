@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-08-01T17:41:12.946Z
+date: 2023-08-01T17:45:32.297Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -36,7 +36,7 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | Double XP Days | x2.00 | 6 days at random during each month | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers) |
 | Level 15,000 adjustment | x2195.00 | Until you Prestige/go Omega | Caps your multiplier at x2195.00 regardless of other boosts, and can't go higher. |
 | Gem Store | x1.85, x1.50, or x1.15 | 3, 6, or 8 hours | Buying multiple of the same type of boost will extend the time that specific boost lasts and does not givem multiple of the same value boost. For exmaple, buying two 6 hour 1.85x boosts will give you 1.85x for 12 hours. </p> If you buy different value multipliers, such as 1.85x and 1.15x, you will have both increasing your multiplier. |
-| Global Boost | x2.25 | 30 minutes per boost | **Any** user can purchase this via the gem sotre and it becomes active for everyone. Buying multiple does not increase the multiplier give, but it does extend the duration of the boost. |
+| Global Boost | x2.25 | 30 minutes per boost | **Any** user can purchase this via the gem store and it becomes active for everyone. Buying multiple does not increase the multiplier give, but it does extend the duration of the boost. |
 | Omega Level | 1 + (Omega Level x 0.10) | Indefinitely |  Increases with each Omega Level. |
 | Partner Server | x1.20 | Indefinitely | Check <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">/partners</a> to find a partner server. | 
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 15 minutes | Can only use one at a time. |
