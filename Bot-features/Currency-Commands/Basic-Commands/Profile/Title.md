@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-07-30T00:40:49.650Z
+date: 2023-08-08T22:14:19.811Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -21,6 +21,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 #### <font color =b32d2d>Not obtainable</font> 
 - Professional Petter
 - Satan
+- Terrible Pet Owner
 
 #### <font color =b32d2d>Obtainable</font> 
 - Achievement Hunter
@@ -49,7 +50,6 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Popular Farmer
 - Prestige Royalty
 - Stream Queen
-- Terrible Pet Owner
 - Use me?
 - Wet and Dirty
 
