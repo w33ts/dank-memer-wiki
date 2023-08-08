@@ -2,7 +2,7 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-07-29T12:16:41.220Z
+date: 2023-08-08T22:11:09.962Z
 tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
@@ -48,7 +48,7 @@ You can take care of your pets by using the `/pets care` command.
 | Fetch | Play fetch with your pet. This gives your pet XP but also lets your pet find you items, based on the hunting skill level they have |
 | Walk | Walk with your pet. This gives your pet XP, if you have a pet saddle in your inventory, you'll get even more XP per walk |
 
-Not taking care of your pet will result in the pet losing 1 level per day for the first 5 days. After 5 days of it's stats being at 0 without taking care of it, the pet will run away.
+Not taking care of your pet will result in the pet losing 1 level per day until they reach level 0. For now, the pet will not run away until mentioned otherwise.
 
 ## Getting new pet slots
 You can unlock new pet slots in 2 different ways.
