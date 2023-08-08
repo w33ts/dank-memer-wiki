@@ -2,7 +2,7 @@
 title: Advancements
 description: Learn about the advancements commands, including levels, voting, Omega, prestige, and upgrades.
 published: true
-date: 2023-07-29T13:22:59.964Z
+date: 2023-08-08T22:48:00.638Z
 tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T18:12:11.087Z
@@ -24,7 +24,7 @@ Some levels you reach can offer special rewards. You can find the current level 
 
 These are the **current** level rewards:
 <center>
- <p><img src="/bot-features/advancements/advancements_levels_page_1.png" alt="level rewards page 1" width="300" height="350"> <img src="/bot-features/advancements/advancements_levels_page_2.png" alt="level rewards page 2" width="300" height="350"></p>
+ <p><img src="/bot-features/advancements/levels.png" alt="level rewards page 1" width="300" height="350"> <img src="/bot-features/advancements/advancements_levels_page_2.png" alt="level rewards page 2" width="300" height="350"></p>
 <p><img src="/bot-features/advancements/advancements_levels_page_3.png" alt="level rewards page 3" width="300" height="350"> <img src="/bot-features/advancements/advancements_levels_page_4.png" alt="level rewards page 4" width="300" height="350"></p>
 <p><img src="/bot-features/advancements/advancements_levels_page_5.png" alt="level rewards page 5" width="300" height="350"> <img src="/bot-features/advancements/advancements_levels_page_6.png" alt="level rewards page 6" width="300" height="350"></p>
 <p><img src="/bot-features/advancements/advancements_levels_page_7.png" alt="level rewards page 7" width="300" height="350"> <img src="/bot-features/advancements/advancements_levels_page_8.png" alt="level rewards page 8" width="300" height="350"></p>
