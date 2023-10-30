@@ -2,7 +2,7 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-07-30T19:09:26.597Z
+date: 2023-10-30T21:49:06.437Z
 tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
@@ -10,6 +10,9 @@ dateCreated: 2023-04-29T08:23:39.349Z
 
 # Bot Tutorials
 The below bot tutorials are official tutorials released by Dank Memer and written by the Dank Memer staff. All tutorials are available on the Dank Memer website. If you want a simpler tutorial for a quick summary of a command, try the <a href="/Resources/help#HelpTutorial" target="_blank">/help tutorial</a> command instead.
+
+If you haven't played Dank Memer in a while, you can use the <a href="/https://dankmemer.lol/timeline" target="_blank">timeline feature</a> on Dank's website to help you see all that has changed since you last played.
+
 
 ## Tutorials
 
@@ -23,10 +26,18 @@ The below bot tutorials are official tutorials released by Dank Memer and writte
 | <a href="https://dankmemer.lol/tutorial/gem-purchases" target="_blank">Gem Purchases</a> | Learn how to purchase gems and how many gems you actually will get per purchase. |
 | <a href="https://dankmemer.lol/tutorial/farming" target="_blank">Farming</a> | Learn how to farm crops. | 
 | <a href="https://dankmemer.lol/tutorial/fighting" target="_blank">Fighting</a> | Learn about the new /fight command, /fight rankings, and how to create custom fight modes. |
+|<a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">Fish Buckets and Selling Fish</a> | Learn how to manage your fish buckets and to sell creatures. |
+|<a href="https://dankmemer.lol/tutorial/complete-fishing-tutorial" target="_blank">Fishing Complete Tutorial</a> | Read the complete fishing tutorial to get an overview of every subcommand and the main features.|
+|<a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Fishing Items vs Legacy Fish Items</a> | Learn the difference between the new fishing items and old legacy fishing items.|
+|<a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">Fishing NPCs</a> | Learn about how the NPCs with fishing work and what they do.|
 | <a href="https://dankmemer.lol/tutorial/flows" target="_blank">Flows</a> | Learn how to use flows to make grinding easier than ever, how to add and remove flows, and how to create your own.|
+| <a href="https://dankmemer.lol/tutorial/how-to-wager-with-fights" target="_blank">How to wager with fights</a> | Learn how to  wager with the new fight commands. |
 | <a href="https://dankmemer.lol/tutorial/interaction-locks" target="_blank">Interaction Locks</a> | Find out more why you sometimes get locked out of commands. |
+| <a href="https://dankmemer.lol/tutorial/maintaining-your-streaks" target="_blank">Maintaining your streaks</a> | Learn how to maintain your streaks on the bot.|
 | <a href="https://dankmemer.lol/tutorial/partials" target="_blank">Partial Accepting</a> | Learn how to partially accept a market offer. |
 | <a href="https://dankmemer.lol/tutorial/patreon-to-website-transition" target="_blank">Patreon To Website Transition</a> | Learn how to switch your premium membership from Patreon to the Dank Memer website.|
+| <a href="https://dankmemer.lol/tutorial/pet-slots" target="_blank">Pet slots</a> | Learn more about how the pet slots work.|
+| <a href="https://dankmemer.lol/tutorial/pink-event" target="_blank">Pink Plastic Bits event</a> | Learn how the global Pink Plastic Bits event works and how you can participate.|
 | <a href="https://dankmemer.lol/tutorial/premium-redemption" target="_blank">Premium Perks</a> | Learn about all the available premium perks, how they work, and how to redeem them. |
 | <a href="https://dankmemer.lol/tutorial/set-up-dank-memer" target="_blank">Set Up Dank Memer</a> | Learn how to set up Dank Memer in your server, how to limit commands to specific channels, users, or roles, the `/serversettings` command, and how to disable the use of specific items.|
 | <a href="https://dankmemer.lol/tutorial/skins" target="_blank">Skins</a> | Learn about skins, skin fragments, and how to collect and use them. |
