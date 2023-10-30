@@ -2,7 +2,7 @@
 title: Bot Rules
 description: Information about the Dank Memer bot rules.
 published: true
-date: 2023-07-29T13:13:50.833Z
+date: 2023-10-30T20:53:32.492Z
 tags: bot rules, rules, rmt, automation, macro, scamming, exploits, exploiting, alts, tos, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:21:32.540Z
@@ -17,7 +17,7 @@ There have also been a few detailed blogs about the rules posted by the bot admi
 - <a href="https://dankmemer.lol/community/blog/rules-exist" target="_blank">Rules Exist</a> was written before the latest rule update, so it has incorrect information about alt usage, and it is missing information about Rule 9 and 10. All other information is accurate and useful.
 - <a href="https://dankmemer.lol/community/blog/report-redux" target="_blank">Report Redux</a> is the most recent post on the rules.
 
-If you are unsure of the rules or have any questions, give the blogs a read. If you believe someone is breaking bot rules, you can report them with the <a href="/Resources/Reports-and-appeals" target="_blank">/report</a> command.
+If you are unsure of the rules or have any questions, give the blogs a read. If you believe a person or a server is breaking bot rules, you can report them with the <a href="/Resources/Reports-and-appeals" target="_blank">/report</a> command.
 
 <br>
 
