@@ -2,7 +2,7 @@
 title: Premium Users
 description: Learn about premium users, subscription options, premium servers, premium commands, weekly, automeme, and more.
 published: true
-date: 2023-07-05T19:40:37.296Z
+date: 2023-10-30T21:20:42.982Z
 tags: patreon, premium, automeme, premium membership, weekly, premium servers, premium server add, premium server remove, patreon boxes, patreon packs, credit card
 editor: markdown
 dateCreated: 2023-04-30T20:28:56.306Z
@@ -31,7 +31,7 @@ There are two main ways to become a Premium User. Either you can purchase a subs
 Whether you subscribe through the website or Patreon, the perks are essentially the same except for three main differences: 
 1. On the website, the developers get a larger portion of the money since Patreon takes some in fees.
 2. On Patreon, there are a few higher tiers where you can get a free sticker.
-3. On the website, after you subscribe for three months, you get a bonus reward (500 gems and an exclusive title).
+3. On the website, there is often a bonus reward offered (such as free gems and a title) for subscribing for multiple months.
  
 
 
@@ -82,7 +82,7 @@ Becoming a <a href="/About-Dank-Memer/Premium-users" target="_blank">premium use
 
 <center>
   
-![weekly.png](/about-dank-memer/premium-users/weekly.png)
+![weekly.png](/about-dank-memer/premium-users/weekly2.png)
   
 </center>
 <br>
