@@ -2,7 +2,7 @@
 title: About the Bot
 description: Info about Dank Memer's history and types of commands, the Dank Memer website and store, the Dank Memer Community server (DMC) and support server (DMO), and the /partners command. 
 published: true
-date: 2023-07-29T12:44:53.470Z
+date: 2023-10-30T20:51:44.557Z
 tags: bot history, store, dank store, dank website, patreon, premium, invite, invite the bot, partners, server links, social media, twitter, instagram, tiktok, reddit, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:27:21.627Z
@@ -12,7 +12,7 @@ dateCreated: 2023-04-30T20:27:21.627Z
 
 Dank Memer was initially named Markos and was created by Melmsie as a project to learn JavaScript in late 2016. Melmsie wanted to develop something memey and sassy, and it was a bot meant to be something different. In 2017, Markos became Dank Memer and was publicly listed for the first time, and since then, hundreds of new commands and features have been added. 
 
-Today, Dank Memer is a multi-featured discord bot with currency commands, memes, games, and more, all with a little bit of sass and a twist of its own. It has grown to be one of the most popular bots on Discord and is in millions of servers, has a team of 10+ paid staff members working around the globe and a huge userbase that is increasing every month!
+Today, Dank Memer is a multi-featured discord bot with currency commands, complex fishing system, memes, games, and more, all with a little bit of sass and a twist of its own. It has grown to be one of the most popular bots on Discord and is in millions of servers, has a team of 10+ paid staff members working around the globe and a huge userbase that is increasing every month!
 
 To learn more, you can follow Dank Memer on <a href="/About-Dank-Memer/About-the-bot#Social" target="_blank">Social Media</a>, visit the Dank Memer <a href="/About-Dank-Memer/About-the-bot#Website" target="_blank">Website</a>, or <a href="/About-Dank-Memer/About-the-bot#Community" target="_blank">join the community</a>.
 
@@ -59,7 +59,7 @@ You can also find servers that are currently partnered with Dank Memer and part 
 <br>
 
 <center>
-<img src="/partners_cmd.png" alt="/partner server list" width="500" height="300">
+<img src="/partners_cmd_new.png" alt="/partner server list" width="500" height="300">
 </center>
 
 Or you can invite the bot to your own server <a href="https://invite.dankmemer.lol/" target="_blank">here</a>.
@@ -83,6 +83,8 @@ Visit the <a href="https://dankmemer.lol/community" target="_blank">the Dank Mem
 
 ## Store & Website {: #Website}
 The Dank Memer website has a a complete list of <a href="https://dankmemer.lol/commands" target="_blank">every command</a> and <a href="https://dankmemer.lol/items" target="_blank">item</a> on the bot, as well as <a href="https://dankmemer.lol/tutorials" target="_blank">useful tutorials</a>, and even a <a href="https://dankmemer.lol/store" target="_blank">store</a>. 
+
+Upon logging in for the first time on the website with your Discord account, you can get 175 gems for free that you can spend in the gem shop. Look for the free gem bundle to "purchase" for $0. It is a one-time-only purchase, so once you've gotten it, it will no longer show.
 
 Users can purchase either a premium bot subscriptions or gems from the <a href="https://dankmemer.lol/store" target="_blank">Dank Memer Store</a> to help give them an extra boost in the game. Purchases also help support the bot developers so they can continue developing new and exciting content.
 
@@ -129,7 +131,7 @@ The Dank Memer website is the only way to buy gems, so you can get various items
       <summary style="background-color:#72ad70; color:#000000; font: 12px Roboto,sans-serif; padding: 8px;">Utility and Config Commands</summary>
       <div style="text-align: center;"> 
       <p style="font: 12px Roboto; padding: 0 8px 3px 8px;">
-        <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Alert" target="_blank">Alert</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a> &#x2022; <a href="/Resources/help" target="_blank">Help</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a> &#x2022; <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a> <br> <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a> &#x2022; <a href="/Resources/Reports-and-appeals" target="_blank">Report</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reset" target="_blank">Resetmydata</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a> &#x2022; <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></p>
+        <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Alert" target="_blank">Alert</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a> &#x2022; <a href="/Resources/help" target="_blank">Help</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a> &#x2022; <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a> <br> <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a> &#x2022; <a href="/Resources/Reports-and-appeals" target="_blank">Report</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a> &#x2022; <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></p>
       </div>
     </details>
   </details>
