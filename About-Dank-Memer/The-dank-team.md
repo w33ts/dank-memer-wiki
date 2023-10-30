@@ -2,7 +2,7 @@
 title: The Dank Team
 description: Info about the Dank Memer team, including bot developers and employees, server staff, and the wiki staff.
 published: true
-date: 2023-07-29T12:05:55.815Z
+date: 2023-10-30T21:29:50.983Z
 tags: about us, server staff, wiki staff, bot developers, dank developers, dank employees, badosz, zig, aetheryx, melmsie, kable, aiphey, townie, thelazytownie, kablekompany, inblue, bunny, aha!, lilmisssunbear, weet, dr.john, zomb, pixel artist, graphic designer, moderators, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-01T18:06:11.862Z
@@ -18,21 +18,22 @@ We've included the [Wiki Editors](/About-Dank-Memer/The-dank-team#Wiki) here als
 
 ## <font color =8a5efd>Bot Developers</font>  {: #Developers}
 The Bot Developers are Dank Memer employees responsible for various aspects of the bot, from developers to artists and graphic designers.
+
 | Role | Known As |
 |:------:|:----:|
 | Owner, Game Designer & Product Manager | Melmsie |
 | Bot & Website Developer | Badosz |
-| Lead Backend Developer | Aetheryx |
+| Lead Backend Developer | Zain (aka Aetheryx) |
 | Bot Admin | KableKompany |
 | Bot Admin | Aiphey |
 | Server Manager | TheLazyTownie |
 | Website Developer | InBlue |
 | Graphic Designer | Zig |
-| Pixel Artist | Bunny |
 | Pixel Artist | Aha! |
 | Pixel Artist | LilMissSunBear |
 | Security Engineer | Weet |
 | Writer | ZomB |
+
 
 ## <font color =8a5efd>Server Staff</font>
 The Server Staff are mostly volunteers who help moderate and manage the two official Dank Memer servers, offer support to users, and host heists & giveaways.
@@ -46,87 +47,83 @@ The <a href="https://discord.gg/memers" target="_blank">Dank Memer Community ser
 #### <font color=#598E3E>Server Manager</font>
 - TheLazyTownie
 #### <font color=#598E3E>Administrator</font>
-- Aiphey
-- Anish
 - Jyakobi
-- Nunca
+- Mitzu
 - Sipcat
 #### <font color=#598E3E>Community Manager</font>
 - Sir Fruuuit
+- Sha
 #### <font color=#598E3E>Moderator</font>
-- Ale
 - Appletumu
+- Ari V2
 - Auracle
 - bryanna
 - Carbonara
-- celine
-- dark
+- Celine
 - darkus.
 - DrAsylum
 - Ducky
-- Evil Alex
-- Femi
 - Geonerd
-- Georgia
 - Hazel
-- Helix
 - Imli
-- jvbin
 - KD
-- Koko
 - Koolaid
-- Mitzu
 - Mommi Serz
 - Myco
 - Niels
-- Nymmie
-- Nyx
 - Omoeba
 - Piggie
 - poWer
-- raining
-- Random Weirdo
 - Reina
 - Roni
 - Rosé
-- Ryan
 - Satano
 - Sir Fruuuit
 - Smore
-- Taylor Swift
+- Sora
 - Tsu
 
 #### <font color=#598E3E>Support Moderator</font>
-- Anish
 - Arthur
 - Auracle
 - Celine
 - Dominic3515
 - Jella
-- Katerina
+- Kath
 - Kittyy
 - Lamb
 - LV
 - Mommi Serz
 - Niels
-- Nunca
-- Raining
+- Seal
 - SmortBoi
-- tryharddeveloper
 
 #### <font color=#598E3E>Heist Manager</font>
-- Bunny
+- Deafietechie
+- Eagle Bearer
 - Grav
+- Mommy Musky
 - Sir Fruuuit
+- Tiyo
 - whamshabam
+- zLn
 
 #### <font color=#598E3E>Giveaway Manager</font>
-- Bunny
-- Grav
+- Aspect
+- Astra
 - Athena
+- ChillinGBoy_1
+- Deafietechie
+- Eagle Bearer
+- Grav
 - Mariam
+- Mommy Musky
 - Sir Fruuuit
+- STACKS R STARVE
+- Tiyo
 - whamshabam
+- Zagreus Hades
+- zLn
 
 <br>
 
@@ -151,26 +148,20 @@ The <a href="https://discord.gg/dankmemerbot" target="_blank">DMO Support Server
 - Kable
 
 #### <font color=#598E3E>Moderator</font>
-- Anish
 - Arthur
 - Auracle
 - Ayumi
 - Celine
 - Dominic3515
 - Jella
-- Katerina
+- Kath
 - Kittyy
 - Lamb
 - Madàme LV
-- Mizu
 - Mommi Serz
 - Niels
-- Nunca
-- Raining
-- sipcat
+- Seal
 - SmortBoi
-- tryharddeveloper
-
 
 
 ## <font color =purple>Wiki Team</font> {: #Wiki}
@@ -182,14 +173,13 @@ If you find an error in the wiki or want to suggest new content for our <a href=
 - weet
 
 #### <font color=#598E3E>Wiki Manager</font>
+- DrAsylum
 - Niels
 - ZomB
 
 #### <font color=#598E3E>Wiki Editor</font>
 - AppleTumu
 - bryanna
-- DrAsylum
-- Geonerd
 - koko
 - raining
 - Evil Alex
