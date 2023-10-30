@@ -2,7 +2,7 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-10-30T21:57:50.972Z
+date: 2023-10-30T22:17:36.158Z
 tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
@@ -11,7 +11,7 @@ dateCreated: 2023-04-29T08:23:39.349Z
 # Bot Tutorials
 The below bot tutorials are official tutorials released by Dank Memer and written by the Dank Memer staff. All tutorials are available on the Dank Memer website. If you want a simpler tutorial for a quick summary of a command, try the <a href="/Resources/help#HelpTutorial" target="_blank">/help tutorial</a> command instead.
 
-If you haven't played Dank Memer in a while, you can use the <a href="/https://dankmemer.lol/timeline" target="_blank">timeline feature</a> on Dank's website to help you see all that has changed since you last played.
+If you haven't played Dank Memer in a while, you can use the <a href="https://dankmemer.lol/timeline" target="_blank">timeline feature</a> on Dank's website to help you see all that has changed since you last played.
 
 
 ## Tutorials
