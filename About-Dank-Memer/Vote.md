@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2023-07-30T00:23:15.908Z
+date: 2023-10-30T21:35:47.077Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -11,9 +11,10 @@ dateCreated: 2023-04-29T22:01:53.156Z
 # Vote
 Voting is a great way to make some money and to help support the bot. Thanks to the daily vote rewards and vote-level rewards, you can earn quite a bit of money and rewards by voting daily/monthly. Every vote also helps other Discord users know you enjoy the bot and they should try it out.
 
+
 <br>
 <center>
-<img src="/about-dank-memer/vote/voterewards.png" alt="vote embed" width=388 height=293>
+<img src="/vote_10_30_2023.png" alt="vote embed" width="400">
 </center>
 
 ## How to vote?
@@ -25,12 +26,20 @@ You can vote for the bot either on <a href="https://top.gg/bot/memes/vote" targe
 ### <font color =b32d2d>Vote rewards</font>
 Every time you vote, you receive some rewards instantly, and you can earn a vote level for larger monthly rewards. 
 
-These are the instant perks you receive from one vote:
+These are the instant perks you receive per vote:
 
- -  1.50x XP Multiplier for 20 minutes
- -  +50% Coin Multiplier for 20 minutes
- -  1x Vote Pack
- -  50 XP (• XP Multiplier)
+`Discordbotlist`
+
+ - 2.25x XP Multiplier for 1 hour
+ - 1x Vote Pack
+ - 50.000 coins
+ - 1x Tool Box
+ - 3x Candy Corn
+ 
+`Top.gg`
+- +150% Coin Multiplier for 1 hour
+- 1x Vote Pack
+
  
 Each vote on <a href="https://top.gg/bot/memes/vote" target="_blank">top.gg</a> or <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> also gives you one vote level, and you can earn more rewards by reaching certain vote levels every month. You can earn up to 4 vote levels per day by voting on both websites twice a day. 
 
