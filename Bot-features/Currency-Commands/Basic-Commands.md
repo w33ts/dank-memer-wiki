@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-10-31T23:04:41.392Z
+date: 2023-10-31T23:06:20.833Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -11,7 +11,7 @@ dateCreated: 2023-05-29T20:20:06.427Z
 # Basic Commands
 Here you can find all the basic commands you will need to get the best out of the bot. These commands are the ones that are the most used, and they are important for your progression in the bot and allow you to get further.
 - [Balance](/Bot-features/Currency-Commands/Basic-Commands#Balance)
-- [Craft](/Bot-features/Currency-Commands/Basic-Commands/Crafting)
+- <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting" target="_blank">Craft</a>
 - [Currencylog](/Bot-features/Currency-Commands/Basic-Commands#Currencylog)
 - [Daily](/Bot-features/Currency-Commands/Basic-Commands#Daily)
 - [Deposit](/Bot-features/Currency-Commands/Basic-Commands#Deposit)
