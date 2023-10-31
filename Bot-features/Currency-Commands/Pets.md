@@ -2,7 +2,7 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-10-31T02:19:23.143Z
+date: 2023-10-31T02:25:03.513Z
 tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
@@ -61,19 +61,18 @@ You can take care of your pets by using the `/pets care` command.
 Not taking care of your pet will result in the pet losing 1 level per day until they reach level 0. For now, the pet will not run away until mentioned otherwise.
 
 ## Getting new pet slots
-You can unlock new pet slots in 2 different ways.
 
-For your first 5 pets, all your previous pets have to be either level 30+ or prestiged once at least.
-Afterwards you can still unlock more pets by buying new pet slots from the `/advancements upgrades` for money.
-Keep in mind, even if you buy slots from the `/advancements upgrades`, your previous pets still need to be level 30+ or prestiged in order to have an actual free pet slot.
+Every use has 5 pet slots for free, plus 1 slot that can only be filled when your pets have a baby. You can read more about how pet slots work <a href="https://dankmemer.lol/tutorial/pet-slots" target="_blank">in the pets slots tutorial.</a> 
+
+After you have used the 5 free pet slots, you can unlock more pets by buying new pet slots from the `/advancements upgrades` for money.
 
 You get 5 free pet slots in the beginning and then can purchase up to 19 more if you'd like. After having all the pet slots filled, it is still possible for some of your pets to have a baby, which can give you 1 more extra pet, up to a total of 25 pets.
+
 You can not have more baby pets if all your pet slots are filled.
 
 ## Pet baby
-Legend has it that your pets can make babies. We believe the following circumstances have to be true in order for this to happen but we can't be certain as this is legend after all. Play around with your pets and see if you can get them to make a baby!
+Legend has it that your pets can make babies. We believe the following circumstances have to be true in order for this to happen, but we can't be certain as this is legend after all. Play around with your pets and see if you can get them to make a baby!
 - Have an open pet slot;
-- Pets have to be at level 30+ or prestiged;
 - Hug your pets --> Some pets need to be "loved" and some need to be in "Love Mode";
 - Pets can't be "hostile" towards each other
 
@@ -82,7 +81,11 @@ Legend has it that your pets can make babies. We believe the following circumsta
 ## Training
 You can train your pets via the `/pets view` command.
 
+<center>
+
 ![pets_view.png](/bot-features/pets/pets_view.png)
+
+</center>
 
 Here you can click multiple buttons, the function can be found in the table below:
 | Button | What It Does |
