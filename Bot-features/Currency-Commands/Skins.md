@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-10-31T00:53:24.238Z
+date: 2023-10-31T01:21:17.480Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -134,6 +134,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#RareFish" target="_blank">Rare Fish</a>** | Legacy Rare Fish | <img src="/bot-features/skins/item-skins/rarefish-legacyrarefish.png" alt="Legacy Rare Fish" width="50" height="50"> {: #RareFishSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#RarePepe" target="_blank">Rare Pepe</a>** | Mona Lisa Variant | <img src="/bot-features/skins/item-skins/monalisapepeitem.png" alt="Mona Lisa Variant" width="50" height="50"> {: #RarePepeSkin}
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#RobbersMask" target="_blank">Robbers Mask</a>** | Legacy Robbers Mask | <img src="/bot-features/skins/item-skins/robbersmask-legacyrobbersmask.png" alt="Legacy Robbers Mask" width="50" height="50"> {: #RobbersMaskSkin} |
+| **<a href="/Items/Collectables#RoyalScepter" target="_blank">Royal Scepter</a>** | Trident Variant | <img src="/bot-features/skins/item-skins/royalscepter-tridentvariant.gif" alt="Trident Scepter Skin" width="50" height="50"> {: #RoyalScepterSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SanicHotDog" target="_blank">Sanic Hot Dog</a>** | Sandwich Variant | <img src="/bot-features/skins/item-skins/sanichotdog-sandwichvariant.png" alt="Sandwich Variant" width="50" height="50"> {: #SanicHotDogSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#SantasBag" target="_blank">Santa's Bag</a>** | Legacy Santa's Bag | <img src="/bot-features/skins/item-skins/santasbag-legacysantasbag.png" alt="Legacy Santa's Bag" width="50" height="50"> {: #SantasBagSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SantasHat" target="_blank">Santa's Hat</a>** | Legacy Santa Hat | <img src="/bot-features/skins/item-skins/santashat-legacysantahat.png" alt="Legacy Santa Hat" width="50" height="50"> {: #SantasHatSkin} |
@@ -219,6 +220,7 @@ This commands shows the following:
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Raft {: #RaftSkin} | <img src="/bot-features/skins/farm-skins/farm-raft.png" alt="Farm Raft" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Rainbows {: #RainbowsSkin} | <img src="/bot-features/skins/farm-skins/farm-rainbow.png" alt="Farm Rainbow" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Spring | <img src="/bot-features/skins/farm-skins/farm-spring.png" alt="Farm Spring" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Toxic Waste {: #ToxicWasteSkin} | <img src="/bot-features/skins/farm-skins/farm-toxicwaste.png" alt="Farm Toxic Waste" width="50" height="50"> |
