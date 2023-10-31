@@ -2,7 +2,7 @@
 title: Drops
 description: Learn about drop items and the drop command.
 published: true
-date: 2023-07-29T13:13:10.685Z
+date: 2023-10-31T00:42:53.993Z
 tags: stonk coin, drops, pepe sus, pepe ribbon, boxed chocolate, fart in a bottle, sugar skull, /drop, drop items, birthday cake, fools notifs, holiday stocking, new years poppers, candy corn, toilet paper, rusty machine, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:30:51.821Z
@@ -16,7 +16,7 @@ When there is a drop, the items have limited stock available to be sold, and eac
 ## Drop Items
 | Item | Image | ID | Description | Usable | Location | Item Type | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
-| **<a href="/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | <img src="/items/collectables/birthdaycake.png" alt="Birthday Cake" width="50" height="50"> | 2017 | An item that was only obtainable during the 5th birthday of Dank Memer. This item can not be traded or transferred to other players. | Yes | Drops | <a href="/Items/Collectables" target="_blank">Collectable</a> | <a href="/Bot-features/Skins#BirthdayCakeSkin" target="_blank">Yes</a> | 
+| **<a href="/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | <img src="/items/collectables/birthdaycake.png" alt="Birthday Cake" width="50" height="50"> | 2017 | An item that was only obtainable during the 5th birthday of Dank Memer. This item can not be traded or transferred to other players. | Yes | Drops | <a href="/Items/Collectables" target="_blank">Collectable</a> | <a href="/Bot-features/Currency-Commands/Skins#BirthdayCakeSkin" target="_blank">Yes</a> | 
 | **<a href="/Items/Consumables#BoxedChocolates" target="_blank">Boxed Chocolates</a>** | <img src="/items/consumables/boxedchocolates.png" alt="Boxed Chocolates" width="50" height="50"> | 40  | A Valentine's Day drop item. Can be used to increase your <a href="/Bot-features/Currency-Commands/Marriage" target="_blank">marriage</a> level by three. | Yes | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Items/Consumables" target="_blank">Consumable</a>  | No | 
 | **<a href="/Items/Power-ups#CandyCorn" target="_blank">Candy Corn</a>** | <img src="/items/power-ups/candycorn.png" alt="Candy Corn" width="50" height="50"> | 197 | An item that gives you 1 level for each one used. | Yes | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Items/Power-ups" target="_blank">Power-Up</a> | <a href="/Bot-features/Currency-Commands/Skins#CandyCornSkin" target="_blank">Yes</a> | 
 | **<a href="/Items/Collectables#CursedPepe" target="_blank">Cursed Pepe</a>** | <img src="/items/collectables/cursedpepe.png" alt="Cursed Pepe" width="50" height="50"> | 39 | An old drop item. | No | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Items/Collectables" target="_blank">Collectable</a> | No | 
