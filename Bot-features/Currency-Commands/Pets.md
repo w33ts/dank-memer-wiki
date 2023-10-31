@@ -2,7 +2,7 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-10-31T02:17:50.877Z
+date: 2023-10-31T02:19:23.143Z
 tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
@@ -19,6 +19,7 @@ The following pets are obtainable from the pet store, listed from cheapest to mo
 - Snake
 - Dog
 - Cat
+- Fox
 - Duck
 - Turtle
 - Bunny
@@ -26,10 +27,13 @@ The following pets are obtainable from the pet store, listed from cheapest to mo
 - Monkey
 - Panda Bear
 - Pepe
-- Fox
 - Hamster
 - Catgirl
+- Kraken
 - Axolotl
+
+The following pets are obtainable from the Fishing Shop using Fish Tokens with the `/fish shop` command.
+- Shark
 
 The following pets are obtainable from the gem store with the `/shop view` command.
 - Garden Gnome
