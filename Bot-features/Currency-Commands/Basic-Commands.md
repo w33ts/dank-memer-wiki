@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-10-31T23:02:08.057Z
+date: 2023-10-31T23:04:41.392Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -173,7 +173,7 @@ The `/shop` command is important in the progression of new starters and professi
 
 The amount of money you'll get for selling an item is available on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> embed. Only some items are sellable to the bot unless you have the <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">collector's badge</a>, which allows you to sell <a href="/Items/Collectables" target="_blank">collectable-type items</a>.
 
-The shop has basic items that many players use every day. What is in the shop can sometimes rotate every few hours throughout the day, and may change completely every few months, but you can see what is currently available in any of the in-game shops with `/shop view`. 
+The shop has basic items that many players use every day. What is in the shop can sometimes rotate every few hours throughout the day, and may change completely every few months, but you can see what is currently available in any of the in-game shops with `/shop view`. Use the drop-down menu to switch between the different shops.
 
 
 ### <font color =b32d2d> Coin Shop</font> {: #CoinShop}
@@ -203,7 +203,7 @@ Yuo can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" ta
 
 
 ### <font color =b32d2d>Fishing Shop</font> {: #FishingShop}
-The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like tools, buckets, and baits, as well as fish tank decorations and some foods that can be consumed to give you boosts outside of fishing.
+You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like tools, buckets, and baits, as well as fish tank decorations and some foods that can be consumed to give you boosts outside of fishing.
 
 Some items in the Fish Shop are restricted, though, and you'll notice they are grayed out. These items need to be unlocked by either leveling up a special skill in /fish skills, or by being friends with one of the fishing NPCs.
 
