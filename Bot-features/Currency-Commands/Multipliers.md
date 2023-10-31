@@ -2,21 +2,23 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-08-01T17:57:19.450Z
+date: 2023-10-31T02:12:29.591Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
 ---
 
 # Multipliers
-There are 2 multipliers, a coin multiplier and an experience multiplier.
+There are 3 multipliers, a coin multiplier, an experience multiplier and a luck multiplier.
 
 You can check your coin multiplier with the `/multipliers coins` command. This shows you how much extra % coins you get from grinding commands.
 
 You can check your experience multiplier with the `/multipliers xp` command. This shows you by how many times your base XP gain gets multiplied.
+
+You can check your luck multiplier with the `/multipliers luck` command. This shows you how much extra luck you are getting while grinding.
 <br>
 <center>
-<img src="/bot-features/grinding/multipliers2.png" alt="mutlipliers.">
+<img src="/bot-features/grinding/multipliers3.png" alt="mutlipliers.">
 </center>
 
 ## Global Multipliers
@@ -33,10 +35,10 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 |:------:|:----:|:----:|:----:|
 | <a href="https://dankmemer.wiki/en/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> | x2.00 | 4 hours | Can only use one at a time. |
 | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DailyBox" target="_blank">Daily Box</a> | x2.00 | 5 minutes | Can use more than 1 at a time. |
-| Double XP Days | x2.00 | 6 days at random during each month | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers). |
+| Double XP Days | x2.00 | Every Wednesday and Sunday UTC is a double XP day. | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers). |
 | Level 15,000 adjustment | x2195.00 | Until you Prestige/go Omega | Caps your multiplier at x2195.00 regardless of other boosts, and can't go higher. |
-| Gem Store | x1.85, x1.50, or x1.15 | 3, 6, or 8 hours | Buying multiple of the same type of boost will extend the time that specific boost lasts and does not give multiple of the same value boost. For example, buying two 6 hour 1.85x boosts will give you 1.85x for 12 hours. </p> If you buy different value multipliers, such as 1.85x and 1.15x, you will have both increasing your multiplier. |
-| Global Boost | x2.25 | 30 minutes per boost | **Any** user can purchase this via the gem store and it becomes active for everyone. Buying multiple does not increase the multiplier given, but it does extend the duration of the boost. |
+| Gem Store | x1.50 or x1.75 | 6 or 8 hours | Buying multiple of the same type of boost will extend the time that specific boost lasts and does not multiply its value. For example, buying two 6 hour 1.50x boosts will give you 1.50x for 12 hours. </p> If you buy different value multipliers, such as 1.75x, you will have both increasing your multiplier. |
+| Global Boost | x2.00 | 30 minutes per boost | **Any** user can purchase this via the gem store and it becomes active for everyone. Buying multiple does not increase the multiplier given, but it does extend the duration of the boost. |
 | Omega Level | 1 + (Omega Level x 0.10) | Indefinitely |  Increases with each Omega Level. |
 | Partner Server | x1.20 | Indefinitely | Check <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">/partners</a> to find a partner server. | 
 | <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 15 minutes | Can only use one at a time. |
@@ -47,6 +49,7 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | Scratch Rewards | Varies | Varies | Depends on the <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">/scratch</a> reward at that time. |
 | <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to x1.50 | Until the next Prestige/Omega | Consume cheese until 1.5x multipler is reached. Requires 50 cheese successfully consumed. |
 | <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a> | x1.50 | 20 minutes </p> Topgg can last 40 minutes on weekends | Each site gives a 1.50x XP multiplier. |
+<br>
 
 ### <font color =b32d2d>Your Coin Multiplier can be affected by</font> {: #Coin}
 | Name | Coin Multiplier | Duration | Extra info |
@@ -70,7 +73,19 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | Quests | Varies | Varies | Depends on the quest |
 | <a href="https://dankmemer.wiki/en/Items/Collectables#StonkCoin" target="_blank">Stonk Coin</a> | +500% | 24 hours | Can only use one item at a time |
 | <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">Vote</a> | +50%/website & 5% per vote | 20 minutes & 12 hours | The +5% lasts for 12 hours while the +50% lasts for 20 minutes |
+<br>
 
+### <font color =b32d2d>Your Luck Multiplier can be affected by</font> {: #LuckMulti}
+| Name | Luck Multiplier | Duration | Extra info |
+|:------:|:----:|:----:|:----:|
+| Brazil Adventure | +5% | 1 hour | This can be extended in time if you get the reward multiple times from the adventure |
+| Gem Store | +15% | 3 hours | Purchasing multiple of the same boost will only stack the duration of the boost, not its value. |
+| Global Multi | +10% | 1 hour | This can be extended if more people buy them and queue up multiple |
+| Level Up rewards | +2% <br> +1%-5% | Lasts 1 hour or 2 hours depending on the level reward <br> Lasts until your next prestige or omega | The exact level rewards can be found <a href="https://dankmemer.wiki/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">here</a>
+| <a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a> | +5% | 15 minutes | You can only use one horseshoe at a time, but can use them again every 15 minutes |
+| <a href="https://dankmemer.wiki/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">Omega</a> | +10% | 1 week | You can only buy this **once** for 25,000,000 coins |
+| <a href="https://dankmemer.wiki/en/About-Dank-Memer/Premium-users" target="_blank">Premium</a> | +5% | Until your Premium subscription ends | Every premium tier gets the same 5% luck multi |
+| <a href="https://dankmemer.wiki/en/Items/Tools#VoodooDoll" target="_blank">Voodoo Doll</a> | -5% | 6 hours | This item effect can not be removed, it'll stop once the use timer runs out |
 <br>
 
 ---
