@@ -2,7 +2,7 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-10-31T01:43:32.311Z
+date: 2023-10-31T02:17:50.877Z
 tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
@@ -133,7 +133,7 @@ There are 4 skills:
 | Owl {: #Owl} | <img src="/bot-features/pets/owl.gif" alt="Owl" width="50" height="50"> | 250 gems in `/shop view` |
 | Rat {: #Rat} | <img src="/bot-features/pets/rat.png" alt="Rat" width="50" height="50"> | 250 gems in `/shop view` |
 | Flying Spaghetti Monster {: #FlyingSpaghettiMonster} | <img src="/bot-features/pets/flyingspaghettimonster.gif" alt="Flying Spaghetti Monster" width="50" height="50"> | 350 gems in `/shop view` |
-| Phoenix {: #Phoenix} | <img src="/bot-features/pets/rat.png" alt="Phoenix" width="50" height="50"> | 350 gems in `/shop view` |
+| Phoenix {: #Phoenix} | <img src="/bot-features/pets/phoenix.gif" alt="Phoenix" width="50" height="50"> | 350 gems in `/shop view` |
 | Yeti {: #Yeti} | <img src="/bot-features/pets/yeti.webp" alt="Yeti" width="50" height="50"> | 350 gems in `/shop view` |
 | Blobfish {: #Blobfish} | <img src="/bot-features/pets/blobfish.webp" alt="Blobfish" width="50" height="50"> | 500 gems in `/shop view` |
 
@@ -154,16 +154,6 @@ There are 4 skills:
 - You must have at least 250 deers in your inventory
 - You must have at least a 30 day daily streak 
 
-**Kraken pet quest**
-- You must have a lifesaver in your inventory
-- You must be at least prestige 2
-- You must be at least level 100
-- You must have shared over 1,000,000 coins
-- You must have at least 200 total work hours completed
-- You must have at least 5,000,000 coins in your pocket
-- You must have 500 legendary fishes in your inventory
-- You must have at least a 60 day daily streak
-
 **T-Rex pet quest**
 - You must own a pet 
 - Your current pet must be level 30
@@ -172,6 +162,18 @@ There are 4 skills:
 - You must have a pet collar in your inventory
 - You must have at least a 14 day stream streak active
 - You must have at least 10 fossils in your inventory
+
+
+### Removed Pet Quests:
+**Kraken pet quest** - removed when Kraken because unobtainable/untradeable. Kraken pet can now be purchased in the normal pet shop with /pets buy. The old requirements were:
+- You must have a lifesaver in your inventory
+- You must be at least prestige 2
+- You must be at least level 100
+- You must have shared over 1,000,000 coins
+- You must have at least 200 total work hours completed
+- You must have at least 5,000,000 coins in your pocket
+- You must have 500 legendary fishes in your inventory
+- You must have at least a 60 day daily streak
 
 <br>
 
