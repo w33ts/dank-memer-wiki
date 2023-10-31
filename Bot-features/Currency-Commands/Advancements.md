@@ -2,7 +2,7 @@
 title: Advancements
 description: Learn about the advancements commands, including levels, voting, Omega, prestige, and upgrades.
 published: true
-date: 2023-10-30T23:25:42.075Z
+date: 2023-10-31T02:11:23.210Z
 tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T18:12:11.087Z
@@ -88,7 +88,7 @@ Things you **won't** lose when you Omega:
 - Your work stars/stats
 
 ## Prestige {: #Prestige}
-You can prestige with the `/advancements prestige` command. Prestige can be useful to earn multipliers, grind Omegas, or for a fun challenge.
+You can prestige once every 6 hours with the `/advancements prestige` command. Prestige can be useful to earn multipliers, grind Omegas, or for a fun challenge.
 
 When you prestige, you will lose all of your levels and the money from your wallet and bank. As a reward for prestiging, you receive:
 - A coin multiplier for each prestige (+5% per prestige until 100% total)
