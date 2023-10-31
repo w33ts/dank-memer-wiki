@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-07-29T12:08:03.180Z
+date: 2023-10-31T23:02:08.057Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -11,7 +11,7 @@ dateCreated: 2023-05-29T20:20:06.427Z
 # Basic Commands
 Here you can find all the basic commands you will need to get the best out of the bot. These commands are the ones that are the most used, and they are important for your progression in the bot and allow you to get further.
 - [Balance](/Bot-features/Currency-Commands/Basic-Commands#Balance)
-- [Craft](/Bot-features/Currency-Commands/Basic-Commands#Craft)
+- [Craft](/Bot-features/Currency-Commands/Basic-Commands/Crafting)
 - [Currencylog](/Bot-features/Currency-Commands/Basic-Commands#Currencylog)
 - [Daily](/Bot-features/Currency-Commands/Basic-Commands#Daily)
 - [Deposit](/Bot-features/Currency-Commands/Basic-Commands#Deposit)
@@ -20,7 +20,7 @@ Here you can find all the basic commands you will need to get the best out of th
 - [Notifications](/Bot-features/Currency-Commands/Basic-Commands#Notifications)
 - [Profile](/Bot-features/Currency-Commands/Basic-Commands#Profile)
 - [Remove](/Bot-features/Currency-Commands/Basic-Commands#Remove)
-- [Shop (gem shop)](/Bot-features/Currency-Commands/Basic-Commands#Shop)
+- [Shop](/Bot-features/Currency-Commands/Basic-Commands#Shop)
 - [Use](/Bot-features/Currency-Commands/Basic-Commands#Use)
 - [Vacation](/Bot-features/Currency-Commands/Basic-Commands#Vacation)
 - [Withdraw](/Bot-features/Currency-Commands/Basic-Commands#Withdraw)
@@ -29,70 +29,31 @@ Here you can find all the basic commands you will need to get the best out of th
 The `/balance` command can be used to check not only your wallet & bank value, but also your inventory net, market net & total net.
 This command also shows you your global rank on the bot.
 
-There are also buttons a the bottom of the balance embed message where you can withdraw and deposit money. When using one of these buttons, the max value possible is automatically entered for you by default.
-
 <br>
 <center>
 <img src="/bot-features/basic-commands/balance2.png" alt="balance.">
 </center>
 
+There buttons at the bottom of the balance embed message can be used to withdraw and deposit money. When using one of these buttons, the max value possible is automatically entered for you by default.
+
 ## Craft {: #Craft}
 
-With the `/craft` command, you can craft new items from existing items that you have collected throughout the bot. Some items have multiple recipes you can use to craft them.
+With the `/craft` command, you can craft new items from existing items that you have collected throughout the bot. Some items have multiple <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting#Recipes" target="_blank">crafting recipes</a> you can use, and there are also <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting#HolidayRecipes" target="_blank">holiday recipes</a> that are only available at limited times throughout the year. Recipes can change at any time and sometimes are removed completely.
 
-To craft, choose the recipe you want to use with the left and right arrows, and then choose whether you want to craft one, the max amount, or a custom amount. Each craft takes a specific amount of time per craft to complete, and some crafts produce (or yield) more than one. The more items you craft, the longer your crafting time will be.
+<br>
+<center>
+<img src="/craft_example.png" alt="craft example." width=400>
+</center>
 
-You can only do one craft order at a time, and if you are already crafting something, you will see a message letting you know how long it is before it is completed when you try to craft something new. You can maximum craft 25 of an item per order at once.
+To craft, choose the item you want to craft from the dropdown menu, then pick which recipe you want to use with the left and right arrows. Each craft takes a specific amount of time per craft to complete, and some crafts produce (or yield) more than one. The more items you craft, the longer your crafting time will be, but there are <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting#Boosts" target="_blank">boosts</a> you can activate to make things craft faster.
+
+You can only do one craft order at a time and there is a max of 25 crafts at once. If you are already crafting something, you will see a message letting you know how long it is before it is completed when you try to craft something new. 
+
 If you choose to cancel an ongoing craft, you will only receive the portion of the craft that has been completed, and you will lose the extra materials and any uncrafted items. 
 
+To see all possible crafts and boosts, check out the <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting" target="_blank">crafting page.</a>
 
-<br>
-<center>
-<img src="/craft_example.png" alt="craft example.">
-</center>
 
-You can buy 2 types of Craft boosts with  <a href="https://dankmemer.lol/store" target="_blank">gems</a>. from the gem store via `/shop view`.
-
-<center>
-  
-| Boost | Extra Information |
-| :----:| :----:|
-| 2.00x Crafting Speed for 6 hours | Buying multiple of this boost will stack the time duration |
-| Instantly Finish Ongoing Crafts | You can only purchase this while you actually are crafting at that moment |
-</center>
-
-<center>
-<img src="/bot-features/basic-commands/craftboosts.png" alt="craft boosts.">
-</center>
-
-### <font color =b32d2d>Current Craftable Items and Recipes</font> 
-
-<br>
-
-| Item Name | Components | Crafting Time Per Yield | Yields |
-| :----:| :----:| :----:| :----:|
-| <a href="/Items/Collectables#AdventureVoucher" target="_blank">Adventure Voucher</a> | 12 <a href="/Items/Tools#AdventureTicket" target="_blank">Adventure Ticket</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 30 minutes | 1 |
-| <a href="/Items/Power-ups#BankNote" target="_blank">Bank Note</a> | 250,000 Coins, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 1 hour and 30 minutes | 5 |
-| <a href="/Items/Collectables#BeanMp3Player" target="_blank">Bean Mp3 Player</a> | 1 <a href="/Items/Sellables#Bean" target="_blank">Bean</a>, 1 <a href="/Items/Collectables#MelmsiesBeard" target="_blank">Melmsie's Beard</a>, 1 <a href="/Items/Tools#Microphone" target="_blank">Microphone</a>, 1 <a href="/Items/Tools#Headphones" target="_blank">Headphones</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 1 day | 1 |
-| <a href="/Items/Consumables#CoinVoucher" target="_blank">Coin Voucher</a> | 10,000,000 Coins, 1 <a href="/Items/Power-ups#BankNote" target="_blank">Bank Note</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 6 hours | 1 |
-| <a href="/Items/Collectables#DiggingTrophy" target="_blank">Digging Trophy</a> | 500 <a href="/Items/Sellables#Worm" target="_blank">Worm</a>, 350 <a href="/Items/Sellables#Ant" target="_blank">Ant</a>, 150 <a href="/Items/Sellables#Ladybug" target="_blank">Ladybug</a>, 80 <a href="/Items/Sellables#Stickbug" target="_blank">Stickbug</a>, 50 <a href="/Items/Sellables#Spider" target="_blank">Spider</a>, 40 <a href="/Items/Sellables#Fossil" target="_blank">Fossil</a>, 25 <a href="/Items/Sellables#MoleMan" target="_blank">Mole Man</a>, 20 <a href="/Items/Tools#Shovel" target="_blank">Shovel</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a>, 1 <a href="/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a> | 3 days | 1 |
-| <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 12 <a href="/Items/Sellables#Duck" target="_blank">Duck</a>, 3 <a href="/Items/Collectables#JarOfSingularity" target="_blank">Jar Of Singularity</a>, 1 <a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a> | 1 hour and 30 minutes | 2 |
-| <a href="/Items/Tools#FertilizerBag" target="_blank">Fertilizer Bag #1</a> | 2 <a href="/Items/Collectables#PetFeces" target="_blank">Pet Feces</a>, 1 <a href="/Items/Sellables#Potato" target="_blank">Potato ☭</a>, 1 <a href="/Items/Collectables#Carrot" target="_blank">Carrot</a> | 10 minutes | 2 |
-| <a href="/Items/Tools#FertilizerBag" target="_blank">Fertilizer Bag #2</a> | 2 <a href="/Items/Collectables#PetFeces" target="_blank">Pet Feces</a>, 1 <a href="/Items/Collectables#Broccoli" target="_blank">Broccoli</a>, 1 <a href="/Items/Sellables#Corncob" target="_blank">Corncob</a> | 10 minutes | 2 |
-| <a href="/Items/Collectables#FishingTrophy" target="_blank">Fishing Trophy</a> | 500 <a href="/Items/Sellables#Seaweed" target="_blank">Seaweed</a>, 350 <a href="/Items/Sellables#CommonFish" target="_blank">Common Fish</a>, 150 <a href="/Items/Sellables#RareFish" target="_blank">Rare Fish</a>, 80 <a href="/Items/Sellables#ExoticFish" target="_blank">Exotic Fish</a>, 50 <a href="/Items/Sellables#JellyFish" target="_blank">Jelly Fish</a>, 40 <a href="/Items/Sellables#LegendaryFish" target="_blank">Legendary Fish</a>, 25 <a href="/Items/Sellables#Kraken" target="_blank">Kraken</a>, 20 <a href="/Items/Tools#FishingPole" target="_blank">Fishing Pole</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a>, 1 <a href="/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a> | 3 days | 1 |
-| <a href="/Items/Lootboxes#GodBox" target="_blank">God Box</a> | 5 <a href="/Items/Lootboxes#DankBox" target="_blank">Dank Box</a>, 3 <a href="/Items/Collectables#JarOfSingularity" target="_blank">Jar Of Singularity</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 6 hours | 1 |
-| <a href="/Items/Tools#Headphones" target="_blank">Headphones</a> | 45 <a href="/Items/Collectables#PurplePlasticBits" target="_blank">Purple Plastic Bits</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 10 minutes | 1 |
-| <a href="/Items/Collectables#HolyBadoszsBread" target="_blank">Holy Badosz's Bread</a> | 1 <a href="/Items/Collectables#HolyWater" target="_blank">Holy Water</a>, 1 <a href="/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 6 hours | 1 |
-| <a href="/Items/Collectables#HuntingTrophy" target="_blank">Hunting Trophy</a> | 500 <a href="/Items/Sellables#Skunk" target="_blank">Skunk</a>, 350 <a href="/Items/Sellables#Rabbit" target="_blank">Rabbit</a>, 150 <a href="/Items/Sellables#Duck" target="_blank">Duck</a>, 80 <a href="/Items/Sellables#Deer" target="_blank">Deer</a>, 50 <a href="/Items/Sellables#Boar" target="_blank">Boar</a>, 40 <a href="/Items/Sellables#Dragon" target="_blank">Dragon</a>, 25 <a href="/Items/Sellables#ZigsCapybara" target="_blank">Zig's Capybara</a>, 20 <a href="/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a>, 1 <a href="/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a> | 3 days | 1 |
-| <a href="/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a> | 20 <a href="/Items/Collectables#Gravestone" target="_blank">Gravestone</a>, 3 <a href="/Items/Power-ups#Apple" target="_blank">Apple</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | Instant | 2 |
-| <a href="/Items/Collectables#MultiColoredPlasticBits" target="_blank">Multi Colored Plastic Bits</a> | 5 <a href="/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits</a>, 5 <a href="/Items/Collectables#PurplePlasticBits" target="_blank">Purple Plastic Bits</a>, 5 <a href="/Items/Collectables#BluePlasticBits" target="_blank">Blue Plastic Bits</a>, 5 <a href="/Items/Collectables#OrangePlasticBits" target="_blank">Orange Plastic Bits</a>, 3 <a href="/Items/Collectables#GoldenPlasticBits" target="_blank">Golden Plastic Bits</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 2 minutes | 1 |
-| <a href="/Items/Collectables#PepeMedal" target="_blank">Pepe Medal</a> | 12 <a href="/Items/Collectables#PepeCoin" target="_blank">Pepe Coin</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 2 hours | 1 |
-| <a href="/Items/Tools#PetFood" target="_blank">Pet Food #1</a> | 5 <a href="/Items/Sellables#Potato" target="_blank">Potato ☭</a>, 1 <a href="/Items/Sellables#Corncob" target="_blank">Corncob</a> | 1 hour and 30 minutes | 1 |
-| <a href="/Items/Tools#PetFood" target="_blank">Pet Food #2</a> | 5 <a href="/Items/Sellables#Potato" target="_blank">Potato ☭</a>, 1 <a href="/Items/Collectables#Carrot" target="_blank">Carrot</a> | 1 hour| 1 |
-| <a href="/Items/Tools#PetFood" target="_blank">Pet Food #3</a> | 5 <a href="/Items/Sellables#Potato" target="_blank">Potato ☭</a>, 1 <a href="/Items/Collectables#Broccoli" target="_blank">Broccoli</a> | 10 minutes | 1 |
-| <a href="/Items/Collectables#RareButterfly" target="_blank">Rare Butterfly</a> | 200 <a href="/Items/Sellables#Worm" target="_blank">Worm</a>, 100 <a href="/Items/Collectables#PurplePlasticBits" target="_blank">Purple Plastic Bits</a>, 1 <a href="/Items/Collectables#AipheysGemstone" target="_blank">Aiphey's Gemstone</a>, 1 <a href="/Items/Collectables#JarOfSingularity" target="_blank">Jar Of Singularity</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 3 days | 1 |
-| <a href="/Items/Collectables#ShootingStar" target="_blank">Shooting Star</a> | 2 <a href="/Items/Sellables#StarFragment" target="_blank">Star Fragment</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 1 hour | 1 |  
-| <a href="/Items/Power-ups#StreakFreeze" target="_blank">Streak Freeze</a> | 1,500,000 Coins, 5 <a href="/Items/Collectables#MultiColoredPlasticBits" target="_blank">Multi Colored Plastic Bits</a>, 2 <a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>, 1 <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 2 days | 1 |
 
 ## Currencylog {: #Currencylog}
 
@@ -108,7 +69,7 @@ The currencylog can be sorted by various types of transactions using the drop-do
 
 ## Daily {: #Daily}
 
-The `/Daily` command can be run every day with the command to earn extra coins or possibly items. This is something that can be great to do each day if you are aiming to get more money, as the amount you receive increases every day and comes with extra rewards the longer you maintain your daily streak.
+The `/Daily` command can be run every day to earn extra coins or possibly items. This is something that can be great to do each day if you are aiming to get more money, as the amount you receive increases every day and comes with extra rewards the longer you maintain your daily streak.
 
 If you forget to do your daily, there is a small grace period where you will not lose your streak completely. If you miss 1, 2, or 3 days, you will lose 1, 2, or 3 days from your streak. If you miss four days, you will lose half of your total streak, and on the fifth missed day or beyond, your entire streak is reset to zero.
 
@@ -117,12 +78,14 @@ If you forget to do your daily, there is a small grace period where you will not
 <img src="/daily_example.png" alt="daily example." width=500>
 </center>
 
-If you haven't done your `/daily` yet, 2 hours before the daily reset you will get a reminder to run the command and continue your streak.
+If you haven't done your `/daily` yet, around 1-2 hours before the daily reset you will get a reminder to run the command and continue your streak.
 
 <br>
 <center>
 <img src="/bot-features/basic-commands/daily_reminder.png" alt="daily reminder.">
 </center>
+
+You can also enable "Recurring Income Reminders" in `/settings` to get a DM when you are able to do `/daily` or `/weekly`.
 
 ## Deposit {: #Deposit}
 
@@ -202,38 +165,63 @@ The `/remove` command can be used to remove any effect that an item may have on 
 
 ## Shop {: #Shop}
 
-The `/shop` command is important in the progression of new starters and professional players. The shop has basic items that many players use every day. What is in the shop can sometimes change every few months, but you can see what is currently available with `/shop view`. 
+The `/shop` command is important in the progression of new starters and professional players. The command has 3 subcommands:
+- `/shop sell all` - Which allows you allows you to sell all of your <a href="/Items/Sellables" target="_blank">sellable-type items</a> at once based on your <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">coin multiplier</a>. When doing the command, you can choose to exclude 1-3 items that you don't want to sell.
+- `/shop sell item` - Which allows you to sell a single item to the bot for coins.
+- `/shop view` - Which opens the in-game shop where you can buy things for coins, Gems, Fish Tokens, and Skin Fragments.
 
-There are 2 types of shops you can check via `/shop view`, both of the shops have certain sales that will rotate every 6 hours. The sales that rotate have a little icon in the top left corner of their picture.
+
+The amount of money you'll get for selling an item is available on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> embed. Only some items are sellable to the bot unless you have the <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">collector's badge</a>, which allows you to sell <a href="/Items/Collectables" target="_blank">collectable-type items</a>.
+
+The shop has basic items that many players use every day. What is in the shop can sometimes rotate every few hours throughout the day, and may change completely every few months, but you can see what is currently available in any of the in-game shops with `/shop view`. 
+
 
 ### <font color =b32d2d> Coin Shop</font> {: #CoinShop}
+The basic coin shop is the regular shop where you can spend your Dank Memer Coins. The coin shop is usually stocked with basic tools needed to play Dank Memer, like <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Life Savers</a> and <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Shovels</a>, as well as a few classic collectable items.
+
+Items with a circular icon in the top left corner of their shop picture rotate with something else every few hours when the shop changes.
+
 <br>
 <center>
-<img src="/bot-features/basic-commands/coinshop.png" alt="coin shop example.">
+<img src="/bot-features/basic-commands/coin_shop2.png" alt="coin shop example."width=400>
 </center>
 <br>
 
-This is the regular shop where you can spend your Dank Memer Coins, just by clicking on the right button!
+
 
 ### <font color =b32d2d>Gem Shop</font> {: #GemShop}
 
+The gem shop is where you can spend gems that you can purchase from the <a href="https://dankmemer.lol/store" target="_blank">web store</a>. Usually, gems shop items are a bit rarer, and you can buy things like multipliers and boosts.
+
+Yuo can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multiplier</a> boosts which affect **every** player. There are also sometimes exclusive pets, skins, titles and much more.
+
 <br>
 <center>
-<img src="/bot-features/basic-commands/shopview.png" alt="gem shop example.">
+<img src="/bot-features/basic-commands/gem_shop2.png" alt="gem shop example." width=400>
 </center>
 <br>
 
-This is the gem shop where you can spend gems that you can purchase from the <a href="https://dankmemer.lol/store" target="_blank">web store</a>.
 
-Here you can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multiplier</a> boosts which affect **every** player. 
+### <font color =b32d2d>Fishing Shop</font> {: #FishingShop}
+The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like tools, buckets, and baits, as well as fish tank decorations and some foods that can be consumed to give you boosts outside of fishing.
 
-Opening the `/shop view` for the **first** time will give you 175 <a href="https://dankmemer.lol/store" target="_blank">gems</a> for free to use in the gem store.
+Some items in the Fish Shop are restricted, though, and you'll notice they are grayed out. These items need to be unlocked by either leveling up a special skill in /fish skills, or by being friends with one of the fishing NPCs.
 
-### <font color =b32d2d>Shop sell</font>
+<br>
+<center>
+<img src="/bot-features/basic-commands/fishing_shop.png" alt="gem shop example."width=400>
+</center>
+<br>
 
-If you want to sell an item to the bot for coins, you can use the `/shop sell` command. The amount of money you'll get for selling an item is available on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> embed. Only some items are sellable to the bot unless you have the <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">collector's badge</a>, which allows you to sell <a href="/Items/Collectables" target="_blank">collectable-type items</a>.
+### <font color =b32d2d>Skin Shop</font> {: #SkinShop}
+The last shop you can access is the Skin Shop. This is where you can use Skin Fragments you've earned from duplicate skins to buy new <a href="Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. What is availabe in the shop is the same for everyone and it rotates every few hours.
 
-If you want to sell all of your <a href="/Items/Sellables" target="_blank">sellable-type items</a> to the bot at one time, you can use the `/shop sell all` command. This will sell all sellable-type items you own at once, but you can exclude 1-3 item types when you type the command. It is also possible to exclude a certain quantity of each item, in case you want to keep 1 item of each for example. The sellable value of the items is based on your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a>.
+<br>
+<center>
+<img src="/bot-features/basic-commands/skin_shop2.png" alt="gem shop example."width=400>
+</center>
+<br>
+
 
 ## Use {: #Use}
 
@@ -310,7 +298,7 @@ Withdrawing money follows the same numeral wordings as the <a href="/Bot-feature
     <details>
       <summary style="background-color:#72ad70; color:#000000; font: 12px Roboto; padding: 8px;">Currency Commands</summary>
       <div style="text-align: center;"> 
-      <p style="font: 12px Roboto; padding: 0 8px 3px 8px;"> <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">Achievements</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements" target="_blank">Advancements - (</a> <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Levels</a>, <a href="/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">Omega</a>, <a href="/Bot-features/Currency-Commands/Advancements#Prestige" target="_blank">Prestige</a>, <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">Upgrades</a>, <a href="/Bot-features/Currency-Commands/Advancements#Vote" target="_blank"> Vote</a>) <br> <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a> &#x2022; <a href="/Bot-features/Currency-Commands/Badges" target="_blank">Badges</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Balance" target="_blank">Balance</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">Bankrob</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Beg" target="_blank">Beg</a> &#x2022; <a href="/Bot-features/Currency-Commands/Bundles" target="_blank">Bundles</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Compare" target="_blank">Compare</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Craft" target="_blank">Craft</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a> <br><a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">Currencylog</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">Daily</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Deposit" target="_blank">Deposit</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">Dig</a> &#x2022; <a href="/Items/Drops" target="_blank">Drops</a> &#x2022; <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Fish" target="_blank">Fish</a> &#x2022; <a href="/Bot-features/Currency-Commands/Friends" target="_blank">Friends</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Giveaways" target="_blank">Giveaway</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Highlow" target="_blank">Highlow</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">Inventory</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">Item</a> &#x2022; <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">Leaderboard</a> &#x2022; <a href="/Bot-features/Currency-Commands/Lotteries" target="_blank">Lottery</a> &#x2022; <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> &#x2022; <a href="/Bot-features/Currency-Commands/Marriage" target="_blank">Marriage</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">Monthly</a> <br> <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">Notifications</a> &#x2022; <a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a>  &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a> &#x2022; <a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Search" target="_blank">Search</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">Serverevents</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">Shop</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Showcase" target="_blank">Showcase</a> &#x2022; <a href="/Bot-features/Currency-Commands/Skins" target="_blank">Skins</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a> <br> <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Titles" target="_blank">Title</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a> &#x2022; <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a> &#x2022; <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a> </p>
+      <p style="font: 12px Roboto; padding: 0 8px 3px 8px;"> <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">Achievements</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements" target="_blank">Advancements - (</a> <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Levels</a>, <a href="/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">Omega</a>, <a href="/Bot-features/Currency-Commands/Advancements#Prestige" target="_blank">Prestige</a>, <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">Upgrades</a>, <a href="/Bot-features/Currency-Commands/Advancements#Vote" target="_blank"> Vote</a>) <br> <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a> &#x2022; <a href="/Bot-features/Currency-Commands/Badges" target="_blank">Badges</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Balance" target="_blank">Balance</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">Bankrob</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Beg" target="_blank">Beg</a> &#x2022; <a href="/Bot-features/Currency-Commands/Bundles" target="_blank">Bundles</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Compare" target="_blank">Compare</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Craft" target="_blank">Craft</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a> <br><a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">Currencylog</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">Daily</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Deposit" target="_blank">Deposit</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">Dig</a> &#x2022; <a href="/Items/Drops" target="_blank">Drops</a> &#x2022; <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fish</a> &#x2022; <a href="/Bot-features/Currency-Commands/Friends" target="_blank">Friends</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Giveaways" target="_blank">Giveaway</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Highlow" target="_blank">Highlow</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">Inventory</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">Item</a> &#x2022; <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">Leaderboard</a> &#x2022; <a href="/Bot-features/Currency-Commands/Lotteries" target="_blank">Lottery</a> &#x2022; <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> &#x2022; <a href="/Bot-features/Currency-Commands/Marriage" target="_blank">Marriage</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">Monthly</a> <br> <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">Notifications</a> &#x2022; <a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a>  &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a> &#x2022; <a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Search" target="_blank">Search</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">Serverevents</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">Shop</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Showcase" target="_blank">Showcase</a> &#x2022; <a href="/Bot-features/Currency-Commands/Skins" target="_blank">Skins</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a> <br> <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Titles" target="_blank">Title</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a> &#x2022; <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a> &#x2022; <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a> </p>
       </div>
     </details>
     <details>
@@ -323,7 +311,7 @@ Withdrawing money follows the same numeral wordings as the <a href="/Bot-feature
       <summary style="background-color:#72ad70; color:#000000; font: 12px Roboto,sans-serif; padding: 8px;">Utility and Config Commands</summary>
       <div style="text-align: center;"> 
       <p style="font: 12px Roboto; padding: 0 8px 3px 8px;">
-        <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Alert" target="_blank">Alert</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a> &#x2022; <a href="/Resources/help" target="_blank">Help</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a> &#x2022; <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a> <br> <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a> &#x2022; <a href="/Resources/Reports-and-appeals" target="_blank">Report</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reset" target="_blank">Resetmydata</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a> &#x2022; <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></p>
+        <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Alert" target="_blank">Alert</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a> &#x2022; <a href="/Resources/help" target="_blank">Help</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a> &#x2022; <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a> <br> <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a> &#x2022; <a href="/Resources/Reports-and-appeals" target="_blank">Report</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a> &#x2022; <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></p>
       </div>
     </details>
   </details>
