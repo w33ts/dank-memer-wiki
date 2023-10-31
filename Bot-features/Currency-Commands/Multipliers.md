@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2023-10-31T02:12:29.591Z
+date: 2023-10-31T02:13:26.940Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -34,14 +34,14 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | Name | XP Multiplier | Duration | Extra info |
 |:------:|:----:|:----:|:----:|
 | <a href="https://dankmemer.wiki/en/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> | x2.00 | 4 hours | Can only use one at a time. |
-| <a href="https://dankmemer.wiki/en/Items/Lootboxes#DailyBox" target="_blank">Daily Box</a> | x2.00 | 5 minutes | Can use more than 1 at a time. |
+| <a href="https://dankmemer.wiki/en/Items/Lootboxes#DailyBox" target="_blank">Daily Box</a> | x2.00 | 10 minutes | Can use more than 1 at a time. |
 | Double XP Days | x2.00 | Every Wednesday and Sunday UTC is a double XP day. | Announced in `#bot-announcements` in [the community server](https://discord.gg/memers). |
 | Level 15,000 adjustment | x2195.00 | Until you Prestige/go Omega | Caps your multiplier at x2195.00 regardless of other boosts, and can't go higher. |
 | Gem Store | x1.50 or x1.75 | 6 or 8 hours | Buying multiple of the same type of boost will extend the time that specific boost lasts and does not multiply its value. For example, buying two 6 hour 1.50x boosts will give you 1.50x for 12 hours. </p> If you buy different value multipliers, such as 1.75x, you will have both increasing your multiplier. |
 | Global Boost | x2.00 | 30 minutes per boost | **Any** user can purchase this via the gem store and it becomes active for everyone. Buying multiple does not increase the multiplier given, but it does extend the duration of the boost. |
 | Omega Level | 1 + (Omega Level x 0.10) | Indefinitely |  Increases with each Omega Level. |
 | Partner Server | x1.20 | Indefinitely | Check <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">/partners</a> to find a partner server. | 
-| <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 15 minutes | Can only use one at a time. |
+| <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a> | x2.50 | 30 minutes | Can only use one at a time. |
 | Premium Rewards | x1.05, x1.15, x1.20,  x1.25, x1.50 | 5-7 days after rewards are received | Check <a href="/About-Dank-Memer/Premium-users#Perks" target="_blank">/premium info</a> for the exact multiplier available at each tier. | 
 | Premium Server | x1.50 | As long as server is premium | $10+ Premium members can type `/premium premiumserver add` in a server to make it premium. |
 | Prestige Level | 1 + (Prestige Level x 0.01) | Indefinitely, unless you go Omega and lose your prestiges | Increases with each prestige level. |
