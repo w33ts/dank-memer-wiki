@@ -2,7 +2,7 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-08-08T22:11:09.962Z
+date: 2023-10-31T01:43:32.311Z
 tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
@@ -27,12 +27,18 @@ The following pets are obtainable from the pet store, listed from cheapest to mo
 - Panda Bear
 - Pepe
 - Fox
+- Hamster
 - Catgirl
+- Axolotl
 
 The following pets are obtainable from the gem store with the `/shop view` command.
-- Flying Spaghetti Monster
-- Owl
 - Garden Gnome
+- Rat
+- Owl
+- Flying Spaghetti Monster
+- Phoenix
+- Yeti
+- Blobfish
 
 ## Care
 You can take care of your pets by using the `/pets care` command.
@@ -98,35 +104,42 @@ There are 4 skills:
 
 | Pet Name | Image | Obtainable how? |
 |:------:|:----:|:------:|
-| Rock {: #Rock} | <img src="/bot-features/pets/rock.png" alt="Rock" width="50" height="50"> | 50,000 in `/pets buy` |
-| Crab {: #Crab} | <img src="/bot-features/pets/crab.png" alt="Crab" width="50" height="50"> | 75,000 in `/pets buy` | 
-| Snake {: #Snake} | <img src="/bot-features/pets/snake.gif" alt="Snake" width="50" height="50"> | 100,000 in `/pets buy` |
-| Dog {: #Dog} | <img src="/bot-features/pets/dog.png" alt="Dog" width="50" height="50"> | 100,000 in `/pets buy` |
-| Cat {: #Cat} | <img src="/bot-features/pets/cat.png" alt="Cat" width="50" height="50"> | 100,000 in `/pets buy` |
-| Duck {: #Duck} | <img src="/bot-features/pets/duck.png" alt="duck" width="50" height="50"> | 125,000 in `/pets buy` | 
-| Turtle {: #Turtle} | <img src="/bot-features/pets/turtle.png" alt="Turtle" width="50" height="50"> | 125,000 in `/pets buy` | 
-| Bunny {: #Bunny} | <img src="/bot-features/pets/bunny.png" alt="Bunny" width="50" height="50"> | 125,000 in `/pets buy` | 
-| Birb {: #Birb} | <img src="/bot-features/pets/birb.png" alt="Birb" width="50" height="50"> | 150,000 in `/pets buy` | 
-| Monkey {: #Monkey} | <img src="/bot-features/pets/monkey.png" alt="Monkey" width="50" height="50"> | 150,000 in `/pets buy` | 
-| Panda Bear {: #PandaBear} | <img src="/bot-features/pets/pandabear.png" alt="Panda Bear" width="50" height="50"> | 200,000 in `/pets buy` | 
-| Pepe {: #PepePet} | <img src="/bot-features/pets/pepe.png" alt="Pepe" width="50" height="50"> | 250,000 in `/pets buy` | 
-| Fox {: #Fox} | <img src="/bot-features/pets/fox.png" alt="Fox" width="50" height="50"> | 500,000 in `/pets buy` |
-| Catgirl {: #Catgirl} | <img src="/bot-features/pets/catgirl.png" alt="Catgirl" width="50" height="50"> | 500,000 in `/pets buy` | 
+| Rock {: #Rock} | <img src="/bot-features/pets/rock.png" alt="Rock" width="50" height="50"> | 1,000,000 in `/pets buy` |
+| Crab {: #Crab} | <img src="/bot-features/pets/crab.png" alt="Crab" width="50" height="50"> | 3,000,000 in `/pets buy` | 
+| Snake {: #Snake} | <img src="/bot-features/pets/snake.gif" alt="Snake" width="50" height="50"> | 3,000,000 in `/pets buy` |
+| Dog {: #Dog} | <img src="/bot-features/pets/dog.png" alt="Dog" width="50" height="50"> | 3,000,000 in `/pets buy` |
+| Fox {: #Fox} | <img src="/bot-features/pets/fox.png" alt="Fox" width="50" height="50"> | 5,000,000 in `/pets buy` |
+| Cat {: #Cat} | <img src="/bot-features/pets/cat.png" alt="Cat" width="50" height="50"> | 5,000,000 in `/pets buy` |
+| Duck {: #Duck} | <img src="/bot-features/pets/duck.png" alt="duck" width="50" height="50"> | 8,000,000 in `/pets buy` | 
+| Turtle {: #Turtle} | <img src="/bot-features/pets/turtle.png" alt="Turtle" width="50" height="50"> | 8,000,000 in `/pets buy` | 
+| Bunny {: #Bunny} | <img src="/bot-features/pets/bunny.png" alt="Bunny" width="50" height="50"> | 8,000,000 in `/pets buy` | 
+| Birb {: #Birb} | <img src="/bot-features/pets/birb.png" alt="Birb" width="50" height="50"> | 10,000,000 in `/pets buy` | 
+| Monkey {: #Monkey} | <img src="/bot-features/pets/monkey.png" alt="Monkey" width="50" height="50"> | 10,000,000 in `/pets buy` | 
+| Panda Bear {: #PandaBear} | <img src="/bot-features/pets/pandabear.png" alt="Panda Bear" width="50" height="50"> | 12,000,000 in `/pets buy` | 
+| Pepe {: #PepePet} | <img src="/bot-features/pets/pepe.png" alt="Pepe" width="50" height="50"> | 12,500,000 in `/pets buy` | 
+| Hamster {: #Hamster} | <img src="/bot-features/pets/hamster2.png" alt="Hamster" width="50" height="50"> | 15,000,000 in `/pets buy` |
+| Catgirl {: #Catgirl} | <img src="/bot-features/pets/catgirl.png" alt="Catgirl" width="50" height="50"> | 15,000,000 in `/pets buy` | 
+| Kraken {: #KrakenPet} | <img src="/bot-features/pets/kraken.png" alt="Kraken" width="50" height="50"> | 25,000,000 in `/pets buy` |
+| Axolotl {: #Axolotl} |![axolotls.png](/bot-features/pets/axolotls.png)| 30,000,000 in `/pets buy`|
+| Shark {: #Shark} |![shark.webp](/bot-features/pets/shark.webp)| 5,000 Fish Tokens in `/fish shop`|
 | Dragon {: #DragonPet} | <img src="/bot-features/pets/dragon.png" alt="Dragon" width="50" height="50"> | Dragon quest by using the `/use item:dragon` command |
-| Kraken {: #KrakenPet} | <img src="/bot-features/pets/kraken.png" alt="Kraken" width="50" height="50"> | Kraken quest by using the `/use item:kraken` command |
 | T-Rex {: #TRex} | <img src="/bot-features/pets/t-rex.png" alt="T-Rex" width="50" height="50"> | T-Rex quest by using the `/use item:fossil` command |
 | Alien {: #Alien} | <img src="/bot-features/pets/alien.png" alt="Alien" width="50" height="50"> | Alien quest by using the `/use item:meteorite` command |
 | Capybara {: #Capybara} | <img src="/bot-features/pets/capybara.png" alt="Capybara" width="50" height="50"> | Use a shooting star in order to change any pet to the capybara with `/use item:shooting star`. Your pet must be prestige 5+, and you should set it as your current pet in /pet view before you use the shooting star. |
 | Blob {: #BlobPet} | <img src="/bot-features/pets/blob.gif" alt="Blob" width="50" height="50"> | Temporary halloween adventure event reward or trade 25 Melmsie's Beards and 10 Voodoo Dolls for one in the `/advancements omega` store. You must be Omega 1. |
 | Jack O' Lantern {: #JackoLantern} | <img src="/bot-features/pets/jackolantern.gif" alt="Jack O' Lantern" width="50" height="50"> | Temporary halloween adventure event reward or trade 25 Jacky O'Lantys and 10 Spooky Masks for one in the `/advancements omega` store. You must be Omega 1.  | 
 | Krampus {: #Krampus} | <img src="/bot-features/pets/krampus.png" alt="Krampus" width="50" height="50"> | Temporary Winter Wonderland adventure pet. | 
-| Flying Spaghetti Monster {: #FlyingSpaghettiMonster} | <img src="/bot-features/pets/flyingspaghettimonster.gif" alt="Flying Spaghetti Monster" width="50" height="50"> | 600 gems in `/shop view` |
-| Owl {: #Owl} | <img src="/bot-features/pets/owl.gif" alt="Owl" width="50" height="50"> | 600 gems in `/shop view` |
-| Garden Gnome {: #GardenGnome} | <img src="/bot-features/pets/gardengnome.gif" alt="Garden Gnome" width="50" height="50"> | 600 gems in `/shop view` |
+| Garden Gnome {: #GardenGnome} | <img src="/bot-features/pets/gardengnome.gif" alt="Garden Gnome" width="50" height="50"> | 250 gems in `/shop view` |
+| Owl {: #Owl} | <img src="/bot-features/pets/owl.gif" alt="Owl" width="50" height="50"> | 250 gems in `/shop view` |
+| Rat {: #Rat} | <img src="/bot-features/pets/rat.png" alt="Rat" width="50" height="50"> | 250 gems in `/shop view` |
+| Flying Spaghetti Monster {: #FlyingSpaghettiMonster} | <img src="/bot-features/pets/flyingspaghettimonster.gif" alt="Flying Spaghetti Monster" width="50" height="50"> | 350 gems in `/shop view` |
+| Phoenix {: #Phoenix} | <img src="/bot-features/pets/rat.png" alt="Phoenix" width="50" height="50"> | 350 gems in `/shop view` |
+| Yeti {: #Yeti} | <img src="/bot-features/pets/yeti.webp" alt="Yeti" width="50" height="50"> | 350 gems in `/shop view` |
+| Blobfish {: #Blobfish} | <img src="/bot-features/pets/blobfish.webp" alt="Blobfish" width="50" height="50"> | 500 gems in `/shop view` |
 
 ### Pet quests
 **Alien pet quest**
-- You must not owe a pet
+- You must not own a pet
 - You must have  2 badges 
 - You must have traded 100 times 
 - You must have 10 alien samples 
