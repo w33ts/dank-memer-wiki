@@ -2,7 +2,7 @@
 title: Fishing Guidebook
 description: 
 published: true
-date: 2023-11-03T21:37:55.856Z
+date: 2023-11-03T22:42:29.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T23:32:11.184Z
@@ -54,7 +54,7 @@ The second information  you need to unlock is the variants for the creature. Mos
 
 
 ## Saltwater Creatures {: #Saltwater}
-All creatures found in the ocean are found in the saltwater portion of the guide book. These include any creatures found in Vertigo Beach and at the Deepwater Sanctuary.
+All creatures found in the ocean are found in the saltwater portion of the guide book. These include any creatures found in Vertigo Beach and at the Underwater Sanctuary.
 
 <br>
 
