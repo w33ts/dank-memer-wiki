@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-03T20:57:59.928Z
+date: 2023-11-03T21:01:48.140Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -27,7 +27,7 @@ Each tool has slightly different abilities when fishing, and a different durabil
 |Fishing rod |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 12 | Can use bait and catch bosses, items, and one fish at a time. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 |Harpoon| <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 15 | Can use bait and catch bosses, items, and multiple fish at a time.| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 |Net| <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 5 | Can use bait and catch items and multiple fish at a time. No bosses. | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-|Dynamite| <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 3 | Can use bait and catch bosses and multiple fish at a time. No items.| <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>, `/fish season` |
+|Dynamite| <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 3 | Can use bait and catch bosses and multiple fish at a time. No items.| <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters</a> |
 |Idle Fishing Machine| <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is ugpraded.  | Can catch any creature, including bosses, but cannot use bait or catch items.| Unlock by upgrading the AFK skill in `/fish skills`. |
 
 </center>
