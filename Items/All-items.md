@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2023-07-29T12:04:13.604Z
+date: 2023-11-03T18:55:19.620Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -22,6 +22,7 @@ dateCreated: 2023-04-30T21:33:10.040Z
 - <a href="https://dankmemer.wiki/en/Items/Sellables#Ant" target="_blank">Ant</a>
 - <a href="https://dankmemer.wiki/en/Items/Packs#AntirobPack" target="_blank">Anti-rob Pack</a>
 - <a href="https://dankmemer.wiki/en/Items/Power-ups#Apple" target="_blank">Apple</a>
+- <a href="https://dankmemer.wiki/en/Items/Collectables#BunnysApron" target="_blank">Apron</a>
 - <a href="https://dankmemer.wiki/en/Items/Collectables#ArmpitHair" target="_blank">Armpit Hair</a>
 - <a href="https://dankmemer.wiki/en/Items/Collectables#Baby" target="_blank">Baby</a>
 - <a href="https://dankmemer.wiki/en/Items/Collectables#BadoszsCard" target="_blank">Badosz's Card</a>
@@ -48,7 +49,6 @@ dateCreated: 2023-04-30T21:33:10.040Z
 - <a href="https://dankmemer.wiki/en/Items/Sellables#Broccoli" target="_blank">Broccoli</a>
 - <a href="https://dankmemer.wiki/en/Items/Tools#BroccoliSeeds" target="_blank">Broccoli Seeds</a>
 - <a href="https://dankmemer.wiki/en/Items/Lootboxes#BundleBox" target="_blank">Bundle Box</a>
-- <a href="https://dankmemer.wiki/en/Items/Collectables#BunnysApron" target="_blank">Bunny's Apron</a>
 - <a href="https://dankmemer.wiki/en/Items/Collectables#Cactus" target="_blank">Cactus</a>
 - <a href="https://dankmemer.wiki/en/Items/Power-ups#Caipirinha" target="_blank">Caipirinha</a>
 - <a href="https://dankmemer.wiki/en/Items/Tools#Camera" target="_blank">Camera</a>
@@ -179,7 +179,8 @@ dateCreated: 2023-04-30T21:33:10.040Z
 - <a href="https://dankmemer.wiki/en/Items/Collectables#PetFeces" target="_blank">Pet Feces</a>
 - <a href="https://dankmemer.wiki/en/Items/Tools#PetFood" target="_blank">Pet Food</a>
 - <a href="https://dankmemer.wiki/en/Items/Collectables#PetSaddle" target="_blank">Pet Saddle</a>
-- <a href="https://dankmemer.wiki/en/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits</a>
+- <a href="https://dankmemer.wiki/en/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits (Deprecated)</a>
+- <a href="https://dankmemer.wiki/en/Items/Collectables#PinkSludgeMonster" target="_blank">Pink Sludge Monster</a>
 - <a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>
 - <a href="https://dankmemer.wiki/en/Items/Sellables#PlasticBag" target="_blank">Plastic Bag</a>
 - <a href="https://dankmemer.wiki/en/Items/Lootboxes#PlasticBox" target="_blank">Plastic Box</a>
