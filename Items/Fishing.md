@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-03T20:56:10.515Z
+date: 2023-11-03T20:57:59.928Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -14,7 +14,7 @@ While you can find some real items when fishing with Dank Memer, most of the ite
 With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. You can read more about this change in the <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items Tutorial.</a> 
 
 
-## Tools
+## Tools {: #Tools}
 The old fishing pole item was retired, and all new tools were created for the fishing update in 2023. These tools can be found in the <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box item</a>, which is obtainable around the bot, or purchased from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. They can also be gifted or traded to you by an NPC. 
 
 Each tool has slightly different abilities when fishing, and a different durability or number of times it can be used. Some tools can be improved by upgrading certain skills in `/fish skills`.
@@ -32,7 +32,7 @@ Each tool has slightly different abilities when fishing, and a different durabil
 
 </center>
 
-## Baits
+## Baits {: #Baits}
 There are tons of possible baits you can use while fishing, and each one has a different benefit. You can view the description for each bait in `/fish guide` once you've unlocked it, or from the equipment menu on `/fish catch`.
 
 <center>
@@ -51,7 +51,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
 
   </center>
 
-## Buckets
+## Buckets {: #Buckets}
 All the creatures caught while fishing won't enter your normal Dank Memer /inventory and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="/https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the dank Memer website for complete instructions.
 
 Each bucket has a different storage capacity, but you can increase how much your buckets can hold by upgrading the Storage Specialist skill in `/fish skills`. You can only unlock a bucket one time, but there are a variety of buckets you can buy and earn.
@@ -78,7 +78,7 @@ The creatures you can catch while fishing cannot be collected like with the prev
 
 Each creature has a specific time UTC that it is available, a certain location it can be found, and most have at least one variant you can catch. Check out a complete list of the possible creatures, their times, locations, and variants, <a href="/Items/Fishing/Creatures" target="_blank">here</a>.
 
-## Fish Tank Decorations
+## Fish Tank Decorations {: #Decorations}
 If you want to save a few of your favorite fish, you can put them in your fish tank. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
 
 You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade the Aquarium Keeper skill, you can increase what the tank can hold.
