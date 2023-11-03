@@ -2,7 +2,7 @@
 title: Season of the Haunted Waters
 description: See what rewards are possible for the first fish season, the Season of the Haunted Waters.
 published: true
-date: 2023-11-03T22:05:39.527Z
+date: 2023-11-03T22:09:10.706Z
 tags: rewards, fish season, premium pass, season pass, fish season pass, fish pass, season rewards, haunted, haunted waters
 editor: markdown
 dateCreated: 2023-11-03T22:05:39.527Z
@@ -16,27 +16,11 @@ There are two tiers of rewards users can complete. The free track of rewards is 
 Each fish season is only available for a limited time unless you upgrade to premium. Premium pass holders will continue to have access to the season pass forever, so they can continue working on it until they've unlocked every reward.
 
 ## Season of the Haunted Waters Rewards
-![haunted_pg1.webp](/bot-features/fishing/hauntedseason/haunted_pg1.webp)
-![haunted_pg2.webp](/bot-features/fishing/hauntedseason/haunted_pg2.webp)
-![haunted_pg3.webp](/bot-features/fishing/hauntedseason/haunted_pg3.webp)
-![haunted_pg4a.webp](/bot-features/fishing/hauntedseason/haunted_pg4a.webp)
-![haunted_pg5a.webp](/bot-features/fishing/hauntedseason/haunted_pg5a.webp)
-![haunted_pg6.webp](/bot-features/fishing/hauntedseason/haunted_pg6.webp)
-![haunted_pg7.webp](/bot-features/fishing/hauntedseason/haunted_pg7.webp)
-![haunted_pg8.webp](/bot-features/fishing/hauntedseason/haunted_pg8.webp)
-![haunted_pg9.webp](/bot-features/fishing/hauntedseason/haunted_pg9.webp)
-![haunted_pg10.webp](/bot-features/fishing/hauntedseason/haunted_pg10.webp)
-![haunted_pg11.webp](/bot-features/fishing/hauntedseason/haunted_pg11.webp)
-![haunted_pg12.webp](/bot-features/fishing/hauntedseason/haunted_pg12.webp)
-![haunted_pg13.webp](/bot-features/fishing/hauntedseason/haunted_pg13.webp)
-![haunted_pg14.webp](/bot-features/fishing/hauntedseason/haunted_pg14.webp)
-![haunted_pg15.webp](/bot-features/fishing/hauntedseason/haunted_pg15.webp)
-![haunted_pg16.webp](/bot-features/fishing/hauntedseason/haunted_pg16.webp)
-![haunted_pg17.webp](/bot-features/fishing/hauntedseason/haunted_pg17.webp)
-![haunted_pg18.webp](/bot-features/fishing/hauntedseason/haunted_pg18.webp)
-![haunted_pg19.webp](/bot-features/fishing/hauntedseason/haunted_pg19.webp)
-![haunted_pg20.webp](/bot-features/fishing/hauntedseason/haunted_pg20.webp)
-
+<center>
+<img src="/bot-features/fishing/hauntedseason/haunted_pg1.webp" alt="Haunted pg1" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg2.webp" alt="Haunted pg2" width="500" height="300">
+<img src="/bot-features/fishing/hauntedseason/haunted_pg3.webp" alt="Haunted pg3" width="500" height="300">
+<img src="/bot-features/fishing/hauntedseason/haunted_pg4a.webp" alt="Haunted pg4" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg5a.webp" alt="Haunted pg5" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg6.webp" alt="Haunted pg6" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg7.webp" alt="Haunted pg7" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg8.webp" alt="Haunted pg8" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg9.webp" alt="Haunted pg9" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg10.webp" alt="Haunted pg10" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg11.webp" alt="Haunted pg11" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg12.webp" alt="Haunted pg12" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg13.webp" alt="Haunted pg13" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg14.webp" alt="Haunted pg14" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg15.webp" alt="Haunted pg15" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg16.webp" alt="Haunted pg16" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg17.webp" alt="Haunted pg17" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg18.webp" alt="Haunted pg18" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg19.webp" alt="Haunted pg19" width="500" height="300"><img src="/bot-features/fishing/hauntedseason/haunted_pg20.webp" alt="Haunted pg20" width="500" height="300">
+</center>
 
  <br>
   
