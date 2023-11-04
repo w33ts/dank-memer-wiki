@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-03T22:11:47.421Z
+date: 2023-11-04T22:58:41.329Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -26,7 +26,7 @@ Each tool has slightly different abilities when fishing, and a different durabil
 |Bare Hands | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |Cannot catch bosses, items, or use bait without upgrading the Zen Hands skill to the max. Cannot catch multiple fish at a time.| All users have by default. |
 |Fishing rod |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 12 | Can use bait and catch bosses, items, and one fish at a time. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 |Harpoon| <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 15 | Can use bait and catch bosses, items, and multiple fish at a time.| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-|Net| <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 5 | Can use bait and catch items and multiple fish at a time. No bosses. | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
+|Net| <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 8 | Can use bait and catch items and multiple fish at a time. No bosses. | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 |Dynamite| <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 3 | Can use bait and catch bosses and multiple fish at a time. No items.| <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters</a> |
 |Idle Fishing Machine| <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is ugpraded.  | Can catch any creature, including bosses, but cannot use bait or catch items.| Unlock by upgrading the AFK skill in `/fish skills`. |
 
@@ -45,7 +45,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
 |Golden Bait | <img src="/items/fishing/golden_bait.webp" alt="Golden Bait" width="50" height="50">| Increases the chance for high-quality fish. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Lucky Bait | <img src="/items/fishing/lucky_bait.webp" alt="Lucky Bait" width="50" height="50">| Increases your luck to help you catch rarer fish. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Magnet Bait | <img src="/items/fishing/magnet_bait.webp" alt="Magnet Bait" width="50" height="50">| Helps you catch only loot, not creatures. | 10 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
-|Eyeball Bait | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 3 | Mystic Pond |
+|Eyeball Bait | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 2 | Mystic Pond |
 |Ghastly Bait | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Mystic Pond |
 |Money Bait | <img src="/items/fishing/money_bait.webp" alt="Money Bait" width="50" height="50">|  Instantly sells your creatures for coins instead of putting them in a bucket. | 25 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 
@@ -64,10 +64,10 @@ Each bucket has a different storage capacity, but you can increase how much your
 |Pink Bucket|<img src="/items/fishing/pink_bucket.png" alt="Pink Bucket" width="50" height="50">| 10 | Awarded to participants of the Pink Event. |
 |Metal Bucket| <img src="/items/fishing/metal_bucket.png" alt="Metal Bucket" width="50" height="50">| 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pepe Bucket| <img src="/items/fishing/pepe_bucket.png" alt="Pepe Bucket" width="50" height="50">| 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-|Golden Bucket| <img src="/items/fishing/golden_bucket.gif" alt="Golden Bucket" width="50" height="50">| 40 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+|Golden Bucket| <img src="/items/fishing/golden_bucket.gif" alt="Golden Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |God Bucket| <img src="/items/fishing/god_bucket.gif" alt="God Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
 |Fucket Bucket | <img src="/items/fishing/fucket_bucket.png" alt="Fucket Bucket" width="50" height="50">| 1 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-|Bone Bucket | <img src="/items/fishing/bone_bucket.png" alt="N/A" width="50" height="50">| N/A | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+|Bone Bucket | <img src="/items/fishing/bone_bucket.png" alt="N/A" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
   
 </center>
 
