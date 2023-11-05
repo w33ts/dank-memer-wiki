@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-04T22:58:41.329Z
+date: 2023-11-05T01:54:44.643Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -76,7 +76,7 @@ Each bucket has a different storage capacity, but you can increase how much your
 ## Creatures
 The creatures you can catch while fishing cannot be collected like with the previous command. You can keep a few in your fish tank or a spare bucket, but most will have to be sold.
 
-Each creature has a specific time UTC that it is available, a certain location it can be found, and most have at least one variant you can catch. Check out a complete list of the possible creatures, their times, locations, and variants, <a href="/Items/Fishing/Creatures" target="_blank">here</a>.
+Each creature has a specific time UTC that it is available, a certain location it can be found, and most have at least one variant you can catch. Check out a complete list of the possible creatures, their times, locations, and variants <a href="/Items/Fishing/Creatures" target="_blank">here</a>.
 
 ## Fish Tank Decorations {: #Decorations}
 If you want to save a few of your favorite fish, you can put them in your fish tank. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
