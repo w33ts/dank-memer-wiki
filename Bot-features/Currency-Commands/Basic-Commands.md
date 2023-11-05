@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-10-31T23:06:20.833Z
+date: 2023-11-05T02:29:19.722Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -214,7 +214,7 @@ Some items in the Fish Shop are restricted, though, and you'll notice they are g
 <br>
 
 ### <font color =b32d2d>Skin Shop</font> {: #SkinShop}
-The last shop you can access is the Skin Shop. This is where you can use Skin Fragments you've earned from duplicate skins to buy new <a href="Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. What is availabe in the shop is the same for everyone and it rotates every few hours.
+The last shop you can access is the Skin Shop. This is where you can use Skin Fragments you've earned from duplicate skins to buy new <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. What is availabe in the shop is the same for everyone and it rotates every few hours.
 
 <br>
 <center>
