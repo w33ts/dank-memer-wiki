@@ -2,7 +2,7 @@
 title: Adventure
 description: Learn about the adventure command, adventure guides, and rewards.
 published: true
-date: 2023-07-29T13:23:34.482Z
+date: 2023-11-05T01:50:57.745Z
 tags: vacation, adventure, space adventure, space, out west adventure, out west, brazil adventure, brazil, brasil, vacation adventure, pepe holidays, pepe winter wonderland, pepe goes trick or treating, pepe goes to the museum, pepe goes on vacation, pepe goes to brazil, halloween adventure, skins adventure, adventure guides, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T15:45:24.049Z
@@ -26,7 +26,7 @@ You can complete a full adventure before you have a cooldown, and then you have 
     <th>Available?</th>
     <tr align=center>
       <td>Pepe goes on <br> Vacation</td>
-      <td>1</td>
+      <td>2</td>
       <td>1 Minute per Interaction</td>
       <td>Yes</td>
     </tr>
@@ -46,13 +46,19 @@ You can complete a full adventure before you have a cooldown, and then you have 
       <td>Pepe goes to <br> Brazil</td>
       <td>2</td>
       <td>1 Minute per Interaction</td>
-      <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium User</a> Only</td>
+      <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium User Only</a></td>
     </tr>
         <tr align=center>
       <td>Pepe goes to the <br> Museum</td>
-      <td>3</td>
+      <td>4</td>
       <td>2 Minutes per Interaction</td>
       <td>Sundays Only <br> (<a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">UTC</a>)</td>
+    </tr>
+        <tr align=center>
+      <td>Pepe goes <br> Fishing with Friends</td>
+      <td>5</td>
+      <td>2 Minutes per Interaction</td>
+      <td><a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters Premium Pass Only</a></td>
     </tr>
         <tr align=center>
       <td>Pepe Winter <br> Wonderland</td>
@@ -62,13 +68,14 @@ You can complete a full adventure before you have a cooldown, and then you have 
     </tr>
     <tr align=center>
       <td>Pepe goes <br> Trick or Treating</td>
-      <td>3</td>
-      <td>Unknown</td>
+      <td>5</td>
+      <td>1 Minute per Interaction</td>
       <td>Halloween Only</td>
     </tr>
   </table>
   </center>
 </div>
+
 
 
 ## Adventure Guides
@@ -78,35 +85,51 @@ The adventure guides are user made, so they sometimes aren't updated with the la
 
 When a new adventure is released, the adventure guides are often shared on the <a href="https://www.reddit.com/r/dankmemer/" target="_blank">Dank Memer Reddit</a> or in the <a href="https://discord.gg/memers" target="_blank">Dank Memer Community Server (DMC)</a> in the grind strategy channel. Below are the current most updated adventure guides.
 
+There is currently no guide for the "Pepe goes Fishing with Friends" adventure, since it is the largest adventure ever with over 100 events to record.
+
 <br>
 <center>
   <table>
     <th>Adventure Guide</th>
-    <th>Created By</th>
+    <th>Created By (Discord Username)</th>
     <tr align=center>
       <td><a href="https://docs.google.com/spreadsheets/d/1MffBQskdCKXu3zCx9smLc_MepKg_BKldL7X5yhF0xr4/edit?usp=sharing" target="_blank">Vacation</a> <br> <a href="https://docs.google.com/spreadsheets/d/1MffBQskdCKXu3zCx9smLc_MepKg_BKldL7X5yhF0xr4/edit?usp=sharing" target="_blank">Museum</a></td>
-      <td>Alyssa the 🎰 addict#7481 <br> (911827272242176030)</td>
+      <td>alyssahatesdankmemer</td>
     </tr>
     <tr align=center>
-      <td><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Space</a><br><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Out West</a><br><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Winter Wonderland </a><br><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Trick or Treat</a><br> NOTE: the newest nodes have **not** been added </td>
+      <td><a href="https://discord.com/channels/682809584985178135/1091017663054098573/1145313952235016192">Space</a> <br> (Must join DMC server and have grinder role to access. Instructions below) </td>
+      <td>Eagle.Bearer</td>    
+    </tr>
+    <tr>
+   	<tr align=center>
+      <td><a href="https://docs.google.com/spreadsheets/d/1LVzQiBcTHRWL1_ZFzxs7j3mz1nzS2BDP-um5E6d24MA/edit?usp=sharing">Out West</a></td>
+      <td>Technocat#1610</td>
+    </tr>
+    <tr>
+    <tr align=center>
+      <td><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Winter Wonderland </a></td>
       <td>AwesomeDude</td>
+         	<tr align=center>
+      <td><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Trick or Treat</a></td>
+      <td>      RogueHollow, 9xoz, Wafflebowl, the_a_person, and callate_pls</td>
     </tr>
         <tr align=center>
       <td>
-        <a href="https://justpaste.it/a9lmt" target="_blank">Brazil</a><br>
-        This same guide to the **Brazil Adventure** <br>can be found pinned in the #grind-strategy channel <br> in the community server <a href="https://discord.com/channels/682809584985178135/1091017663054098573" target="_blank">here</a>.</td>
-      <td>DuneX22#5256</td>
+        <a href="https://docs.google.com/spreadsheets/d/1PQmwyLPm1dxTNidvPlMfwV-xmGi1_3mjPLk-QCDXlNE/edit#gid=0" target="_blank">Brazil</a><br></td>
+      <td>Dunex22#5256 and Techno Cat#1610</td>
     </tr>
   </table>
   </center>
 <br>
 
-In order to see the <a href="https://discord.com/channels/682809584985178135/1091017663054098573" target="_blank">grind strategy channel</a> in DMC, make sure to grab the "Grinder" role via the `#channels & roles` option at the top left of the server channel list.
+ In order to see the Space adventure guide in the Community server in the <a href="https://discord.com/channels/682809584985178135/1091017663054098573" target="_blank">grind strategy channel</a>, make sure to grab the "Grinder" role via the `#channels & roles` option at the top left of the server channel list</font>
 
 <br>
 <center>
   <img src="/bot-features/grinding/grinding.png" alt="Channels and Roles page in DMC." width=1069>
   </center>
+  
+
 
 ---
 
