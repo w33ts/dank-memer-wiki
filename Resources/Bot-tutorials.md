@@ -2,7 +2,7 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-10-30T22:17:36.158Z
+date: 2023-11-05T02:36:44.473Z
 tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
@@ -28,6 +28,7 @@ If you haven't played Dank Memer in a while, you can use the <a href="https://da
 | <a href="https://dankmemer.lol/tutorial/fighting" target="_blank">Fighting</a> | Learn about the new /fight command, /fight rankings, and how to create custom fight modes. |
 |<a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">Fish Buckets and Selling Fish</a> | Learn how to manage your fish buckets and to sell creatures. |
 |<a href="https://dankmemer.lol/tutorial/complete-fishing-tutorial" target="_blank">Fishing Complete Tutorial</a> | Read the complete fishing tutorial to get an overview of every subcommand and the main features.|
+|<a href="https://www.youtube.com/watch?v=c3fFkl6IHyI&ab_channel=DankMemerDiscordBot" target="_blank">Fishing Complete Video Tutorial</a> | A video guide going over all the new fishing commands and some basic info. |
 |<a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Fishing Items vs Legacy Fish Items</a> | Learn the difference between the new fishing items and old legacy fishing items.|
 |<a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">Fishing NPCs</a> | Learn about how the NPCs with fishing work and what they do.|
 | <a href="https://dankmemer.lol/tutorial/flows" target="_blank">Flows</a> | Learn how to use flows to make grinding easier than ever, how to add and remove flows, and how to create your own.|
