@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-05T01:16:01.294Z
+date: 2023-11-05T01:30:12.845Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -80,7 +80,8 @@ Saltwater creatures are generally found in ocean areas, like Vertigo Beach and t
 > **Please Note:** Times and variants are currently being added as discovered. Dank has announced how times work will be changing, so we will update ASAP.
 {.is-info}
 
-
+<center>
+  
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
 | Barracuda {: #Barracuda} | <img src="/items/fishing/creatures/barracuda.webp" alt="Barracuda" width="50">  | ??  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/barracuda_hq.gif" alt="HQ Barracuda" width="50"> | 7,500 |
@@ -100,6 +101,7 @@ Saltwater creatures are generally found in ocean areas, like Vertigo Beach and t
 | Swordfish {: #Swordfish} | <img src="/items/fishing/creatures/swordfish.webp" alt="Swordfish" width="50">  |  ??  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/swordfish_hq.gif" alt="HQ Swordfish" width="50"> | 12,000 |
 | Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  ??  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
 
+  </center>
 
 <br>
 
