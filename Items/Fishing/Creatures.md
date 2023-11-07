@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-05T01:30:12.845Z
+date: 2023-11-07T02:36:15.924Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -65,7 +65,7 @@ Freshwater creatures are creatures usually discovered in lakes, rivers, and pond
 | Red Arowana {: #RedArowana} | <img src="/items/fishing/creatures/redarowana.png" alt="Red Arowana" width="50">  |  ??  | Wily River | (2) <img src="/items/fishing/creatures/variants/redarowana_hq.gif" alt="HQ Red Arowana" width="50">  | 100,000 |
 | Salmon {: #Salmon} | <img src="/items/fishing/creatures/salmon.png" alt="Salmon" width="50">  |  ??  | Wily River | <img src="/items/fishing/creatures/variants/salmon_hq.gif" alt="HQ Salmon" width="50"> | 7,500 |
 | Skeleton Fish {: #SkeletonFish} | <img src="/items/fishing/creatures/skeletonfish.png" alt="Skeleton Fish" width="50">  |  12 Am - ?? | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/skeletonfish_hq.gif" alt="HQ Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_blue.png" alt="Blue Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_red.png" alt="Red Skeleton Fish" width="50"> | 7,500 | 
-| Spectral Fish {: #Spectral Fish} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | ??  | Crypt Keeper's Pond, Mystic Pond | (2) <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"> | 100,000 |
+| Spectral Fish {: #Spectral Fish} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | ??  | Crypt Keeper's Pond, Mystic Pond | <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"><img src="/items/fishing/creatures/variants/spectral_orange.png" alt="Orange Spectral Fish" width="50"> | 100,000 |
 | Zombie Fish {: #ZombieFish} | <img src="/items/fishing/creatures/zombiefish.png" alt="Zombie Fish" width="50">  | 12 AM - ??  | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/zombiefish_hq.gif" alt="HQ Zombie Fish" width="50"> <img src="/items/fishing/creatures/variants/zombiefish_chroma.png" alt="Chroma Zombie Fish" width="50">| 7,500 |
 
 
