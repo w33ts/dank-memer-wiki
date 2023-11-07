@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-05T02:23:31.088Z
+date: 2023-11-07T18:01:23.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -131,7 +131,7 @@ The idle fishing machine is a machine that will fish for you while you are away 
   <img src="/bot-features/fishing/fish_idle.png" alt="Fish leaderboard" width="400">
   </center>
 
-Once unlocked, the idle machine will automatically fish for you every 30 minutes and attempt to catch a fish. It is not guaranteed it will catch something, though, and it will continue to try every 30 minutes until the storage space is full. 
+Once unlocked, the idle machine will automatically fish for you every 30 minutes and attempt to catch a fish. It is not guaranteed it will catch something, though, and it will continue to operate every 30 minutes until the storage space is full. You will be notified when it's the last cycle before it's fully loaded.
 
 You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. The machine will fish at all available locations for you, so it can catch a variety of fish, including bosses.
 
