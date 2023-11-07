@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-07T17:58:27.147Z
+date: 2023-11-07T17:59:36.456Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -27,7 +27,7 @@ Before you can capture a boss at a location, you first have to capture one of ea
 | Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
 |Aspidochelone {: #Aspidochelone} | <img src="/items/fishing/creatures/aspidochelone.png" alt="Aspidochelone" width="50">  | All Day  | Camp Guillermo | (1) | ?? |
-|Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Jormungandr" width="50"> | ?? |
+|Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | ?? |
 |Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) | ?? |
 |Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | ?? |
 |Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Vertigo Beach | (1) | ?? |
@@ -203,7 +203,7 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Sardine {: #Sardine} | <img src="/items/fishing/creatures/sardine.png" alt="Sardine" width="50">  | 4am - 9pm | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/sardine_hq.gif" alt="HQ Sardine" width="50"> | 2,500 |
 | Shrimp {: #Shrimp} | <img src="/items/fishing/creatures/shrimp.png" alt="Shrimp" width="50">  | 10pm - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/shrimp_hq.gif" alt="HQ Shrimp" width="50"> <img src="/items/fishing/creatures/variants/shrimp_chroma.png" alt="Chroma Shrimp" width="50"> | 4,000 |
 | Starfish {: #Starfish} | <img src="/items/fishing/creatures/starfish2.png" alt="Starfish" width="50">  | 4am - 3p´m  | Vertigo Beach | <img src="/items/fishing/creatures/variants/starfish2_hq.gif" alt="HQ Starfish" width="50"> | 7,500 |
-| **Boss:** <br> Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | (1) | ?? |
+| **Boss:** <br> Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | ?? |
 |**Boss:** <br>  Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Vertigo Beach | (1) | ?? |
 
 </center>
