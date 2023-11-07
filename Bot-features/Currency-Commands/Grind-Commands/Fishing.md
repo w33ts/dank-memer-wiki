@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-07T18:05:20.159Z
+date: 2023-11-07T20:16:59.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -79,7 +79,7 @@ Traveling to a different location takes 60 minutes by default, but you can speed
 <br>
 
 ### NPCs {: #FishNPCs}
-J
+
 
 | NPC | Image | Description |  Location(s) |
 |:--------:|:------:|:------:|:------:|
