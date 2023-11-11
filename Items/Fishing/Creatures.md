@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-07T18:12:58.614Z
+date: 2023-11-11T21:55:32.738Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -28,7 +28,7 @@ Before you can capture a boss at a location, you first have to capture one of ea
 |:--------:|:------:|:------:|:------:|:------:|:------:|
 |Aspidochelone {: #Aspidochelone} | <img src="/items/fishing/creatures/aspidochelone.png" alt="Aspidochelone" width="50">  | All Day  | Camp Guillermo | (1) | ?? |
 |Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | ?? |
-|Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) | ?? |
+|Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> | ?? |
 |Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | ?? |
 |Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Vertigo Beach | (1) | ?? |
 |Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | (1)| ?? |
