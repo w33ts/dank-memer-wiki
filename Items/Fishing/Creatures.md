@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-11T22:00:37.700Z
+date: 2023-11-11T22:02:33.779Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -142,7 +142,7 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Skeleton Fish {: #SkeletonFish} | <img src="/items/fishing/creatures/skeletonfish.png" alt="Skeleton Fish" width="50">  |  All Day | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/skeletonfish_hq.gif" alt="HQ Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_blue.png" alt="Blue Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_red.png" alt="Red Skeleton Fish" width="50"> | 7,500 |
 | Spectral Fish {: #Spectral Fish} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | All Day  | Crypt Keeper's Pond, Mystic Pond | <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"><img src="/items/fishing/creatures/variants/spectral_orange.png" alt="Orange Spectral Fish" width="50">  | 100,000 |
 | Zombie Fish {: #ZombieFish} | <img src="/items/fishing/creatures/zombiefish.png" alt="Zombie Fish" width="50">  | All Day  | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/zombiefish_hq.gif" alt="HQ Zombie Fish" width="50"> <img src="/items/fishing/creatures/variants/zombiefish_chroma.png" alt="Chroma Zombie Fish" width="50">| 7,500 |
-|**Boss:** <br> Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) | ?? |
+|**Boss:** <br> Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="Gorgolox" width="50">  | ?? |
 
 
 </center>
@@ -175,13 +175,13 @@ Every location has a unique group of fish you can catch when fishing there. Each
 |:--------:|:------:|:------:|:------:|:------:|:------:|
   | Barracuda {: #Barracuda} | <img src="/items/fishing/creatures/barracuda.webp" alt="Barracuda" width="50">  | 10pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/barracuda_hq.gif" alt="HQ Barracuda" width="50"> | 7,500 |
 | Cod {: #Cod} | <img src="/items/fishing/creatures/cod.webp" alt="Cod" width="50">  | 10am - 9pm | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/cod_hq.gif" alt="HQ Cod" width="50"> | 5,000 |
-| Giant Squid {: #GiantSquid} | <img src="/items/fishing/creatures/giantsquid.webp" alt="Giant Squid" width="50">  | 4pm - 9am  | Underwater Sanctuary | (2) <img src="/items/fishing/creatures/variants/giantsquid2_hq.gif" alt="HQ Giant Squid" width="50"> | 100,000 |
-| Mahi Mahi {: #MahiMahi} | <img src="/items/fishing/creatures/mahimahi.webp" alt="Mahi Mahi" width="50">  | 10am - 3am  | Underwater Sanctuary | (2) <img src="/items/fishing/creatures/variants/mahimahi_hq.gif" alt="HQ Mahi Mahi" width="50"> | 12,000 |
+| Giant Squid {: #GiantSquid} | <img src="/items/fishing/creatures/giantsquid.webp" alt="Giant Squid" width="50">  | 4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/giantsquid2_hq.gif" alt="HQ Giant Squid" width="50"> <img src="/items/fishing/creatures/variants/giantsquid_chroma.png" alt="Chroma Giant Squid" width="50"> | 100,000 |
+| Mahi Mahi {: #MahiMahi} | <img src="/items/fishing/creatures/mahimahi.webp" alt="Mahi Mahi" width="50">  | 10am - 3am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/mahimahi_hq.gif" alt="HQ Mahi Mahi" width="50"> <img src="/items/fishing/creatures/variants/mahimahi_chroma.png" alt="Chroma Mahi Mahi" width="50"> | 12,000 |
 | Marlin {: #Marlin} | <img src="/items/fishing/creatures/marlin.webp" alt="Marlin" width="50">  | 4am - 9pm  | Underwater Sanctuary | (2) <img src="/items/fishing/creatures/variants/marlin_hq.gif" alt="HQ Marlin" width="50"> | 100,000 |
 | Salmon {: #Salmon} | <img src="/items/fishing/creatures/salmon.png" alt="Salmon" width="50">  |  4pm - 3am  | Underwater Sanctuary, Wily River | <img src="/items/fishing/creatures/variants/salmon_hq.gif" alt="HQ Salmon" width="50"> | 7,500 |
 | Sardine {: #Sardine} | <img src="/items/fishing/creatures/sardine.png" alt="Sardine" width="50">  | 4am - 9pm  | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/sardine_hq.gif" alt="HQ Sardine" width="50"> | 2,500 |
 | Swordfish {: #Swordfish} | <img src="/items/fishing/creatures/swordfish.webp" alt="Swordfish" width="50">  |  4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/swordfish_hq.gif" alt="HQ Swordfish" width="50"> | 12,000 |
-| Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  ??  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
+| Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  10am - 9pm | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
 |**Boss:** Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | (1) | ?? |
   
   </center>
