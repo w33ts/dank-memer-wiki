@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-11T21:55:32.738Z
+date: 2023-11-11T22:00:37.700Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -88,10 +88,10 @@ Saltwater creatures are generally found in ocean areas, like Vertigo Beach and t
 | Butterfly Fish {: #ButterflyFish} | <img src="/items/fishing/creatures/butterflyfish.png" alt="Butterflyfish" width="50">  | 4am - 9pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/butterflyfish_hq.gif" alt="HQ Butterfly Fish" width="50"><img src="/items/fishing/creatures/variants/butterflyfish_chroma.webp" alt="Chroma Butterfly Fish" width="50"> | 100,000 |
 | Cod {: #Cod} | <img src="/items/fishing/creatures/cod.webp" alt="Cod" width="50">  | 10am - 9pm  | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/cod_hq.gif" alt="HQ Cod" width="50"> | 5,000 |
 | Flounder {: #Flounder} | <img src="/items/fishing/creatures/flounder.png" alt="Barracuda" width="50">  | 10am - 3am  | Vertigo Beach | <img src="/items/fishing/creatures/variants/flounder_hq.gif" alt="HQ Flounder" width="50"> | 12,000 |
-| Giant Squid {: #GiantSquid} | <img src="/items/fishing/creatures/giantsquid.webp" alt="Giant Squid" width="50">  | 4pm - 9am  | Underwater Sanctuary | (2) <img src="/items/fishing/creatures/variants/giantsquid2_hq.gif" alt="HQ Giant Squid" width="50"> | 100,000 |
+| Giant Squid {: #GiantSquid} | <img src="/items/fishing/creatures/giantsquid.webp" alt="Giant Squid" width="50">  | 4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/giantsquid2_hq.gif" alt="HQ Giant Squid" width="50"> <img src="/items/fishing/creatures/variants/giantsquid_chroma.png" alt="Chroma Giant Squid" width="50"> | 100,000 |
 |Hammerhead Shark {: #HammerheadShark} | <img src="/items/fishing/creatures/hammerheadshark.png" alt="Hammerhead Shark" width="50">  | 4pm - 9am  | Vertigo Beach | <img src="/items/fishing/creatures/variants/hammerheadshark_hq.gif" alt="HQ Hammerhead Shark" width="50"> | 100,000 |
 | Jellyfish {: #Jellyfish} | <img src="/items/fishing/creatures/jellyfish.png" alt="Jellyfish" width="50">  | 10pm - 9am  | Vertigo Beach | <img src="/items/fishing/creatures/variants/jellyfish_hq.gif" alt="HQ Jellyfish" width="50"> <img src="/items/fishing/creatures/variants/jellyfish_chroma.png" alt="Chroma Jellyfish" width="50"> | 5,000 |
-| Mahi Mahi {: #MahiMahi} | <img src="/items/fishing/creatures/mahimahi.webp" alt="Mahi Mahi" width="50">  |  10am - 3am | Underwater Sanctuary | (2) <img src="/items/fishing/creatures/variants/mahimahi_hq.gif" alt="HQ Mahi Mahi" width="50"> | 12,000 |
+| Mahi Mahi {: #MahiMahi} | <img src="/items/fishing/creatures/mahimahi.webp" alt="Mahi Mahi" width="50">  |  10am - 3am | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/mahimahi_hq.gif" alt="HQ Mahi Mahi" width="50"> <img src="/items/fishing/creatures/variants/mahimahi_chroma.png" alt="Chroma Mahi Mahi" width="50"> | 12,000 |
 | Marlin {: #Marlin} | <img src="/items/fishing/creatures/marlin.webp" alt="Marlin" width="50">  | 4am - 9pm  | Underwater Sanctuary | (2) <img src="/items/fishing/creatures/variants/marlin_hq.gif" alt="HQ Marlin" width="50"> | 100,000 |
 | Pufferfish {: #Pufferfish} | <img src="/items/fishing/creatures/pufferfish.png" alt="Pufferfish" width="50">  |  4pm - 9am  |Vertigo Beach | <img src="/items/fishing/creatures/variants/pufferfish_hq.gif" alt="HQ Pufferfish" width="50"> <img src="/items/fishing/creatures/variants/pufferfish_spineless.png" alt="Spineless Pufferfish" width="50"> <img src="/items/fishing/creatures/variants/pufferfish_chroma.webp" alt="Chroma Pufferfish" width="50"> | 12,000 |
 | Salmon {: #Salmon} | <img src="/items/fishing/creatures/salmon.png" alt="Salmon" width="50">  |  4pm - 3am  | Underwater Sanctuary, Wily River | <img src="/items/fishing/creatures/variants/salmon_hq.gif" alt="HQ Salmon" width="50"> | 7,500 |
@@ -99,7 +99,7 @@ Saltwater creatures are generally found in ocean areas, like Vertigo Beach and t
 | Shrimp {: #Shrimp} | <img src="/items/fishing/creatures/shrimp.png" alt="Shrimp" width="50">  | 10pm - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/shrimp_hq.gif" alt="HQ Shrimp" width="50"> <img src="/items/fishing/creatures/variants/shrimp_chroma.png" alt="Chroma Shrimp" width="50"> | 4,000 |
 | Starfish {: #Starfish} | <img src="/items/fishing/creatures/starfish2.png" alt="Starfish" width="50">  | 4am - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/starfish2_hq.gif" alt="HQ Starfish" width="50"> | 7,500 |
 | Swordfish {: #Swordfish} | <img src="/items/fishing/creatures/swordfish.webp" alt="Swordfish" width="50">  |  4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/swordfish_hq.gif" alt="HQ Swordfish" width="50"> | 12,000 |
-| Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  ??  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
+| Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  10am - 9pm  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
 
   </center>
 
