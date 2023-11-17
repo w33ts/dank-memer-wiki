@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-17T07:20:14.080Z
+date: 2023-11-17T09:06:27.980Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -11,11 +11,15 @@ dateCreated: 2023-11-03T20:56:10.515Z
 # Fishing "Items"
 While you can find some real items when fishing with Dank Memer, most of the items you use and find are not like other items in the bot. 
 
-With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. You can read more about this change in the <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items Tutorial.</a> 
+With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. 
+
+You will not find fishing tools, baits, or creatures in `/inventory`. You can only see what your tools and baits through the equipment button in the `/fish catch` command or in `/fish guide`. You can see the creatures you own in `/fish buckets`. Read more about the new fish commands <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank"> here.</a> 
+
+You can read more about this change in the <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items Tutorial.</a> 
 
 
 ## Tools {: #Tools}
-The old fishing pole item was retired, and all new tools were created for the fishing update in 2023. These tools can be found in the <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box item</a>, which is obtainable around the bot, or purchased from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. They can also be gifted or traded to you by an NPC. 
+The old fishing pole item was retired, and all new tools were created for the fishing update in 2023. These tools can be found in the <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box item</a>, which is obtainable around the bot, or purchased from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. They can also be gifted or traded to you by a <a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">fishing NPC.</a>
 
 Each tool has slightly different abilities when fishing, and a different durability or number of times it can be used. Some tools can be improved by upgrading certain skills in `/fish skills`.
 
@@ -52,7 +56,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
   </center>
 
 ## Buckets {: #Buckets}
-All the creatures caught while fishing won't enter your normal Dank Memer /inventory and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the dank Memer website for complete instructions.
+All the creatures caught while fishing won't enter your normal Dank Memer /inventory and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="/https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the dank Memer website for complete instructions.
 
 Each bucket has a different storage capacity, but you can increase how much your buckets can hold by upgrading the Storage Specialist skill in `/fish skills`. You can only unlock a bucket one time, but there are a variety of buckets you can buy and earn.
 
@@ -67,7 +71,7 @@ Each bucket has a different storage capacity, but you can increase how much your
 |Golden Bucket| <img src="/items/fishing/golden_bucket.gif" alt="Golden Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |God Bucket| <img src="/items/fishing/god_bucket.gif" alt="God Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
 |Fucket Bucket | <img src="/items/fishing/fucket_bucket.png" alt="Fucket Bucket" width="50" height="50">| 1 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-|Bone Bucket | <img src="/items/fishing/bone_bucket2.png" alt="N/A" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+|Bone Bucket | <img src="/items/fishing/bone_bucket.png" alt="N/A" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
   
 </center>
 
