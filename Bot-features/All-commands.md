@@ -2,7 +2,7 @@
 title: All commands
 description: 
 published: true
-date: 2023-07-29T12:45:15.218Z
+date: 2023-11-17T09:33:50.386Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T22:20:13.396Z
@@ -20,93 +20,100 @@ dateCreated: 2023-04-30T22:20:13.396Z
       </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Achievements" target="_blank">Achievements</a></td>
-  	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Deposit" target="_blank">Deposit</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">Serverevents</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">Dig</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Marriage" target="_blank">Marriage</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Showcase" target="_blank">Showcase</a></td>
   <td style="border-left: 5px solid #000000;" cellspacing="0"><a href="/Items/All-items" target="_blank">All Items</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Advancements" target="_blank">Advancements -</a> <br><a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Levels</a>, <a href="/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">Omega</a>,<br>  <a href="/Bot-features/Currency-Commands/Advancements#Prestige" target="_blank">Prestige</a>, <br> <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">Upgrades</a>, <a href="/Bot-features/Currency-Commands/Advancements#Vote" target="_blank"> Vote</a></td>
-  	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">Dig</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Marriage" target="_blank">Marriage</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">Shop</a></td>
+  	<td><a href="/Items/Drops" target="_blank">Drops</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">Monthly</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Skins" target="_blank">Skins</a></td>
   <td style="border-left: 5px solid #000000;"><a href="/Items/Collectables" target="_blank">Collectables</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a></td>
-  	<td><a href="/Items/Drops" target="_blank">Drops</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">Monthly</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Showcase" target="_blank">Showcase</a></td>
+  	<td><a href="/home#Event" target="_blank">Event</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a></td>
   <td style="border-left: 5px solid #000000;"><a href="/Items/Consumables" target="_blank">Consumables</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Badges" target="_blank">Badges</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Skins" target="_blank">Skins</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">Notifications</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a></td>
   <td style="border-left: 5px solid #000000;"><a href="/Items/Drops" target="_blank">Drops</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Balance" target="_blank">Balance</a></td>
-  	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Fish" target="_blank">Fish</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">Notifications</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Lootboxes" target="_blank">Lootboxes</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fishing</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">Title</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Fishing" target="_blank">Fishing "Items"</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">Bankrob</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Friends" target="_blank">Friends</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Packs" target="_blank">Packs</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Lootboxes" target="_blank">Lootboxes</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Beg" target="_blank">Beg</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Giveaways" target="_blank">Giveaway</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">Title</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Power-ups" target="_blank">Power-ups</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Packs" target="_blank">Packs</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Bundles" target="_blank">Bundles</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Highlow" target="_blank">Highlow</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Sellables" target="_blank">Sellables</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a></td>
+    <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Power-ups" target="_blank">Power-ups</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Compare" target="_blank">Compare</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Tools" target="_blank">Tools</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a></td>
+    <td><a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Sellables" target="_blank">Sellables</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Craft" target="_blank">Craft</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">Inventory</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a></td>
-    <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a></td>
-  <td style="border-left: 5px solid #000000;"></td>
+    <td><a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Tools" target="_blank">Tools</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">Item</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a></td>
-    <td><a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a></td>
   <td style="border-left: 5px solid #000000;"></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">Currencylog</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">Leaderboard</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Search" target="_blank">Search</a></td>
+    <td></td>
   <td style="border-left: 5px solid #000000;"></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">Daily</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Lotteries" target="_blank">Lottery</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Search" target="_blank">Search</a></td>
-    <td><a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a></td>
+    <td><a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">Serverevents</a></td>
+    <td></td>
+  <td style="border-left: 5px solid #000000;"></td>
+</tr>
+<tr align=center>
+  	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Deposit" target="_blank">Deposit</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">Shop</a></td>
+  	<td></td>
   <td style="border-left: 5px solid #000000;"></td>
 </tr>
   </table>
@@ -127,27 +134,27 @@ dateCreated: 2023-04-30T22:20:13.396Z
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reset" target="_blank">Resetmydata</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a></td>
   	<td><a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a></td>
   	<td><a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a></td>
+    <td><a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a></td>
-    <td><a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></td>
+    <td></td>
 </tr>
    </table>
  </div>
@@ -170,7 +177,7 @@ dateCreated: 2023-04-30T22:20:13.396Z
 </tr>
 <tr align= "center">
     <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Connect4" target="_blank">Connect4</a></td>
-  	<td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#TTT" target="_blank">Tic-Tac-Toe</a></td>
+  	<td><a href=" /Bot-features/Fun-Games-Image/Games-and-Wagers#TTT" target="_blank">Tic-Tac-Toe</a></td>
 </tr>
 <tr align= "center">
     <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Fight" target="_blank">Fight</a></td>
@@ -183,7 +190,6 @@ dateCreated: 2023-04-30T22:20:13.396Z
 </table>
       </div>
   </center>
-</body>
 
 
 <br>
