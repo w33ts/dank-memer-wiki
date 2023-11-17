@@ -2,7 +2,7 @@
 title: Fishing Skills
 description: Learn about the different fishing skills you can upgrade to make fishing easier, faster, and more profitable.
 published: true
-date: 2023-11-17T09:24:21.401Z
+date: 2023-11-17T09:25:48.864Z
 tags: fish buckets, fishing, fish skills, fish catch, fish guide, fishing npcs, skill points, skill challenges
 editor: markdown
 dateCreated: 2023-11-17T09:24:21.401Z
@@ -471,9 +471,9 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 
 | Challenge Name | Description| Skill Points Earned | Useful Tip |
 |:--------:|:------:|:------:|:--------------:|
-| Saltwater Creatures | Catch 1,000 <a href="/Items/Fishing/Creatures#Saltwater" target="_blank">Saltwater Creatures</a> | 1 | Use <a href="Items/Fishing#Tools" target="_blank">Nets, Harpoons, and Dynamite</a> to catch multiple fish at a time |
-| Freshwater Creatures | Catch 1,000 <a href="/Items/Fishing/Creatures#Freshwater" target="_blank">Freshwater Creatures</a> | 1 | Use <a href="Items/Fishing#Tools" target="_blank">Nets, Harpoons, and Dynamite</a> to catch multiple fish at a time |
-| Bossy Fisher | Catch every <a href="/Items/Fishing/Creatures#Bosses" target="_blank">available boss</a> at least 3 times | 1 | Use <a href="Items/Fishing#Baits" target="_blank">Lucky Bait</a> and <a href="/Items/Fishing#Tools" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
+| Saltwater Creatures | Catch 1,000 <a href="/Items/Fishing/Creatures#Saltwater" target="_blank">Saltwater Creatures</a> | 1 | Use <a href="/Items/Fishing#Tools" target="_blank">Nets, Harpoons, and Dynamite</a> to catch multiple fish at a time |
+| Freshwater Creatures | Catch 1,000 <a href="/Items/Fishing/Creatures#Freshwater" target="_blank">Freshwater Creatures</a> | 1 | Use <a href="/Items/Fishing#Tools" target="_blank">Nets, Harpoons, and Dynamite</a> to catch multiple fish at a time |
+| Bossy Fisher | Catch every <a href="/Items/Fishing/Creatures#Bosses" target="_blank">available boss</a> at least 3 times | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> and <a href="/Items/Fishing#Tools" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
 | NPC Greeter | Interact with <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">every available NPC</a> at least once | 1 | Use the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#Locations" target="_blank">location pages</a> in your guide book to see where NPCs might be and talk with other users to find out where they've been seen that day. Increase <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Social" target="_blank">Social skills</a> for better NPC interactions |
 | Traveler | Fish at every <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#Locations" target="_blank">non-holiday location</a> at least once | 1 | Apply points to the Cartographer Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">Economy Category</a> for shorter travel times |
 | Rod Snapper | Break 50 Fishing Rods | 1 | Use Fish Tokens to buy fishing rods from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. If you want to complete this faster, make sure NOT to apply skill points to the Tool Tamer skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Skills</a> category |
