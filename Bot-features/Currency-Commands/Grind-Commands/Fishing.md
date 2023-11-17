@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-07T20:16:59.460Z
+date: 2023-11-17T06:25:29.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -145,8 +145,7 @@ If you want to save a few of your favorite fish, you can put them in your fish t
 
 You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade the Aquarium Keeper skill, you can increase what the tank can hold.
 
-You can see a full list of the possible decorations so far <a href="
-/Items/Fishing#Decorations" target="_blank">here. </a>
+You can see a full list of the possible decorations so far <a href="/Items/Fishing#Decorations" target="_blank">here. </a>
 
 
 ---
