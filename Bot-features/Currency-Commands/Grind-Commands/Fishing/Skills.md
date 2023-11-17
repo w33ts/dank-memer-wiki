@@ -2,7 +2,7 @@
 title: Fishing Skills
 description: Learn about the different fishing skills you can upgrade to make fishing easier, faster, and more profitable.
 published: true
-date: 2023-11-17T09:25:48.864Z
+date: 2023-11-17T09:27:01.246Z
 tags: fish buckets, fishing, fish skills, fish catch, fish guide, fishing npcs, skill points, skill challenges
 editor: markdown
 dateCreated: 2023-11-17T09:24:21.401Z
@@ -486,9 +486,9 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 | Hungry Bodybuilder | Accept 50 requests from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">Chad</a> to take your fish you just caught | 1 | Apply Skill Points to the So <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Social" target="_blank">Social Skills</a> that help NPCs appear more often. |
 | Show Off | Feature a <a href="/Items/Fishing/Creatures" target="_blank">creature</a> that weighs at least 750 pounds | 1 | Use a <a href="/Items/Fishing#Baits" target="_blank">Weighted Bait</a> to help your creatures be on the larger side of what is possible. |
 | Humble | Feature a <a href="/Items/Fishing/Creatures" target="_blank">creature</a> that weighs under one pound | 1 | Try to fish for smaller creatures like shrimp and minnows. |
-| Wormussy | Catch 100 <a href="/Items/Fishing/Creatures#Charybdis" target="_blank">Charybdis</a> creatures | 3 | Use <a href="Items/Fishing#Baits" target="_blank">Lucky Bait</a> and <a href="/Items/Fishing#Tools" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
+| Wormussy | Catch 100 <a href="/Items/Fishing/Creatures#Charybdis" target="_blank">Charybdis</a> creatures | 3 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> and <a href="/Items/Fishing#Tools" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
 | Bucket B^tch | Own at least 3 <a href="/Items/Fishing#Buckets" target="_blank">buckets</a> | 1 | Upgrade the Shop Keeper skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">Economy Skills</a> category to make the buckets in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> cheaper. |
-| Golden Dorado | Catch 50 Golden Dorados | 1 | Use <a href="Items/Fishing#Baits" target="_blank">Lucky Bait</a> to help you catch rarer fish and <a href="/Items/Fishing/Creatures" target="_blank">check when the Golden Dorado is available</a>  |
+| Golden Dorado | Catch 50 Golden Dorados | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> to help you catch rarer fish and <a href="/Items/Fishing/Creatures" target="_blank">check when the Golden Dorado is available</a>  |
 | Truly Idle | Keep your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">idle machine</a> running non-stop for 18 hours | 2 | Increase the AFK Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Category</a> so your idle machine will have more time before being full. |
 | Mines! | Hit 100 Mines | 1 | Avoid applying skill points to the Keen Angler Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Nature Category</a> until after you've finished this task. Also avoid using any <a href="/Items/Fishing#Tools" target="_blank">tools</a> when hitting mines. |
 | Waiting Game | Collect 3 <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">Season Pass</a> tier rewards at once | 1 | If using the free pass, make sure to verify there are 3 rewards waiting in `/fish season` and not just that you've gone up 3 levels. |
@@ -497,7 +497,7 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 | Tuesday Bliss | On a single Tuesday (UTC), catch 25 koi fish | 1 | Check when <a href="/Items/Fishing/Creatures" target="_blank"> the koi fish</a> is available and where it can be found so you know where to fish. |
 | Weight Lifter | Use 35 heavy baits completely | 1 | Make friends with <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">Chad</a> so weighted baits are available to purchase in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. |
 | Punch Badosz' Throat | Sell 1,000 fish named Badosz for tokens | 1 | Use the select all button when <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing a bucket</a> to change the name of multiple fish at a time. |
-| Chance Taker | Open 100 Bait Boxes | 1 | Use <a href="Items/Fishing#Baits" target="_blank">Magnet Bait </a> to fish for items and collect bait boxes when they are available. |
+| Chance Taker | Open 100 Bait Boxes | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Magnet Bait </a> to fish for items and collect bait boxes when they are available. |
 | Strong Alibi | <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob 500 million</a> coins while your idle fishing machine is running | 1 | If robbing a friend, use a <a href="/Items/Power-ups#Caipirinha" target="_blank">caipirinha</a> before each rob to avoid dropping coins. |
 | I Hate Tokens | Spend 30,000 tokens in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> | 1 | Max out the Economist skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">Economy Category</a> to double the tokens you can earn for selling fish during Happy Hour. |
 
