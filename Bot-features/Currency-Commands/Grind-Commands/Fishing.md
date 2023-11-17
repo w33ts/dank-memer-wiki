@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-17T07:55:20.607Z
+date: 2023-11-17T09:14:11.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -102,7 +102,7 @@ See more information about what each page of the guidebook shows <a href="
 /Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">here. </a>
 
 
-## Fish Leaderboard {: #FishLeaderboard}
+## Fish Leaderboard {: #FishLeaderboards}
 Every day there is a special competition for all users to compete to be the top of a few leaderboards for fishing. At the start of a new UTC day, one location, one npc, and three fish are chosen for the competition.
 
 The new choices are announced each day in the Dank Memer Community server, or you can see them by doing the `/fish leaderboards` command.
