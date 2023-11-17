@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-17T07:15:34.730Z
+date: 2023-11-17T07:20:14.080Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -52,7 +52,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
   </center>
 
 ## Buckets {: #Buckets}
-All the creatures caught while fishing won't enter your normal Dank Memer /inventory and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="/https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the dank Memer website for complete instructions.
+All the creatures caught while fishing won't enter your normal Dank Memer /inventory and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the dank Memer website for complete instructions.
 
 Each bucket has a different storage capacity, but you can increase how much your buckets can hold by upgrading the Storage Specialist skill in `/fish skills`. You can only unlock a bucket one time, but there are a variety of buckets you can buy and earn.
 
