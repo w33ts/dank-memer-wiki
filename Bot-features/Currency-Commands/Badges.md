@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2023-08-08T22:50:23.492Z
+date: 2023-11-17T09:23:53.324Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -34,7 +34,7 @@ There are four types of badges you might see in the bot:
 
 For most badges, there are golden and platinum versions available. Getting the gold badge unlocks the main badge and rewards you with a 15% <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">Coin Multiplier</a> bonus **per** badge.
 
-You can unlock the platinum version of each badge by reaching a second milestone listed in `/badges list`. The platinum version does not give any extra rewards and is just a platinum **skin** for the badge.
+You can unlock the platinum version of each badge by reaching a second milestone listed in `/badges list`. The platinum version does not give any extra rewards and is just a platinum **skin** for the badge. 
 
 If you have unlocked a platinum badge and you want to use the golden badge art instead, you can change the art with `/skins select badge`. 
 
@@ -45,8 +45,12 @@ There are currently two upkeep badges possible to unlock. Upkeep required badges
 
 | Badge Name | Gold Badge Image | Gold Badge Requirement | Platinum Badge Skin | Platinum Badge Requirement |
 |:------:|:----:|:------:|:------:|:----:|
+| Daily Devotee | <img src="/bot-features/dank-goals/badges/dailydevoteegold.png" alt="Daily Devotee" width="50" height="50"> | Have a daily streak of 420 | <img src="/bot-features/dank-goals/badges/dailydevoteeplatinum.png" alt="Daily Devotee Platinum" width="50" height="50"> | Have a daily streak of 666 |
+| Seasoned Angler {: #Angler} | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge.webp" alt="Seasoned Angler Badge" width="50" height="50"> | Complete the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide book</a> | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge_platinum.webp" alt="Seasoned Angler Platinum" width="50" height="50"> | Rank 1st on one of the daily <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLeaderboards" target="_blank">/fish leaderboards</a> |
 | Marital Marvel | <img src="/bot-features/dank-goals/maritalmarvel.png" alt="Marital Marvel" width="50" height="50"> | Stay married for 16 weeks | <img src="/bot-features/dank-goals/badges/maritalmarvelplatinum.png" alt="Marital Marvel Platinum" width="50" height="50"> | Stay married for 52 weeks |
 | Goldzilla | <img src="/bot-features/dank-goals/goldzilla.png" alt="Rock" width="50" height="50"> | Have a net worth of 100,000,000,000 | <img src="/bot-features/dank-goals/badges/goldzillaplatinum.png" alt="Goldzilla Platinum" width="50" height="50"> | Have a net worth of 300,000,000,000 |
+
+**Note:** For the Seasoned Angler Badge, it is possible to unlock the platinum version before you unlock the gold version. If you do this, you won't see the badge on your profile since the platinum version is a skin and not the full badge. You can see the platinum badge in `/skin select badge` until you've unlocked the gold version.
 
 <br>
 
@@ -61,21 +65,20 @@ The currently obtainable badges are badges you can unlock, and they stay unlocke
 | Hide and Seek Champion | <img src="/bot-features/dank-goals/hideandseekchampion.png" alt="Hide and Seek Champion" width="50" height="50"> | Successfully `/search` 10,000 times | <img src="/bot-features/dank-goals/badges/hideandseekchampionplatinum.png" alt="Hide and Seek Champion Platinum" width="50" height="50"> | Successfully `/search` 15,000 times |
 | Crime Lord | <img src="/bot-features/dank-goals/crimelord.png" alt="Crimelord" width="50" height="50"> | Successfully commit a `/crime` 10,000 times | <img src="/bot-features/dank-goals/badges/crimelordplatinum.png" alt="Crimelord Platinum" width="50" height="50"> | Successfully commit a `/crime` 10,000 times |
 | Meme Connoisseur | <img src="/bot-features/dank-goals/memeconnoisseur.png" alt="Meme Connoisseur" width="50" height="50"> | Post 2,000 trending memes | <img src="/bot-features/dank-goals/badges/memeconnoisseurplatinum.png" alt="Meme Connoisseur Platinum" width="50" height="50"> | Post 3,000 trending memes |
-| Market Manipulater | <img src="/bot-features/dank-goals/marketmanipulator.png" alt="Market Manipulator" width="50" height="50"> | Successfully complete other people their offers (sell or buy) 7,500 times | <img src="/bot-features/dank-goals/badges/marketmanipulatorplatinum.png" alt="Market Manipulator Platinum" width="50" height="50"> | Successfully complete other people their offers (sell or buy) 15,000 times |
+| Market Manipulater {: #Market} | <img src="/bot-features/dank-goals/marketmanipulator.png" alt="Market Manipulator" width="50" height="50"> | Successfully complete other people their offers (sell or buy) 7,500 times | <img src="/bot-features/dank-goals/badges/marketmanipulatorplatinum.png" alt="Market Manipulator Platinum" width="50" height="50"> | Successfully complete other people their offers (sell or buy) 15,000 times |
 | Charity Leader | <img src="/bot-features/dank-goals/charityleader.png" alt="Charity Leader" width="50" height="50"> | Host 1,000 global giveaways | <img src="/bot-features/dank-goals/badges/charityleaderplatinum.png" alt="Charity Leader Platinum" width="50" height="50"> | Host 1,500 global giveaways |
 | Server Lifeblood | <img src="/bot-features/dank-goals/serverlifeblood.png" alt="Server Lifeblood" width="50" height="50"> |Donate 25,000,000,000 to server pools | <img src="/bot-features/dank-goals/badges/serverlifebloodplatinum.png" alt="Server Lifeblood Platinum" width="50" height="50"> | Donate 100,000,000,000 to server pools |
 | Pet Handling Expert | <img src="/bot-features/dank-goals/pethandlingexpert.png" alt="Pet Handling Expert" width="50" height="50"> | Have 4 prestige 1+ pets at the same time | <img src="/bot-features/dank-goals/badges/pethandlingexpertplatinum.png" alt="Pet Handling Expert Platinum" width="50" height="50"> | Have 8 prestige 1+ pets at the same time | 
 | BANG BANG BANG Expert | <img src="/bot-features/dank-goals/bangbangbangexpert.png" alt="BANG BANG BANG Expert" width="50" height="50"> | Successfully catch 250 dragons | <img src="/bot-features/dank-goals/badges/bangbangbangexpertplatinum.png" alt="BANG BANG BANG Expert Platinum" width="50" height="50"> | Successfully catch 400 dragons | 
 | Illegal Pet Fighter | <img src="/bot-features/dank-goals/illegalpetfighter.png" alt="Illegal Pet Fighter" width="50" height="50"> | Win 4,000 pet fights | <img src="/bot-features/dank-goals/badges/illegalpetfighterplatinum.png" alt="Illegal Pet Fighter Platinum" width="50" height="50"> | Win 5,000 pet fights |
-| Rod Master | <img src="/bot-features/dank-goals/rodmaster.png" alt="Rod Master" width="50" height="50"> | Catch 250 legendary fishes | <img src="/bot-features/dank-goals/badges/rodmasterplatinum.png" alt="Rod Master Platinum" width="50" height="50"> | Catch 400 legendary fishes | 
 | Diggin It | <img src="/bot-features/dank-goals/digginit.png" alt="Diggin It" width="50" height="50"> | Catch 250 dig bosses | <img src="/bot-features/dank-goals/badges/digginitplatinum.png" alt="Diggin It Platinum" width="50" height="50"> | Catch 400 dig bosses |
 | Business Savvy | <img src="/bot-features/dank-goals/businesssavvy.png" alt="Business Savvy" width="50" height="50"> | Earn 20,000,000 coins from `/work` | <img src="/bot-features/dank-goals/badges/businesssavvyplatinum.png" alt="Business Savvy Platinum" width="50" height="50"> | Earn 100,000,000 coins from `/work` |
 | Always High | <img src="/bot-features/dank-goals/alwayshigh.png" alt="Always High" width="50" height="50"> | Win 15,000 games of `/highlow` | <img src="/bot-features/dank-goals/badges/alwayshighplatinum.png" alt="Always High Platinum" width="50" height="50"> | Win 25,000 games of `/highlow` | 
 | Rob Them Blind | <img src="/bot-features/dank-goals/robthemblind.png" alt="Rob Them Blind" width="50" height="50"> | Successfully `/rob` 50,000,000,000 coins | <img src="/bot-features/dank-goals/badges/robthemblindplatinum.png" alt="Rob Them Blind Platinum" width="50" height="50"> | Successfully `/rob` 200,000,000,000 coins |
-| Disenfranchised Voter | <img src="/bot-features/dank-goals/disenfranchisedvoter.png" alt="Disenfranchised Voter" width="50" height="50"> | Reach `/vote` level 115 3 times | <img src="/bot-features/dank-goals/badges/disenfranchisedvoterplatinum.png" alt="Disenfranchised Voter Platinum" width="50" height="50"> | Reach `/vote` level 115 6 times |
+| Disenfranchised Voter {: #Voter} | <img src="/bot-features/dank-goals/disenfranchisedvoter.png" alt="Disenfranchised Voter" width="50" height="50"> | Reach `/vote` level 115 three times | <img src="/bot-features/dank-goals/badges/disenfranchisedvoterplatinum.png" alt="Disenfranchised Voter Platinum" width="50" height="50"> | Reach `/vote` level 115 six times |
 | Bester Quester {: #Quest} | <img src="/bot-features/dank-goals/besterquester.png" alt="Bester Quester" width="50" height="50"> | Complete 20 weekly `/quests` | <img src="/bot-features/dank-goals/badges/besterquesterplatinum.png" alt="Bester Quester Platinum" width="50" height="50"> | Complete 40 weekly `/quests` | 
 | Bold Adventurer | <img src="/bot-features/dank-goals/boldadventurer.png" alt="Bold Adventurer" width="50" height="50"> | Win 500 adventures | <img src="/bot-features/dank-goals/badges/boldadventurerplatinum.png" alt="Bold Adventurer Platinum" width="50" height="50"> | Win 1,000 adventures |
-| Fighter | <img src="/bot-features/dank-goals/fighter.png" alt="Fighter" width="50" height="50"> | Advance 3 fight ranks (reach the gold tier) | <img src="/bot-features/dank-goals/badges/fighterplatinum.png" alt="Fighter Platinum" width="50" height="50"> | Advance 4 fight ranks (reach the platinum tier) |
+| Fighter | <img src="/bot-features/dank-goals/fighter.png" alt="Fighter" width="50" height="50"> | Advance 3 fight ranks | <img src="/bot-features/dank-goals/badges/fighterplatinum.png" alt="Fighter Platinum" width="50" height="50"> | Advance 4 fight ranks |
 | XPlosion Expert | <img src="/bot-features/dank-goals/xplosionexpert.png" alt="XPlosion Expert" width="50" height="50"> | Gain 10,000,000 XP | <img src="/bot-features/dank-goals/badges/xplosionexpertplatinum.png" alt="XPlosion Expert Platinum" width="50" height="50"> | Gain 15,000,000 XP |
 | P2W Player | <img src="/bot-features/dank-goals/p2wplayer.png" alt="P2W Player" width="50" height="50"> | Become a $5 supporter | ![p2wplayerplatinum.png](/bot-features/dank-goals/badges/p2wplayerplatinum.png) | Become a $20 supporter |
 
@@ -87,15 +90,17 @@ The following badges were once available to be unlocked, but they are currently 
 
 | Badge Name | Gold Badge Image | Platinum Badge Skin | Type Of Badge |
 |:------:|:----:|:------:|:------:|:----:|
-| New Year, New Me | <img src="/bot-features/dank-goals/newyearnewme.png" alt="New Year, New Me" width="50" height="50"> | N/A | Year Badge |
+| New Year, New Me | <img src="/bot-features/dank-goals/badges/2020badge_new.webp" alt="New Year, New Me" width="50" height="50"> | N/A | Year Badge |
 | Another Year, Same Me | <img src="/bot-features/dank-goals/anotheryearsameme.png" alt="Another Year, Same Me" width="50" height="50"> | N/A | Year Badge | 
 | Still Alive Somehow | <img src="/bot-features/dank-goals/stillalivesomehow.png" alt="Still Alive Somehow" width="50" height="50"> | N/A | Year Badge | 
-| Slash Tester | <img src="/bot-features/dank-goals/slashtester.gif" alt="Slash Tester" width="50" height="50"> | N/A | Beta Testing Badge |
-| Slippery Snake | <img src="/bot-features/dank-goals/slipperysnake.gif" alt="Slippery Snake" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slipperysnakeplatinum.png" alt="Slippery Snake Platinum" width="50" height="50"> | Old SnakeEyes Badge |
-| Dice Shake | <img src="/bot-features/dank-goals/diceshaker.png" alt="Dice Shaker" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/diceshakerplatinum.png" alt="Dice Shaker Platinum" width="50" height="50"> | Old Betting Badge |
-| BJ Master | <img src="/bot-features/dank-goals/bjmaster.png" alt="BJ Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/bjmasterplatinum.png" alt="BJ Master Platinum" width="50" height="50"> | Old BlackJack Badge |
-| Slot Master | <img src="/bot-features/dank-goals/slotmaster.png" alt="Slot Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slotmasterplatinum.png" alt="Slot Master Platinum" width="50" height="50"> | Old Slots Badge |
-| Itch Scratcher | <img src="/bot-features/dank-goals/itchscratcher.png" alt="Itch Scratcher" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/itchscratcherplatinum.png" alt="Itch Scratcher Platinum" width="50" height="50"> | Old Scratch Badge |
+| Slash Tester | <img src="/bot-features/dank-goals/slashtester.gif" alt="Slash Tester" width="50" height="50"> | N/A | Given for participating in the 2022 Public Beta Test |
+| Slippery Snake | <img src="/bot-features/dank-goals/slipperysnake.gif" alt="Slippery Snake" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slipperysnakeplatinum.png" alt="Slippery Snake Platinum" width="50" height="50"> | Old `/snakeEyes` Badge |
+| Dice Shake | <img src="/bot-features/dank-goals/diceshaker.png" alt="Dice Shaker" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/diceshakerplatinum.png" alt="Dice Shaker Platinum" width="50" height="50"> | Old `/gamble` Badge |
+| BJ Master | <img src="/bot-features/dank-goals/bjmaster.png" alt="BJ Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/bjmasterplatinum.png" alt="BJ Master Platinum" width="50" height="50"> | Old `/blackJack` Badge |
+| Slot Master | <img src="/bot-features/dank-goals/slotmaster.png" alt="Slot Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slotmasterplatinum.png" alt="Slot Master Platinum" width="50" height="50"> | Old `/slots` Badge |
+| Itch Scratcher | <img src="/bot-features/dank-goals/itchscratcher.png" alt="Itch Scratcher" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/itchscratcherplatinum.png" alt="Itch Scratcher Platinum" width="50" height="50"> | Old `/scratch` Badge |
+| Pink Bits Badge | <img src="/bot-features/dank-goals/badges/pinkeventbadge.webp" alt="Pink Event Badge" width="50" height="50"> | N/A | Given to the top 10 donators in the Pink Event | 
+| Rod Master | <img src="/bot-features/dank-goals/rodmaster.png" alt="Rod Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/rodmasterplatinum.png" alt="Rod Master Platinum" width="50" height="50"> | Retired `/fish` command badge. Catch 250 / 400 legendary fishes | 
 
 <br>
 
@@ -107,7 +112,7 @@ The following badges are only obtainable by helping the bot in one way or anothe
 |:------:|:----:|:------:|:------:|
 | Alpha Tester | <img src="/bot-features/dank-goals/alphatester.png" alt="Alpha Tester" width="50" height="50"> | N/A | Become an alpha tester and test bugs before they are live on the production bot |
 | Bot Moderator | <img src="/bot-features/dank-goals/botmoderator.png" alt="Bot Moderator" width="50" height="50"> | N/A | Only obtainable by being a Bot Admin for the bot |
-| Bug Hunter | <img src="/bot-features/dank-goals/bughunter-new.png" alt="Bug Hunter" width="50" height="50"> | N/A | Only obtainable by reporting a legit exploit |
+| Bug Hunter | <img src="/bot-features/dank-goals/bughunter-new.png" alt="Bug Hunter" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/bughunterplatinum.webp" alt="Bug Hunter" width="50" height="50">  | Only obtainable by reporting a legit exploit |
 | Developer | <img src="/bot-features/dank-goals/developer.png" alt="Developer" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/developerplatinum.png" alt="Developer Platinum" width="50" height="50"> | Only obtainable by being a Bot Developer for the bot |
 
 <br>
