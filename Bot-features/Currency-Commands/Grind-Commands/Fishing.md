@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-17T06:25:29.666Z
+date: 2023-11-17T07:55:20.607Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -69,12 +69,12 @@ Traveling to a different location takes 60 minutes by default, but you can speed
 
 | Location | Creatures |  NPCs |
 |:--------:|:------:|:------:|
-|Camp Guillermo  <img src="/bot-features/fishing/campguillermo.avif" alt="Camp Guillermo" width="800"> <br> Freshwater {: #CampGuillermo} | Bass, Koi, Crappie, Guppy, Minnow, Bluegill, Goldfish <br> BOSS: Aspidochelone | Margaux, Chet, Zara |
-|Crypt Keeper's Pond <br> <img src="/bot-features/fishing/cryptkeeperspond.avif" alt="Crypt Keeper's Pond" width="800"> <br>  Freshwater, <br> Exclusive Halloween Location {: #CryptKeepersPond}  | Ghost Fish, Zombie Fish, Spectral Fish, Electric Eel, Skeleton Fish, Piranha <br> BOSS: Gorgolox | None |
-|Mystic Pond  <br> <img src="/bot-features/fishing/mysticpond.avif" alt="Mystic Pond" width="800"> <br> Freshwater, <br> Only available Tuesday and Saturday {: #MysticPond} | Spectral Fish, Guppy, Koi, Flying Fish, Goldfish, Crayfish <br> BOSS: Vodyanoy | ???? ???? (Mysterious Figure)|
-|Underwater Sanctuary  <br> <img src="/bot-features/fishing/underwatersanctuary.avif" alt="Underwater Sanctuary" width="800"> <br> Saltwater {: #UnderwaterSanctuary}  | Sardine, Cod, Marlin, Barracuda, Giant Squid, Tuna, Mahi Mahi, Swordfish, Salmon <br> BOSS: Leviathan | Zara, Chet, Samuel |
-|Vertigo Beach <br> <img src="/bot-features/fishing/vertigobeach.png" alt="Vertigo Beach" width="800"> <br> Saltwater {: #VertigoBeach} | Shrimp, Butterfly Fish, Pufferfish, Starfish, Hammerhead Shark, Sardine, Cod, Jellyfish, Flounder <br> BOSS: Kraken, Charybdis | Margaux, Chad, Zara |
-|Wily River <br> <img src="/bot-features/fishing/wilyriver.avif" alt="Wily River" width="800"> <br> Freshwater {: #WilyRiver} | Rainbow Bass, Electric Eel, Catfish, Crayfish, Red Arowana, Piranha, Golden Dorado, Salmon <br> BOSS: Jormungandr | Chad, Samuel, Zara |
+|Camp Guillermo  <img src="/bot-features/fishing/campguillermo.avif" alt="Camp Guillermo" width="400"> <br> Freshwater {: #CampGuillermo} | Bass, Koi, Crappie, Guppy, Minnow, Bluegill, Goldfish <br> BOSS: Aspidochelone | Margaux, Chet, Zara |
+|Crypt Keeper's Pond <br> <img src="/bot-features/fishing/cryptkeeperspond.avif" alt="Crypt Keeper's Pond" width="400"> <br>  Freshwater, <br> Exclusive Halloween Location {: #CryptKeepersPond}  | Ghost Fish, Zombie Fish, Spectral Fish, Electric Eel, Skeleton Fish, Piranha <br> BOSS: Gorgolox | None |
+|Mystic Pond  <br> <img src="/bot-features/fishing/mysticpond.avif" alt="Mystic Pond" width="400"> <br> Freshwater, <br> Only available Tuesday and Saturday {: #MysticPond} | Spectral Fish, Guppy, Koi, Flying Fish, Goldfish, Crayfish <br> BOSS: Vodyanoy | ???? ???? (Mysterious Figure)|
+|Underwater Sanctuary  <br> <img src="/bot-features/fishing/underwatersanctuary.avif" alt="Underwater Sanctuary" width="400"> <br> Saltwater {: #UnderwaterSanctuary}  | Sardine, Cod, Marlin, Barracuda, Giant Squid, Tuna, Mahi Mahi, Swordfish, Salmon <br> BOSS: Leviathan | Zara, Chet, Samuel |
+|Vertigo Beach <br> <img src="/bot-features/fishing/vertigobeach.png" alt="Vertigo Beach" width="400"> <br> Saltwater {: #VertigoBeach} | Shrimp, Butterfly Fish, Pufferfish, Starfish, Hammerhead Shark, Sardine, Cod, Jellyfish, Flounder <br> BOSS: Kraken, Charybdis | Margaux, Chad, Zara |
+|Wily River <br> <img src="/bot-features/fishing/wilyriver.avif" alt="Wily River" width="400"> <br> Freshwater {: #WilyRiver} | Rainbow Bass, Electric Eel, Catfish, Crayfish, Red Arowana, Piranha, Golden Dorado, Salmon <br> BOSS: Jormungandr | Chad, Samuel, Zara |
 
 <br>
 
