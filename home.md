@@ -2,7 +2,7 @@
 title: Dank Memer Wiki Home
 description: 
 published: true
-date: 2023-10-30T20:33:56.548Z
+date: 2023-11-17T09:31:18.224Z
 tags: home, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T15:54:28.873Z
@@ -80,45 +80,45 @@ Dank Memer has hundreds of commands, subcommands, items, features, and more. It 
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Balance" target="_blank">Balance</a></td>
-  	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Fish" target="_blank">Fish</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fishing</a></td>
     <td><a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a></td>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">Title</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Lootboxes" target="_blank">Lootboxes</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Fishing" target="_blank">Fishing "Items"</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">Bankrob</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Friends" target="_blank">Friends</a></td>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a></td>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Packs" target="_blank">Packs</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Lootboxes" target="_blank">Lootboxes</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Beg" target="_blank">Beg</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Giveaways" target="_blank">Giveaway</a></td>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a></td>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Power-ups" target="_blank">Power-ups</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Packs" target="_blank">Packs</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Bundles" target="_blank">Bundles</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Highlow" target="_blank">Highlow</a></td>
     <td><a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a></td>
     <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Sellables" target="_blank">Sellables</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Power-ups" target="_blank">Power-ups</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Compare" target="_blank">Compare</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a></td>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a></td>
     <td><a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a></td>
-  <td style="border-left: 5px solid #000000;"><a href="/Items/Tools" target="_blank">Tools</a></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Sellables" target="_blank">Sellables</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Craft" target="_blank">Craft</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">Inventory</a></td>
     <td><a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a></td>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a></td>
-  <td style="border-left: 5px solid #000000;"></td>
+  <td style="border-left: 5px solid #000000;"><a href="/Items/Tools" target="_blank">Tools</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a></td>
@@ -166,27 +166,27 @@ Dank Memer has hundreds of commands, subcommands, items, features, and more. It 
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reset" target="_blank">Resetmydata</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a></td>
   	<td><a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a></td>
   	<td><a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a></td>
+    <td><a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a></td>
-    <td><a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></td>
+    <td></td>
 </tr>
    </table>
  </div>
