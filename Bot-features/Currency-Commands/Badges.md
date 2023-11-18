@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2023-11-17T09:23:53.324Z
+date: 2023-11-18T20:57:10.203Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -43,12 +43,16 @@ If you have unlocked a platinum badge and you want to use the golden badge art i
 ### <font color =b32d2d>Upkeep Required Badges</font> {: #Upkeep}
 There are currently two upkeep badges possible to unlock. Upkeep required badges mean the badge is unlocked as long as the requirement is true, but if you no longer meet the requirements, you lose the badge.
 
+<center>
+
 | Badge Name | Gold Badge Image | Gold Badge Requirement | Platinum Badge Skin | Platinum Badge Requirement |
 |:------:|:----:|:------:|:------:|:----:|
 | Daily Devotee | <img src="/bot-features/dank-goals/badges/dailydevoteegold.png" alt="Daily Devotee" width="50" height="50"> | Have a daily streak of 420 | <img src="/bot-features/dank-goals/badges/dailydevoteeplatinum.png" alt="Daily Devotee Platinum" width="50" height="50"> | Have a daily streak of 666 |
 | Seasoned Angler {: #Angler} | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge.webp" alt="Seasoned Angler Badge" width="50" height="50"> | Complete the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide book</a> | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge_platinum.webp" alt="Seasoned Angler Platinum" width="50" height="50"> | Rank 1st on one of the daily <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLeaderboards" target="_blank">/fish leaderboards</a> |
 | Marital Marvel | <img src="/bot-features/dank-goals/maritalmarvel.png" alt="Marital Marvel" width="50" height="50"> | Stay married for 16 weeks | <img src="/bot-features/dank-goals/badges/maritalmarvelplatinum.png" alt="Marital Marvel Platinum" width="50" height="50"> | Stay married for 52 weeks |
 | Goldzilla | <img src="/bot-features/dank-goals/goldzilla.png" alt="Rock" width="50" height="50"> | Have a net worth of 100,000,000,000 | <img src="/bot-features/dank-goals/badges/goldzillaplatinum.png" alt="Goldzilla Platinum" width="50" height="50"> | Have a net worth of 300,000,000,000 |
+  
+  </center>
 
 **Note:** For the Seasoned Angler Badge, it is possible to unlock the platinum version before you unlock the gold version. If you do this, you won't see the badge on your profile since the platinum version is a skin and not the full badge. You can see the platinum badge in `/skin select badge` until you've unlocked the gold version.
 
@@ -57,6 +61,8 @@ There are currently two upkeep badges possible to unlock. Upkeep required badges
 ### <font color =b32d2d>Currently Obtainable Badges</font> {: #Obtainable}
 
 The currently obtainable badges are badges you can unlock, and they stay unlocked without having to upkeep them. Each badge has varying levels of difficulty, and most have a platinum version available.
+
+<center>
 
 | Badge Name | Gold Badge Image | Gold Badge Requirement | Platinum Badge Skin | Platinum Badge Requirement |
 |:------:|:----:|:------:|:------:|:----:|
@@ -81,12 +87,16 @@ The currently obtainable badges are badges you can unlock, and they stay unlocke
 | Fighter | <img src="/bot-features/dank-goals/fighter.png" alt="Fighter" width="50" height="50"> | Advance 3 fight ranks | <img src="/bot-features/dank-goals/badges/fighterplatinum.png" alt="Fighter Platinum" width="50" height="50"> | Advance 4 fight ranks |
 | XPlosion Expert | <img src="/bot-features/dank-goals/xplosionexpert.png" alt="XPlosion Expert" width="50" height="50"> | Gain 10,000,000 XP | <img src="/bot-features/dank-goals/badges/xplosionexpertplatinum.png" alt="XPlosion Expert Platinum" width="50" height="50"> | Gain 15,000,000 XP |
 | P2W Player | <img src="/bot-features/dank-goals/p2wplayer.png" alt="P2W Player" width="50" height="50"> | Become a $5 supporter | ![p2wplayerplatinum.png](/bot-features/dank-goals/badges/p2wplayerplatinum.png) | Become a $20 supporter |
+  
+  </center>
 
 <br>
 
 ### <font color =b32d2d>Unobtainable Badges</font> {: #Unobtainable}
 
 The following badges were once available to be unlocked, but they are currently unobtainable and are not expected to be obtainable again in the future.
+
+<center>
 
 | Badge Name | Gold Badge Image | Platinum Badge Skin | Type Of Badge |
 |:------:|:----:|:------:|:------:|:----:|
@@ -100,7 +110,9 @@ The following badges were once available to be unlocked, but they are currently 
 | Slot Master | <img src="/bot-features/dank-goals/slotmaster.png" alt="Slot Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slotmasterplatinum.png" alt="Slot Master Platinum" width="50" height="50"> | Old `/slots` Badge |
 | Itch Scratcher | <img src="/bot-features/dank-goals/itchscratcher.png" alt="Itch Scratcher" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/itchscratcherplatinum.png" alt="Itch Scratcher Platinum" width="50" height="50"> | Old `/scratch` Badge |
 | Pink Bits Badge | <img src="/bot-features/dank-goals/badges/pinkeventbadge.webp" alt="Pink Event Badge" width="50" height="50"> | N/A | Given to the top 10 donators in the Pink Event | 
-| Rod Master | <img src="/bot-features/dank-goals/rodmaster.png" alt="Rod Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/rodmasterplatinum.png" alt="Rod Master Platinum" width="50" height="50"> | Retired `/fish` command badge. Catch 250 / 400 legendary fishes | 
+| Rod Master | <img src="/bot-features/dank-goals/rodmaster.png" alt="Rod Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/rodmasterplatinum.png" alt="Rod Master Platinum" width="50" height="50"> | Retired `/fish` command badge. Catch 250 / 400 legendary fish | 
+  
+  </center>
 
 <br>
 
@@ -108,12 +120,16 @@ The following badges were once available to be unlocked, but they are currently 
 
 The following badges are only obtainable by helping the bot in one way or another. They are extremely difficult and rare to obtain.
 
+<center>
+
 | Badge Name | Gold Badge Image | Platinum Badge Skin | Description |
 |:------:|:----:|:------:|:------:|
 | Alpha Tester | <img src="/bot-features/dank-goals/alphatester.png" alt="Alpha Tester" width="50" height="50"> | N/A | Become an alpha tester and test bugs before they are live on the production bot |
 | Bot Moderator | <img src="/bot-features/dank-goals/botmoderator.png" alt="Bot Moderator" width="50" height="50"> | N/A | Only obtainable by being a Bot Admin for the bot |
 | Bug Hunter | <img src="/bot-features/dank-goals/bughunter-new.png" alt="Bug Hunter" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/bughunterplatinum.webp" alt="Bug Hunter" width="50" height="50">  | Only obtainable by reporting a legit exploit |
 | Developer | <img src="/bot-features/dank-goals/developer.png" alt="Developer" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/developerplatinum.png" alt="Developer Platinum" width="50" height="50"> | Only obtainable by being a Bot Developer for the bot |
+  
+  </center>
 
 <br>
 ---
