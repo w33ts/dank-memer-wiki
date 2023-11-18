@@ -2,7 +2,7 @@
 title: All commands
 description: 
 published: true
-date: 2023-11-18T22:31:42.741Z
+date: 2023-11-18T22:36:35.376Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T22:20:13.396Z
@@ -34,7 +34,7 @@ dateCreated: 2023-04-30T22:20:13.396Z
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a></td>
-  	<td><a href="/home#Event" target="_blank">Event</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Currency-Commands/Events" target="_blank">Event</a></td>
     <td><a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a></td>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a></td>
   <td style="border-left: 5px solid #000000;"><a href="/Items/Consumables" target="_blank">Consumables</a></td>
