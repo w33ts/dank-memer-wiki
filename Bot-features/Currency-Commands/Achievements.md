@@ -2,7 +2,7 @@
 title: Achievements
 description: Learn how to earn achievements and rewards for playing the bot.
 published: true
-date: 2023-08-08T22:16:06.357Z
+date: 2023-11-18T20:36:58.306Z
 tags: achievements, rewards, overachiever, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T16:23:16.066Z
@@ -19,12 +19,13 @@ New achievements may always be added later, so make sure to check the <a href="h
 
 ## Current Achievements and Rewards
 <center>
-<p><img src="/bot-features/dank-goals/achieve1.png" alt="Achievements page 1." width="250" height="400">  <img src="/bot-features/dank-goals/achieve2.png" alt="Achievements page 2." width="250" height="400"></p>
-<p><img src="/bot-features/dank-goals/achieve3.png" alt="Achievements page 3." width="250" height="400"> <img src="/bot-features/dank-goals/achieve4.png" alt="Achievements page 4." width="250" height="400"></p>
-<p><img src="/bot-features/dank-goals/achievement5.png" alt="Achievements page 5." width="250" height="400"> <img src="/bot-features/dank-goals/achieve6.png" alt="Achievements page 6." width="250" height="400"></p>
-<p><img src="/bot-features/dank-goals/achieve7.png" alt="Achievements page 7." width="250" height="400"> <img src="/bot-features/dank-goals/achieve8.png" alt="Achievements page 8." width="250" height="400"></p>
-<p><img src="/bot-features/dank-goals/achieve9.png" alt="Achievements page 9." width="250" height="400"> <img src="/bot-features/dank-goals/achieve10.png" alt="Achievements page 10." width="250" height="400"></p>
-<p><img src="/bot-features/dank-goals/achieve11.png" alt="Achievements page 11." width="250" height="400"> <img src="/bot-features/dank-goals/achieve12.png" alt="Achievements page 12." width="250" height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements_pg1.png" alt="Achievements page 1." width="250" height="400">  <img src="/bot-features/dank-goals/achievements_pg2.png" alt="Achievements page 2." width="250" height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements_pg3.png" alt="Achievements page 3." width="250" height="400"> <img src="/bot-features/dank-goals/achievements_pg4.png" alt="Achievements page 4." width="250" height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements_pg5.png" alt="Achievements page 5." width="250" height="400"> <img src="/bot-features/dank-goals/achievements_pg6.png" alt="Achievements page 6." width="250" height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements_pg7.png" alt="Achievements page 7." width="250" height="400"> <img src="/bot-features/dank-goals/achievements_pg8.png" alt="Achievements page 8." width="250" height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements_pg9.png" alt="Achievements page 9." width="250" height="400"> <img src="/bot-features/dank-goals/achievements_pg10.png" alt="Achievements page 10." width="250" height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements_pg11.png" alt="Achievements page 11." width="250" height="400"> <img src="/bot-features/dank-goals/achievements_pg12.png" alt="Achievements page 12." width="250" height="400"></p>
+  <p><img src="/bot-features/dank-goals/achievements_pg13.png" alt="Achievements page 13." width="250"> <img src="/bot-features/dank-goals/achievements_pg14.png" alt="Achievements page 14." width="250" ></p>
 </center>
 
 ---
