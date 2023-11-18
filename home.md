@@ -2,7 +2,7 @@
 title: Dank Memer Wiki Home
 description: 
 published: true
-date: 2023-11-17T09:32:21.300Z
+date: 2023-11-18T22:36:03.520Z
 tags: home, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T15:54:28.873Z
@@ -25,10 +25,10 @@ The Dank Memer Wiki is entirely volunteer run by a team of avid Dank Memer playe
   </table>
 
 </center>
-
+ 
 ## Current global event {: #Event}
 
-You can use the `/event` command to check if there is a global event active at the moment.
+You can use the `/event` command to check if there is a global event active at the moment. Read about <a href="/Bot-features/Currency-Commands/Currency-Commands/Events" target="_blank">past events here.</a>
 <center>
 
   <table style ="border: solid #000000; word-wrap: break-word;">
@@ -66,7 +66,7 @@ Dank Memer has hundreds of commands, subcommands, items, features, and more. It 
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a></td>
-  	<td><a href="/home#Event" target="_blank">Event</a></td>
+  	<td><a href="/Bot-features/Currency-Commands/Currency-Commands/Events" target="_blank">Event</a></td>
     <td><a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a></td>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a></td>
   <td style="border-left: 5px solid #000000;"><a href="/Items/Consumables" target="_blank">Consumables</a></td>
