@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-18T00:47:24.885Z
+date: 2023-11-18T00:56:14.093Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -39,8 +39,6 @@ Before you can capture a boss at a location, you first have to capture one of ea
 ## Freshwater Creatures {: #Freshwater}
 Freshwater creatures are creatures usually discovered in lakes, rivers, and ponds. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
 
-> **Please Note:** Times and variants are currently being added as discovered.
-{.is-info}
 
 <center>
 
@@ -76,9 +74,6 @@ Freshwater creatures are creatures usually discovered in lakes, rivers, and pond
 ## Saltwater Creatures {: #Saltwater}
 Saltwater creatures are generally found in ocean areas, like Vertigo Beach and the Underwater Sanctuary. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
 
-> **Please Note:** Times and variants are currently being added as discovered.
-{.is-info}
-
 <center>
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
@@ -107,8 +102,7 @@ Saltwater creatures are generally found in ocean areas, like Vertigo Beach and t
 ## Creatures Sorted by Location {: #ByLocation}
 Every location has a unique group of fish you can catch when fishing there. Each location has at least one boss fish that can only be unlocked by catching one of all the other fish available at a location. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
 
-> **Please Note:** Times and variants are currently being added as discovered.
-{.is-info}
+Some locations are only available for holidays or special events.
 
 ### Camp Guillermo
 
@@ -123,7 +117,7 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Guppy {: #Guppy} | <img src="/items/fishing/creatures/guppy.png" alt="Guppy" width="50">  | 4pm - 3am  | Camp Guillermo, Mystic Pond | <img src="/items/fishing/creatures/variants/guppy_hq.gif" alt="HQ Guppy" width="50"> <img src="/items/fishing/creatures/variants/guppy_chroma.png" alt="Chroma Guppy" width="50"> | 7,500 |
 | Koi {: #Koi} | <img src="/items/fishing/creatures/koi.png" alt="Koi" width="50">  |  10am - 3am | Camp Guillermo, Mystic Pond | <img src="/items/fishing/creatures/variants/koi_hq.gif" alt="HQ Koi" width="50"><img src="/items/fishing/creatures/variants/koi_black.png" alt="Black Koi" width="50"><img src="/items/fishing/creatures/variants/koi_blue.png" alt="Blue Koi" width="50"><img src="/items/fishing/creatures/variants/koi_yellow.webp" alt="Yellow Koi" width="50"> | 100,000 |
 | Minnow {: #Minnow} | <img src="/items/fishing/creatures/minnow.png" alt="Minnow" width="50">  | 4am - 3pm  | Camp Guillermo | <img src="/items/fishing/creatures/variants/minnow_hq.gif" alt="HQ Minnow" width="50"> | 5,000 |
-|**BOSS:** <br> Aspidochelone {: #Aspidochelone} | <img src="/items/fishing/creatures/aspidochelone.png" alt="Aspidochelone" width="50">  | All Day | Camp Guillermo | (1) | ?? |
+|**BOSS:** <br> Aspidochelone {: #Aspidochelone} | <img src="/items/fishing/creatures/aspidochelone.png" alt="Aspidochelone" width="50">  | All Day | Camp Guillermo | <img src="/items/fishing/creatures/variants/aspidochelone_hq.gif" alt="HQ Aspidochelone" width="50"> | 1,000,000 |
 
 </center>
 
@@ -131,7 +125,11 @@ Every location has a unique group of fish you can catch when fishing there. Each
 
 ### Crypt Keeper's Pond
 
+>   Crypt Keeper's Pond is only available during Halloween or for special events.
+{.is-warning}
+
 <center>
+ 
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -141,7 +139,7 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Skeleton Fish {: #SkeletonFish} | <img src="/items/fishing/creatures/skeletonfish.png" alt="Skeleton Fish" width="50">  |  All Day | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/skeletonfish_hq.gif" alt="HQ Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_blue.png" alt="Blue Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_red.png" alt="Red Skeleton Fish" width="50"> | 7,500 |
 | Spectral Fish {: #Spectral Fish} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | All Day  | Crypt Keeper's Pond, Mystic Pond | <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"><img src="/items/fishing/creatures/variants/spectral_orange.png" alt="Orange Spectral Fish" width="50">  | 100,000 |
 | Zombie Fish {: #ZombieFish} | <img src="/items/fishing/creatures/zombiefish.png" alt="Zombie Fish" width="50">  | All Day  | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/zombiefish_hq.gif" alt="HQ Zombie Fish" width="50"> <img src="/items/fishing/creatures/variants/zombiefish_chroma.png" alt="Chroma Zombie Fish" width="50">| 7,500 |
-|**Boss:** <br> Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="Gorgolox" width="50">  | ?? |
+|**Boss:** <br> Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma2.png" alt="Chroma Gorgolox" width="60">  | 1,000,000 |
 
 
 </center>
@@ -151,6 +149,7 @@ Every location has a unique group of fish you can catch when fishing there. Each
 ### Mystic Pond
 
 <center>
+  
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -181,7 +180,8 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Sardine {: #Sardine} | <img src="/items/fishing/creatures/sardine.png" alt="Sardine" width="50">  | 4am - 9pm  | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/sardine_hq.gif" alt="HQ Sardine" width="50"> | 2,500 |
 | Swordfish {: #Swordfish} | <img src="/items/fishing/creatures/swordfish.webp" alt="Swordfish" width="50">  |  4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/swordfish_hq.gif" alt="HQ Swordfish" width="50"> | 12,000 |
 | Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  10am - 9pm | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
-|**Boss:** Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | (1) | ?? |
+|**Boss:** <br>  Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 1,000,000 |
+|**Boss:** Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50"> | 1,000,000 |
   
   </center>
 
@@ -202,8 +202,9 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Sardine {: #Sardine} | <img src="/items/fishing/creatures/sardine.png" alt="Sardine" width="50">  | 4am - 9pm | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/sardine_hq.gif" alt="HQ Sardine" width="50"> | 2,500 |
 | Shrimp {: #Shrimp} | <img src="/items/fishing/creatures/shrimp.png" alt="Shrimp" width="50">  | 10pm - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/shrimp_hq.gif" alt="HQ Shrimp" width="50"> <img src="/items/fishing/creatures/variants/shrimp_chroma.png" alt="Chroma Shrimp" width="50"> | 4,000 |
 | Starfish {: #Starfish} | <img src="/items/fishing/creatures/starfish2.png" alt="Starfish" width="50">  | 4am - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/starfish2_hq.gif" alt="HQ Starfish" width="50"> | 7,500 |
-| **Boss:** <br> Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | ?? |
-|**Boss:** <br>  Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Vertigo Beach | (1) | ?? |
+| **Boss:** <br> Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | 1,000,000 |
+| **Boss:** Scylla {: #Scylla} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | (1)  | 1,000,000 |
+
 
 </center>
 
@@ -224,6 +225,7 @@ Every location has a unique group of fish you can catch when fishing there. Each
 | Red Arowana {: #RedArowana} | <img src="/items/fishing/creatures/redarowana.png" alt="Red Arowana" width="50">  |  10am - 3am  | Wily River | (2) <img src="/items/fishing/creatures/variants/redarowana_hq.gif" alt="HQ Red Arowana" width="50">  | 100,000 |
 | Salmon {: #Salmon} | <img src="/items/fishing/creatures/salmon.png" alt="Salmon" width="50">  |  4pm - 3am  | Underwater Sanctuary, Wily River | <img src="/items/fishing/creatures/variants/salmon_hq.gif" alt="HQ Salmon" width="50"> | 7,500 |
 | **Boss:** <br> Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 1,000,000 |
+  
 
 </center>
   
