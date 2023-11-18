@@ -2,7 +2,7 @@
 title: Events
 description: Learn about past and present events happening with Dank Memer.
 published: true
-date: 2023-11-17T09:49:28.103Z
+date: 2023-11-18T22:34:19.845Z
 tags: events, /event, blob event, odd eye event, pink event, puzzle key event
 editor: markdown
 dateCreated: 2023-11-17T09:49:28.103Z
@@ -13,7 +13,7 @@ In 2023, the developers of Dank Memer decided to remove the Pink Plastic Bit ite
 
 ## Pink Event Details
 
-The Pink Event was called the "Bit of a Change" event and it began on Auugust 14, 2023 and ended on September 19, 2023. The event centered around an item called Pink Plastic Bits. Originally, this item was known as a Pink Phallic Object and was obtainable in the Dank Memer shop for a very cheap price. You could use the item and it would send whoever you used it on a DM teasing them about receiving a "naughty" surprise.
+The Pink Event was called the "Bit of a Change" event and it began on August 14, 2023 and ended on September 19, 2023. The event centered around an item called Pink Plastic Bits. Originally, this item was known as a Pink Phallic Object and was obtainable in the Dank Memer shop for a very cheap price. You could use the item and it would send whoever you used it on a DM teasing them about receiving a "naughty" surprise.
 
 When Dank Memer decided to remove NSFW content from the bot, the Pink Phallic Object was renamed to Pink Plastic Bits and it became an item used for crafting. In early 2023, the developers decided this item was taking up too much data in the bot because there were more than 80 billion of them in the system. To help improve the bot and to remove a relatively useless item, they decided to remove Pink Plastic Bits from the bot and turned it into the "Bit of a Change" Event.
 
