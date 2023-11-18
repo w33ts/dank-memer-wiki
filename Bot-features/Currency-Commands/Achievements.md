@@ -2,7 +2,7 @@
 title: Achievements
 description: Learn how to earn achievements and rewards for playing the bot.
 published: true
-date: 2023-11-18T20:47:53.363Z
+date: 2023-11-18T20:50:10.721Z
 tags: achievements, rewards, overachiever, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T16:23:16.066Z
