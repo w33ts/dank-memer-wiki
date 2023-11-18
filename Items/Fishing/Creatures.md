@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-18T00:56:14.093Z
+date: 2023-11-18T04:31:09.817Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -29,7 +29,7 @@ Before you can capture a boss at a location, you first have to capture one of ea
 |Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond |  <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma2.png" alt="HQ Gorgolox" width="60"> | 1,000,000 |
 |Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 1,000,000 |
 |Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 1,000,000 |
-|Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50">  | 1,000,000 |
+|Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | 12am - 2pm | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50">  | 1,000,000 |
 |Scylla {: #Scylla} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | (1)  | 1,000,000 |
 |Vodyanoy {: #Vodyanoy} | <img src="/items/fishing/creatures/vodyanoy.png" alt="Vodyanoy" width="50">  | All Day | Mystic Pond | <img src="/items/fishing/creatures/variants/vodyanoy_hq.gif" alt="Vodyanoy" width="50"> | 1,000,000 |
   
@@ -181,7 +181,7 @@ Some locations are only available for holidays or special events.
 | Swordfish {: #Swordfish} | <img src="/items/fishing/creatures/swordfish.webp" alt="Swordfish" width="50">  |  4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/swordfish_hq.gif" alt="HQ Swordfish" width="50"> | 12,000 |
 | Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  10am - 9pm | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
 |**Boss:** <br>  Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 1,000,000 |
-|**Boss:** Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50"> | 1,000,000 |
+|**Boss:** Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | 12am - 2pm | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50"> | 1,000,000 |
   
   </center>
 
