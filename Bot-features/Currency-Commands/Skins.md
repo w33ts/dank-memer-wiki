@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-18T22:24:39.107Z
+date: 2023-11-18T22:26:27.762Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -113,6 +113,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a>** | Legacy Like Button | <img src="/bot-features/skins/item-skins/likebutton-legacylikebutton.png" alt="Legacy Like Button" width="50" height="50"> {: #LikeButtonSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>** | Legacy Horseshoe | <img src="/bot-features/skins/item-skins/luckyhorseshoe-legacyhorseshoe.png" alt="Legacy Horseshoe" width="50" height="50"> {: #LuckyHorseshoeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>** | Legacy Membership Box Skin | <img src="/bot-features/skins/item-skins/membershipbox-legacyboxskin.gif" alt="Membership Box Skin" width="50" height="50"> {: #MembershipBoxSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Packs#MembershipPack" target="_blank">Membership Pack</a>** | Legacy Membership Pack | <img src="/bot-features/skins/item-skins/membershippack-legacypackskin.png" alt="Membership Pack Skin" width="50" height="50"> {: #MembershipPackSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MemePills" target="_blank">Meme Pills</a>** | Legacy Meme Pills | <img src="/bot-features/skins/item-skins/memepills-legacymemepills.png" alt="Legacy Meme Pills" width="50" height="50"> {: #MemePillsSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MoleMan" target="_blank">Mole Man</a>** | Baby Moleman Variant | <img src="/bot-features/skins/item-skins/moleman-babymolemanvariant.png" alt="Baby Moleman Variant" width="50" height="50"> {: #MoleManSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#MotivationalPoster" target="_blank">Motivational Poster</a>** | Legacy Poster | <img src="/bot-features/skins/item-skins/motivationalposter-legacyposter.png" alt="Legacy Poster" width="50" height="50"> {: #MotivationalPosterSkin} |
