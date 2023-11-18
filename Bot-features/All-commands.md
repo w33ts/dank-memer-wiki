@@ -2,7 +2,7 @@
 title: All commands
 description: 
 published: true
-date: 2023-11-17T09:33:50.386Z
+date: 2023-11-18T22:31:42.741Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T22:20:13.396Z
@@ -177,7 +177,7 @@ dateCreated: 2023-04-30T22:20:13.396Z
 </tr>
 <tr align= "center">
     <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Connect4" target="_blank">Connect4</a></td>
-  	<td><a href=" /Bot-features/Fun-Games-Image/Games-and-Wagers#TTT" target="_blank">Tic-Tac-Toe</a></td>
+  	<td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#TTT" target="_blank">Tic-Tac-Toe</a></td>
 </tr>
 <tr align= "center">
     <td><a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Fight" target="_blank">Fight</a></td>
