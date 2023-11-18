@@ -2,7 +2,7 @@
 title: Grind Commands
 description: Learn about basic grind commands, including beg, crime, dig, fish, flow, highlow, hunt, postmeme, scratch, search, and stream.
 published: true
-date: 2023-07-29T13:23:47.191Z
+date: 2023-11-18T22:44:27.007Z
 tags: flow, hunt, fish, dig, beg, search, crime, highlow, postmeme, post memes, postmemes, scratch, stream, grinding, grind commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-01T18:42:48.843Z
@@ -133,37 +133,15 @@ There is also a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" targ
 
 
 ## Fish {: #Fish}
-The `/fish` command lets you fish for rewards. To do this, you need to have at least one <a href="/Items/Tools#FishingPole" target="_blank">Fishing Pole</a> or a <a href="/Items/Collectables#FishingTrophy" target="_blank">Fishing Trophy</a> in your inventory. When fishing, poles can break, so it's a good idea to have a few extras. 
-
-You may get nothing at all from using this command. You can find the loot table for this command by using the <a href="/Resources/help#HelpTable" target="_blank">/help table</a> command.
-
-<center>
-  
-![fish.png](/bot-features/grinding/fish.png)
-
-  </center>
-
-The coins received are affected by your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a>, and if you activate a <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>, it can give you extra luck for better items or more coins.
-
-Any items you find have a chance to be sucked in by a Black Hole if you have (at least) one in your inventory, entering you into the <a href="/Bot-features/Currency-Commands/Lotteries#BlackHole" target="_blank">Black Hole Lottery</a>.  
-
-There is also a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_blank">crime badge</a> you can unlock, and if you are a <a href="/About-Dank-Memer/Premium-users" target="_blank">premium user</a> or in a premium server, you have lower cooldowns.
+in 2023, the original /fish command was retired and entire new series of commands and subcommands were added to create an immersive fishing game. The main new fishing command is /fish catch, where you can fish for all sorts of creatures at different locations.
 
 <br>
-<center>
-  <table>
-    <th colspan=2>Fish Cooldowns</th>
-    <tr>
-      <td>Normal User</td>
-      <td>30 Seconds</td>
-    </tr>
-    <tr>
-      <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium Users</a></td>
-      <td>10 Seconds</td>
-    </tr>
-  </table>
-  </center>
 
+<center>
+  <img src="/bot-features/grinding/fishing_new.png" alt="Fishing Minigame" width="300">
+</center>
+
+The new fishing system has multiple subcommands, including a <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">fishing guide</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tank</a>, fish season pass, bucket storage system and more. Read all about <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">the new system and commands here</a>, or check out the <a href="/Items/Fishing" target="_blank">new fishing "items" here</a>.
 
 ## Highlow {: #Highlow}
 
@@ -319,7 +297,7 @@ Below are some popular search locations that give unique or special items.
 | Air | <a href="https://dankmemer.wiki/en/Items/Collectables#BluesPlane" target="_blank">Blue's Plane</a> |
 | Dog | <a href="https://dankmemer.wiki/en/Items/Collectables#SquishyPaw" target="_blank">Squishy Paw</a> |
 | Grass | <a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a> |
-| Kitchen | <a href="https://dankmemer.wiki/en/Items/Collectables#BunnysApron" target="_blank">Bunny's Apron</a> |
+| Kitchen | <a href="https://dankmemer.wiki/en/Items/Collectables#BunnysApron" target="_blank">Apron</a> |
 | Phoenix Pits | <a href="https://dankmemer.wiki/en/Items/Collectables#ArmpitHair" target="_blank">Armpit Hair</a> |
 | Shadow's Realm | <a href="https://dankmemer.wiki/en/Items/Collectables#DesignerHoodie" target="_blank">DesignerHoodie</a> |
 | Soul's Chamber | <a href="https://dankmemer.wiki/en/Items/Collectables#RoyalScepter" target="_blank">Royal Scepter</a> |
