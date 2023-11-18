@@ -2,7 +2,7 @@
 title: Bundles
 description: Earn the Collector's Badge by completing all of the bundles in /bundle list.
 published: true
-date: 2023-07-29T12:45:41.032Z
+date: 2023-11-18T21:49:28.577Z
 tags: collector's, collector's badge, goals, bundles, bundle list, dank goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:19:53.161Z
@@ -38,7 +38,7 @@ There are also <a href="/Bot-features/Currency-Commands/Achievements" target="_b
 ![streamingmaniac.png](/bot-features/dank-goals/streaming_maniac.png)
 
 ### <font color =b32d2d>Dev Collector</font>  {: #DevCollector}
-![devcollector.png](/bot-features/dank-goals/dev_collector.png)
+![devcollector.png](/bot-features/dank-goals/bundle_devcollector.png)
 
 ### <font color =b32d2d>Statistical Improbability</font>  {: #StatisticalImprobability}
 ![statisticalimprobability.png](/bot-features/dank-goals/statistical_improbability.png)
@@ -55,8 +55,8 @@ There are also <a href="/Bot-features/Currency-Commands/Achievements" target="_b
 ### <font color =b32d2d>Hunter</font>  {: #Hunter}
 ![hunter2.png](/bot-features/dank-goals/hunter3.png)
 
-### <font color =b32d2d>Fisher</font>  {: #Fisher}
-![fisher2.png](/bot-features/dank-goals/fisher3.png)
+### <font color =b32d2d>Fisher</font>  {: #Angler}
+![fisher2.png](/bot-features/dank-goals/bundle_angler.png)
 
 ### <font color =b32d2d>Excavator</font>  {: #Excavator}
 ![escavator2.png](/bot-features/dank-goals/excavator3.png)
@@ -84,6 +84,22 @@ There are also <a href="/Bot-features/Currency-Commands/Achievements" target="_b
 
 ### <font color =b32d2d>Brazilian Vacationer</font>  {: #BrazilianVacationer}
 ![chronicworker.png](/bot-features/dank-goals/brazilian_vacationer.png)
+
+
+## Deprecated Bundles
+Sometimes a bundle is removed from being required for the Collector's Badge, which means it is deprecated and you can no longer submit it. However, if a user submitted it before it was removed, they will still receive credit toward the badge so they can skip submitting a bundle and reach 100%. 
+
+### <font color =b32d2d>Drop Shopper</font>  {: #DropShopper}
+![chronicworker.png](/bot-features/dank-goals/bundle_dropshopper.png)
+
+### <font color =b32d2d>Fisher</font>  {: #Fisher}
+![chronicworker.png](/bot-features/dank-goals/bundle_fisher.png)
+
+### <font color =b32d2d>Packer</font>  {: #Packer}
+![chronicworker.png](/bot-features/dank-goals/bundle_packer.png)
+
+### <font color =b32d2d>QuizNOs!</font>  {: #QuizNos}
+![chronicworker.png](/bot-features/dank-goals/bundle_quiznos.png)
 
 <br>
 ---
