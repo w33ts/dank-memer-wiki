@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-16T00:24:41.844Z
+date: 2023-11-18T00:47:24.885Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -19,20 +19,19 @@ There are a variety of creatures you can catch while fishing
 ## Bosses {: #Bosses}
 Before you can capture a boss at a location, you first have to capture one of each other type of fish that is possible at that location. Once your location page in /fish guide has every non-boss filled in, then it will be possible to capture a boss.
 
-> **Please Note:** Times and variants are currently being added as discovered.
-{.is-info}
 
 <center>
   
 | Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
-|Aspidochelone {: #Aspidochelone} | <img src="/items/fishing/creatures/aspidochelone.png" alt="Aspidochelone" width="50">  | All Day  | Camp Guillermo | (1) | ?? |
-|Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | ?? |
-|Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | (2) <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> | ?? |
-|Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | ?? |
-|Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Vertigo Beach | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | ?? |
-|Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | (1)  | ?? |
-|Vodyanoy {: #Vodyanoy} | <img src="/items/fishing/creatures/vodyanoy.png" alt="Vodyanoy" width="50">  | All Day | Mystic Pond | <img src="/items/fishing/creatures/variants/vodyanoy_hq.gif" alt="Vodyanoy" width="50"> | ?? |
+|Aspidochelone {: #Aspidochelone} | <img src="/items/fishing/creatures/aspidochelone.png" alt="Aspidochelone" width="50">  | All Day  | Camp Guillermo | <img src="/items/fishing/creatures/variants/aspidochelone_hq.gif" alt="HQ Aspidochelone" width="50"> | 1,000,000 |
+|Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | 1,000,000 |
+|Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond |  <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma2.png" alt="HQ Gorgolox" width="60"> | 1,000,000 |
+|Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 1,000,000 |
+|Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 1,000,000 |
+|Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50">  | 1,000,000 |
+|Scylla {: #Scylla} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | (1)  | 1,000,000 |
+|Vodyanoy {: #Vodyanoy} | <img src="/items/fishing/creatures/vodyanoy.png" alt="Vodyanoy" width="50">  | All Day | Mystic Pond | <img src="/items/fishing/creatures/variants/vodyanoy_hq.gif" alt="Vodyanoy" width="50"> | 1,000,000 |
   
 </center>
 
