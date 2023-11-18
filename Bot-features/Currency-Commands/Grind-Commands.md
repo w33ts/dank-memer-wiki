@@ -2,7 +2,7 @@
 title: Grind Commands
 description: Learn about basic grind commands, including beg, crime, dig, fish, flow, highlow, hunt, postmeme, scratch, search, and stream.
 published: true
-date: 2023-11-18T22:44:27.007Z
+date: 2023-11-18T22:44:58.766Z
 tags: flow, hunt, fish, dig, beg, search, crime, highlow, postmeme, post memes, postmemes, scratch, stream, grinding, grind commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-01T18:42:48.843Z
@@ -133,7 +133,7 @@ There is also a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" targ
 
 
 ## Fish {: #Fish}
-in 2023, the original /fish command was retired and entire new series of commands and subcommands were added to create an immersive fishing game. The main new fishing command is /fish catch, where you can fish for all sorts of creatures at different locations.
+in 2023, the original `/fish` command was retired and entire new series of commands and subcommands were added to create an immersive fishing game. The main new fishing command is `/fish catch`, where you can fish for all sorts of creatures at different locations.
 
 <br>
 
