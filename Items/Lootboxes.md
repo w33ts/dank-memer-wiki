@@ -2,14 +2,14 @@
 title: Lootboxes
 description: Learn about the various lootboxes obtainable in Dank Memer, including god boxes, daily boxes, meme boxes, box box, pepe boxes, and more.
 published: true
-date: 2023-11-18T22:23:11.487Z
+date: 2023-11-18T22:24:11.138Z
 tags: meme, daily, daily box, normie, normie box, meme box, dank box, pepe box, work box, developer box, god box, wedding gift, old box, patreon box, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:31:15.011Z
 ---
 
 # Lootboxes
-Lootboxes are reward boxes you can open for a chance at a list of possible rewards. Each lootbox has a different set of rewards possible, and you can view them on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> page for that box. Most lootboxes are obtainable from running commands, but some can also be purchased on the <a href="https://dankmemer.lol/store" target="_blank">Dank Memer website</a>.
+Lootboxes are reward boxes you can open for a chance at a list of possible rewards. Each lootbox has a different set of rewards possible, and you can view them on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> page for that box. Most lootboxes are obtainable from running commands, but some can also be purchased with gems in the <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">gem shop</a>.
 
 | Item   | Image | ID  | Description | Usable |  Location | Possible Items | Bundle Item | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|:-----------------:|
