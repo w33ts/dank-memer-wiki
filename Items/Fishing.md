@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-18T08:44:05.458Z
+date: 2023-11-18T22:11:33.147Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -11,7 +11,7 @@ dateCreated: 2023-11-03T20:56:10.515Z
 # Fishing "Items"
 While you can find some real items when fishing with Dank Memer, most of the items you use and find are not like other items in the bot. 
 
-With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. 
+With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. Since fishing "items" are not regular items, they also aren't required for bundles.
 
 You will not find fishing tools, baits, or creatures in `/inventory`. You can only see what your tools and baits through the equipment button in the `/fish catch` command or in `/fish guide`. You can see the creatures you own in `/fish buckets`. Read more about the new fish commands <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank"> here.</a> 
 
