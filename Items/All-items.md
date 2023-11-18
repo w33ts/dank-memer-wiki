@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2023-11-18T09:11:49.774Z
+date: 2023-11-18T20:49:23.978Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -128,7 +128,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Power-ups#InflatedDelicacy" target="_blank">Inflated Delicacy</a>
 - <a href="/Items/Collectables#JackyoLanty" target="_blank">Jacky o' Lanty</a>
 - <a href="/Items/Collectables#JarOfSingularity" target="_blank">Jar Of Singularity</a>
-- <a href="h/Items/Sellables#Junk" target="_blank">Junk</a>
+- <a href="/Items/Sellables#Junk" target="_blank">Junk</a>
 - <a href="/Items/Collectables#KablesSunglasses" target="_blank">Kable's Sunglasses</a>
 - <a href="/Items/Tools#Keyboard" target="_blank">Keyboard</a>
 - <a href="/Items/Sellables#Ladybug" target="_blank">Ladybug</a>
@@ -137,12 +137,12 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Sellables#Lasso" target="_blank">Lasso</a>
 - <a href="/Items/Sellables#LawDegree" target="_blank">Law Degree</a>
 - <a href="/Items/Collectables#CommonFish" target="_blank">Legacy Common Fish</a>
-- <a href="Items/Collectables#ExoticFish" target="_blank">Legacy Exotic Fish</a>
-- <a href="Items/Collectables#FishingBait" target="_blank">Legacy Fishing Bait</a>
+- <a href="/Items/Collectables#ExoticFish" target="_blank">Legacy Exotic Fish</a>
+- <a href="/Items/Collectables#FishingBait" target="_blank">Legacy Fishing Bait</a>
 - <a href="/Items/Collectables#FishingPole" target="_blank">Legacy Fishing Pole</a>
-- <a href="Items/Collectables#JellyFish" target="_blank">Legacy Jelly Fish</a>
-- <a href="Items/Collectables#Kraken" target="_blank">Legacy Kraken</a>
-- <a href="Items/Collectables#LegendaryFish" target="_blank">Legacy Legendary Fish</a>
+- <a href="/Items/Collectables#JellyFish" target="_blank">Legacy Jelly Fish</a>
+- <a href="/Items/Collectables#Kraken" target="_blank">Legacy Kraken</a>
+- <a href="/Items/Collectables#LegendaryFish" target="_blank">Legacy Legendary Fish</a>
 - <a href="/Items/Collectables#RareFish" target="_blank">Legacy Rare Fish</a>
 - <a href="/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>
 - <a href="/Items/Collectables#LikeButton" target="_blank">Like Button</a>
@@ -190,7 +190,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#PetSaddle" target="_blank">Pet Saddle</a>
 - <a href="/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits (Deprecated)</a>
 - <a href="/Items/Collectables#PinkRubberDucky" target="_blank">Pink Rubber Ducky</a>
-- <a href="/Items/Collectables#PinkSludgeMonster" target="_blank">Pink Sludge Monster</a>
+- <a href="/Items/Sellables#PinkSludgeMonster" target="_blank">Pink Sludge Monster</a>
 - <a href="/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>
 - <a href="/Items/Sellables#PlasticBag" target="_blank">Plastic Bag</a>
 - <a href="/Items/Lootboxes#PlasticBox" target="_blank">Plastic Box</a>
