@@ -2,7 +2,7 @@
 title: Achievements
 description: Learn how to earn achievements and rewards for playing the bot.
 published: true
-date: 2023-11-18T20:44:08.211Z
+date: 2023-11-18T20:47:53.363Z
 tags: achievements, rewards, overachiever, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T16:23:16.066Z
@@ -26,7 +26,7 @@ New achievements may always be added later, so make sure to check the <a href="h
 <p><img src="/bot-features/dank-goals/achievements_pg9.png" alt="Achievements page 9." height="400"> <img src="/bot-features/dank-goals/achievements_pg10.png" alt="Achievements page 10." height="400"></p>
 <p><img src="/bot-features/dank-goals/achievements_pg11.png" alt="Achievements page 11."  height="400"> <img src="/bot-features/dank-goals/achievements_pg12.png" alt="Achievements page 12." height="400"></p>
   <p><img src="/bot-features/dank-goals/ achievements_pg13.png" alt="Achievements page 13." height="400"> 
-    <img src="/bot-features/dank-goals/achievements_pg14.png" alt="Achievements page 14." width= "300" height="300"></p>
+    <img src="/bot-features/dank-goals/achievements_pg14.png" alt="Achievements page 14." width= "350" height="300"></p>
 </center>
 
    
