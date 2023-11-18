@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-10-31T01:21:17.480Z
+date: 2023-11-18T22:24:39.107Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -96,6 +96,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | OG Bread | <img src="/bot-features/skins/item-skins/freshbread-ogbread.png" alt="OG Bread" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Garbage Can Variant | <img src="/bot-features/skins/item-skins/garbage-garbagecanvariant.gif" alt="Garbage Can Variant" width="50" height="50"> {: #GarbageSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Legacy Garbage (Smashed Energy Drink) | <img src="/bot-features/skins/item-skins/garbage-legacygarbage(smashedenergydrink).png" alt="Legacy Garbage (Smashed Energy Drink)" width="50" height="50"> |
+| **<a href="https://dankmemer.wiki/en/Items/Lootboxes#GodBox" target="_blank">God Box</a>** | Legacy God Box | <img src="/bot-features/skins/item-skins/godbox-legacygodbox.gif" alt="Legacy God Box" width="50" height="50"> {: #GodBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#HolyBadoszsBread" target="_blank">Holy Badosz's Bread</a>** | Moldy Holy Bread Variant | <img src="/bot-features/skins/item-skins/holybadoszsbread-moldyholybreadvariant.gif" alt="Moly Holy Bread Variant" width="50" height="50"> {: #HolyBadoszsBreadSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>** | Legacy Hunting Badge | <img src="/bot-features/skins/item-skins/huntingrifle-legacyhuntingbadge.png" alt="Legacy Hunting Badge" width="50" height="50"> {: #HuntingRifleSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>** | Legacy Hunting Rifle | <img src="/bot-features/skins/item-skins/huntingrifle-legacyhuntingrifle.png" alt="Legacy Hunting Rifle" width="50" height="50"> |
@@ -111,6 +112,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>** | Legacy Lifesaver | <img src="/bot-features/skins/item-skins/lifesaver-legacylifesaver.png" alt="Legacy Livesaver" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a>** | Legacy Like Button | <img src="/bot-features/skins/item-skins/likebutton-legacylikebutton.png" alt="Legacy Like Button" width="50" height="50"> {: #LikeButtonSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>** | Legacy Horseshoe | <img src="/bot-features/skins/item-skins/luckyhorseshoe-legacyhorseshoe.png" alt="Legacy Horseshoe" width="50" height="50"> {: #LuckyHorseshoeSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>** | Legacy Membership Box Skin | <img src="/bot-features/skins/item-skins/membershipbox-legacyboxskin.gif" alt="Membership Box Skin" width="50" height="50"> {: #MembershipBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MemePills" target="_blank">Meme Pills</a>** | Legacy Meme Pills | <img src="/bot-features/skins/item-skins/memepills-legacymemepills.png" alt="Legacy Meme Pills" width="50" height="50"> {: #MemePillsSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MoleMan" target="_blank">Mole Man</a>** | Baby Moleman Variant | <img src="/bot-features/skins/item-skins/moleman-babymolemanvariant.png" alt="Baby Moleman Variant" width="50" height="50"> {: #MoleManSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#MotivationalPoster" target="_blank">Motivational Poster</a>** | Legacy Poster | <img src="/bot-features/skins/item-skins/motivationalposter-legacyposter.png" alt="Legacy Poster" width="50" height="50"> {: #MotivationalPosterSkin} |
