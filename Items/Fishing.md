@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-18T22:11:33.147Z
+date: 2023-11-24T05:34:18.349Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -11,11 +11,17 @@ dateCreated: 2023-11-03T20:56:10.515Z
 # Fishing "Items"
 While you can find some real items when fishing with Dank Memer, most of the items you use and find are not like other items in the bot. 
 
-With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. Since fishing "items" are not regular items, they also aren't required for bundles.
+With the fishing update, a new type of item was created. These fishing items are only available through the fishing commands, and cannot be traded to friends or bought/sold on the market. Since fishing "items" are not regular items, they also aren't required for bundles and won't appear in `/inventory` or `/currencylog`.
 
-You will not find fishing tools, baits, or creatures in `/inventory`. You can only see what your tools and baits through the equipment button in the `/fish catch` command or in `/fish guide`. You can see the creatures you own in `/fish buckets`. Read more about the new fish commands <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank"> here.</a> 
+You can only see what your tools and baits through the equipment button in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishCatch" target="_blank">/fish catch</a> command or in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>. You can see the creatures you own in <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a>, and can use <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLog" target="_blank">/fish log</a> to track where your creatures are going or coming from. Read more about the new fish commands <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank"> here.</a> 
 
-You can read more about this change in the <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items Tutorial.</a> 
+You can read more about this change in the <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items Tutorial,</a> or check out the possible fishing "items" you may encounter below, including:
+
+ - <a href="/Items/Fishing#Baits" target="_blank">Baits</a> 
+ - <a href="/Items/Fishing#Buckets" target="_blank">Buckets</a> 
+ - <a href="/en/Items/Fishing/Creatures" target="_blank">Creatures</a>
+ - <a href="/Items/Fishing#Decorations" target="_blank">Tank Decorations</a>
+ - <a href="/Items/Fishing#Tools" target="_blank">Tools</a>
 
 
 ## Tools {: #Tools}
@@ -27,12 +33,12 @@ Each tool has slightly different abilities when fishing, and a different durabil
   
 | Tool | Image | Default Number of Uses |Usage Notes | Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
-|Bare Hands {: #BareHands} | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |Cannot catch bosses, items, or use bait without upgrading the Zen Hands skill to the max. Cannot catch multiple fish at a time.| All users have by default. |
-|Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 12 | Can use bait and catch bosses, items, and one fish at a time. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
+|Bare Hands {: #BareHands} | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |Cannot catch bosses, items, or use bait without upgrading the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Zen Hands skill</a> to the max. Cannot catch multiple fish at a time.| All users have by default. |
+|Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 12 | Can catch one creature at a time, use bait, and catch bosses and items. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 |Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 15 | Can use bait and catch bosses, items, and multiple fish at a time.| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 | Net {: #Net} | <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 8 | Can use bait and catch items and multiple fish at a time. No bosses. | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 | Dynamite {: #Dynamite} | <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 3 | Can use bait and catch bosses and multiple fish at a time. No items.| <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters</a> |
-|Idle Fishing Machine {: #IdleMachine} | <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is upgraded.  | Can catch any creature, including bosses, but cannot use bait or catch items.| Unlock by upgrading the AFK skill in `/fish skills`. |
+|Idle Fishing Machine {: #IdleMachine} | <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is upgraded.  | Can catch any creature, except bosses, and cannot use bait or catch items.| Unlock by upgrading the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">AFK skill</a> |
 
 </center>
 
@@ -43,49 +49,52 @@ There are tons of possible baits you can use while fishing, and each one has a d
   
 | Bait | Image | Usage Description |Default Number of Uses | Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
-|Vintage Bait {: #VintageBait} | <img src="/items/fishing/vintage_bait.webp" alt="Vintage Bait" width="50" height="50">| Helps you catch creatures instead of items. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
-|Timely Bait {: #TimelyBait} |<img src="/items/fishing/timely_bait.webp" alt="Timely Bait" width="50" height="50">| Helps you catch creatures outside of their normal time. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
-|Weighted Bait {: #WeightedBait} |<img src="/items/fishing/weighted_bait.webp" alt="Weighted Bait" width="50" height="50">| Increases your chance to catch larger sized fish. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|Deadly Bait {: #DeadlyBait} | <img src="/items/fishing/deadly_bait.gif" alt="Eyeball Bait" width="50" height="40">| Increases the chance to catch a boss (10x) and the chance to catch boss variants (5x) (but it is still rare). | 1 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
+|Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 2 | Mystic Pond |
+|Ghastly Bait {: #GhastlyBait} | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Mystic Pond |
 |Golden Bait {: #GoldenBait} | <img src="/items/fishing/golden_bait.webp" alt="Golden Bait" width="50" height="50">| Increases the chance for high-quality fish. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Lucky Bait {: #LuckyBait} | <img src="/items/fishing/lucky_bait.webp" alt="Lucky Bait" width="50" height="50">| Increases your luck to help you catch rarer fish. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Magnet Bait {: #MagnetBait} | <img src="/items/fishing/magnet_bait.webp" alt="Magnet Bait" width="50" height="50">| Helps you catch only loot, not creatures. | 10 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
-|Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 2 | Mystic Pond |
-|Ghastly Bait {: #GhastlyBait} | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Mystic Pond |
 |Money Bait {: #MoneyBait} | <img src="/items/fishing/money_bait.webp" alt="Money Bait" width="50" height="50">|  Instantly sells your creatures for coins instead of putting them in a bucket. | 25 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|Timely Bait {: #TimelyBait} |<img src="/items/fishing/timely_bait.webp" alt="Timely Bait" width="50" height="50">| Helps you catch creatures outside of their normal time. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|Turkey Bait {: #TurkeyBait} | <img src="/items/fishing/turkey_bait.png" alt="Timely Bait" width="50" height="50">| Adds a <a href="/en/Items/Fishing/Creatures#TurkeyFish" target="_blank">Turkey Fish</a> to your catch. Is the only way to catch one. | 5 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|Vintage Bait {: #VintageBait} | <img src="/items/fishing/vintage_bait.webp" alt="Vintage Bait" width="50" height="50">| Helps you catch creatures instead of items. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
+|Weighted Bait {: #WeightedBait} |<img src="/items/fishing/weighted_bait.webp" alt="Weighted Bait" width="50" height="50">| Increases your chance to catch larger sized fish. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+
 
   </center>
 
 ## Buckets {: #Buckets}
-All the creatures caught while fishing won't enter your normal Dank Memer /inventory and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="/https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the dank Memer website for complete instructions.
+All the creatures caught while fishing won't enter your normal Dank Memer `/inventory` and instead are stored in buckets. You can manage your buckets and sell creatures with the `/fish buckets` command. Read the <a href="/https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">managing buckets and creatures tutorial</a> on the Dank Memer website for complete instructions.
 
-Each bucket has a different storage capacity, but you can increase how much your buckets can hold by upgrading the Storage Specialist skill in `/fish skills`. You can only unlock a bucket one time, but there are a variety of buckets you can buy and earn.
+Each bucket has a different storage capacity, but you can increase how much your buckets can hold and unlock more bucket slots by upgrading the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Storage Specialist skill</a> in `/fish skills`. You can only unlock a bucket one time, but there are a variety of buckets you can buy and earn.
 
 <center>
   
 | Bait | Image | Default Space | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
-|Wooden Bucket {: #WoodenBucket} | <img src="/items/fishing/wooden_bucket.png" alt="Wooden Bucket" width="50" height="50">| 5 | Given by Default |
-|Pink Bucket {: #PinkBucket} |<img src="/items/fishing/pink_bucket.png" alt="Pink Bucket" width="50" height="50">| 10 | Awarded to participants of the Pink Event. |
+|Alien Bucket {: #AlienBucket} | <img src="/items/fishing/alien_bucket.gif" alt="Alien Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
+|Bone Bucket {: #BoneBucket} | <img src="/items/fishing/bone_bucket.png" alt="N/A" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+|Fucket Bucket {: #FucketBucket} | <img src="/items/fishing/fucket_bucket.png" alt="Fucket Bucket" width="50" height="50">| 1 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+|God Bucket {: #GodBucket} | <img src="/items/fishing/god_bucket.gif" alt="God Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
+|Golden Bucket {: #GoldenBucket} | <img src="/items/fishing/golden_bucket.gif" alt="Golden Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Metal Bucket {: #MetalBucket} | <img src="/items/fishing/metal_bucket.png" alt="Metal Bucket" width="50" height="50">| 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pepe Bucket {: #PepeBucket} | <img src="/items/fishing/pepe_bucket.png" alt="Pepe Bucket" width="50" height="50">| 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-|Golden Bucket {: #GoldenBucket} | <img src="/items/fishing/golden_bucket.gif" alt="Golden Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-|God Bucket {: #GodBucket} | <img src="/items/fishing/god_bucket.gif" alt="God Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
-|Fucket Bucket {: #FucketBucket} | <img src="/items/fishing/fucket_bucket.png" alt="Fucket Bucket" width="50" height="50">| 1 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-|Bone Bucket {: #BoneBucket} | <img src="/items/fishing/bone_bucket.png" alt="N/A" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+|Pink Bucket {: #PinkBucket} |<img src="/items/fishing/pink_bucket.png" alt="Pink Bucket" width="50" height="50">| 10 | Awarded to participants of the Pink Event. |
+|Wooden Bucket {: #WoodenBucket} | <img src="/items/fishing/wooden_bucket.png" alt="Wooden Bucket" width="50" height="50">| 5 | Given by Default |
   
 </center>
-
 
 
 ## Creatures
 The creatures you can catch while fishing cannot be collected like with the previous command. You can keep a few in your fish tank or a spare bucket, but most will have to be sold.
 
-Each creature has a specific time UTC that it is available, a certain location it can be found, and most have at least one variant you can catch. Check out a complete list of the possible creatures, their times, locations, and variants <a href="/Items/Fishing/Creatures" target="_blank">here</a>.
+Each creature has a specific time UTC that it is available, a certain <a href="/Items/Fishing/Creatures#ByLocation" target="_blank">location</a> it can be found, and most have at least one variant you can catch. Check out a complete list of the possible creatures, their times, locations, and variants <a href="/Items/Fishing/Creatures" target="_blank">here</a>.
 
 ## Fish Tank Decorations {: #Decorations}
-If you want to save a few of your favorite fish, you can put them in your fish tank. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
+If you want to save a few of your favorite fish, you can put them in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tank</a>. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
 
-You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade the Aquarium Keeper skill, you can increase what the tank can hold.
+You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">the Aquarium Keeper skill</a>, you can increase what the tank can hold.
 
 <center>
 
