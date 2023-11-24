@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2023-11-24T07:56:02.600Z
+date: 2023-11-24T07:59:54.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-01T17:48:28.144Z
@@ -11,27 +11,36 @@ dateCreated: 2023-05-01T17:48:28.144Z
 # Frequently Asked Questions (FAQ)
 Dank Memer has tons of features, and it is easy to be overwhelmed or confused if you are new to the game. We've written some answers to common questions users have below to try to help get you started, but it would be impossible to answer everything. The best way to learn more about the bot is by using it and interacting with other users.
 
+FAQs Answered Below:
+- <a href="/Resources/FAQ#Server" target="_blank">How do I set up Dank Memer in my server?</a>
+- <a href="/Resources/FAQ#LevelUp" target="_blank">How do I level up?</a>
+- <a href="/Resources/FAQ#Market" target="_blank">How do I use the market?</a>
+- <a href="/Resources/FAQ#Collect" target="_blank">What is the best item to collect?</a>
+- <a href="/Resources/FAQ#Grind" target="_blank">What is the best way to grind?</a>
+- <a href="/Resources/FAQ#Locks" target="_blank">What are interaction locks?</a>
+- <a href="/Resources/FAQ#FindAnswers" target="_blank">Resources for finding answers</a>
 
-## How do I set up Dank Memer in my server?
+
+## How do I set up Dank Memer in my server? {: #Server}
 If you need help setting up Dank Memer in your server, there are two guides that help explain Discord's integrations and how to restrict Dank Memer to specific channels, roles, or users.
 - <a href="https://dankmemer.lol/tutorial/set-up-dank-memer" target="_blank">Dank Memer Setup Tutorial</a>
 - <a href="https://support.discord.com/hc/en-us/articles/4644915651095-Command-Permissions" target="_blank">Discord's Guide to Command Permissions</a> 
 
 If the above guides don't answer all of your setup questions, you can also join the <a href="https://discord.gg/dankmemerbot" target="_blank">Dank Memer Official Support Server</a> for help.
 
-## How do I level up?
+## How do I level up? {: #LevelUp}
 Each level requires a certain number of experience (XP) points for you to <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">level up</a> to the next one. The higher the level you go, the more XP that is required to level up. Every <a href="/Bot-features/Currency-Commands" target="_blank">currency command</a> you run has a chance to give you XP so you can level up. 
 
 You can level up faster by activating boost items like <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a>, <a href="/Items/Lootboxes#DailyBox" target="_blank">Daily Boxes</a>, and <a href="/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> to increase your <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">XP multiplier</a>. There are also double XP days each month on Wednesday and Sunday UTC.
 
-## How do I use the market?
+## How do I use the market? {: #Market}
 The <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">market</a> can be used to buy and sell items for coins or other items. The ads are posted anonymously, but you can also negotiate private deals with people and get a private market ID you can share directly with them. Read more about the <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">basic market commands here</a>, or check out the <a href="/Bot-features/Currency-Commands/Market" target="_blank">full tutorial here</a>.
 
 When buying or selling on the market, the most important thing to notice is that there are three prices for every item. First, there is the price on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> page. This is the average value of the item, and that is what is used to calculate your net worth. There are also the selling and buying prices for ads on the market. 
 
 The average value of an item listed on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> page gives you an idea of what your items are worth, but when pricing your ads for the market, it is better to pay attention to the buy and sell prices on existing market ads in `/market view` instead. Existing ads show what people are willing to buy or sell an item for and are a useful way to price your own items and figure out what they are worth. If there are no ads, you can often try to increase or decrease the price of an item by making your own price.
 
-## What is the best item to collect?
+## What is the best item to collect? {: #Collect}
 The question most users want to know is what to collect or invest in. This is an impossible question to really answer because once people begin telling others to collect in something, many invest in it, and the value can decrease as more and more enter the bot's economy. There is also never a guarantee that something will go up in value, so investment advice should always be considered carefully.
 
 In general, when deciding what to collect, there are a few things to consider:
@@ -43,7 +52,7 @@ These three questions can help you evaluate an item to figure out if it is a goo
 
 Ultimately, though, the biggest factor in what goes up in value or not is whether other users want to collect it! Drop items had a period of time where <a href="https://dankmemer.lol/community/blog/drop-item-lookback" target="_blank">they skyrocketed in price</a> because a handful of users tried to collect them all, but once those users stopped, they quickly decreased in value.  
 
-## What is the best way to grind?
+## What is the best way to grind? {: #Grind}
 Every user has a different method of grinding that works best for them, but there are a few key things that all users should do.
 - Use a <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">flow</a> for faster command usage.
 - Try to increase your <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">XP Multiplier</a> as much as you can.
@@ -54,7 +63,7 @@ The best place to get more specific advice about grinding is from other users. T
 
 In order to see the grind strategy in DMC, make sure to grab the "Grinder" role via the `#channels & roles` option at the top left of the server channel list.
 
-## What are interaction locks?
+## What are interaction locks? {: #Locks}
 When you are using certain Dank Memer currency related commands, you are writing data to a server. Whenever this is happening, your account is locked to ensure that items or coins are not being duplicated or lost. Sometimes, however, things can go wrong, whether it be an internal server error or a message failing to be send; this is when you end up in an interaction lock. 
 
 During an interaction lock, you can not interact with any currency related components or use any currency related commands. Here is what you can do to fix this:
@@ -62,7 +71,8 @@ During an interaction lock, you can not interact with any currency related compo
 - If you see nothing waiting for you, wait about 10 minutes from your last command/interaction and then you'll be good to go!
 
 You can also check out the tutorial on the Dank Memer's official website about  <a href="https://dankmemer.lol/tutorial/interaction-locks" target="_blank">Interaction Locks</a>!
-## Other questions?
+
+## Other questions? {: #FindAnswers}
 If you have questions that are not answered above, there are three main suggestions for you to find answers.
 
 - **For basic questions,** like how to use the bot or certain commands, join a server that is focused on Dank Memer and ask other users. 
