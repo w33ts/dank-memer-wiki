@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-24T09:03:40.098Z
+date: 2023-11-24T09:15:34.943Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -132,6 +132,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>** | Legacy Membership Box Skin | <img src="/bot-features/skins/item-skins/membershipbox-legacyboxskin.gif" alt="Membership Box Skin" width="50" height="50"> {: #MembershipBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Packs#MembershipPack" target="_blank">Membership Pack</a>** | Legacy Membership Pack | <img src="/bot-features/skins/item-skins/membershippack-legacypackskin.png" alt="Membership Pack Skin" width="50" height="50"> {: #MembershipPackSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MemePills" target="_blank">Meme Pills</a>** | Legacy Meme Pills | <img src="/bot-features/skins/item-skins/memepills-legacymemepills.png" alt="Legacy Meme Pills" width="50" height="50"> {: #MemePillsSkin} |
+| **<a href="/Items/Tools#Microphone" target="_blank">Microphone</a>** | Parabolic Microphone | <img src="/bot-features/skins/item-skins/microphone-parabolicvariant.png" alt="Parabolic Microphone" width="50" height="50"> {: #MicrophoneSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MoleMan" target="_blank">Mole Man</a>** | Baby Moleman Variant | <img src="/bot-features/skins/item-skins/moleman-babymolemanvariant.png" alt="Baby Moleman Variant" width="50" height="50"> {: #MoleManSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#MotivationalPoster" target="_blank">Motivational Poster</a>** | Legacy Poster | <img src="/bot-features/skins/item-skins/motivationalposter-legacyposter.png" alt="Legacy Poster" width="50" height="50"> {: #MotivationalPosterSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#Mouse" target="_blank">Mouse</a>** | Real Mouse Variant | <img src="/bot-features/skins/item-skins/mouse-realmousevariant.png" alt="Real Mouse variant" width="50" height="50"> {: #MouseSkin} |
@@ -145,7 +146,10 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeCrown" target="_blank">Pepe Crown</a>** | Legacy Pepe Crown | <img src="/bot-features/skins/item-skins/pepecrown-legacypepecrown.png" alt="Legacy Pepe Crown" width="50" height="50"> {: #PepeCrownSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeCrown" target="_blank">Pepe Crown</a>** | OG Crown Variant | <img src="/bot-features/skins/item-skins/pepecrown-ogcrownvariant.png" alt="OG Crown Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeMedal" target="_blank">Pepe Medal</a>** | Legacy Pepe Medal | <img src="/bot-features/skins/item-skins/pepemedal-legacypepemedal.gif" alt="Legacy Pepe Medal" width="50" height="50"> {: #PepeMedalSkin} |
+| **<a href="/Items/Collectables#PepeStatue" target="_blank">Pepe Statue</a>** | Mermaid Pepe Statue | <img src="/bot-features/skins/item-skins/pepestatue-mermaidvariant.gif" alt="Mermaid Pepe Statue" width="50" height="50"> {: #PepeStatueSkin} |
+| **<a href="/Items/Collectables#PepeSus" target="_blank">Pepe Sus</a>** | Legacy Pepe Sus | <img src="/bot-features/skins/item-skins/pepesus-legacyvariant.png" alt="Legacy Pepe Sus" width="50" height="50"> {: #PepeSusSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Legacy Pepe Trophy | <img src="/bot-features/skins/item-skins/pepetrophy-legacypepetrophy.gif" alt="Legacy Pepe Trophy" width="50" height="50"> {: #PepeTrophySkin} |
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Blood Pour Variant | <img src="/bot-features/skins/item-skins/pepetrophy-bloodpourvariant.png" alt="Blood Pour Pepe Trophy" width="50" height="50">  |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PetCollar" target="_blank">Pet Collar</a>** | Legacy Collar | <img src="/bot-features/skins/item-skins/petcollar-legacycollar.png" alt="Legacy Collar" width="50" height="50"> {: #PetCollarSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>** | Moldy Pizza Variant | <img src="/bot-features/skins/item-skins/pizzaslice-moldypizzavariant.png" alt="Moldy Pizza Variant" width="50" height="50"> {: #PizzaSliceSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>** | Pineapple Pizza Variant | <img src="/bot-features/skins/item-skins/pizzaslice-pineapplepizzavariant.png" alt="Pineapple Pizza Variant" width="50" height="50"> |
