@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-24T05:09:57.154Z
+date: 2023-11-24T05:10:53.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -103,7 +103,7 @@ The more they like you, the more they'll visit and the better rewards they'll of
 <br>
 
 ## Fishing Guidebook 
-The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/FishingFishLocations" target="_blank">location</a>, the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a>, and even the <a href="https://dankmemer.wiki/Items/Fishing" target="_blank">tools and baits</a> available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress.
+The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">location</a>, the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a>, and even the <a href="https://dankmemer.wiki/Items/Fishing" target="_blank">tools and baits</a> available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress.
 
 <br>
 
@@ -133,8 +133,7 @@ For NPC leaderboards, the number of interactions you have with an NPC on that da
 
 
 ## Fish Log {: #FishLog}
-The `/fish log` command is similar to the <a href="
-/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">/currencylog</a> but is exclusively for fishing. The fish log will show you what you catch, what tools and baits you used, and what creatures you sold.
+The `/fish log` command is similar to the <a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">/currencylog</a> but is exclusively for fishing. The fish log will show you what you catch, what tools and baits you used, and what creatures you sold.
 
 <br>
 <center>
