@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-24T09:25:26.691Z
+date: 2023-11-24T09:40:03.480Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -260,7 +260,10 @@ The farm skins can be equipped on your farm, and it will be what you or anyone e
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Blob {: #BlobSkin} | <img src="/bot-features/skins/farm-skins/farm-blob.png" alt="Farm Desert" width="50" height="50"> |
+  | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Desert {: #DesertSkin} | <img src="/bot-features/skins/farm-skins/farm-desert.png" alt="Farm Desert" width="50" height="50"> |
+  | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Ghostly {: #GhostlySkin} | <img src="/bot-features/skins/farm-skins/farm-ghostly.png" alt="Farm Desert" width="50" height="50"> |
+  | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Raft {: #RaftSkin} | <img src="/bot-features/skins/farm-skins/farm-raft.png" alt="Farm Raft" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Rainbows {: #RainbowsSkin} | <img src="/bot-features/skins/farm-skins/farm-rainbow.png" alt="Farm Rainbow" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Spring | <img src="/bot-features/skins/farm-skins/farm-spring.png" alt="Farm Spring" width="50" height="50"> |
@@ -276,7 +279,7 @@ The fish tank skins can be equipped on your fish tank, and it will be what you o
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
 
 
   </center>
