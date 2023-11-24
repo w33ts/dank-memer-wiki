@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-24T09:42:30.359Z
+date: 2023-11-24T21:15:40.079Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -57,7 +57,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
 |Magnet Bait {: #MagnetBait} | <img src="/items/fishing/magnet_bait.webp" alt="Magnet Bait" width="50" height="50">| Helps you catch only loot, not creatures. | 10 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Money Bait {: #MoneyBait} | <img src="/items/fishing/money_bait.webp" alt="Money Bait" width="50" height="50">|  Instantly sells your creatures for coins instead of putting them in a bucket. | 25 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Timely Bait {: #TimelyBait} |<img src="/items/fishing/timely_bait.webp" alt="Timely Bait" width="50" height="50">| Helps you catch creatures outside of their normal time. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
-|Turkey Bait {: #TurkeyBait} | <img src="/items/fishing/turkey_bait.png" alt="Timely Bait" width="50" height="50">| Adds a <a href="/en/Items/Fishing/Creatures#TurkeyFish" target="_blank">Turkey Fish</a> to your catch. Is the only way to catch one. | 5 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|Turkey Bait {: #TurkeyBait} | <img src="/items/fishing/turkey_bait.png" alt="Timely Bait" width="50" height="50">| Adds a <a href="/en/Items/Fishing/Creatures#TurkeyFish" target="_blank">Turkey Fish</a> to your catch. Is the only way to catch one. | 5 | Currently Unobtainable |
 |Vintage Bait {: #VintageBait} | <img src="/items/fishing/vintage_bait.webp" alt="Vintage Bait" width="50" height="50">| Helps you catch creatures instead of items. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
 |Weighted Bait {: #WeightedBait} |<img src="/items/fishing/weighted_bait.webp" alt="Weighted Bait" width="50" height="50">| Increases your chance to catch larger sized fish. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 
