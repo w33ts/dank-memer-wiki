@@ -2,25 +2,26 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-17T09:14:11.452Z
+date: 2023-11-24T05:08:29.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
 ---
 
 # Dank Memer Fishing
-In 2023, the fishing command in Dank Memer was complete redesigned and expanded to add multiple subcommands, new <a href="/Items/Fishing/Creatures" target="_blank">creatures</a>, NPCs, multiple fishing <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">locations</a>, a <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSkills" target="_blank">skills system</a>, and more. It was one of the largest updates the bot has had in years, and brought a completely new way of playing Dank Memer.
+In 2023, the fishing command in Dank Memer was complete redesigned and expanded to add multiple subcommands, new <a href="/Items/Fishing/Creatures" target="_blank">creatures</a>, unique <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a> you can interact with, multiple fishing <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">locations</a>, a <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSkills" target="_blank">skills system</a>, and more. It was one of the largest updates the bot has had in years, and brought a completely new way of playing Dank Memer.
 
 **Fishing Commands:**
-- <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a> - Use to manage your buckets, organize what you've caught, sell <a href="/Items/Fishing/Creatures" target="_blank">creatures</a>, and move creatures to your fish tank.
+- <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a> - Use to manage your buckets, organize what you've caught, sell <a href="/Items/Fishing/Creatures" target="_blank">creatures</a>, and move creatures to your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tank</a>.
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishCatch" target="_blank">/fish catch</a> - Use to equip tools and baits, pick a location, and to fish.
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a> - A useful guide that shows all the creatures you've caught, NPCs you've met, locations you've visited, and your fishing stats.
-- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> - With the AFK skill, you can use this command to start an idle fishing machine that will fish for you while you do nothing.
-- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLeaderboards" target="_blank">/fish leaderboards</a> - Use to heck the daily leaderboards you can compete on for special rewards.
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> - With <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">the AFK skill</a>, you can use this command to start an idle fishing machine that will fish for you while you do nothing.
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLeaderboards" target="_blank">/fish leaderboards</a> - Use to check the daily leaderboards where you can compete for special rewards.
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLog" target="_blank">/fish log</a> - A log for fishing-related items, so you can see what you've caught and sold.
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">/fish season</a> - A leveling system within fishing where you can earn rewards, or upgrade to the premium pass for bonus rewards.
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSettings" target="_blank">/fish settings</a> - Used to manage your settings for fishing, such as if you want to auto-equip bait or tools.
 - <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> - A shop where you can use the Fish Tokens you've earned to buy fishing-related items.
-- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSkills" target="_blank">/fish skills</a> - Use to check what skills you can upgrade to make fishing easier and more profitable. 
+- <a href="Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a> - Use to check what skills you can upgrade to make fishing easier and more profitable. 
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> - A virtual fish tank where you can save a few fish to show off or put decorations.
 
 <br>
@@ -31,20 +32,22 @@ Fising Tutorials:
 - <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items</a> 
 - <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">Managing Buckets and Creatures Tutorial</a> 
 - <a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">NPC Tutorial</a> 
+- <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Random Fishing Events</a> 
+- <a href="https://dankmemer.lol/tutorial/fishing-seasonal-events-faq" target="_blank">Seasonal Fishing Events</a> 
 
 
 
 ## Fishing Basics {: #FishCatch}
-The basic command to get started with fishing is /`fish catch`. You can use this command to equip baits and tools, pick a location to fish at, and to start fishing.
+The basic command to get started with fishing is /`fish catch`. You can use this command to equip baits and tools, pick a location to fish at, and to start fishing. Sometimes, there are also <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">random fishing events</a> active without warning, but you can see when one is currently live from this basic `/fish catch` menu also.
 
 <br>
 <center>
-  <img src="/bot-features/fishing/fishcatch.png" alt="Fish catch." width=500>
+  <img src="/bot-features/fishing/fishcatch2.png" alt="Fish catch." width=500>
 </center>
 
 The <a href="/Items/Fishing#Tools" target="_blank">tools</a>, <a href="/Items/Fishing#Baits" target="_blank">baits</a>, <a href="/Items/Fishing#Buckets" target="_blank">buckets</a>, and <a href="/Items/Fishing/Creatures" target="_blank">creatures</a> you'll use and find while fishing are not like other items in Dank Memer. They won't enter your normal Dank `/inventory`, and instead are exclusively used within the fish commands. Visit <a href="/Items/Fishing" target="_blank">the fishing item</a> page to see a complete list of fishing-related items and creatures.
 
-Each tool and bait you use has a limited number of uses, but you can always use your bare hands to fish. Bare hands cannot catch items or bosses, though, unless you upgrade the Zen Hands skill.
+Each tool and bait you use has a limited number of uses, but you can always use your bare hands to fish. Bare hands cannot catch items or bosses, though, unless you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Zen Hands skill</a> .
 
 Once you begin fishing, you'll see one or more shadows in the water. 
 
@@ -56,14 +59,18 @@ Once you begin fishing, you'll see one or more shadows in the water.
   
 If there is only one shadow, it is guaranteed to be an item or creature. If you see more than one shadow, however, it can be an item, a creature, or a mine. If you look at the image above, you can see the shadow on the right has spiked points coming out of it and it has a slightly clearer shape. This tells you it is the mine and you want to select the other shadow to catch.
 
-Move your tool to the shadow you want and click catch to pull something from the water. While fishing, you have one minute to fish before the catch will get away.
+Move your tool to the shadow you want and click catch to pull something from the water. While fishing, you have one minute to fish before the catch will get away. Avoid running into or going over a mine, as if you do it will end the fishing game and damage any tools you are using.
 
-If you want to shorten the time between fishing, decrease the number of mines, or improve the shape of the shadows so you can see what you are catching, there are skills you can upgrade to help in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSkills" target="_blank">/fish skills</a>.
+If you want to shorten the time between fishing, decrease the number of mines, or improve the shape of the shadows so you can see what you are catching, there are skills you can upgrade to help in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a>.
+
+When you see three shadows, it means that you've encountered a <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss creature</a>. Navigate around the two mines to the non-mine shadow to capture it.
 
 <br>
 
-### Locations {: #FishLocations}
-Each location has a different set of possible <a href="/Items/Fishing/Creatures" target="_blank">creatures</a> you can catch there, as well as a different group of <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a> who like to visit it. There are also some locations that may be exclusive holiday spots that are only available for a limited time. To complete a location page in `/fish guide`, you must catch one of each creature possible at the location and meet each NPC possible at the location. In order to catch one of the <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss creatures</a>, you must first catch every other possible creature. 
+### <font color =b32d2d>Locations</font> {: #FishLocations}
+Each location has a different set of possible <a href="/Items/Fishing/Creatures" target="_blank">creatures</a> you can catch there, as well as a different group of <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a> who like to visit it. There are also some locations that may be exclusive holiday spots that are only available for a limited time. 
+
+To complete a location page in `/fish guide`, you must catch one of each creature possible at the location and meet each NPC possible at the location. In order to catch one of the <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss creatures</a>, you must first catch every other possible creature at the location. If a creature is ever moved to a new location, you must catch it at the new location to re-finish the location even if you've caught it before somewhere else.
 
 Traveling to a different location takes 60 minutes by default, but you can speed up the process by using gems to fast travel.
 
@@ -78,8 +85,10 @@ Traveling to a different location takes 60 minutes by default, but you can speed
 
 <br>
 
-### NPCs {: #FishNPCs}
+### <font color =b32d2d>NPCs</font> {: #FishNPCs}
+NPCs are non-playable characters that you can encounter when fishing. They may pop up to interact with you in diferent ways, such as offering a gift, asking to trade, requesting something you caught, or even just to talk. How you reply to an NPC can affect how they feel about you. 
 
+The more they like you, the more they'll visit and the better rewards they'll offer. You can read more about NPC interactions in <a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">the NPC tutorial</a>. There are also several skills in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Social" target="_blank">/fish skills</a> to help you with NPCs.
 
 | NPC | Image | Description |  Location(s) |
 |:--------:|:------:|:------:|:------:|
@@ -94,7 +103,13 @@ Traveling to a different location takes 60 minutes by default, but you can speed
 <br>
 
 ## Fishing Guidebook 
-The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each creature, location, NPC, tool, and bait available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress.
+The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/FishingFishLocations" target="_blank">location</a>, the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a>, and even the <a href="https://dankmemer.wiki/Items/Fishing" target="_blank">tools and baits</a> available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress.
+
+<br>
+
+<center>
+<img src="/items/fishing/guide/guide_freshwater.webp" alt="Bare Hand" width="400">
+</center>
 
 To complete the guidebook and earn the gold fishing badge, you must fill in all the missing information. Find every creature and every variant, unlock the complete time available for each creature, meet every NPC, and meet every NPC at each location. All shadows and question marks must be filled in before your guide will count as being completed.
 
@@ -118,13 +133,81 @@ For example, to top the location leaderboard, it takes into account the number o
 For NPC leaderboards, the number of interactions you have with an NPC on that day does help, but also your overall reputation and how the NPC feels about you.
 
 
+## Fish Log {: #FishLog}
+The `/fish log` command is similar to the <a href="
+/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">/currencylog</a> but is exclusively for fishing. The fish log will show you what you catch, what tools and baits you used, and what creatures you sold.
+
+<br>
+<center>
+  <img src="/bot-features/fishing/fishlog.png" alt="Fish leaderboard" width="300">
+  </center>
+  
+You can also see info about what creatures you collected from your `/fish idle` machine and info about NPC interactions.
+
+## Fish Season {: #FishSeason}
+The `/fish season` command shows you the current season pass that is available for fishing. A season pass for fishing is an exclusive fishing leveling track you can work on to earn rewards. Every fish you catch gives you XP toward the `/fish season` pass. 
+
+<br>
+<center>
+  <img src="/bot-features/fishing/fishseason.png" alt="Fish leaderboard" width="300">
+  </center>
+
+There are two possible reward tracks you can earn from: the free track on top and the premium track on the bottom. All users will receive the free rewards when they reach that tier, but only users who buy the premium season pass will receive the premium rewards. The fish season pass is available for a set amount of time, but if you purchase the premium pass you will continue to have access for as long as you need to earn all of the rewards. 
+
+<br>
+<center>
+  <img src="/bot-features/fishing/fishseason_upgrademenu.png" alt="Fish leaderboard" width="400">
+  </center>
+
+Once the season ends, a new pass will be released will all new rewards to aim for. There is also a premium+ version of the season pass you can purchase that will allow you to move up 25 levels instantly, so you can unlock 25 tiers of rewards all at once. You can upgrade the season pass at any time, and if you sign up for the regular premium pass and decide you want to move to the + version, you can do that as well.
+
+The current fish season pass is titled, "Season of the Haunted Waters" and you can see the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">full rewards available here</a>.
+
+Event fish, variants, and bosses give more XP, so if you are trying to level up quickly on a season pass, go after those creatures and use nets or dynamite to catch more fish at once.
+
+## Fish Settings {: #FishSettings}
+The `/fish settings` command allows you to change your settings for fishing so you can control how bait and tools are managed.
+
+<br>
+<center>
+  <img src="/bot-features/fishing/fishsettings.png" alt="Fish Setting" width="400">
+  </center>
+
+If you have the re-equip bait or re-equip tools settings enabled, it will automatically grab a new tool or bait when one breaks so you don't have to go back to the equipment menu.
+
+## Fish Shop {: #FishShop}
+You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like tools, buckets, and baits, as well as fish tank decorations and some foods that can be consumed to give you boosts outside of fishing.
+
+<br>
+<center>
+<img src="/bot-features/basic-commands/fishing_shop.png" alt="gem shop example."width=400>
+</center>
+
+Some items in the Fish Shop are restricted, though, and you'll notice they are grayed out. These items need to be unlocked by either leveling up a special skill in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a>, or by being friends with one of the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">fishing NPCs</a>.
+
 ## Fish Skills and Upgrades {: #FishSkills}
-The new fishing system comes with a new skill system as well. In the /fish guide there are Skill Challenges you can complete to earn a Skill Point. Skill Points can be used with the /fish skills command. There are a variety of skills you can upgrade to help you fish easier and make money money. For example, several skills in the economy section increase the coins or tokens you can earn when selling fish.
+The new fishing system comes with a new skill system as well. In the `/fish guide` there are <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">Skill Challenges</a> you can complete to earn a Skill Point. 
 
-Other skills help improve your tools, shorten cooldowns, and increase NPC interactions. There is even a skill that unlocks an idle fishing machine.
+<br>
 
-### Idle Fishing {: #FishIdle}
-The idle fishing machine is a machine that will fish for you while you are away from the keyboard. You can unlock this machine by upgrading the AFK skill in the science category.
+<center>
+<img src="/items/fishing/guide/guide_challenge.webp" alt="Bare Hand" width="400">
+</center>
+
+Skill Points can be used with the `/fish skills` command. There are a variety of <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills you can upgrade</a> to help you fish easier and make money money. For example, several skills in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">economy section</a> increase the coins or tokens you can earn when selling fish.
+
+
+<br>
+<center>
+<img src="/bot-features/fishing/fishskills_main.png" alt="Fish Skills" width="300">
+</center>
+
+Other skills help improve your tools, shorten cooldowns, and increase NPC interactions. There is even a skill that unlocks an idle fishing machine. Check out a full list of the available <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills and skill challenges here</a>. 
+
+You can reset your skill points once ever 3 days. Once you reset them, you can re-apply them anywhere you want. If you want to reset skills more often, you can by using gems.
+
+### <font color =b32d2d>Idle Fishing</font> {: #FishIdle}
+The idle fishing machine is a machine that will fish for you while you are away from the keyboard. You can unlock this machine by applying a skill point to the AFK skill in the science category.
 
 <br>
 <center>
@@ -133,7 +216,9 @@ The idle fishing machine is a machine that will fish for you while you are away 
 
 Once unlocked, the idle machine will automatically fish for you every 30 minutes and attempt to catch a fish. It is not guaranteed it will catch something, though, and it will continue to operate every 30 minutes until the storage space is full. When it is, you will be notified and given a grace period until the next catch to keep it going before it stops.
 
-You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. The machine will fish at all available locations for you, so it can catch a variety of fish, including bosses.
+You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. The machine will fish at all available locations for you, so it can catch a variety of creatures but cannot capture bosses.
+
+Upgrade the AFK Skill under the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">science skills</a> category to increase the function of the idle machine.
 
 ## Fish Tank {: #FishTank}
 If you want to save a few of your favorite fish, you can put them in your fish tank. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
@@ -143,7 +228,7 @@ If you want to save a few of your favorite fish, you can put them in your fish t
   <img src="/bot-features/fishing/fish_tank.webp" alt="Fish Tank" width="400">
   </center>
 
-You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade the Aquarium Keeper skill, you can increase what the tank can hold.
+You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Aquarium Keeper skill</a>, you can increase what the tank can hold.
 
 You can see a full list of the possible decorations so far <a href="/Items/Fishing#Decorations" target="_blank">here. </a>
 
