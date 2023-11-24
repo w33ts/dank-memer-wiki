@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-24T08:56:32.289Z
+date: 2023-11-24T09:03:40.098Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -105,6 +105,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Legacy Garbage (Smashed Energy Drink) | <img src="/bot-features/skins/item-skins/garbage-legacygarbage(smashedenergydrink).png" alt="Legacy Garbage (Smashed Energy Drink)"  height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#GodBox" target="_blank">God Box</a>** | Legacy God Box | <img src="/bot-features/skins/item-skins/godbox-legacygodbox.gif" alt="Legacy God Box" width="50" height="50"> {: #GodBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#HolyBadoszsBread" target="_blank">Holy Badosz's Bread</a>** | Moldy Holy Bread Variant | <img src="/bot-features/skins/item-skins/holybadoszsbread-moldyholybreadvariant.gif" alt="Moly Holy Bread Variant" width="50" height="50"> {: #HolyBadoszsBreadSkin} |
+| **<a href="/Items/Collectables#HolyWater" target="_blank">Holy Water</a>** | Unholy Variant | <img src="/bot-features/skins/item-skins/holywater-unholyvariant.png" alt="Unholy Holy Water" width="50" height="50"> {: #HolyWaterSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>** | Legacy Hunting Badge | <img src="/bot-features/skins/item-skins/huntingrifle-legacyhuntingbadge.png" alt="Legacy Hunting Badge" width="50" height="50"> {: #HuntingRifleSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>** | Legacy Hunting Rifle | <img src="/bot-features/skins/item-skins/huntingrifle-legacyhuntingrifle.png" alt="Legacy Hunting Rifle" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>** | OP Hunting Rifle Variant | <img src="/bot-features/skins/item-skins/huntingrifle-ophuntingriflevariant.png" alt="OP Hunting Rifle Variant" width="50" height="50"> |
@@ -126,6 +127,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>** | First Aid Variant | <img src="/bot-features/skins/item-skins/lifesaver-firstaidvariant.png" alt="First Aid Variant" width="50" height="50"> {: #LifeSaverSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>** | Legacy Lifesaver | <img src="/bot-features/skins/item-skins/lifesaver-legacylifesaver.png" alt="Legacy Livesaver" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a>** | Legacy Like Button | <img src="/bot-features/skins/item-skins/likebutton-legacylikebutton.png" alt="Legacy Like Button" width="50" height="50"> {: #LikeButtonSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Literally Karen</a>** | Literally Karen Witch Variant | <img src="/bot-features/skins/item-skins/literallykaren-witchvariant.png" alt="Literally Karen Witch" width="50" height="50"> {: #LiterallyKarenSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>** | Legacy Horseshoe | <img src="/bot-features/skins/item-skins/luckyhorseshoe-legacyhorseshoe.png" alt="Legacy Horseshoe" width="50" height="50"> {: #LuckyHorseshoeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>** | Legacy Membership Box Skin | <img src="/bot-features/skins/item-skins/membershipbox-legacyboxskin.gif" alt="Membership Box Skin" width="50" height="50"> {: #MembershipBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Packs#MembershipPack" target="_blank">Membership Pack</a>** | Legacy Membership Pack | <img src="/bot-features/skins/item-skins/membershippack-legacypackskin.png" alt="Membership Pack Skin" width="50" height="50"> {: #MembershipPackSkin} |
