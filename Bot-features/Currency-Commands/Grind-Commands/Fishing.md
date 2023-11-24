@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-24T05:08:29.339Z
+date: 2023-11-24T05:09:57.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -21,7 +21,7 @@ In 2023, the fishing command in Dank Memer was complete redesigned and expanded 
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">/fish season</a> - A leveling system within fishing where you can earn rewards, or upgrade to the premium pass for bonus rewards.
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSettings" target="_blank">/fish settings</a> - Used to manage your settings for fishing, such as if you want to auto-equip bait or tools.
 - <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> - A shop where you can use the Fish Tokens you've earned to buy fishing-related items.
-- <a href="Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a> - Use to check what skills you can upgrade to make fishing easier and more profitable. 
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a> - Use to check what skills you can upgrade to make fishing easier and more profitable. 
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> - A virtual fish tank where you can save a few fish to show off or put decorations.
 
 <br>
@@ -113,8 +113,7 @@ The fishing guide book available in `/fish guide` is one of the most useful tool
 
 To complete the guidebook and earn the gold fishing badge, you must fill in all the missing information. Find every creature and every variant, unlock the complete time available for each creature, meet every NPC, and meet every NPC at each location. All shadows and question marks must be filled in before your guide will count as being completed.
 
-See more information about what each page of the guidebook shows <a href="
-/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">here. </a>
+See more information about what each page of the guidebook shows <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">here. </a>
 
 
 ## Fish Leaderboard {: #FishLeaderboards}
