@@ -2,14 +2,14 @@
 title: Fishing Guidebook
 description: 
 published: true
-date: 2023-11-03T22:42:29.073Z
+date: 2023-11-24T05:52:03.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T23:32:11.184Z
 ---
 
 # Fishing Guidebook
-The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each creature, location, NPC, tool, and bait available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress.
+The fishing guide book available in `/fish guide` is one of the most useful tools for <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a>. The guidebook gives you information about each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">location</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPC</a>, <a href="/Items/Fishing#Tools" target="_blank">tool</a>, and <a href="/Items/Fishing#Baits" target="_blank">bait</a> available. The guide also lists out all of the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">skill challenges</a> you can complete, and has a summary page that shows your overall fishing progress.
 
 
 **Guidebook Sections:**
@@ -22,10 +22,10 @@ The fishing guide book available in `/fish guide` is one of the most useful tool
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#Baits" target="_blank">Baits</a>
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#SkillChallenges" target="_blank">Skill Challenges</a>
 
-To complete the guidebook and earn the gold fishing badge, you must fill in all the missing information. Find every creature and every variant, unlock the complete time available for each creature, meet every NPC, and meet every NPC at each location. All shadows and question marks must be filled in before your guide will count as being completed.
+To complete the guidebook and earn the gold fishing badge, you must fill in all the missing information. Find every creature and every variant, unlock the complete time available for each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, meet every <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPC</a>, and meet every NPC at each <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">location</a>. All shadows and question marks must be filled in before your guide will count as being completed.
 
 ## Summary Page {: #Summary}
-The summary page of `/fish guide` shows your overall fishing stats and your progress on completing the guide book. It also shows what tier you are in the /fish season, and your overall season rank.
+The summary page of `/fish guide` shows your overall fishing stats and your progress on completing the guidebook. It also shows what tier you are in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">fish season</a>, and your overall season rank.
 
 If you want to feature a catch on your summary page, click the camera button on the `/fish catch` embed after catching the fish.
 
@@ -37,7 +37,7 @@ If you want to feature a catch on your summary page, click the camera button on 
 
   
 ## Freshwater Creatures {: #Freshwater}
-Creatures in the guidebook are broken up into two categores: Freshwater and Saltwater. Freshwater creatures are creatures you find in lakes, rivers, and ponds. All of the creatures you find in Wily River, Camp Guillermo, Mystic Pond, and Crypt Keeper's Pond are found here.
+Creatures in the guidebook are broken up into two categores: Freshwater and Saltwater. <a href="/Items/Fishing/Creatures#Freshwater" target="_blank">Freshwater creatures</a> are creatures you find in lakes, rivers, and ponds. All of the creatures you find in Wily River, Camp Guillermo, Mystic Pond, and Crypt Keeper's Pond are found here.
 
 <br>
 
@@ -47,14 +47,14 @@ Creatures in the guidebook are broken up into two categores: Freshwater and Salt
 
 Each creature has two key pieces of information you need to complete in order to complete the creature page. 
 
-First, you must reveal the entire time the creature is available. As you catch a creature, the time beneath the creature's picture will start to unlock. The question marks (?) mean you have not revealed the full time range. All times are in UTC time, and they round to the hour.
+First, you must reveal the entire time the creature is available. As you catch a creature, the time beneath the creature's picture will start to unlock. You have to catch a certain number of fish to unlock the time. The number you need to catch is based on the rarity of the fish, so the rarer the fish, the fewer you have to catch. The question marks (?) mean you have not revealed the full time range. All times are in UTC time.
 
-The second information  you need to unlock is the variants for the creature. Most creatures have at least one variant you can catch, such as a high-quality version. If there is a shadow of the creature still, you are missing a variant. There are special <a href="/Items/Fishing#Baits" target="_blank">baits</a> and skills you can use to make it easier to catch a variant.
+The second information you need to unlock is the variants for the creature. Most creatures have at least one variant you can catch, such as a high-quality version. You can see a full list of creatures and their variants <a href="/Items/Fishing/Creatures" target="_blank">on the creatures page</a>. If there is a shadow of the creature still, you are missing a variant. There are special <a href="/Items/Fishing#Baits" target="_blank">baits</a> and <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills</a> you can use to make it easier to catch a variant.
 
 
 
 ## Saltwater Creatures {: #Saltwater}
-All creatures found in the ocean are found in the saltwater portion of the guide book. These include any creatures found in Vertigo Beach and at the Underwater Sanctuary.
+All creatures found in the ocean are found in the saltwater portion of the guide book. The <a href="/Items/Fishing/Creatures#Saltwater" target="_blank">saltwater creatures</a> include any creatures found in Vertigo Beach and at the Underwater Sanctuary.
 
 <br>
 
@@ -62,10 +62,14 @@ All creatures found in the ocean are found in the saltwater portion of the guide
 <img src="/items/fishing/guide/guide_saltwater.webp" alt="Bare Hand" width="400">
 </center>
 
+Again, each creature has two key pieces of information you need to complete in order to complete the creature page: the entire time the creature is available and all of the variants possible for that creature. If you have any question marks or shadows on the page, you are missing information.
+
+You can see a full list of creatures and their variants <a href="/Items/Fishing/Creatures" target="_blank">on the creatures page</a>. There are special <a href="/Items/Fishing#Baits" target="_blank">baits</a> and <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills</a> you can use to make it easier to catch a variant.
+
 
 
 ## NPCs {: #NPCs}
-Each NPC you can meet when fishing has a page in the guidebook. The page will tell you their full name, nickname, and a brief bio. You can also see how the NPC feels about you on the page by looking at the red and blue progress bar. If the fish hook is in the red, it means the NPC doesn't like you. If the fish hook is in the blue, it means the NPC likes you.
+Each <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPC</a> you can meet when fishing has a page in the guidebook. The page will tell you their full name, nickname, and a brief bio. You can also see how the NPC feels about you on the page by looking at the red and blue progress bar. If the fish hook is in the red, it means the NPC doesn't like you. If the fish hook is in the blue, it means the NPC likes you.
 
 <br>
 
@@ -75,9 +79,11 @@ Each NPC you can meet when fishing has a page in the guidebook. The page will te
 
 You want to be friends with each NPC because being friends means they will visit more often and offer better rewards and gifts. You can see where each NPC hangs out by looking at the location pages in `/fish guide`.
 
+NPCs are at one location each day and it is the same for everyone, so if you are having trouble finding one to unlock them in your `/fish guide`, ask around to see where people have found them that day.
+
 
 ## Locations {: #Locations}
-On each location page in /fish guide you can see what creatures can be caught at the location. As you catch a creature at the location, the shadow will be filled in. Once you catch all of the non-boss creatures at a location, you will then be able to catch the boss. 
+On each location page in `/fish guide` you can see what creatures can be caught at the location. As you catch a <a href="/Items/Fishing/Creatures#ByLocations" target="_blank">creature at the location</a>, the shadow will be filled in. Once you catch all of the non-boss creatures at a location, you will then be able to catch the <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss</a>. 
 
 <br>
 
@@ -85,10 +91,10 @@ On each location page in /fish guide you can see what creatures can be caught at
 <img src="/items/fishing/guide/guide_location.webp" alt="Bare Hand" width="400">
 </center>
 
-The location pages also show what NPCs visit the location. In order to complete the location page, you must meet each NPC possible at the location at least once. As you meet them, their shadows will fill in.
+The location pages also show what <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a> visit the location. In order to complete the location page, you must meet each NPC possible at the location at least once. As you meet them, their shadows will fill in.
 
 ## Tools {: #Tools}
-The tool pages in the guide book are useful to see how a tool is working for you. You can see the description of the tool, how many you own, and all the stats for what that tool has helped you catch.
+The tool pages in the guide book are useful to see how a <a href="/Items/Fishing#Tools" target="_blank">tool</a> is working for you. You can see the description of the tool, how many you own, and all the stats for what that tool has helped you catch.
 
 <br>
 
@@ -101,7 +107,7 @@ The tool page will also show the current durability for that tool, so you can se
 Check out <a href="/Items/Fishing#Tools" target="_blank">all the possible tools here</a>.
 
 ## Baits {: #Baits}
-The bait pages in the guide book will tell you the description for the bait as well as give you stats for when you've used the bait, and tells you how many you own.
+The <a href="/Items/Fishing#Baits" target="_blank">bait</a> pages in the guide book will tell you the description for the bait as well as give you stats for when you've used the bait, and tells you how many you own.
 
 <br> 
 
@@ -114,7 +120,7 @@ The bait pages will also show the current durability of that bait, so you can se
 Check out <a href="/Items/Fishing#Baits" target="_blank">all the possible baits here</a>.
 
 ## Skill Challenges {: #SkillChallenges}
-The skill challenges in the guidebook are incredibly important. These pages tell you challenges you can complete to earn one or more skill points. Skill points can be used to upgrade different skills that help you while fishing, such as the Zen Hands skill, which helps you catch bosses with bare hands.
+The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">skill challenges</a> in the guidebook are incredibly important. These pages tell you challenges you can complete to earn one or more skill points. Skill points can be used to upgrade different <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills</a> that help you while fishing, such as the Zen Hands skill, which helps you catch bosses with bare hands.
 
 <br>
 
