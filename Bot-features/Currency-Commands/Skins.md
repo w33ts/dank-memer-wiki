@@ -2,47 +2,54 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-18T22:53:59.043Z
+date: 2023-11-24T08:56:32.289Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
 ---
 
 # Skins
+Skins are cosmetics you can collect and unlock in multiple different ways to make your game experience more unique for yourself. You're completely free to pick whichever available and unlocked skin you want for the items, pets, badges, farm, and fish tank. 
 
-## Basic info
-Skins are cosmetics you can collect and unlock in multiple different ways to make your game experience more unique for yourself. You're completely free to pick whichever available and unlocked skin you want for the items, pets, badges and your farm. 
+You can unlock skins by finding them when <a href="/Bot-features/Currency-Commands/Grind-Commands" taget="_blank">grinding</a>, earning them as a <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" taget="_blank">level</a> or <a href="/Bot-features/Currency-Commands/Advancements#Vote" taget="_blank">vote</a> reward, or purchashing them from the <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" taget="_blank">gem shop</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#SkinShop" taget="_blank">skin shop</a>, or `/advancements omega` shop. To purchase skins from the omega shop and skin shop you need skin fragments. Since you can only have one copy of a skin, when you find the same one again you receive skin fragments instead.
+
+
+There are 6 commands related to skins: 
+- `/skins view` - where you can view your skin fragment balance as well as all the skins you currently have unlocked.
+- `/skins select badge` - where you can choose if you want to use the gold or platinum version of a badge on your profile (if you have both unlocked).
+- `/skins select farm` - where you can choose which farm skin you want to equip.
+- `/skins select fishtank` - where you can choose which fish tank skin you want to equip.
+- `/skins select item` - where you can pick an item to change the skin for.
+- `/skins select pet` - where you can equip a pet skin on one of your pets. You must own the pet of that type to equip the skin.
+
 
 A detailed blog on the release of skins can be found [here](https://dankmemer.lol/community/blog/skin-release).
 
-## Skins tutorial
 You can find a tutorial on how to collect and use skins [here](https://dankmemer.lol/tutorial/skins).
 
-## Commands
-### Badge skins
-You can select a different farm skin with the `/skins select badge badge:` command.
 
-### Farm skins
-You can select a different farm skin with the `/skins select farm` command.
-
-### Item skins
-You can select a different farm skin with the `/skins select item item:` command.
-
-### Pet skins
-You can select a different farm skin with the `/skins select pet pet:` command.
-
-### Viewing your skins
+## View Your Skins
 You can view your unlocked skins with the `/skins view` command.
 
 This commands shows the following:
 - Your amount of skin fragments
-- Your unlocked skins, ordered by items > pets > badges > farm
-- Which skin you have selected for said item/badge is underlined
+- Your unlocked skins, ordered by items > pets > badges > farm > fish tank
+- The skin you currently have equipped for is underlined
+  <br>
+<center>
+<img src="/bot-features/skins/skins_view.png" alt="Skins View" width="350">
+</center>
+  
 
-![skins_view.png](/bot-features/skins/skins_view.png)
 
 ## Current skins
-### Item skins
+Below is a complete list of all of the current skins available. Almost every update new skins are released, but it can take time for them to be discovered. Skins are added here as quickly as possible.
+
+### <font color =b32d2d>Item Skins</font> {: #ItemSkins}
+Item skins can be equipped on an item. Many items have more than one possible skin you can use. To view the skins you have unlocked for a specific item, use the `/skins select item` command. Once you've selected a skin, it will be what you see while using the bot.
+
+<center>
+
 | Item Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Aplus" target="_blank">A Plus</a>** | Legacy A Plus | <img src="/bot-features/skins/item-skins/aplus-legacyaplus.png" alt="Legacy A Plus" width="50" height="50"> {: #APlusSkin} |
@@ -50,6 +57,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AdventureVoucher" target="_blank">Adventure Voucher</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventurevoucher-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureVoucherSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Lively Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-aethslivelyflowervariant.png" alt="Aeth's Lively Flower Variant" width="50" height="50"> {: #AetheryxFlowerSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Beastly Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-aethsflowerbeastvariant.png" alt="Aeth's Beastly Flower Variant" width="50" height="50"> |
+ | **<a href="/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Legacy Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-legacyvariant.png" alt="Aeth's Beastly Flower Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AipheysGemstone" target="_blank">Aiphey's Gemstone</a>** | Aiphey's Gemstone Destiny Variant | <img src="/bot-features/skins/item-skins/aipheysgemstone-aipheysgemstonedestinyvariant.gif" alt="Aiphey's Gemstone Destiny Variant" width="50" height="50"> {: #AipheysGemstoneSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Alcohol" target="_blank">Alcohol</a>** | Hard Alcohol Variant | <img src="/bot-features/skins/item-skins/alcohol-hardalcoholvariant.png" alt="Hard Alcohol Variant" width="50" height="50"> {: #AlcoholSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Alcohol" target="_blank">Alcohol</a>** | Legacy Alcohol | <img src="/bot-features/skins/item-skins/alcohol-legacyalcohol.png" alt="Legacy Alcohol" width="50" height="50"> |
@@ -68,6 +76,7 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a>** | Legacy Binary | <img src="/bot-features/skins/item-skins/binary-legacybinary.png" alt="Legacy Binary" width="50" height="50"> {: #BinarySkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | Pepe Flavored Cake Variant | <img src="/bot-features/skins/item-skins/birthdaycake-pepeflavoredcakevariant.png" alt="Pepe Flavored Cake Variant" width="50" height="50"> {: #BirthdayCakeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Blob" target="_blank">Blob</a>** | Legacy Blob | <img src="/bot-features/skins/item-skins/blob-legacyblob.gif" alt="Legacy Blob" width="50" height="50"> {: #BlobSkin} | 
+| **<a href="/Items/Sellables#Boar" target="_blank">Boar</a>** | Legacy Boar | <img src="/bot-features/skins/item-skins/boar_legacyvariant.png" alt="Legay Boar" width="50" height="50"> {: #BoarSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BoltCutters" target="_blank">Bolt Cutters</a>** | Legacy Bolt Cutters | <img src="/bot-features/skins/item-skins/boltcutters-legacyboltcutters.png" alt="Legay Bolt Cutters" width="50" height="50"> {: #BoltCuttersSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#BottleofWhiskey" target="_blank">Bottle of Whiskey</a>** | Legacy Whiskey | <img src="/bot-features/skins/item-skins/bottleofwhiskey-legacywhiskey.png" alt="Legacy Whiskey" width="50" height="50"> {: #BottleofWhiskeySkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#BoxofSand" target="_blank">Box of Sand</a>** | Sand Box Castle Variant | <img src="/bot-features/skins/item-skins/boxofsand-sandboxcastlevariant.gif" alt="Sand Box Castle Variant" width="50" height="50"> {: #BoxofSandSkin} |
@@ -75,13 +84,18 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Cactus" target="_blank">Cactus</a>** |  Dancing Cactus Variant | <img src="/bot-features/skins/item-skins/cactus-dancingvariant.gif" alt="Dancing Cactus Variant" width="50" height="50"> {: #CactusSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Candy" target="_blank">Candy</a>** | Candy Apple | <img src="/bot-features/skins/item-skins/candy-candyapple.png" alt="Candy Apple" width="50" height="50"> {: #CandySkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#CandyCorn" target="_blank">Candy Corn</a>** | Legacy Candy Corn | <img src="/bot-features/skins/item-skins/candycorn-legacycandycorn.png" alt="Legacy Candy Corn" width="50" height="50"> {: #CandyCornSkin} |
+| **<a href="/Items/Collectables#ChillPill" target="_blank">Chill Pill</a>** | Chill Pill Legacy Variant | <img src="/bot-features/skins/item-skins/chillpill-legacyvariant.png" alt="Chill Pill Legacy Variant" width="50" height="50"> {: #ChillPillSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Packs#ChristmasGift" target="_blank">Christmas Gift</a>** | Legacy Christmas Gift | <img src="/bot-features/skins/item-skins/christmasgift-legacychristmasgift.png" alt="Legacy Christmas Gift" width="50" height="50"> {: #ChristmasGiftSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#CoinBomb" target="_blank">Coin Bomb</a>** | OG Coin Bomb Variant | <img src="/bot-features/skins/item-skins/coinbomb-ogcoinbombvariant.png" alt="OG Coin Bomb Variant" width="50" height="50"> {: #CoinBombSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Cookie" target="_blank">Cookie</a>** | Cream Filled Cookie Variant | <img src="/bot-features/skins/item-skins/cookie-creamfilledcookievariant.png" alt="Cream Filled Cookie Variant" width="50" height="50"> {: #CookieSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Cookie" target="_blank">Cookie</a>** | Legacy Cookie | <img src="/bot-features/skins/item-skins/cookie-legacycookie.png" alt="Legacy Cookie" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Corncob" target="_blank">Corncob</a>** | Legacy Corncob | <img src="/bot-features/skins/item-skins/corncob-legacycorncob.png" alt="Legacy Corncob" width="50" height="50"> {: #CorncobSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Corndog" target="_blank">Corndog</a>** | Legacy Corndog | <img src="/bot-features/skins/item-skins/corndog-legacycorndog.png" alt="Legacy Corndog" width="50" height="50"> {: #CorndogSkin} | 
+| **<a href="i/Items/Collectables#CowboyHat" target="_blank">Cowboy Hat</a>** | Fisherman Variant | <img src="/bot-features/skins/item-skins/cowboyhat-fishermanvariant.png" alt="Fisherman Hat" width="50" height="50"> {: #CowboyHatSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#CrunchyTaco" target="_blank">Crunchy Taco</a>** | Legacy Taco | <img src="/bot-features/skins/item-skins/crunchytaco-legacytaco.png" alt="Legacy Taco" width="50" height="50"> {: #CrunchyTacoSkin} | 
+| **<a href="/Items/Sellables#Deer" target="_blank">Deer</a>** | Legacy Deer | <img src="/bot-features/skins/item-skins/deer-legacyvariant.png" alt="Legacy Deer" width="50" height="50"> {: #DeerSkin} | 
+| **<a href="/Items/Sellables#Dragon" target="_blank">Dragon</a>** | Legacy Dragon | <img src="/bot-features/skins/item-skins/dragon-legacyvariant.png" alt="Legacy Dragon" width="50" height="50"> {: #DragonSkin} | 
+| **<a href="/Items/Sellables#Duck" target="_blank">Duck</a>** | Legacy Duck | <img src="/bot-features/skins/item-skins/duck-legacyvariant.png" alt="Legacy Duck" width="50" height="50"> {: #DuckSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Ectoplasm" target="_blank">Ectoplasm</a>** | Legacy Ectoplasm | <img src="/bot-features/skins/item-skins/ectoplasm-legacyectoplasm.png" alt="Legacy Ectoplasm" width="50" height="50"> {: #EctoplasmSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#ElfOnTheShelf" target="_blank">Elf On The Shelf</a>** | Burning Elf Variant | <img src="/bot-features/skins/item-skins/elfontheshelf-burningvariant.gif" alt="Burning Elf Variant" width="50" height="50"> {: #ElfOnTheShelfSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a>** | Legacy Energy Drink | <img src="/bot-features/skins/item-skins/energydrink-legacyenergydrink.png" alt="Legacy Energy Drink" width="50" height="50"> {: #EnergyDrinkSkin} |
@@ -162,7 +176,15 @@ This commands shows the following:
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#WeddingGift" target="_blank">Wedding Gift</a>** | Deluxe Wedding Gift Variant | <img src="/bot-features/skins/item-skins/weddinggift-deluxeweddinggiftvariant.png" alt="Deluxe Wedding Gift Variant" width="50" height="50"> {: #WeddingGiftSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#ZigsCapybara" target="_blank">Zig's Capybara</a>** | Swag Capybara Variant {: #ZigsCapybaraSkin} | <img src="/bot-features/skins/item-skins/zigscapybara-swagvariant.png" alt="Swag Capybara Variant" width="50" height="50"> |
 
-### Pet skins {: #PetSkins}
+  </center>
+  
+  <br>
+  
+### <font color =b32d2d>Pet Skins</font> {: #PetSkins}
+The pet skins can be equipped on a pet you own, but only for the type of pet it is. If you don't own that type of pet, you cannot use the skin. Many pets have more than one possible skin you can use. To view the skins you have unlocked for your pets, use the `/skins select pet` command. Once you've selected a skin, it will be what you see while using the bot.
+
+<center>
+  
 | Pet Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="/Bot-features/Currency-Commands/Pets#Alien" target="_blank">Alien Pet</a>** | Blue Alien Variant | <img src="/bot-features/skins/pet-skins/alienpet-bluealienvariant.png" alt="Blue Alien Variant" width="50" height="50"> |
@@ -217,9 +239,15 @@ This commands shows the following:
 | **<a href="/Bot-features/Currency-Commands/Pets#TRex" target="_blank">T-Rex Pet</a>** | Love You Rex Variant | <img src="/bot-features/skins/pet-skins/t-rexpet-loveyourexvariant.png" alt="Love You Rex Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Turtle" target="_blank">Turtle Pet</a>** | Florida Turtle Variant | <img src="/bot-features/skins/pet-skins/turtlepet-floridaturtlevariant.png" alt="Florida Turtle Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Turtle" target="_blank">Turtle Pet</a>** | Mutant Turtle Variant | <img src="/bot-features/skins/pet-skins/turtlepet-mutantturtlevariant.png" alt="Mutant Turtle Variant" width="50" height="50"> |
+  
+  </center>
+  <br>
 
-### Farm skins
+### <font color =b32d2d>Farm Skins</font> {: #FarmSkins}
+The farm skins can be equipped on your farm, and it will be what you or anyone else sees when they view your farm. To view the skins you have unlocked for the farm, use the `/skins select farm` command.
 
+<center>
+  
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
@@ -229,7 +257,20 @@ This commands shows the following:
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Toxic Waste {: #ToxicWasteSkin} | <img src="/bot-features/skins/farm-skins/farm-toxicwaste.png" alt="Farm Toxic Waste" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Winter | <img src="/bot-features/skins/farm-skins/farm-winter.png" alt="Farm Winter" width="50" height="50"> |
 
+  </center>
 
+### <font color =b32d2d>Fish Tank Skins</font> {: #FishTankSkins}
+The fish tank skins can be equipped on your fish tank, and it will be what you or anyone else sees when they view your tank. To view the skins you have unlocked for the fish tank, use the `/skins select fishtank` command.
+
+<center>
+  
+| Name | Skin Name | Skin Image |
+|:------:|:----:|:------:|
+| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
+
+
+  </center>
+  
 ---
 
 
