@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-24T04:24:07.193Z
+date: 2023-11-24T04:28:30.869Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -19,7 +19,9 @@ There are a variety of creatures you can catch while fishing:
 Some creatures also qualify as "event fish". Event fish are creatures that are only available because of a special event, such as creatures that are exclusive to Crypt Keeper's Pond or the Turkey Fish from Thanksgiving. Event fish give more xp and coins/tokens when sold, so they can be useful to catch if you want to advance in the season pass faster.
 
 ## Bosses {: #Bosses}
-Before you can capture a boss at a location, you first have to capture one of each other type of fish that is possible at that location. Once your location page in /fish guide has every non-boss filled in, then it will be possible to capture a boss.
+Before you can capture a boss at a location, you first have to capture one of each other type of fish that is possible at that location. Once your location page in `/fish guide` has every non-boss filled in, then it will be possible to capture a boss.
+
+Bosses are worth more coins and tokens, and they give more XP toward your `/fish season` pass.
 
 
 <center>
@@ -41,6 +43,10 @@ Before you can capture a boss at a location, you first have to capture one of ea
 
 ## Freshwater Creatures {: #Freshwater}
 Freshwater creatures are creatures usually discovered in lakes, rivers, and ponds. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
+
+In order to complete a creature page in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>, you need to capture one of each variant type and catch enough fish to reveal the full time the fish is available. If you see a question mark in the time, it means you have not discovered the full time range and you need to keep fishing.
+
+The Turkey Fish does not count toward the fish guide completion stats since it requires a specific bait to capture it.
 
 
 <center>
@@ -78,7 +84,9 @@ Freshwater creatures are creatures usually discovered in lakes, rivers, and pond
 ## Saltwater Creatures {: #Saltwater}
 Saltwater creatures are generally found in ocean areas, like Vertigo Beach and the Underwater Sanctuary. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
 
-Sometimes there is a unique fish that can only be captures using a special bait, like the Turkey Fish.
+In order to complete a creature page in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>, you need to capture one of each variant type and catch enough fish to reveal the full time the fish is available. If you see a question mark in the time, it means you have not discovered the full time range and you need to keep fishing.
+
+The Turkey Fish does not count toward the fish guide completion stats since it requires a specific bait to capture it.
 
 <center>
   
