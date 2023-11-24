@@ -2,19 +2,21 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-24T03:35:14.262Z
+date: 2023-11-24T04:22:13.407Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
 ---
 
 # Fishing Creatures
-There are a variety of creatures you can catch while fishing
+There are a variety of creatures you can catch while fishing:
 
 - <a href="/Items/Fishing/Creatures#Bosses" target="_blank">Bosses</a>
 - <a href="/Items/Fishing/Creatures#Freshwater" target="_blank">Freshwater Creatures</a>
 - <a href="/Items/Fishing/Creatures#Saltwater" target="_blank">Saltwater Creatures</a>
 - <a href="/Items/Fishing/Creatures#ByLocation" target="_blank">Sorted by Location</a>
+
+Some creatures also qualify as "event fish". Event fish are creatures that are only available because of a special event, such as creatures that are exclusive to Crypt Keeper's Pond or the Turkey Fish from Thanksgiving. Event fish give more xp and coins/tokens when sold, so they can be useful to catch if you want to advance in the season pass faster.
 
 ## Bosses {: #Bosses}
 Before you can capture a boss at a location, you first have to capture one of each other type of fish that is possible at that location. Once your location page in /fish guide has every non-boss filled in, then it will be possible to capture a boss.
@@ -111,9 +113,14 @@ Some locations are only available for holidays or special events.
 
   
 
-### Camp Guillermo
+### <font color =b32d2d>Camp Guillermo</font> {: #CampGuillermo}
+
+Camp Guillermo is a freshwater area filled with lakes. You can meet several <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">Fishing NPCs</a> there, including Zara Grey, Chet Sterling, and Margaux Handler.
+
+<br>
 
 <center>
+<img src="/bot-features/fishing/campguillermo.avif" alt="Camp Guillermo" width="400"> <br>
 
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -132,13 +139,19 @@ Some locations are only available for holidays or special events.
 
 <br>
 
-### Crypt Keeper's Pond
+### <font color =b32d2d>Crypt Keeper's Pond</font> {: #CryptKeepersPond}
 
 >   Crypt Keeper's Pond is only available during Halloween or for special events.
 {.is-warning}
 
+Crypt Keeper's Pond is a special Halloween event location that was first available in October 2023. It has some freshwater fish that are similar to the Mystic Pond creatures, but it also has some special event fish that were only available there. No NPCs visit this location.
+
+When the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Limited Time Portal Event</a> is active, you can visit the location again.
+
+<br>
+
 <center>
- 
+ <img src="/bot-features/fishing/cryptkeeperspond.avif" alt="Crypt Keeper's Pond" width="400">
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -156,9 +169,14 @@ Some locations are only available for holidays or special events.
 
 <br>
 
-### Mystic Pond
+### <font color =b32d2d>Mystic Pond</font> {: #MysticPond}
+Mystic Pond is an exclusive freshwater location that only appears on Tuesdays and Saturdays UTC. If you advance <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">the Horologist skill</a>, you can unlock Mystic Pond for an extra day of the week. It also may be available when there is the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Limited Time Portal Event</a>.
 
+Mystic Pond can be visited by the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">Mysterious Figure</a> NPC known as ???? ????, and it is the only recurring location they appear.
+
+<br>
 <center>
+  <img src="/bot-features/fishing/mysticpond.avif" alt="Mystic Pond" width="400">
   
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
@@ -176,9 +194,15 @@ Some locations are only available for holidays or special events.
   
 <br>
 
-### Underwater Sanctuary
+### <font color =b32d2d>Underwater Sanctuary</font> {: #UnderwaterSanctuary}
 
+The Underwater Sanctuary is a saltwater fishing location deep out in the ocean. It is a good place to fish if you are trying to catch larger fish for the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">Show Off Skill Challenge.</a>
+
+You can meet several <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">fishing NPCs</a> here, including Chet Sterling, Samuel Booker, and Zara Grey.
+
+<br>
 <center>
+  <img src="/bot-features/fishing/underwatersanctuary.avif" alt="Underwater Sanctuary" width="400">
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -199,9 +223,14 @@ Some locations are only available for holidays or special events.
 
 <br>
 
-### Vertigo Beach
+### <font color =b32d2d>Vertigo Beach</font> {: #VertigoBeach}
 
+Vertigo Beach is a saltwater fishing location. It is a good place to fish if you are trying to catch larger fish for the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">Show Off Skill Challenge.</a> You can meet several <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">fishing NPCs</a> here, including Chad Erningway, Margaux Handler, and Zara Grey.
+
+<br>
 <center>
+  <img src="/bot-features/fishing/vertigobeach.png" alt="Vertigo Beach" width="400">
+  
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -223,9 +252,13 @@ Some locations are only available for holidays or special events.
 
 <br>
 
-### Wily River
+### <font color =b32d2d>Wily River</font> {: #WilyRiver}
 
+Wily River is a freshwater fishing location. You can meet several <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">fishing NPCs</a> here, including Chad Erningway, Margaux Handler, and Zara Grey.
+
+<br>
 <center>
+  <img src="/bot-features/fishing/wilyriver.avif" alt="Wily River" width="400">
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
@@ -264,7 +297,7 @@ Some locations are only available for holidays or special events.
     <details>
       <summary style="background-color:#72ad70; color:#000000; font: 12px Roboto; padding: 8px;">Currency Commands</summary>
       <div style="text-align: center;"> 
-      <p style="font: 12px Roboto; padding: 0 8px 3px 8px;"> <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">Achievements</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements" target="_blank">Advancements - (</a> <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Levels</a>, <a href="/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">Omega</a>, <a href="/Bot-features/Currency-Commands/Advancements#Prestige" target="_blank">Prestige</a>,  <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">Upgrades</a>, <a href="/Bot-features/Currency-Commands/Advancements#Vote" target="_blank"> Vote</a>) <br> <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a> &#x2022; <a href="/Bot-features/Currency-Commands/Badges" target="_blank">Badges</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Balance" target="_blank">Balance</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">Bankrob</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Beg" target="_blank">Beg</a> &#x2022; <a href="/Bot-features/Currency-Commands/Bundles" target="_blank">Bundles</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Compare" target="_blank">Compare</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting" target="_blank">Craft</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a> <br><a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">Currencylog</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">Daily</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Deposit" target="_blank">Deposit</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">Dig</a> &#x2022; <a href="/Items/Drops" target="_blank">Drops</a> &#x2022; <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fish</a> &#x2022; <a href="/Bot-features/Currency-Commands/Friends" target="_blank">Friends</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Giveaways" target="_blank">Giveaway</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Highlow" target="_blank">Highlow</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">Inventory</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">Item</a> &#x2022; <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">Leaderboard</a> &#x2022; <a href="/Bot-features/Currency-Commands/Lotteries" target="_blank">Lottery</a> &#x2022; <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> &#x2022; <a href="/Bot-features/Currency-Commands/Marriage" target="_blank">Marriage</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">Monthly</a> <br> <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">Notifications</a> &#x2022; <a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a>  &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a> &#x2022; <a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Search" target="_blank">Search</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">Serverevents</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">Shop</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Showcase" target="_blank">Showcase</a> &#x2022; <a href="/Bot-features/Currency-Commands/Skins" target="_blank">Skins</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a> <br> <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Titles" target="_blank">Title</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a> &#x2022; <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a> &#x2022; <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a> </p>
+      <p style="font: 12px Roboto; padding: 0 8px 3px 8px;"> <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">Achievements</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements" target="_blank">Advancements - (</a> <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Levels</a>, <a href="/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">Omega</a>, <a href="/Bot-features/Currency-Commands/Advancements#Prestige" target="_blank">Prestige</a>,  <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">Upgrades</a>, <a href="/Bot-features/Currency-Commands/Advancements#Vote" target="_blank"> Vote</a>) <br> <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a> &#x2022; <a href="/Bot-features/Currency-Commands/Badges" target="_blank">Badges</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Balance" target="_blank">Balance</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">Bankrob</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Beg" target="_blank">Beg</a> &#x2022; <a href="/Bot-features/Currency-Commands/Bundles" target="_blank">Bundles</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Compare" target="_blank">Compare</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Crafting" target="_blank">Craft</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a> <br><a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">Currencylog</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">Daily</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Deposit" target="_blank">Deposit</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">Dig</a> &#x2022; <a href="/Items/Drops" target="_blank">Drops</a> &#x2022; <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fishing</a> &#x2022; <a href="/Bot-features/Currency-Commands/Friends" target="_blank">Friends</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Giveaways" target="_blank">Giveaway</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Highlow" target="_blank">Highlow</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">Inventory</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">Item</a> &#x2022; <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">Leaderboard</a> &#x2022; <a href="/Bot-features/Currency-Commands/Lotteries" target="_blank">Lottery</a> &#x2022; <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> &#x2022; <a href="/Bot-features/Currency-Commands/Marriage" target="_blank">Marriage</a> &#x2022; <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">Monthly</a> <br> <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">Multipliers</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">Notifications</a> &#x2022; <a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a>  &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">Profile</a> &#x2022; <a href="/Bot-features/Currency-Commands/Quests" target="_blank">Quests</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Remove" target="_blank">Remove</a> &#x2022; <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob</a> <br> <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Search" target="_blank">Search</a> &#x2022; <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">Serverevents</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">Shop</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Showcase" target="_blank">Showcase</a> &#x2022; <a href="/Bot-features/Currency-Commands/Skins" target="_blank">Skins</a> &#x2022; <a href="/Bot-features/Currency-Commands/Grind-Commands#Stream" target="_blank">Stream</a> &#x2022; <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a> <br> <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Titles" target="_blank">Title</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">Use</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Vacation" target="_blank">Vacation</a> &#x2022; <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">Wager</a> &#x2022; <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">Weekly</a> &#x2022; <a href="/Bot-features/Currency-Commands/Basic-Commands#Withdraw" target="_blank">Withdraw</a> &#x2022; <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a> </p>
       </div>
     </details>
     <details>
