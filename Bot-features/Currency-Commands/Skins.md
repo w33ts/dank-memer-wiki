@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-24T09:15:34.943Z
+date: 2023-11-24T09:25:26.691Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -151,11 +151,13 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Legacy Pepe Trophy | <img src="/bot-features/skins/item-skins/pepetrophy-legacypepetrophy.gif" alt="Legacy Pepe Trophy" width="50" height="50"> {: #PepeTrophySkin} |
   | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Blood Pour Variant | <img src="/bot-features/skins/item-skins/pepetrophy-bloodpourvariant.png" alt="Blood Pour Pepe Trophy" width="50" height="50">  |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PetCollar" target="_blank">Pet Collar</a>** | Legacy Collar | <img src="/bot-features/skins/item-skins/petcollar-legacycollar.png" alt="Legacy Collar" width="50" height="50"> {: #PetCollarSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Power-ups#PetCollar" target="_blank">Pet Food</a>** | Fish Food Variant | <img src="/bot-features/skins/item-skins/petfood-fishfoodvariant.png" alt="Fish Food Variant" width="50" height="50"> {: #PetFoodSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>** | Moldy Pizza Variant | <img src="/bot-features/skins/item-skins/pizzaslice-moldypizzavariant.png" alt="Moldy Pizza Variant" width="50" height="50"> {: #PizzaSliceSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>** | Pineapple Pizza Variant | <img src="/bot-features/skins/item-skins/pizzaslice-pineapplepizzavariant.png" alt="Pineapple Pizza Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PoliceBadge" target="_blank">PoliceBadge</a>** | Legacy Police Badge | <img src="/bot-features/skins/item-skins/policebadge-legacypolicebadge.png" alt="Legacy Police Badge" width="50" height="50"> {: #PoliceBadgeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Potato" target="_blank">Potato ☭</a>** | Sussy Legacy Variant | <img src="/bot-features/skins/item-skins/potato-sussylegacyvariant.png" alt="Sussy Legacy Variant" width="50" height="50"> {: #PotatoSkin} |
-| **<a href="https://dankmemer.wiki/en/Items/Collectables#RarePepe" target="_blank">Rare Pepe</a>** | Mona Lisa Variant | <img src="/bot-features/skins/item-skins/monalisapepeitem.png" alt="Mona Lisa Variant" width="50" height="50"> {: #RarePepeSkin}
+| **<a href="/Items/Sellables#Rabbit" target="_blank">Rabbit</a>** | Legacy Rabbit | <img src="/bot-features/skins/item-skins/rabbit-legacyvariant.png" alt="Legacy Rabbit" width="50" height="50"> {: #RabbitSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Collectables#RarePepe" target="_blank">Rare Pepe</a>** | Mona Lisa Variant | <img src="/bot-features/skins/item-skins/monalisapepeitem.png" alt="Mona Lisa Variant" width="50" height="50"> {: #RarePepeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#RobbersMask" target="_blank">Robbers Mask</a>** | Legacy Robbers Mask | <img src="/bot-features/skins/item-skins/robbersmask-legacyrobbersmask.png" alt="Legacy Robbers Mask" width="50" height="50"> {: #RobbersMaskSkin} |
 | **<a href="/Items/Collectables#RoyalScepter" target="_blank">Royal Scepter</a>** | Trident Variant | <img src="/bot-features/skins/item-skins/royalscepter-tridentvariant.gif" alt="Trident Scepter Skin" width="50" height="50"> {: #RoyalScepterSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SanicHotDog" target="_blank">Sanic Hot Dog</a>** | Sandwich Variant | <img src="/bot-features/skins/item-skins/sanichotdog-sandwichvariant.png" alt="Sandwich Variant" width="50" height="50"> {: #SanicHotDogSkin} |
@@ -166,6 +168,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Tools#Shovel" target="_blank">Shovel</a>** | Golden Shovel Variant | <img src="/bot-features/skins/item-skins/shovel-goldenshovelvariant.png" alt="Golden Shovel Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#Shovel" target="_blank">Shovel</a>** | Hero Axe Shovel Variant | <img src="/bot-features/skins/item-skins/shovel-heroaxeshovelvariant.png" alt="Hero Axe Shovel Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a>** | Legacy Shredded Cheese | <img src="/bot-features/skins/item-skins/shreddedcheese-legacyshreddedcheese.png" alt="Legacy Shredded Cheese" width="50" height="50"> {: #ShreddedCheeseSkin} |
+| **<a href="/Items/Sellables#Skunk" target="_blank">Skunk</a>** | Legacy Skunk | <img src="/bot-features/skins/item-skins/skunk-legacyvariant.png" alt="Legacy Skunk" width="50" height="50"> {: #SkunkSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#Snowball" target="_blank">Snowball</a>** | Legacy Snowball | <img src="/bot-features/skins/item-skins/snowball-legacysnowball.png" alt="Legacy Snowball" width="50" height="50"> {: #SnowballSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Spider" target="_blank">Spider</a>** | Legacy Spider | <img src="/bot-features/skins/item-skins/spider-legacyspider.png" alt="Legacy Spider" width="50" height="50"> {: #SpiderSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#SpookyMask" target="_blank">Spooky Mask</a>** | Jason Spooky Mask Variant | <img src="/bot-features/skins/item-skins/spookymask-jasonspookymaskvariant.png" alt="Jason Spooky Mask Variant" width="50" height="50"> {: #SpookyMaskSkin} |
@@ -180,6 +183,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a>** | Legacy Vaccine | <img src="/bot-features/skins/item-skins/vaccine-legacyvaccine.png" alt="Legacy vaccine" width="50" height="50"> {: #VaccineSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#VoodooDoll" target="_blank">Voodoo Doll</a>** | Overused Voodoo Doll Variant | <img src="/bot-features/skins/item-skins/voodoodoll-overusedvoodoodollvariant.png" alt="Overused Voodoo Doll Variant" width="50" height="50"> {: #VoodooDollSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#WeddingGift" target="_blank">Wedding Gift</a>** | Deluxe Wedding Gift Variant | <img src="/bot-features/skins/item-skins/weddinggift-deluxeweddinggiftvariant.png" alt="Deluxe Wedding Gift Variant" width="50" height="50"> {: #WeddingGiftSkin} |
+| **<a href="//Items/Collectables#WinningLotteryTicket" target="_blank">Winning Lottery Ticket</a>** | Legacy Lottery Ticket | <img src="/bot-features/skins/item-skins/winninglotteryticket-legacyvariant.png" alt="Legacy Lottery Ticket" width="50" height="50"> {: #WinningLotteryTicketSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#ZigsCapybara" target="_blank">Zig's Capybara</a>** | Swag Capybara Variant {: #ZigsCapybaraSkin} | <img src="/bot-features/skins/item-skins/zigscapybara-swagvariant.png" alt="Swag Capybara Variant" width="50" height="50"> |
 
   </center>
