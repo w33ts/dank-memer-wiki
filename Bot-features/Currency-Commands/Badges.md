@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2023-11-18T20:57:10.203Z
+date: 2023-11-24T06:43:11.101Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -110,7 +110,7 @@ The following badges were once available to be unlocked, but they are currently 
 | Slot Master | <img src="/bot-features/dank-goals/slotmaster.png" alt="Slot Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slotmasterplatinum.png" alt="Slot Master Platinum" width="50" height="50"> | Old `/slots` Badge |
 | Itch Scratcher | <img src="/bot-features/dank-goals/itchscratcher.png" alt="Itch Scratcher" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/itchscratcherplatinum.png" alt="Itch Scratcher Platinum" width="50" height="50"> | Old `/scratch` Badge |
 | Pink Bits Badge | <img src="/bot-features/dank-goals/badges/pinkeventbadge.webp" alt="Pink Event Badge" width="50" height="50"> | N/A | Given to the top 10 donators in the Pink Event | 
-| Rod Master | <img src="/bot-features/dank-goals/rodmaster.png" alt="Rod Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/rodmasterplatinum.png" alt="Rod Master Platinum" width="50" height="50"> | Retired `/fish` command badge. Catch 250 / 400 legendary fish | 
+| Rod Master | <img src="/bot-features/dank-goals/rodmaster.png" alt="Rod Master" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/rodmasterplatinum.png" alt="Rod Master Platinum" width="50" height="50"> | Retired `/fish` command badge. Catch 250 / 400 legacy legendary fish | 
   
   </center>
 
