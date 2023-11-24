@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-24T04:22:13.407Z
+date: 2023-11-24T04:24:07.193Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -62,7 +62,7 @@ Freshwater creatures are creatures usually discovered in lakes, rivers, and pond
 | Minnow {: #Minnow} | <img src="/items/fishing/creatures/minnow.png" alt="Minnow" width="50">  | 4am - 3pm  | Camp Guillermo | <img src="/items/fishing/creatures/variants/minnow_hq.gif" alt="HQ Minnow" width="50"> | 5,000 |
 | Piranha {: #Piranha} | <img src="/items/fishing/creatures/piranha.png" alt="Piranha" width="50">  |  4pm - 3am | Crypt Keeper's Pond, Wily River | <img src="/items/fishing/creatures/variants/piranha_hq.gif" alt="HQ Piranha" width="50"><img src="/items/fishing/creatures/variants/piranha_chroma.png" alt="Chroma Piranha" width="50"> | 7,500 |
 | Rainbow Bass {: #RainbowBass} | <img src="/items/fishing/creatures/rainbowbass.png" alt="Rainbow Bass" width="50">  | 4am - 3pm  | Wily River | <img src="/items/fishing/creatures/variants/rainbowbass_hq.gif" alt="HQ Rainbow Bass" width="50"> | 7,500 |
-| Red Arowana {: #RedArowana} | <img src="/items/fishing/creatures/redarowana.png" alt="Red Arowana" width="50">  |  10am - 3am  | Wily River | (2) <img src="/items/fishing/creatures/variants/redarowana_hq.gif" alt="HQ Red Arowana" width="50">  | 100,000 |
+| Red Arowana {: #RedArowana} | <img src="/items/fishing/creatures/redarowana.png" alt="Red Arowana" width="50">  |  10am - 3am  | Wily River | <img src="/items/fishing/creatures/variants/redarowana_hq.gif" alt="HQ Red Arowana" width="50"> <img src="/items/fishing/creatures/variants/redarowana_chroma.png" alt="HQ Red Arowana" width="50"> | 100,000 |
 | Salmon {: #Salmon} | <img src="/items/fishing/creatures/salmon.png" alt="Salmon" width="50">  |  4pm - 3am  | Wily River | <img src="/items/fishing/creatures/variants/salmon_hq.gif" alt="HQ Salmon" width="50"> | 7,500 |
 | Skeleton Fish {: #SkeletonFish} | <img src="/items/fishing/creatures/skeletonfish.png" alt="Skeleton Fish" width="50">  |  All Day | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/skeletonfish_hq.gif" alt="HQ Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_blue.png" alt="Blue Skeleton Fish" width="50"><img src="/items/fishing/creatures/variants/skeletonfish_red.png" alt="Red Skeleton Fish" width="50"> | 7,500 | 
 | Spectral Fish {: #Spectral Fish} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | All Day  | Crypt Keeper's Pond, Mystic Pond | <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"><img src="/items/fishing/creatures/variants/spectral_orange.png" alt="Orange Spectral Fish" width="50"> | 100,000 |
