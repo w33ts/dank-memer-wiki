@@ -2,7 +2,7 @@
 title: The Dank Team
 description: Info about the Dank Memer team, including bot developers and employees, server staff, and the wiki staff.
 published: true
-date: 2023-11-24T07:33:26.516Z
+date: 2023-11-25T06:45:34.762Z
 tags: about us, server staff, wiki staff, bot developers, dank developers, dank employees, badosz, zig, aetheryx, melmsie, kable, aiphey, townie, thelazytownie, kablekompany, inblue, bunny, aha!, lilmisssunbear, weet, dr.john, zomb, pixel artist, graphic designer, moderators, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-01T18:06:11.862Z
@@ -140,7 +140,6 @@ The <a href="https://discord.gg/dankmemerbot" target="_blank">DMO Support Server
 - badosz
 - InBlue
 - Melmsie
-- ZomB
 
 #### <font color=#598E3E>Bot Admin</font>
 - Aiphey
