@@ -2,7 +2,7 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-11-24T07:39:10.507Z
+date: 2023-11-26T20:45:55.692Z
 tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
@@ -32,7 +32,7 @@ If you haven't played Dank Memer in a while, you can use the <a href="https://da
 |<a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Fishing Items vs Legacy Fish Items</a> | Learn the difference between the new fishing items and old legacy fishing items.|
 |<a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">Fishing NPCs</a> | Learn about how the NPCs with fishing work and what they do.|
 | <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Fishing Random Timed Events</a> | Learn more about random timed events that can happen while fishing. |
-| <a href="https://dankmemer.lol/tutorial/fishing-seasonal-events-faq" target="_blank">Fishing Seasonal Events</a> | Learn more about seasonal events in fishing how they affect things like badges. |
+| <a href="https://dankmemer.lol/tutorial/fishing-seasonal-events-faq" target="_blank">Fishing Seasonal Events</a> | Learn more about seasonal events in fishing and how they affect things like badges. |
 | <a href="https://dankmemer.lol/tutorial/flows" target="_blank">Flows</a> | Learn how to use flows to make grinding easier than ever, how to add and remove flows, and how to create your own.|
 | <a href="https://dankmemer.lol/tutorial/how-to-wager-with-fights" target="_blank">How to wager with fights</a> | Learn how to  wager with the new fight commands. |
 | <a href="https://dankmemer.lol/tutorial/interaction-locks" target="_blank">Interaction Locks</a> | Find out more why you sometimes get locked out of commands. |
