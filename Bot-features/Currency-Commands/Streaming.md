@@ -2,7 +2,7 @@
 title: Stream Command
 description: Learn more detail about the /stream command, how it works, how to make the most money, and more.
 published: true
-date: 2023-11-28T23:25:20.315Z
+date: 2023-11-28T23:30:11.854Z
 tags: stream, xp, green screen, camera, mic, microphone, headphones, sound card, sponsors, viewers, level, interactions, ringlight, ring light, streaming
 editor: markdown
 dateCreated: 2023-11-28T23:25:20.315Z
@@ -70,7 +70,7 @@ There are a few useful formulas for streaming you can use to calculate things li
 `300 * [Sponsors] + [random # between 500-1000]`
 - Starting Stream Views = `[Stream Level] * 2 + [Sponsors] + 10`
 - Max Stream Views = `[Start Stream Views] + 2 * [Stream Level] + 10`
-- Max Stream Views = `[Stream Level] * 4 + [Sponsors] + 20`
+- Max Stream Views (alternate formula) = `[Stream Level] * 4 + [Sponsors] + 20`
 
 ## Streaming - Common Questions {: #StreamQuestions}
 The `/stream` command can be complicated to understand when first starting out. Below are some answers to the most commonly asked streaming questions.
