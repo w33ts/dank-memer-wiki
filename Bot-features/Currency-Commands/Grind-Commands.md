@@ -2,7 +2,7 @@
 title: Grind Commands
 description: Learn about basic grind commands, including beg, crime, dig, fish, flow, highlow, hunt, postmeme, scratch, search, and stream.
 published: true
-date: 2023-11-18T22:44:58.766Z
+date: 2023-11-28T23:27:45.461Z
 tags: flow, hunt, fish, dig, beg, search, crime, highlow, postmeme, post memes, postmemes, scratch, stream, grinding, grind commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-01T18:42:48.843Z
@@ -133,7 +133,7 @@ There is also a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" targ
 
 
 ## Fish {: #Fish}
-in 2023, the original `/fish` command was retired and entire new series of commands and subcommands were added to create an immersive fishing game. The main new fishing command is `/fish catch`, where you can fish for all sorts of creatures at different locations.
+In 2023, the original `/fish` command was retired and entire new series of commands and subcommands were added to create an immersive fishing game. The main new fishing command is `/fish catch`, where you can fish for all sorts of creatures at different locations.
 
 <br>
 
@@ -318,11 +318,14 @@ The `/stream` command lets you simulate your own streaming session. When using t
   
   </center>
 
-To add items to your active setup, you can use the `/use item:` command, and those items will show up there. Each <a href="/Items/Tools" target="_blank">stream item</a> has a different perk to help your stream be more successful. 
+To add items to your active setup, you can use the `/use item:` command, and those items will show up there. Each <a href="Bot-features/Currency-Commands/Streaming#StreamItems" target="_blank">stream item</a> has a different perk to help your stream be more successful. 
 
 When you want to go live, you can pick which game you are going to stream. The game you pick can have a huge impact on your amount of viewers and how much money you make. There is a different game trending each day. When you stream a trending game, you get 3x the coin rewards compared to streaming a non-trending game.
 
 The longer you stream, the more stream XP you receive and the more you level up, but make sure to not stream for too long, as that might ruin your stream streak. You have to start a new stream each <a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">UTC</a> day to keep your streak growing.
+
+Check out <a href="/Bot-features/Currency-Commands/Streaming" target="_blank">more in-depth info on the /stream command here</a>, where you can find a list of all the streaming items, definitions of streaming terms, and even formulas to help you calculate potential profits.
+
 
 <br>
 
