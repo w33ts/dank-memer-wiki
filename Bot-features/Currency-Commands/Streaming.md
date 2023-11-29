@@ -2,7 +2,7 @@
 title: Stream Command
 description: Learn more detail about the /stream command, how it works, how to make the most money, and more.
 published: true
-date: 2023-11-28T23:30:11.854Z
+date: 2023-11-29T02:03:15.222Z
 tags: stream, xp, green screen, camera, mic, microphone, headphones, sound card, sponsors, viewers, level, interactions, ringlight, ring light, streaming
 editor: markdown
 dateCreated: 2023-11-28T23:25:20.315Z
@@ -67,7 +67,7 @@ There are a few useful formulas for streaming you can use to calculate things li
 - Coins from Run AD can be calculated as follows: 
 `350 * [Viewers] + [random # between 5000-10000]`
 - Coins from Collect Donations can be calculated as follows: 
-`300 * [Sponsors] + [random # between 500-1000]`
+`250 * [Sponsors] + [random # between 10000-20000]`
 - Starting Stream Views = `[Stream Level] * 2 + [Sponsors] + 10`
 - Max Stream Views = `[Start Stream Views] + 2 * [Stream Level] + 10`
 - Max Stream Views (alternate formula) = `[Stream Level] * 4 + [Sponsors] + 20`
