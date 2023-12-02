@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2023-11-24T21:15:40.079Z
+date: 2023-12-02T02:47:12.324Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -50,8 +50,8 @@ There are tons of possible baits you can use while fishing, and each one has a d
 | Bait | Image | Usage Description |Default Number of Uses | Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 |Deadly Bait {: #DeadlyBait} | <img src="/items/fishing/deadly_bait.gif" alt="Eyeball Bait" width="50" height="40">| Increases the chance to catch a boss (10x) and the chance to catch boss variants (5x) (but it is still rare). | 1 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
-|Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 2 | Mystic Pond |
-|Ghastly Bait {: #GhastlyBait} | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Mystic Pond |
+|Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 2 | Crypt Keeper's Pond |
+|Ghastly Bait {: #GhastlyBait} | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Crypt Keeper's Pond |
 |Golden Bait {: #GoldenBait} | <img src="/items/fishing/golden_bait.webp" alt="Golden Bait" width="50" height="50">| Increases the chance for high-quality fish. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Lucky Bait {: #LuckyBait} | <img src="/items/fishing/lucky_bait.webp" alt="Lucky Bait" width="50" height="50">| Increases your luck to help you catch rarer fish. | 20 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Magnet Bait {: #MagnetBait} | <img src="/items/fishing/magnet_bait.webp" alt="Magnet Bait" width="50" height="50">| Helps you catch only loot, not creatures. | 10 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
