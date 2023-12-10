@@ -2,14 +2,16 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-11-24T09:43:08.389Z
+date: 2023-12-10T13:27:57.054Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
 ---
 
 # Fishing Creatures
-There are a variety of creatures you can catch while fishing:
+There are a variety of creatures you can catch while fishing, and each location has its own set of creatures that are possible. Each creature also has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
+
+Browse all of the possible creatures below, and check out the possible variants you can encounter:
 
 - <a href="/Items/Fishing/Creatures#Bosses" target="_blank">Bosses</a>
 - <a href="/Items/Fishing/Creatures#Freshwater" target="_blank">Freshwater Creatures</a>
@@ -42,11 +44,13 @@ Bosses are worth more coins and tokens, and they give more XP toward your `/fish
 
 
 ## Freshwater Creatures {: #Freshwater}
-Freshwater creatures are creatures usually discovered in lakes, rivers, and ponds. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
+Freshwater creatures are creatures usually discovered in lakes, rivers, and ponds. Each creature has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
+
+All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
 
 In order to complete a creature page in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>, you need to capture one of each variant type and catch enough fish to reveal the full time the fish is available. If you see a question mark in the time, it means you have not discovered the full time range and you need to keep fishing.
 
-The Turkey Fish does not count toward the fish guide completion stats since it requires a specific bait to capture it.
+If creatures are only in a location that is not available or are limited in some way, they won't be counted toward the guidebook completion stats. For example, the Turkey Fish requires a specific bait to capture it.
 
 
 <center>
@@ -82,11 +86,13 @@ The Turkey Fish does not count toward the fish guide completion stats since it r
   
   
 ## Saltwater Creatures {: #Saltwater}
-Saltwater creatures are generally found in ocean areas, like Vertigo Beach and the Underwater Sanctuary. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
+Saltwater creatures are generally found in ocean areas, like Vertigo Beach and the Underwater Sanctuary. Each creature has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
+
+All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
 
 In order to complete a creature page in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>, you need to capture one of each variant type and catch enough fish to reveal the full time the fish is available. If you see a question mark in the time, it means you have not discovered the full time range and you need to keep fishing.
 
-The Turkey Fish does not count toward the fish guide completion stats since it requires a specific bait to capture it.
+If creatures are only in a location that is not available or are limited in some way, they won't be counted toward the guidebook completion stats. For example, the Turkey Fish requires a specific bait to capture it.
 
 <center>
   
@@ -115,10 +121,27 @@ The Turkey Fish does not count toward the fish guide completion stats since it r
 <br>
 
 ## Creatures Sorted by Location {: #ByLocation}
-Every location has a unique group of fish you can catch when fishing there. Each location has at least one boss fish that can only be unlocked by catching one of all the other fish available at a location. All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
+Every location has a unique group of fish you can catch when fishing there, and at least one boss fish that can only be unlocked by catching one of all the other fish available at a location. 
+
+Each creature has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
+
+All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
+
+In order to complete a creature page in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>, you need to capture one of each variant type and catch enough fish to reveal the full time the fish is available. If you see a question mark in the time, it means you have not discovered the full time range and you need to keep fishing.
+
+If creatures are only in a location that is not available or are limited in some way, they won't be counted toward the guidebook completion stats. For example, the Turkey Fish requires a specific bait to capture it.
 
 Some locations are only available for holidays or special events.
 
+**Locations:**
+- <a href="/Items/Fishing/Creatures#CampGuillermo" target="_blank">Camp Guillermo</a> (Freshwater)
+- <a href="/Items/Fishing/Creatures#CryptKeepersPond" target="_blank">Crypt Keeper's Pond</a> (Holiday/Event Location)
+- <a href="/Items/Fishing/Creatures#MysticPond" target="_blank">Mystic Pond</a> (Tuesdays & Saturdays)
+- <a href="/Items/Fishing/Creatures#UnderwaterSanctuary" target="_blank">Underwater Sanctuary</a> (Saltwater)
+- <a href="/Items/Fishing/Creatures#VertigoBeach" target="_blank">Vertigo Beach</a> (Saltwater)
+- <a href="/Items/Fishing/Creatures#WilyRiver" target="_blank">Wily River</a> (Freshwater)
+
+<br>
   
 
 ### <font color =b32d2d>Camp Guillermo</font> {: #CampGuillermo}
@@ -152,7 +175,7 @@ Camp Guillermo is a freshwater area filled with lakes. You can meet several <a h
 >   Crypt Keeper's Pond is only available during Halloween or for special events.
 {.is-warning}
 
-Crypt Keeper's Pond is a special Halloween event location that was first available in October 2023. It has some freshwater fish that are similar to the Mystic Pond creatures, but it also has some special event fish that were only available there. No NPCs visit this location.
+Crypt Keeper's Pond is a special Halloween event location that was first available in October 2023. It has some freshwater fish that are similar to the Mystic Pond creatures, but it also has some special event fish that are only available there. No NPCs visit this location.
 
 When the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Limited Time Portal Event</a> is active, you can visit the location again.
 
