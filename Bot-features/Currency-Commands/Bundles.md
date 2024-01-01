@@ -2,7 +2,7 @@
 title: Bundles
 description: Earn the Collector's Badge by completing all of the bundles in /bundle list.
 published: true
-date: 2024-01-01T20:04:30.738Z
+date: 2024-01-01T20:17:13.549Z
 tags: collector's, collector's badge, goals, bundles, bundle list, dank goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:19:53.161Z
@@ -55,7 +55,7 @@ There are also <a href="/Bot-features/Currency-Commands/Achievements" target="_b
 ### <font color =b32d2d>Hunter</font>  {: #Hunter}
 ![hunter2.png](/bot-features/dank-goals/hunter3.png)
 
-### <font color =b32d2d>Fisher</font>  {: #Angler}
+### <font color =b32d2d>Angler</font>  {: #Angler}
 ![angler2.png](/bot-features/dank-goals/bundle_angler2.png)
 
 ### <font color =b32d2d>Excavator</font>  {: #Excavator}
