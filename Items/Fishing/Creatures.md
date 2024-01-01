@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2024-01-01T19:21:51.305Z
+date: 2024-01-01T19:35:01.286Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -49,7 +49,7 @@ Bosses are worth more coins and tokens, and they give more XP toward your `/fish
 ## Freshwater Creatures {: #Freshwater}
 Freshwater creatures are creatures usually discovered in lakes, rivers, and ponds. Each creature has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
 
-All fish give 1 XP toward your `/fish season` pass, but event fish, variants, and bosses give more. 
+All of the common fish give 1 XP toward your `/fish season` pass, but rarer fish, event fish, variants, and bosses give more. 
 
 In order to complete a creature page in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide</a>, you need to capture one of each variant type and catch enough fish to reveal the full time the fish is available. If you see a question mark in the time, it means you have not discovered the full time range and you need to keep fishing.
 
