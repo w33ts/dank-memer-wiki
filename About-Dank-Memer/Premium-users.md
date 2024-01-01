@@ -2,7 +2,7 @@
 title: Premium Users
 description: Learn about premium users, subscription options, premium servers, premium commands, weekly, automeme, and more.
 published: true
-date: 2024-01-01T21:06:16.780Z
+date: 2024-01-01T21:07:55.759Z
 tags: patreon, premium, automeme, premium membership, weekly, premium servers, premium server add, premium server remove, patreon boxes, patreon packs, credit card
 editor: markdown
 dateCreated: 2023-04-30T20:28:56.306Z
