@@ -2,7 +2,7 @@
 title: Bot Tutorials
 description: Discover what official tutorials are available for Dank Memer, including the advanced profile customization tutorial, skins tutorial, flow tutorial, and more.
 published: true
-date: 2023-11-26T20:45:55.692Z
+date: 2024-01-01T21:53:39.257Z
 tags: patreon, premium, upgrades, advancements upgrades, profile customization, advanced profile customization upgrade, flows, market, skins, skin fragments, bot tutorials, set up dank memer, premium perks, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:23:39.349Z
@@ -30,10 +30,13 @@ If you haven't played Dank Memer in a while, you can use the <a href="https://da
 |<a href="https://dankmemer.lol/tutorial/complete-fishing-tutorial" target="_blank">Fishing Complete Tutorial</a> | Read the complete fishing tutorial to get an overview of every subcommand and the main features.|
 |<a href="https://www.youtube.com/watch?v=c3fFkl6IHyI&ab_channel=DankMemerDiscordBot" target="_blank">Fishing Complete Video Tutorial</a> | A video guide going over all the new fishing commands and some basic info. |
 |<a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Fishing Items vs Legacy Fish Items</a> | Learn the difference between the new fishing items and old legacy fishing items.|
+|<a href="https://dankmemer.lol/tutorial/fish-leaderboards" target="_blank">Fishing Leaderboards</a> | Learn about how the Fish Leaderboards work. |
 |<a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">Fishing NPCs</a> | Learn about how the NPCs with fishing work and what they do.|
 | <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Fishing Random Timed Events</a> | Learn more about random timed events that can happen while fishing. |
 | <a href="https://dankmemer.lol/tutorial/fishing-seasonal-events-faq" target="_blank">Fishing Seasonal Events</a> | Learn more about seasonal events in fishing and how they affect things like badges. |
+| <a href="https://dankmemer.lol/tutorial/fish-season-pass" target="_blank">Fishing Season Pass</a> | Learn more about the Fishing Season Pass and how it works. 
 | <a href="https://dankmemer.lol/tutorial/flows" target="_blank">Flows</a> | Learn how to use flows to make grinding easier than ever, how to add and remove flows, and how to create your own.|
+| <a href="https://dankmemer.lol/tutorial/report-a-bug" target="_blank">How to Report a Bug</a> | Learn how to verify and report a bug to help improve the bot. |
 | <a href="https://dankmemer.lol/tutorial/how-to-wager-with-fights" target="_blank">How to wager with fights</a> | Learn how to  wager with the new fight commands. |
 | <a href="https://dankmemer.lol/tutorial/interaction-locks" target="_blank">Interaction Locks</a> | Find out more why you sometimes get locked out of commands. |
 | <a href="https://dankmemer.lol/tutorial/maintaining-your-streaks" target="_blank">Maintaining your streaks</a> | Learn how to maintain your streaks on the bot.|
