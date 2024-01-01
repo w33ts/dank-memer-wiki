@@ -2,7 +2,7 @@
 title: FAQ
 description: 
 published: true
-date: 2023-11-24T07:59:54.455Z
+date: 2024-01-01T22:04:14.794Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-01T17:48:28.144Z
@@ -34,7 +34,7 @@ Each level requires a certain number of experience (XP) points for you to <a hre
 You can level up faster by activating boost items like <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a>, <a href="/Items/Lootboxes#DailyBox" target="_blank">Daily Boxes</a>, and <a href="/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> to increase your <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">XP multiplier</a>. There are also double XP days each month on Wednesday and Sunday UTC.
 
 ## How do I use the market? {: #Market}
-The <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">market</a> can be used to buy and sell items for coins or other items. The ads are posted anonymously, but you can also negotiate private deals with people and get a private market ID you can share directly with them. Read more about the <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">basic market commands here</a>, or check out the <a href="/Bot-features/Currency-Commands/Market" target="_blank">full tutorial here</a>.
+The <a href="https://dankmemer.lol/blog/new-way-to-trade" target="_blank">market</a> can be used to buy and sell items for coins or other items. The ads are posted anonymously, but you can also negotiate private deals with people and get a private market ID you can share directly with them. Read more about the <a href="/Bot-features/Currency-Commands/Market" target="_blank">basic market commands here</a>, or check out the <a href="https://dankmemer.lol/blog/new-way-to-trade" target="_blank">full tutorial here</a>.
 
 When buying or selling on the market, the most important thing to notice is that there are three prices for every item. First, there is the price on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> page. This is the average value of the item, and that is what is used to calculate your net worth. There are also the selling and buying prices for ads on the market. 
 
@@ -50,13 +50,13 @@ In general, when deciding what to collect, there are a few things to consider:
 
 These three questions can help you evaluate an item to figure out if it is a good idea to invest in it or not. For example, shop items are incredibly useful to the community, but because they are available to buy from the <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">/shop</a> most of the time, they are often not a good long-term investment if you are hoping they become worth a ton. On the other side of things, <a href="/Items/Drops" target="_blank">drop items</a> are often exclusive to limited drop events, so they can be a great investment choice if you want something that is more exclusive and rare. 
 
-Ultimately, though, the biggest factor in what goes up in value or not is whether other users want to collect it! Drop items had a period of time where <a href="https://dankmemer.lol/community/blog/drop-item-lookback" target="_blank">they skyrocketed in price</a> because a handful of users tried to collect them all, but once those users stopped, they quickly decreased in value.  
+Ultimately, though, the biggest factor in what goes up in value or not is whether other users want to collect it! Drop items had a period of time where <a href="https://dankmemer.lol/blog/drop-item-lookback" target="_blank">they skyrocketed in price</a> because a handful of users tried to collect them all, but once those users stopped, they quickly decreased in value.  
 
 ## What is the best way to grind? {: #Grind}
 Every user has a different method of grinding that works best for them, but there are a few key things that all users should do.
 - Use a <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">flow</a> for faster command usage.
 - Try to increase your <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">XP Multiplier</a> as much as you can.
-- Grind in a <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">partner server</a> for an XP boost and <a href="/About-Dank-Memer/Premium-users#Perks" target="_blank">premium cooldowns</a>.
+- Grind in a <a href="/About-Dank-Memer/Premium-users#PremiumServers" target="_blank">premium server</a> for an XP boost and <a href="/About-Dank-Memer/Premium-users#Perks" target="_blank">premium cooldowns</a>.
 - Keep an eye out for captchas!
 
 The best place to get more specific advice about grinding is from other users. The <a href="https://discord.gg/memers" target="_blank">Dank Memer Community</a> server has a <a href="https://discord.com/channels/682809584985178135/1091017663054098573" target="_blank">grind strategy channel</a> where users can discuss their techniques and  help each other, as well as a flow-sharing channel where users can share their favorite flows. Check them out for more info! 
@@ -77,7 +77,6 @@ If you have questions that are not answered above, there are three main suggesti
 
 - **For basic questions,** like how to use the bot or certain commands, join a server that is focused on Dank Memer and ask other users. 
 -- The <a href="https://discord.gg/memers" target="_blank">Dank Memer Community server (DMC)</a> is the official Dank Memer server, so it is easy to find answers there from other users. 
--- You can also use the <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">/partners</a> command to find servers that are partnered with Dank Memer to see if you can make friends who can help.
 -- Or join the <a href="https://www.reddit.com/r/dankmemer/" target="_blank">Dank Memer Reddit</a> and make a post with your question to see if other users can help.
 
 - **For more advanced questions** that the average user might not know, or if you are encountering a bug, the best thing to do is to go to the <a href="https://discord.gg/dankmemerbot" target="_blank">Dank Memer Official Support Server</a>. There is a support staff there ready to help users with bot issues that regular players can't answer.
