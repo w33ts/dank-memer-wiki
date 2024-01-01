@@ -2,14 +2,14 @@
 title: Season of the Haunted Waters
 description: See what rewards are possible for the first fish season, the Season of the Haunted Waters.
 published: true
-date: 2024-01-01T23:05:07.557Z
+date: 2024-01-01T23:05:40.506Z
 tags: rewards, fish season, premium pass, season pass, fish season pass, fish pass, season rewards, haunted, haunted waters
 editor: markdown
 dateCreated: 2023-11-03T22:05:39.527Z
 ---
 
 # Season of the Haunted Waters
-Every few months, a new `/fish season` will be released, offering different rewards for users to earn and unlock by fishing. Each creature you catch gives you XP that helps you level up in the `/fish season`, and high-quality fish, variants, and bosses give more XP than regular fish.
+Every few months, a new `/fish season` will be released, offering different rewards for users to earn and unlock by fishing. Each creature you catch gives you XP that helps you level up in the `/fish season`, and rarer fish, high-quality fish, variants, and bosses give more XP than regular fish.
 
 There are two tiers of rewards users can complete. The free track of rewards is at the top of each image in `/fish season` and shows what all users can unlock. The bottom row of rewards are the premium rewards that users can unlock on top of the normal rewards by upgrading to the Premium Season Pass or Premium Season Pass+. 
 
