@@ -2,7 +2,7 @@
 title: About the Bot
 description: Info about Dank Memer's history and types of commands, the Dank Memer website and store, the Dank Memer Community server (DMC) and support server (DMO), and the /partners command. 
 published: true
-date: 2024-01-01T20:42:36.819Z
+date: 2024-01-01T20:46:51.225Z
 tags: bot history, store, dank store, dank website, patreon, premium, invite, invite the bot, partners, server links, social media, twitter, instagram, tiktok, reddit, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:27:21.627Z
@@ -53,15 +53,6 @@ Dank Memer has a huge community on Discord and the bot is available in millions 
 
 If you have bot issues or questions, you can also join the <a href="https://discord.gg/dankmemerbot" target="_blank">Dank Memer Official Support Server</a> for bot support or to report bugs.
 
-{: #Partners}
-
-You can also find servers that are currently partnered with Dank Memer and part of the community with the `/partners` command. Partner servers often have special events, giveaways, bonus <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multipliers</a> for running commands, and even exclusive <a href="/Items/Drops" target="_blank">drops</a>. 
-<br>
-
-<center>
-<img src="/partners_cmd_new.png" alt="/partner server list" width="500" height="300">
-</center>
-
 Or you can invite the bot to your own server <a href="https://invite.dankmemer.lol/" target="_blank">here</a>.
 
 If you need help getting the bot set up in a server, these two guides below will help!
@@ -86,7 +77,7 @@ Upon logging in for the first time on the website with your Discord account, you
 
 Users can purchase either a premium bot subscriptions or gems from the <a href="https://dankmemer.lol/store" target="_blank">Dank Memer Store</a> to help give them an extra boost in the game. Purchases also help support the bot developers so they can continue developing new and exciting content.
 
-The Dank Memer website is the only way to buy gems, so you can get various items, boosts, multipliers, pets, skins and/or even titles outside of the bot, and what is available changes every so often. If you purchase a premium subscription to become a <a href="/About-Dank-Memer/Premium-users" target="_blank">premium user</a>, you receive a wide range of perks such as lower cooldowns, weekly rewards, xp and coin multipliers, market fee discounts, and <a href="https://dankmemer.lol/tutorial/premium-redemption" target="_blank">so much more</a>!
+The Dank Memer website is the only way to buy gems, so you can get various items, boosts, multipliers, pets, skins and/or even titles outside of the bot, and what is available changes every so often. If you purchase a premium subscription to become a <a href="/About-Dank-Memer/Premium-users" target="_blank">premium user</a>, you receive a wide range of perks such as lower cooldowns, weekly rewards, xp and coin multipliers, and <a href="https://dankmemer.lol/tutorial/premium-redemption" target="_blank">so much more</a>!
 
 <br>
 
