@@ -2,7 +2,7 @@
 title: The Dank Team
 description: Info about the Dank Memer team, including bot developers and employees, server staff, and the wiki staff.
 published: true
-date: 2023-11-25T06:45:34.762Z
+date: 2024-01-01T21:36:53.663Z
 tags: about us, server staff, wiki staff, bot developers, dank developers, dank employees, badosz, zig, aetheryx, melmsie, kable, aiphey, townie, thelazytownie, kablekompany, inblue, bunny, aha!, lilmisssunbear, weet, dr.john, zomb, pixel artist, graphic designer, moderators, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-01T18:06:11.862Z
@@ -13,7 +13,7 @@ The Dank Team is made up of a diverse group of people who contribute to Dank Mem
 
 The team includes [Bot Developers](/About-Dank-Memer/The-dank-team#Developers), [DMC Server Staff](/About-Dank-Memer/The-dank-team#DMCStaff), and [DMO Server Staff](/About-Dank-Memer/The-dank-team#DMOStaff). 
 
-We've included the [Wiki Editors](/About-Dank-Memer/The-dank-team#Wiki) here also to give credit to our contributors, but we are not associated with Dank Memer.
+We've included the [Wiki Editors](/About-Dank-Memer/The-dank-team#Wiki) here also to give credit to our contributors, but the wiki team is not associated with Dank Memer and are all volunteers.
 
 
 ## <font color =8a5efd>Bot Developers</font>  {: #Developers}
@@ -23,11 +23,11 @@ The Bot Developers are Dank Memer employees responsible for various aspects of t
 
 | Role | Known As |
 |:------:|:----:|
-| Owner, Product and Project Manager | Melmsie |
-| Software Engineer (Bot Developer) | Badosz |
-| Engineering Lead (Bot Developer) | Zain (aka Aetheryx) |
-| User Conduct Specialist (Bot Admin) | KableKompany |
-| User Conduct Specialist (Bot Admin) | Aiphey |
+| Owner <br> Product and Project Manager | Melmsie |
+| Software Engineer <br> (Bot Developer) | Badosz |
+| Engineering Lead <br> (Bot Developer) | Zain (aka Aetheryx) |
+| User Conduct Specialist <br> (Bot Admin) | KableKompany |
+| User Conduct Specialist <br> (Bot Admin) | Aiphey |
 | Community Manager | TheLazyTownie |
 | Website Designer | InBlue |
 | Graphic Designer | Zig |
@@ -58,6 +58,7 @@ The <a href="https://discord.gg/memers" target="_blank">Dank Memer Community ser
 - Sir Fruuuit
 - Sha
 #### <font color=#598E3E>Moderator</font>
+- Angel
 - Appletumu
 - Ari V2
 - Auracle
@@ -66,50 +67,54 @@ The <a href="https://discord.gg/memers" target="_blank">Dank Memer Community ser
 - Celine
 - DrAsylum
 - Ducky
+- FAK
 - Geonerd
 - Hazel
+- Helix
 - Imli
-- KD
 - Koko
-- Mizu
 - Mommi Serz
 - Myco
 - Niels
 - Omoeba
 - Piggie
 - poWer
-- Reina
+- Reii
 - Roni
 - Rosé
 - Satano
 - Sir Fruuuit
 - Smore
-- Sora
+- Subject Alex
+- Supe
 - Tsu
+- Zavio
 
 #### <font color=#598E3E>Support Moderator</font>
-- Arthur
+- Astra
 - Auracle
 - Celine
-- Dominic3515
-- Jella
+- Dominic
+- DrAsylum
+- Eagle Bearer
 - Kath
 - Kittyy
 - Lamb
 - LV
+- Mizu
 - Mommi Serz
+- Muskan
 - Niels
 - Seal
-- SmortBoi
+- Smorts
+- Zagreus Hades
 
 #### <font color=#598E3E>Heist Manager</font>
 - Deafietechie
 - Eagle Bearer
-- Grav
-- Mommy Musky
-- Sir Fruuuit
+- Muskan
+- Sha
 - Tiyo
-- whamshabam
 - zLn
 
 #### <font color=#598E3E>Giveaway Manager</font>
@@ -118,8 +123,8 @@ The <a href="https://discord.gg/memers" target="_blank">Dank Memer Community ser
 - Athena
 - Deafietechie
 - Eagle Bearer
-- Mariam
-- Mommy Musky
+- Muskan
+- Sha
 - Sir Fruuuit
 - Tiyo
 - whamshabam
@@ -149,18 +154,24 @@ The <a href="https://discord.gg/dankmemerbot" target="_blank">DMO Support Server
 - Kable
 
 #### <font color=#598E3E>Moderator</font>
+- Astra
 - Auracle
 - Ayumi
 - Celine
 - Dominic3515
+- DrAsylum
+- Eagle Bearer
 - Kath
 - Kittyy
 - Lamb
-- Madàme LV
+- LV
+- Mizu
 - Mommi Serz
+- Muskan
 - Niels
 - Seal
-- SmortBoi
+- Smorts
+- Zagreus Hades
 
 
 ## <font color =purple>Wiki Team</font> {: #Wiki}
@@ -193,7 +204,7 @@ If you find an error in the wiki or want to suggest new content for our <a href=
     <summary style="background-color:#196b2f; color:#F5F5F5; font: 14px Roboto; padding: 8px;">Browse Items</summary>
       <div style="text-align: center;">  
       <p style="font: 12px Roboto; padding: 0 8px 3px 8px;">
-          <a href="/Items/Collectables" target="_blank">Collectables</a> &#x2022; <a href="/Items/Consumables" target="_blank">Consumables</a> &#x2022; <a href="/Items/Drops" target="_blank">Drops</a> &#x2022; <a href="/Items/Fishing" target="_blank">Fishing "Items"</a> &#x2022; <a href="/Items/Lootboxes" target="_blank">Lootboxes</a> &#x2022; <a href="/Items/Packs" target="_blank">Packs</a> &#x2022; <a href="/Items/Power-ups" target="_blank">Power-ups</a> &#x2022; <a href="/Items/Sellables" target="_blank">Sellables</a> &#x2022; <a href="/Items/Tools" target="_blank">Tools</a>
+          <a href="/Items/Collectables" target="_blank">Collectables</a> &#x2022; <a href="/Items/Consumables" target="_blank">Consumables</a> &#x2022; <a href="/Items/Drops" target="_blank">Drops</a> &#x2022; <a href="/Items/Fishing" target="_blank">Fishing</a> &#x2022; <a href="/Items/Lootboxes" target="_blank">Lootboxes</a> &#x2022; <a href="/Items/Packs" target="_blank">Packs</a> &#x2022; <a href="/Items/Power-ups" target="_blank">Power-ups</a> &#x2022; <a href="/Items/Sellables" target="_blank">Sellables</a> &#x2022; <a href="/Items/Tools" target="_blank">Tools</a>
         </p>
          </div>
     </details>
