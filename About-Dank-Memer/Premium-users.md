@@ -2,7 +2,7 @@
 title: Premium Users
 description: Learn about premium users, subscription options, premium servers, premium commands, weekly, automeme, and more.
 published: true
-date: 2023-11-24T07:11:42.621Z
+date: 2024-01-01T21:03:24.928Z
 tags: patreon, premium, automeme, premium membership, weekly, premium servers, premium server add, premium server remove, patreon boxes, patreon packs, credit card
 editor: markdown
 dateCreated: 2023-04-30T20:28:56.306Z
@@ -37,7 +37,7 @@ Whether you subscribe through the website or Patreon, the perks are essentially 
 
 ## About the Perks  {: #Perks} 
 
-Some of the main perks for being premium are reduced cooldowns, discounted <a href="/Bot-features/Currency-Commands/Market" target="_blank">market</a> fees, weekly rewards, extra <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Customization" target="_blank">profile customization</a> options, access to the <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">/weekly</a> command, the automeme command ($5+ donors), the ability to <a href="/About-Dank-Memer/Premium-users#PremiumServers" target="_blank"> make a server premium</a> and share your faster cooldowns ($10+ donors), the ability to reroll <a href="/Bot-features/Currency-Commands/Quests" target="_blank">quests</a> and <a href="/Items/Lootboxes" target="_blank">lootboxes</a>, and so much more. 
+Some of the main perks for being premium are reduced cooldowns, weekly rewards, extra <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Customization" target="_blank">profile customization</a> options, access to the <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">/weekly</a> command, the automeme command ($5+ donors), the ability to <a href="/About-Dank-Memer/Premium-users#PremiumServers" target="_blank"> make a server premium</a> and share your faster cooldowns ($10+ donors), the ability to reroll <a href="/Bot-features/Currency-Commands/Quests" target="_blank">quests</a> and <a href="/Items/Lootboxes" target="_blank">lootboxes</a>, and so much more. 
 
 If you want to try some premium perks for free, you can buy a <a href="/Items/Power-ups#CreditCard" target="_blank">Credit Card</a> item instead and use it on yourself. This item can give you or a friend 5 days of premium perks for Dank Memer (close to the $3 perk value but missing a few things). This can be bought from the <a href="/Bot-features/Currency-Commands/Market" target="_blank">/market</a> or found in <a href="/Items/Lootboxes#MembershipBox" target="_blank">Membership Boxes</a>. 
 
