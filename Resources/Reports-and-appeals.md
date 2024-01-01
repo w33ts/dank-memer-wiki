@@ -2,7 +2,7 @@
 title: Reports and Appeals
 description: Learn about Dank Memer's reports and appeals systems, what to do if you find someone breaking bot rules, or how to appeal if you get banned.
 published: true
-date: 2023-11-24T08:09:26.057Z
+date: 2024-01-01T22:06:34.677Z
 tags: report, reports, appeal, banned, appealing, appeals process, report a user
 editor: markdown
 dateCreated: 2023-04-30T20:52:43.624Z
@@ -27,7 +27,7 @@ There are a couple of ways to report someone :
 <img src="/resources/reports-and-appeals/developer_mode.png" width="750">
 </center>
 
-Before reporting a user, it is highly suggested to read through the <a href="https://dankmemer.lol/community/blog/report-redux" target="_blank">report-redux blog</a>. This blog is written by Kable, one of Dank Memer's bot admins, and it explains what each of Dank Memer's rules means in more detail.
+Before reporting a user, it is highly suggested to read through the <a href="https://dankmemer.lol/blog/report-redux" target="_blank">report-redux blog</a>. This blog is written by Kable, one of Dank Memer's bot admins, and it explains what each of Dank Memer's rules means in more detail.
 
 It is generally important for you to provide pictures as proof of what you are reporting. To include pictures, upload them to an imaging website like <a href="https://imgur.com" target="_blank">Imgur</a> and save the links. Afterwards, write your report with the links included, and then copy and paste it into the textbox given when you submit your report.
 
@@ -69,7 +69,7 @@ Every banned user who has been banned due to violating <a href="https://dankmeme
 
 ### <font color =b32d2d>How to appeal?</font> 
 
-Only bans **over** 7 days can be appealed, and you can only appeal **once** per ban, so make sure to write a proper appeal and don't waste it. Before appealing a ban, it is highly suggested to read this blog on <a href="https://dankmemer.lol/community/blog/how-to-appeal" target="_blank">how to appeal</a>. 
+Only bans **over** 7 days can be appealed, and you can only appeal **once** per ban, so make sure to write a proper appeal and don't waste it. Before appealing a ban, it is highly suggested to read this blog on <a href="https://dankmemer.lol/blog/how-to-appeal" target="_blank">how to appeal</a>. 
 
 When you are ready, run any <a href="/Bot-features/Currency-Commands" target="_blank">currency command</a> on the bot, and you'll see information about your ban and an appeal button. To include pictures in your appeal, upload them to an image hosting service like <a href="https://imgur.com" target="_blank">Imgur</a> and save the links. Afterward, copy the link to the imgur and post it in the appeal prompt.  For the best chance to be unbanned, avoid lying and excuses when appealing.
 
