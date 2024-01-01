@@ -2,7 +2,7 @@
 title: Premium Users
 description: Learn about premium users, subscription options, premium servers, premium commands, weekly, automeme, and more.
 published: true
-date: 2024-01-01T21:03:24.928Z
+date: 2024-01-01T21:06:16.780Z
 tags: patreon, premium, automeme, premium membership, weekly, premium servers, premium server add, premium server remove, patreon boxes, patreon packs, credit card
 editor: markdown
 dateCreated: 2023-04-30T20:28:56.306Z
@@ -44,9 +44,9 @@ If you want to try some premium perks for free, you can buy a <a href="/Items/Po
 To learn more about the perks, you can run `/premium info` for an easy summary or visit <a href="https://dankmemer.lol/store" target="_blank">the website</a> for the full breakdown. The <a href="https://dankmemer.lol/tutorial/premium-redemption" target="_blank">premium tutorial</a> also gives a ton of information about the perks and how to use them. 
 
 <center>
-  <p><img src="/bot-features/premium/premiuminfocc.png" alt="Credit Card premium info page" width="350"> <img src="/bot-features/premium/premiuminfo3.png" alt="2 dollar membership info" width="309"></p>
-     <p><img src="/bot-features/premium/premiuminfo5.png" alt="5 dollar membership info" width="309"> <img src="/bot-features/premium/premiuminfo10.png" alt="10 dollar membership info" width="304"></p>
-  <p><img src="/bot-features/premium/premiuminfo20.png" alt="20 dollar membership info" width="322"> <img src="/bot-features/premium/premiuminfo45.png" alt="45 dollar membership info" width="309"></p>
+  <p><img src="/about-dank-memer/premium-users/premiumperks1.png" alt="Credit Card premium info page" width="300"> <img src="/about-dank-memer/premium-users/premiumperks2.png" alt="2 dollar membership info" width="300"></p>
+     <p><img src="/about-dank-memer/premium-users/premiumperks3.png" alt="5 dollar membership info" width="300"> <img src="/about-dank-memer/premium-users/premiumperks4.png" alt="10 dollar membership info" width="300"></p>
+  <p><img src="/about-dank-memer/premium-users/premiumperks5.png" alt="20 dollar membership info" width="300"> <img src="/about-dank-memer/premium-users/premiumperks6.png" alt="45 dollar membership info" width="300"></p>
     </center>
     
 
