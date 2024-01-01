@@ -2,7 +2,7 @@
 title: Dank Blog
 description: The Dank Memer blog is a useful resource for staying updated on the bot, learning about future plans, and gaining information from the developers.
 published: true
-date: 2023-11-24T07:50:14.640Z
+date: 2024-01-01T21:59:29.993Z
 tags: market, friends, report redux, dank memer blog, blog, blog posts, appeals, new way to trade, alpha testers, gambling removal, gambling commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:49:15.378Z
@@ -19,6 +19,7 @@ The Dank Memer blogs site contains a lot of useful blogs regarding past updates,
 | Blog Post | Description | 
 |:------:|:------:|
 | <a href="https://dankmemer.lol/community/blog/alpha-testing-is-important" target="_blank">Alpha Testing</a> | Learn about Dank Memer's Alpha Testers and what they do, how alpha testing works, and how testing helps the bot. |
+  | <a href="https://dankmemer.lol/blog/bandaging-the-unsolvable" target="_blank">Bandaging the Unsolvable</a> | Learn about some problems in Dank Memer's economy and the steps being taken to try to fix past mistakes (such as setting net caps for items). |
 | <a href="https://dankmemer.lol/community/blog/death" target="_blank">Death</a> | Learn about the risk of dying on the bot, what happens when you die and how can you prevent yourself from dying?
   | <a href="https://dankmemer.lol/community/blog/fishing-is-here" target="_blank">Fishing Overhaul</a> | Learn about the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> overhaul and why the command was changed.|
   | <a href="https://dankmemer.lol/community/blog/flows-update" target="_blank">Flows</a> | Learn about <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">flows</a>, why they were added, and how they help users run commands easier than ever.|
@@ -27,6 +28,7 @@ The Dank Memer blogs site contains a lot of useful blogs regarding past updates,
 | <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">New Way to Trade</a> | Learn how to trade with the <a href="/Bot-features/Currency-Commands/Market" target="_blank">/market</a> system and more about the <a href="/Bot-features/Currency-Commands/Friends" target="_blank">/friend</a> system. |
 | <a href="https://dankmemer.lol/community/blog/report-redux" target="_blank">Report Redux</a> | A special blog written by Kable, one of Dank Memer's bot admins. It explains more about how to <a href="/Resources/Reports-and-appeals" target="_blank">report</a> rule breakers and what the <a href="/About-Dank-Memer/Bot-rules" target="_blank">bot rules</a> mean. |
 | <a href="https://dankmemer.lol/community/blog/rewrite-changelog" target="_blank">Rewrite changelog</a> | In 2022, Dank Memer was completely rewritten to move from 'pls' commands to slash commands. This rewrite changelog goes over all the major changes the rewrite brought to help users transition. |
+| <a href="https://dankmemer.lol/blog/rules-exist" target="_blank">Rules Exist</a> | A special blog written by Kable, one of Dank Memer's bot admins. It explains more about what the <a href="/About-Dank-Memer/Bot-rules" target="_blank">bot rules</a> mean. |
 |<a href="https://dankmemer.lol/community/blog/skin-release" target="_blank">Skins</a>| Learn about Dank Memer's <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a> and why they were added.|
 
   </center>
