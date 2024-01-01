@@ -2,7 +2,7 @@
 title: Season of the Haunted Waters
 description: See what rewards are possible for the first fish season, the Season of the Haunted Waters.
 published: true
-date: 2023-11-24T09:46:31.897Z
+date: 2024-01-01T23:05:07.557Z
 tags: rewards, fish season, premium pass, season pass, fish season pass, fish pass, season rewards, haunted, haunted waters
 editor: markdown
 dateCreated: 2023-11-03T22:05:39.527Z
@@ -14,6 +14,10 @@ Every few months, a new `/fish season` will be released, offering different rewa
 There are two tiers of rewards users can complete. The free track of rewards is at the top of each image in `/fish season` and shows what all users can unlock. The bottom row of rewards are the premium rewards that users can unlock on top of the normal rewards by upgrading to the Premium Season Pass or Premium Season Pass+. 
 
 Each fish season is only available for a limited time unless you upgrade to premium. Premium pass holders will continue to have access to the season pass forever, so they can continue working on it until they've unlocked every reward.
+
+The very first Fish Season Pass was called "The Season of the Haunted Waters." 
+
+The current season pass is titled, "<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">The Season of the Frozen Heart</a>."
 
 ## Season of the Haunted Waters Rewards
 <center>
