@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2023-12-22T00:02:54.834Z
+date: 2024-01-01T19:21:51.305Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -34,13 +34,13 @@ Bosses are worth more coins and tokens, and they give more XP toward your `/fish
 |Ahuitzotl {: #Ahuitzotl} | <img src="/items/fishing/creatures/ahuitzotl.webp" alt="Ahuitzotl" width="50">  | All Day  | Camp Guillermo | <img src="/items/fishing/creatures/variants/ahuitzotl_hq2.gif" alt="HQ Ahuitzotl" width="50"> | 6,000,000 |
 | Bunyip {: #Bunyip} | <img src="/items/fishing/creatures/bunyip.png" alt="Bunyip" width="50">  | All Day  | Wily River | <img src="/items/fishing/creatures/variants/bunyip_hq.gif" alt="HQ Bunyip" width="50"> | 6,000,000 |
   |Charybdis {: #Charybdis} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | 6,000,000 |
-|Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond |  <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma2.png" alt="HQ Gorgolox" width="60"> | 10,000,000 |
-  | Issrakr {: #Issrakr} | <img src="/items/fishing/creatures/issrakr.png" alt="Issrakr" width="50">  | All Day | Snowy Mountain |  (1) | 10,000,000 |
+|Gorgolox {: #Gorgolox} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond |  <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma3.png" alt="HQ Gorgolox" width="50"> | 10,000,000 |
+  | Issrakr {: #Issrakr} | <img src="/items/fishing/creatures/issrakr.png" alt="Issrakr" width="50">  | All Day | Snowy Mountain |  <img src="/items/fishing/creatures/variants/issrakr_hq.gif" alt="HQ Issrakr" width="50"> | 10,000,000 |
 |Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 6,000,000 |
 |Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 6,000,000 |
 |Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50">  | 6,000,000 |
 | Pliosaur {: #Pliosaur} | <img src="/items/fishing/creatures/pliosaur.webp" alt="Pliosaur" width="50">  | All Day | Ice Caves |  <img src="/items/fishing/creatures/variants/pliosaur_hq.gif" alt="HQ Pliosaur" width="50"> | 10,000,000 |
-|Scylla {: #Scylla} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | <img src="/items/fishing/creatures/variants/scylla_hq.gif" alt="HQ Scylla" width="50">  | 10,000,000 |
+|Scylla {: #Scylla} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | <img src="/items/fishing/creatures/variants/scylla_hq.gif" alt="HQ Scylla" width="50">  | 6,000,000 |
 |Vodyanoy {: #Vodyanoy} | <img src="/items/fishing/creatures/vodyanoy.png" alt="Vodyanoy" width="50">  | All Day | Mystic Pond | <img src="/items/fishing/creatures/variants/vodyanoy_hq.gif" alt="Vodyanoy" width="50"> | 6,000,000 |
   
 </center>
@@ -63,6 +63,7 @@ If creatures are only in a location that is not available or are limited in some
 | Arapaima {: #Arapaima} | <img src="/items/fishing/creatures/arapaima.png" alt="Arapaima" width="50">  | 12am - 6am | Snowy Mountain, Wily River | <img src="/items/fishing/creatures/variants/arapaima_hq.gif" alt="HQ Arapaima" width="50"> | 100,000 |
   | Arctic Char {: #ArcticChar} | <img src="/items/fishing/creatures/arcticchar.png" alt="Arctic Char" width="50">  | All Day | Ice Caves, Snowy Mountain | <img src="/items/fishing/creatures/variants/arcticchar_hq.gif" alt="HQ Arctic Char" width="50"> | 5,000 |
   | Bass {: #Bass} | <img src="/items/fishing/creatures/bass.png" alt="Bass" width="50">  | 10pm - 3pm | Camp Guillermo | <img src="/items/fishing/creatures/variants/bass_hq.gif" alt="HQ Bass" width="50"> <img src="/items/fishing/creatures/variants/bass_chroma.png" alt="Chroma Bass" width="50"> | 5,000 |
+| Box Turtle {: #BoxTurtle} | <img src="/items/fishing/creatures/boxturtle.png" alt="Box Turtle" width="50">  | 10pm - 9am | Mystic Pond | <img src="/items/fishing/creatures/variants/boxturtle_hq.gif" alt="HQ Box Turtle" width="50"> | 7,500 |
 | Bluegill {: #Bluegill} | <img src="/items/fishing/creatures/bluegill.webp" alt="Bluegill" width="50">  | 4am - 3pm | Camp Guillermo, Snowy Mountain | <img src="/items/fishing/creatures/variants/bluegill_hq.gif" alt="HQ Bluegill" width="50"> <img src="/items/fishing/creatures/variants/bluegill_chroma.png" alt="Chroma Bluegill" width="50"> |  5,000 |
 | Bullfrog {: #Bullfrog} | <img src="/items/fishing/creatures/bullfrog.png" alt="Bullfrog" width="50">  | 4am - 9pm | Camp Guillermo | <img src="/items/fishing/creatures/variants/bullfrog_hq.gif" alt="HQ Bullfrog" width="50"> |  7,500 |
 | Catfish {: #Catfish} | <img src="/items/fishing/creatures/catfish.png" alt="Catfish" width="50">  | 10pm - 9am | Wily River | <img src="/items/fishing/creatures/variants/catfish_hq.gif" alt="HQ Catfish" width="50"> | 5,000 |
@@ -196,7 +197,7 @@ Camp Guillermo is a freshwater area filled with lakes. You can meet several <a h
 >   Crypt Keeper's Pond is only available during Halloween or for special events.
 {.is-warning}
 
-Crypt Keeper's Pond is a special Halloween event location that was first available in October 2023. It has some freshwater fish that are similar to the Mystic Pond creatures, but it also has some special event fish that are only available there. No NPCs visit this location.
+Crypt Keeper's Pond is a special Halloween event location that was first available in October 2023. It has some freshwater fish that are similar to the Mystic Pond creatures, but it also has some special event fish that are only available there. No NPCs visit this location unless the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">NPC Space Time Rift</a> event is active.
 
 When the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Limited Time Portal Event</a> is active, you can visit the location again.
 
@@ -214,7 +215,7 @@ When the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" ta
 | Spectral Fish {: #SpectralFishMystic} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | All Day  | Crypt Keeper's Pond, Mystic Pond, Snowy Mountain | <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"><img src="/items/fishing/creatures/variants/spectral_orange.png" alt="Orange Spectral Fish" width="50">  | 100,000 |
 | Turkey Fish {: #TurkeyFishMystic} | <img src="/items/fishing/creatures/turkeyfish.png" alt="Turkey Fish" width="50">  |  All Day <br> (Requires Turkey Bait)  | Any Location <br> (Requires Turkey Bait) | <img src="/items/fishing/creatures/variants/turkeyfish_hq.gif" alt="HQ Tuna" width="50"> | 7,500 |
 | Zombie Fish {: #ZombieFishMystic} | <img src="/items/fishing/creatures/zombiefish.png" alt="Zombie Fish" width="50">  | All Day  | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/zombiefish_hq.gif" alt="HQ Zombie Fish" width="50"> <img src="/items/fishing/creatures/variants/zombiefish_chroma.png" alt="Chroma Zombie Fish" width="50">| 7,500 |
-|**Boss:** <br> Gorgolox {: #GorgoloxMystic} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma2.png" alt="Chroma Gorgolox" width="60">  | 10,000,000 |
+|**Boss:** <br> Gorgolox {: #GorgoloxMystic} | <img src="/items/fishing/creatures/gorgolox.png" alt="Gorgolox" width="50">  | All Day | Crypt Keeper's Pond | <img src="/items/fishing/creatures/variants/gorgolox_hq.gif" alt="HQ Gorgolox" width="50"> <img src="/items/fishing/creatures/variants/gorgolox_chroma3.png" alt="Chroma Gorgolox" width="50">  | 10,000,000 |
 
 
 </center>
@@ -268,7 +269,8 @@ Mystic Pond can be visited by the <a href="/Bot-features/Currency-Commands/Grind
   
  Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
-| Crayfish {: #CrayfishCrypt} | <img src="/items/fishing/creatures/crayfish.png" alt="Crayfish" width="50">  |  4am - 3pm | Mystic Pond, Wily River | <img src="/items/fishing/creatures/variants/crayfish_hq.gif" alt="HQ Crayfish" width="50"> | 5,000 |
+| Box Turtle {: #BoxTurtle} | <img src="/items/fishing/creatures/boxturtle.png" alt="Box Turtle" width="50">  | 10pm - 9am | Mystic Pond | <img src="/items/fishing/creatures/variants/boxturtle_hq.gif" alt="HQ Box Turtle" width="50"> | 7,500 |
+  | Crayfish {: #CrayfishCrypt} | <img src="/items/fishing/creatures/crayfish.png" alt="Crayfish" width="50">  |  4am - 3pm | Mystic Pond, Wily River | <img src="/items/fishing/creatures/variants/crayfish_hq.gif" alt="HQ Crayfish" width="50"> | 5,000 |
 | Flying Fish {: #FlyingFishCrypt} | <img src="/items/fishing/creatures/flyingfish.png" alt="Flying Fish " width="50">  |  All Day | Mystic Pond, Snowy Mountain | <img src="/items/fishing/creatures/variants/flyingfish_hq.gif" alt="HQ Flying Fish " width="50"><img src="/items/fishing/creatures/variants/flyingfish_chroma.png" alt="Chroma Flying Fish " width="50">| 12,000 |
 | Goldfish {: #GoldfishCrypt} | <img src="/items/fishing/creatures/goldfish.png" alt="Goldfish" width="50">  |  4pm - 9am  | Camp Guillermo, Mystic Pond | <img src="/items/fishing/creatures/variants/goldfish_hq.gif" alt="HQ Goldfish" width="50"><img src="/items/fishing/creatures/variants/goldfish_solidgold.gif" alt="Solid Goldfish" width="50"> | 7,500 |
 | Guppy {: #GuppyCrypt} | <img src="/items/fishing/creatures/guppy.png" alt="Guppy" width="50">  | 4pm - 3am  | Camp Guillermo, Mystic Pond, Snowy Mountain | <img src="/items/fishing/creatures/variants/guppy_hq.gif" alt="HQ Guppy" width="50"> <img src="/items/fishing/creatures/variants/guppy_chroma.png" alt="Chroma Guppy" width="50"> | 7,500 |
@@ -304,7 +306,7 @@ When the <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" ta
   | Nelma{: #Nelma} | <img src="/items/fishing/creatures/nelma.png" alt="Nelma" width="50">  | 4am - 3pm  | Snowy Mountain | <img src="/items/fishing/creatures/variants/nelma_hq.gif" alt="HQ Nelma" width="50"> | 7,500 |
   | Spectral Fish {: #Spectral Fish} | <img src="/items/fishing/creatures/spectralfish.png" alt="Spectral Fish" width="50">  | All Day  | Crypt Keeper's Pond, Mystic Pond, Snowy Mountain | <img src="/items/fishing/creatures/variants/spectral_blue.png" alt="Blue Spectral Fish" width="50"><img src="/items/fishing/creatures/variants/spectral_orange.png" alt="Orange Spectral Fish" width="50"> | 100,000 |
   | Turkey Fish {: #TurkeyFishSnowy} | <img src="/items/fishing/creatures/turkeyfish.png" alt="Turkey Fish" width="50">  |  All Day <br> (Requires Turkey Bait)  | Any Location <br> (Requires Turkey Bait) | <img src="/items/fishing/creatures/variants/turkeyfish_hq.gif" alt="HQ Tuna" width="50"> | 7,500 |
-  | **Boss:** <br> Issrakr {: #Issrakr} | <img src="/items/fishing/creatures/issrakr.png" alt="Issrakr" width="50">  | All Day | Snowy Mountain |  (1) | 10,000,000 |
+  | **Boss:** <br> Issrakr {: #Issrakr} | <img src="/items/fishing/creatures/issrakr.png" alt="Issrakr" width="50">  | All Day | Snowy Mountain |  <img src="/items/fishing/creatures/variants/issrakr_hq.gif" alt="Issrakr" width="50"> | 10,000,000 |
   
 
   </center>
@@ -365,8 +367,8 @@ Vertigo Beach is a saltwater fishing location. It is a good place to fish if you
 | Shrimp {: #ShrimpBeach} | <img src="/items/fishing/creatures/shrimp.png" alt="Shrimp" width="50">  | 10pm - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/shrimp_hq.gif" alt="HQ Shrimp" width="50"> <img src="/items/fishing/creatures/variants/shrimp_chroma.png" alt="Chroma Shrimp" width="50"> | 4,000 |
 | Starfish {: #StarfishBeach} | <img src="/items/fishing/creatures/starfish2.png" alt="Starfish" width="50">  | 4am - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/starfish2_hq.gif" alt="HQ Starfish" width="50"> | 7,500 |
 | Turkey Fish {: #TurkeyFishBeach} | <img src="/items/fishing/creatures/turkeyfish.png" alt="Turkey Fish" width="50">  |  All Day <br> (Requires Turkey Bait)  | Any Location <br> (Requires Turkey Bait) | <img src="/items/fishing/creatures/variants/turkeyfish_hq.gif" alt="HQ Tuna" width="50"> | 7,500 |
-| **Boss:** <br> Charybdis {: #CharybdisBeach} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | 10,000,000 |
-| **Boss:** <br> Scylla {: #ScyllaBeach} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | <img src="/items/fishing/creatures/variants/scylla_hq.gif" alt="HQ Scylla" width="50">  | 10,000,000 |
+| **Boss:** <br> Charybdis {: #CharybdisBeach} | <img src="/items/fishing/creatures/charybdis.webp" alt="Charybdis" width="50">  | All Day  | Vertigo Beach | <img src="/items/fishing/creatures/variants/charybdis_hq.gif" alt="HQ Charybdis" width="50"> | 6,000,000 |
+| **Boss:** <br> Scylla {: #ScyllaBeach} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | <img src="/items/fishing/creatures/variants/scylla_hq.gif" alt="HQ Scylla" width="50">  | 6,000,000 |
 
 
 </center>
@@ -395,7 +397,7 @@ Wily River is a freshwater fishing location. You can meet several <a href="/Bot-
   | Sturgeon {: #Sturgeon} | <img src="/items/fishing/creatures/sturgeon.png" alt="Sturgeon" width="50">  |  12am - 4pm  | Ice Caves, Wily River  | <img src="/items/fishing/creatures/variants/sturgeon_hq.gif" alt="HQ Sturgeon" width="50"> <img src="/items/fishing/creatures/variants/sturgeon_chroma.png" alt="Chroma Sturgeon" width="50"> | 12,000 |
 | Turkey Fish {: #TurkeyFishRiver} | <img src="/items/fishing/creatures/turkeyfish.png" alt="Turkey Fish" width="50">  |  All Day <br> (Requires Turkey Bait)  | Any Location <br> (Requires Turkey Bait) | <img src="/items/fishing/creatures/variants/turkeyfish_hq.gif" alt="HQ Tuna" width="50"> | 7,500 |
 | **Boss:** <br> Bunyip {: #Bunyip} | <img src="/items/fishing/creatures/bunyip.png" alt="Bunyip" width="50">  | All Day  | Wily River | <img src="/items/fishing/creatures/variants/bunyip_hq.gif" alt="HQ Bunyip" width="50"> | 6,000,000 |
-| **Boss:** <br> Jormungandr {: #JormungandrRiver} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 10,000,000 |
+| **Boss:** <br> Jormungandr {: #JormungandrRiver} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 6,000,000 |
   
 
 </center>
