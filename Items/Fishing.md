@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-01-01T22:30:14.071Z
+date: 2024-01-01T23:31:19.909Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -76,7 +76,7 @@ Each bucket has a different storage capacity, but you can increase how much your
 | Bait | Image | Default Space | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 |Alien Bucket {: #AlienBucket} | <img src="/items/fishing/alien_bucket.gif" alt="Alien Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
-|Bone Bucket {: #BoneBucket} | <img src="/items/fishing/bone_bucket.png" alt="Bone Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
+|Bone Bucket {: #BoneBucket} | <img src="/items/fishing/bone_bucket2a.png" alt="Bone Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
  |Coal Bucket {: #CoalBucket} | <img src="/items/fishing/coal_bucket.png" alt="Coal Bucket" width="50" height="50">| 5 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
 |Fucket Bucket {: #FucketBucket} | <img src="/items/fishing/fucket_bucket.png" alt="Fucket Bucket" width="50" height="50">| 1 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
 |God Bucket {: #GodBucket} | <img src="/items/fishing/god_bucket.gif" alt="God Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
@@ -84,8 +84,8 @@ Each bucket has a different storage capacity, but you can increase how much your
 |Metal Bucket {: #MetalBucket} | <img src="/items/fishing/metal_bucket.png" alt="Metal Bucket" width="50" height="50">| 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pepe Bucket {: #PepeBucket} | <img src="/items/fishing/pepe_bucket.png" alt="Pepe Bucket" width="50" height="50">| 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pink Bucket {: #PinkBucket} |<img src="/items/fishing/pink_bucket.png" alt="Pink Bucket" width="50" height="50">| 10 | Awarded to participants of the Pink Event. |
-  |Yellow Snucket Bucket {: #YellowSnucketBucket} | <img src="/items/fishing/yellowsnucket_bucket.png" alt="Yellow Snucket Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
- | Winter Lights Bucket {: #WinterLightsBucket} | <img src="/items/fishing/winterlight_bucket.gif" alt="Winter Light Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
+  |Yellow Snucket Bucket {: #YellowSnucketBucket} | <img src="/items/fishing/yellowsnucket_bucket.webp" alt="Yellow Snucket Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
+ | Winter Light Bucket {: #WinterLightBucket} | <img src="/items/fishing/winterlight_bucket.gif" alt="Winter Light Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
 |Wooden Bucket {: #WoodenBucket} | <img src="/items/fishing/wooden_bucket.png" alt="Wooden Bucket" width="50" height="50">| 5 | Given by Default |
   
 </center>
@@ -97,7 +97,9 @@ The creatures you can catch while fishing cannot be collected like with the prev
 Each creature has a specific time UTC that it is available, a certain <a href="/Items/Fishing/Creatures#ByLocation" target="_blank">location</a> it can be found, and most have at least one variant you can catch. Check out a complete list of the possible creatures, their times, locations, and variants <a href="/Items/Fishing/Creatures" target="_blank">here</a>.
 
 ## Fish Tank Decorations {: #Decorations}
-If you want to save a few of your favorite fish, you can put them in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tank</a>. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
+If you want to save a few of your favorite fish, you can put them in one of your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tanks</a>. You can own up to 5 fish tanks, and each tank can hold up to 5 fish if you upgrade the Aquarium Keeper Skill. To own more than one tank, purchase more from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>.
+
+To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command, go to the tank that has the fish, press the manage button, select a fish, and click remove.
 
 You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">the Aquarium Keeper skill</a>, you can increase what the tank can hold.
 
@@ -105,18 +107,33 @@ You can also get decorations to put in your fish tank from the `/fish season` an
 
 | Bait | Image | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
-|Neon Plant {: #NeonPlant} | <img src="/items/fishing/decorations/neon_plant.webp" alt="Neon Plant" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-|Treasure Chest {: #TreasureChest} | <img src="/items/fishing/decorations/treasure_chest.webp" alt="Treasure Chest" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-| Fishing Trophy {: #FishingTrophy} | <img src="/items/fishing/decorations/fishing_trophy.webp" alt="Fishing Trophy" width="50" height="50">|  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-|Diver's Helmet {: #DiversHelmet} |<img src="/items/fishing/decorations/diver_helmet.webp" alt="Diver's Helmet" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+| Christmas Tree {: #ChristmasTree} | <img src="/items/fishing/decorations/christmastree.png" alt="Christmas Tree" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
+  | Christmas Wreath {: #ChristmasWreath} | <img src="/items/fishing/decorations/christmaswreath.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Demon {: #Demon} | <img src="/items/fishing/decorations/demon.webp" alt="Demon" width="80" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+  |Diver's Helmet {: #DiversHelmet} |<img src="/items/fishing/decorations/diver_helmet.webp" alt="Diver's Helmet" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+  | Fishing Trophy {: #FishingTrophy} | <img src="/items/fishing/decorations/fishing_trophy.webp" alt="Fishing Trophy" width="50" height="50">|  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+  | Ghost {: #Ghost} | <img src="/items/fishing/decorations/ghost.webp" alt="Ghost" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+    | Giant Gem {: #GiantGem} | <img src="/items/fishing/decorations/giant_gem.webp" alt="Skull" width="50" height="50">| <a href="https://dankmemer.lol/store" target="_blank">Fishing Master Bundle from Dank Store</a> |
+  | Gingerbread House {: #GingerbreadHouse} | <img src="/items/fishing/decorations/gingerbreadhouse.png" alt="Sled Decoration" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Gone Fishing Sign {: #GoneFishingSign} | <img src="/items/fishing/decorations/gone_fishing_sign.webp" alt="Gone Fishing Sign" width="50"> |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+  | Haunted House {: #HauntedHouse} | <img src="/items/fishing/decorations/haunted_house.webp" alt="Haunted House" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Free Reward</a> |
+  | Jack O Lantern {: #JackOLantern} | <img src="/items/fishing/decorations/jack_o_lantern.webp" alt="Jack O Lantern" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+   | Krampus Statue {: #KrampusStatue} | <img src="/items/fishing/decorations/krampus.png" alt="Krampus Statue" height="60">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
+  | Mistletoe {: #Mistletoe} | <img src="/items/fishing/decorations/mistletoe.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  |Neon Plant {: #NeonPlant} | <img src="/items/fishing/decorations/neon_plant.webp" alt="Neon Plant" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+  | Pagoda {: #Pagoda} | <img src="/items/fishing/decorations/pagoda.webp" alt="Pagoda" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+  | Present {: #Present} | <img src="/items/fishing/decorations/present.png" alt="Present Decoration" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Skull {: #Skull} | <img src="/items/fishing/decorations/skull.webp" alt="Skull" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
+  | Silver Wreath {: #SilverWreath} | <img src="/items/fishing/decorations/silverwreath.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
+  | Sled {: #Sled} | <img src="/items/fishing/decorations/sled.png" alt="Sled Decoration" width="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Snowflake {: #Snowflake} | <img src="/items/fishing/decorations/snowflake.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Snowman Statue {: #SnowmanStatue} | <img src="/items/fishing/decorations/snowman.png" alt="Snowman Statue" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
 |Sunken Ship {: #SunkenShip} | <img src="/items/fishing/decorations/sunken_ship.webp" alt="Metal Bucket" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-| Pagoda {: #Pagoda} | <img src="/items/fishing/decorations/pagoda.webp" alt="Pagoda" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-| Haunted House {: #HauntedHouse} | <img src="/items/fishing/decorations/haunted_house.webp" alt="Haunted House" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Free Reward</a> |
-| Jack O Lantern {: #JackOLantern} | <img src="/items/fishing/decorations/jack_o_lantern.webp" alt="Jack O Lantern" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-| Demon {: #Demon} | <img src="/items/fishing/decorations/demon.webp" alt="Demon" width="80" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-| Ghost {: #Ghost} | <img src="/items/fishing/decorations/ghost.webp" alt="Ghost" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-| Skull {: #Skull} | <img src="/items/fishing/decorations/skull.webp" alt="Skull" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-| Giant Gem {: #GiantGem} | <img src="/items/fishing/decorations/giant_gem.webp" alt="Skull" width="50" height="50">| <a href="https://dankmemer.lol/store" target="_blank">Fishing Master Bundle from Dank Store</a> |
+  |Treasure Chest {: #TreasureChest} | <img src="/items/fishing/decorations/treasure_chest.webp" alt="Treasure Chest" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+
+
+
+
   
   </center>
   
