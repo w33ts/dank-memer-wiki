@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-01-01T23:31:19.909Z
+date: 2024-01-01T23:32:22.320Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -130,9 +130,6 @@ You can also get decorations to put in your fish tank from the `/fish season` an
   | Snowman Statue {: #SnowmanStatue} | <img src="/items/fishing/decorations/snowman.png" alt="Snowman Statue" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
 |Sunken Ship {: #SunkenShip} | <img src="/items/fishing/decorations/sunken_ship.webp" alt="Metal Bucket" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
   |Treasure Chest {: #TreasureChest} | <img src="/items/fishing/decorations/treasure_chest.webp" alt="Treasure Chest" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
-
-
-
 
   
   </center>
