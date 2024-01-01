@@ -2,7 +2,7 @@
 title: Bot Rules
 description: Information about the Dank Memer bot rules.
 published: true
-date: 2023-11-24T07:01:49.011Z
+date: 2024-01-01T20:57:49.181Z
 tags: bot rules, rules, rmt, automation, macro, scamming, exploits, exploiting, alts, tos, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:21:32.540Z
@@ -14,8 +14,8 @@ Dank Memer has a set of rules everyone is required to follow if they want to use
 The <a href="https://dankmemer.lol/rules" target="_blank">full list of rules</a> is posted on the Dank Memer website, and it's a good idea to read them through to make sure you don't accidentally break one.
 
 There have also been a few detailed blogs about the rules posted by the bot admin Kable, which explain in more detail what each rule means. 
-- <a href="https://dankmemer.lol/community/blog/rules-exist" target="_blank">Rules Exist</a> was written before the latest rule update, so it has incorrect information about alt usage, and it is missing information about Rule 9 and 10. All other information is accurate and useful.
-- <a href="https://dankmemer.lol/community/blog/report-redux" target="_blank">Report Redux</a> is the most recent post on the rules.
+- <a href="https://dankmemer.lol/blog/rules-exist" target="_blank">Rules Exist</a> was written before the latest rule update, so it has incorrect information about alt usage, and it is missing information about Rule 9 and 10. All other information is accurate and useful.
+- <a href="https://dankmemer.lol/blog/report-redux" target="_blank">Report Redux</a> is the most recent post on the rules.
 
 If you are unsure of the rules or have any questions, give the blogs a read. If you believe a person or a server is breaking bot rules, you can report them with the <a href="/Resources/Reports-and-appeals" target="_blank">/report</a> command.
 
@@ -25,7 +25,38 @@ If you are unsure of the rules or have any questions, give the blogs a read. If 
 
 ## The Full Rules
 
-![rules_1.png](/rules_1.png)![rules_2.png](/rules_2.png)![rules_3.png](/rules_3.png)
+### Rules 1 - 3
+
+<center>
+
+  ![rules123_new2024.png](/about-dank-memer/bot-rules/rules123_new2024.png)
+  
+</center>
+
+
+### Rules 4 - 6
+
+<center>
+
+  ![rules456_new2024.png](/about-dank-memer/bot-rules/rules456_new2024.png)
+  
+</center>
+
+### Rules 7 - 9
+
+<center>
+
+  ![rules789_new2024.png](/about-dank-memer/bot-rules/rules789_new2024.png)
+  
+</center>
+
+### Rules 10 - 12
+
+<center>
+
+  ![rules101112_new2024.png](/about-dank-memer/bot-rules/rules101112_new2024.png)
+  
+</center>
 
 <br>
 
