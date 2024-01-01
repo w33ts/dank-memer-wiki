@@ -2,7 +2,7 @@
 title: About the Bot
 description: Info about Dank Memer's history and types of commands, the Dank Memer website and store, the Dank Memer Community server (DMC) and support server (DMO), and the /partners command. 
 published: true
-date: 2023-11-24T06:59:53.939Z
+date: 2024-01-01T20:42:36.819Z
 tags: bot history, store, dank store, dank website, patreon, premium, invite, invite the bot, partners, server links, social media, twitter, instagram, tiktok, reddit, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:27:21.627Z
@@ -35,7 +35,7 @@ You can ask the <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#8ball" tar
 
 With the <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers" target="_blank">game</a> command, you can play non-currency versions of the wager games with your friends, like Tic-Tac-Toe, Connect4, and Rock-Paper-Scissors, or use <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Fight" target="_blank">Fight</a> for a little friendly competition.
 
-You can also alter your friends' profile pictures with <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Image" target="_blank">/image</a> or browse <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Meme" target="_blank">memes</a>, <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Animals" target="_blank">animal pictures</a>, and <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Xkcd" target="_blank">Xkcd</a> comics you can browse if you want something to laugh at.
+You can also alter your friends' profile pictures with <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Image" target="_blank">/image</a> or browse <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Meme" target="_blank">memes</a>, <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Animals" target="_blank">animal pictures</a>, and <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Xkcd" target="_blank">Xkcd</a> comics if you want something to laugh at.
 
 
 ### <font color =b32d2d>Utility and Config Commands</font> 
