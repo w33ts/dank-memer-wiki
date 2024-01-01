@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2023-11-24T08:15:38.075Z
+date: 2024-01-01T20:38:55.862Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -158,8 +158,10 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Lootboxes#MemeBox" target="_blank">Meme Box</a>
 - <a href="/Items/Sellables#MemePills" target="_blank">Meme Pills</a>
 - <a href="/Items/Collectables#Menorah" target="_blank">Menorah</a>
+- <a href="/Items/Sellables#MessageInABottle" target="_blank">Message in a Bottle</a>
 - <a href="/Items/Sellables#Meteorite" target="_blank">Meteorite</a>
 - <a href="/Items/Tools#Microphone" target="_blank">Microphone</a>
+- <a href="/Items/Consumables#Mistletoe" target="_blank">Mistletoe</a>
 - <a href="/Items/Sellables#MoleMan" target="_blank">Mole Man</a>
 - <a href="/Items/Power-ups#MotivationalPoster" target="_blank">Motivational Poster</a>
 - <a href="/Items/Tools#Mouse" target="_blank">Mouse</a>
@@ -171,6 +173,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#OddEye" target="_blank">Odd Eye</a>
 - <a href="/Items/Lootboxes#OldBox" target="_blank">Old Box</a>
 - <a href="/Items/Collectables#OldCowboyRevolver" target="_blank">Old Cowboy Revolver</a>
+- <a href="/Items/Sellables#OldShell" target="_blank">Old Shell</a>
 - <a href="/Items/Collectables#OrangePlasticBits" target="_blank">Orange Plastic Bits</a>
 - <a href="/Items/Collectables#Ornament" target="_blank">Ornament</a>
 - <a href="/Items/Lootboxes#OutWestAdventureBox" target="_blank">Out West Adventure Box</a>
@@ -225,6 +228,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Tools#Snowball" target="_blank">Snowball</a>
 - <a href="/Items/Collectables#Snowflake" target="_blank">Snowflake</a>
 - <a href="/Items/Sellables#SoggyBoots" target="_blank">Soggy Boots</a>
+- <a href="/Items/Sellables#SoggyPlantClump" target="_blank">Soggy Plant Clump</a>
 - <a href="/Items/Tools#SoundCard" target="_blank">Sound Card</a>
 - <a href="/Items/Lootboxes#SpaceAdventureBox" target="_blank">Space Adventure Box</a>
 - <a href="/Items/Sellables#Spider" target="_blank">Spider</a>
@@ -260,6 +264,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Packs#VotePack" target="_blank">Vote Pack</a>
 - <a href="/Items/Tools#WaterBucket" target="_blank">Water Bucket</a>
 - <a href="/Items/Tools#WateringCan" target="_blank">Watering Can</a>
+- <a href="/Items/Sellables#WaterloggedLog" target="_blank">Waterlogged Log</a>
 - <a href="/Items/Sellables#Watermelon" target="_blank">Watermelon</a>
 - <a href="/Items/Tools#WatermelonSeeds" target="_blank">Watermelon Seeds</a>
 - <a href="/Items/Lootboxes#WeddingGift" target="_blank">Wedding Gift</a>
