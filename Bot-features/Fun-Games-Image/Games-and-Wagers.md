@@ -2,7 +2,7 @@
 title: Games and Wagers
 description: Learn about the games available to play or wager on, including Connect4, Tic-Tac-Toe (TTT), Rock-Paper-Scissors (RPS), Fight, and Petfight.
 published: true
-date: 2023-07-29T13:25:37.513Z
+date: 2024-01-02T04:23:01.638Z
 tags: fight, game, connect4, ttt, tictactoe, rockpaperscissors, rps, petfight, wager, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T11:26:13.575Z
@@ -21,21 +21,35 @@ Dank Memer has several games that you can play with others for fun with the `/ga
 
 
 ## Fight {: #Fight}
-You can fight with others by either using the `/game fight` **or** the `/fight` command. 
+You can fight with others by either using the `/fight` command, either by `/fight create` or `/fight quick`. 
 
-The `/game fight` command lets you do simple fights with your friends for fun. It has options to punch, kick, defend, or run away. If you have someone added as a friend, there is also the option to kiss your opponent and heal them. The logs button you can press to see a summary of the fight. If you want a copy of the logs DM'd to you after the fight, you can enable <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#DMLogs" target="_blank">DM Logs</a> in <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">/settings</a>.
+These commands also lets you wager coins and/or items against others by adding the "**quantity**" and "**for_quantity**" options in the command, allowing you to do coins vs items crossbets too.
+
+The biggest difference is that only `/fight quick` counts towards `/fight ranking` and that `/fight create` gives you full control on how you want to customize your fight.
+
+
+
 <br>
 <center>
-<img src="/bot-features/games/game_fight.png" alt="game fight embed">
+<img src="/bot-features/games/fight_create.png" alt="new /fight create embed">
 </center>
 
-In 2023, fighting was also overhauled in a new command that has many more options than `/game fight`. If you use the `/fight` command on its own, you can do quick fights and use preset fight modes or customize your own fight games. There is also the new `fight ranking` system where users can compete with each other each week to move up in rankings.
+`/fight quick` has the following game mode options:
+- Normal
+- No Defend
+- Kick Only
+- Punch Only
+- Half Health
+- Surprise
+- Chaos
 
 There is a detailed tutorial on how the new fighting system and rankings work and information about all of the modes on the website <a href="https://dankmemer.lol/tutorial/fighting" target="_blank">here</a>.
 <br>
 <center>
-<img src="/bot-features/games/fight_result.png" alt="new /fight embed">
+<img src="/bot-features/games/fight_result.png" alt="/fight quick embed">
 </center>
+
+
 
 
 ## Games {: #Games}
