@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2023-11-24T06:43:11.101Z
+date: 2024-01-02T02:37:37.451Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -85,7 +85,7 @@ The currently obtainable badges are badges you can unlock, and they stay unlocke
 | Bester Quester {: #Quest} | <img src="/bot-features/dank-goals/besterquester.png" alt="Bester Quester" width="50" height="50"> | Complete 20 weekly `/quests` | <img src="/bot-features/dank-goals/badges/besterquesterplatinum.png" alt="Bester Quester Platinum" width="50" height="50"> | Complete 40 weekly `/quests` | 
 | Bold Adventurer | <img src="/bot-features/dank-goals/boldadventurer.png" alt="Bold Adventurer" width="50" height="50"> | Win 500 adventures | <img src="/bot-features/dank-goals/badges/boldadventurerplatinum.png" alt="Bold Adventurer Platinum" width="50" height="50"> | Win 1,000 adventures |
 | Fighter | <img src="/bot-features/dank-goals/fighter.png" alt="Fighter" width="50" height="50"> | Advance 3 fight ranks | <img src="/bot-features/dank-goals/badges/fighterplatinum.png" alt="Fighter Platinum" width="50" height="50"> | Advance 4 fight ranks |
-| XPlosion Expert | <img src="/bot-features/dank-goals/xplosionexpert.png" alt="XPlosion Expert" width="50" height="50"> | Gain 10,000,000 XP | <img src="/bot-features/dank-goals/badges/xplosionexpertplatinum.png" alt="XPlosion Expert Platinum" width="50" height="50"> | Gain 15,000,000 XP |
+| XPlosion Expert {: #XPBadge} | <img src="/bot-features/dank-goals/xplosionexpert.png" alt="XPlosion Expert" width="50" height="50"> | Gain 10,000,000 XP | <img src="/bot-features/dank-goals/badges/xplosionexpertplatinum.png" alt="XPlosion Expert Platinum" width="50" height="50"> | Gain 15,000,000 XP |
 | P2W Player | <img src="/bot-features/dank-goals/p2wplayer.png" alt="P2W Player" width="50" height="50"> | Become a $5 supporter | ![p2wplayerplatinum.png](/bot-features/dank-goals/badges/p2wplayerplatinum.png) | Become a $20 supporter |
   
   </center>
