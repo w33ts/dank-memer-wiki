@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2023-11-24T09:47:23.909Z
+date: 2024-01-02T01:02:10.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -28,11 +28,13 @@ In 2023, the fishing command in Dank Memer was complete redesigned and expanded 
 
 Fising Tutorials:
 - <a href="https://dankmemer.lol/tutorial/complete-fishing-tutorial" target="_blank">Complete Fishing Tutorial</a> 
-- <a href="https://www.youtube.com/watch?v=c3fFkl6IHyI&ab_channel=DankMemerDiscordBot" target="_blank">Video Fishing Tutorial</a> 
+- <a href="https://www.youtube.com/watch?v=c3fFkl6IHyI&ab_channel=DankMemerDiscordBot" target="_blank">Complete Video Fishing Tutorial</a> 
+- <a href="https://dankmemer.lol/tutorial/fish-leaderboards" target="_blank">Fishing Leaderboard Tutorial</a> 
 - <a href="https://dankmemer.lol/tutorial/legacy-items-fishing" target="_blank">Legacy Fish Items vs New Fishing Items</a> 
 - <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">Managing Buckets and Creatures Tutorial</a> 
 - <a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">NPC Tutorial</a> 
 - <a href="https://dankmemer.lol/tutorial/random-timed-fishing-events" target="_blank">Random Fishing Events</a> 
+- <a href="https://dankmemer.lol/tutorial/fish-season-pass" target="_blank">Season Pass Tutorial</a> 
 - <a href="https://dankmemer.lol/tutorial/fishing-seasonal-events-faq" target="_blank">Seasonal Fishing Events</a> 
 
 
@@ -47,7 +49,7 @@ The basic command to get started with fishing is /`fish catch`. You can use this
 
 The <a href="/Items/Fishing#Tools" target="_blank">tools</a>, <a href="/Items/Fishing#Baits" target="_blank">baits</a>, <a href="/Items/Fishing#Buckets" target="_blank">buckets</a>, and <a href="/Items/Fishing/Creatures" target="_blank">creatures</a> you'll use and find while fishing are not like other items in Dank Memer. They won't enter your normal Dank `/inventory`, and instead are exclusively used within the fish commands. Visit <a href="/Items/Fishing" target="_blank">the fishing item</a> page to see a complete list of fishing-related items and creatures.
 
-Each tool and bait you use has a limited number of uses, but you can always use your bare hands to fish. Bare hands cannot catch items or bosses, though, unless you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Zen Hands skill</a> .
+Each tool and bait you use has a limited number of uses, but you can always use your bare hands to fish. Bare hands cannot catch items or bosses, unless you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Zen Hands skill</a> .
 
 Once you begin fishing, you'll see one or more shadows in the water. 
 
@@ -59,7 +61,7 @@ Once you begin fishing, you'll see one or more shadows in the water.
   
 If there is only one shadow, it is guaranteed to be an item or creature. If you see more than one shadow, however, it can be an item, a creature, or a mine. If you look at the image above, you can see the shadow on the right has spiked points coming out of it and it has a slightly clearer shape. This tells you it is the mine and you want to select the other shadow to catch.
 
-Move your tool to the shadow you want and click catch to pull something from the water. While fishing, you have one minute to fish before the catch will get away. Avoid running into or going over a mine, as if you do it will end the fishing game and damage any tools you are using.
+Move your tool to the shadow you want and click catch to pull something from the water. While fishing, you have one minute to fish before the catch will get away. Avoid running into or going over a mine, as it will end the fishing game and damage any tools you are using.
 
 If you want to shorten the time between fishing, decrease the number of mines, or improve the shape of the shadows so you can see what you are catching, there are skills you can upgrade to help in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a>.
 
@@ -74,14 +76,18 @@ To complete a location page in `/fish guide`, you must catch one of each creatur
 
 Traveling to a different location takes 60 minutes by default, but you can speed up the process by using gems to fast travel.
 
+
+
 | Location | Creatures |  NPCs |
 |:--------:|:------:|:------:|
-|Camp Guillermo  <img src="/bot-features/fishing/campguillermo.avif" alt="Camp Guillermo" width="400"> <br> Freshwater {: #CampGuillermo} | Bass, Koi, Crappie, Guppy, Minnow, Bluegill, Goldfish <br> BOSS: Aspidochelone | Margaux, Chet, Zara |
-|Crypt Keeper's Pond <br> <img src="/bot-features/fishing/cryptkeeperspond.avif" alt="Crypt Keeper's Pond" width="400"> <br>  Freshwater, <br> Exclusive Halloween Location {: #CryptKeepersPond}  | Ghost Fish, Zombie Fish, Spectral Fish, Electric Eel, Skeleton Fish, Piranha <br> BOSS: Gorgolox | None |
-|Mystic Pond  <br> <img src="/bot-features/fishing/mysticpond.avif" alt="Mystic Pond" width="400"> <br> Freshwater, <br> Only available Tuesday and Saturday {: #MysticPond} | Spectral Fish, Guppy, Koi, Flying Fish, Goldfish, Crayfish <br> BOSS: Vodyanoy | ???? ???? (Mysterious Figure)|
-|Underwater Sanctuary  <br> <img src="/bot-features/fishing/underwatersanctuary.avif" alt="Underwater Sanctuary" width="400"> <br> Saltwater {: #UnderwaterSanctuary}  | Sardine, Cod, Marlin, Barracuda, Giant Squid, Tuna, Mahi Mahi, Swordfish, Salmon <br> BOSS: Leviathan | Zara, Chet, Samuel |
-|Vertigo Beach <br> <img src="/bot-features/fishing/vertigobeach.png" alt="Vertigo Beach" width="400"> <br> Saltwater {: #VertigoBeach} | Shrimp, Butterfly Fish, Pufferfish, Starfish, Hammerhead Shark, Sardine, Cod, Jellyfish, Flounder <br> BOSS: Kraken, Charybdis | Margaux, Chad, Zara |
-|Wily River <br> <img src="/bot-features/fishing/wilyriver.avif" alt="Wily River" width="400"> <br> Freshwater {: #WilyRiver} | Rainbow Bass, Electric Eel, Catfish, Crayfish, Red Arowana, Piranha, Golden Dorado, Salmon <br> BOSS: Jormungandr | Chad, Samuel, Zara |
+| <a href="/Items/Fishing/Creatures#CampGuillermo" target="_blank">Camp Guillermo</a> <br> <img src="/bot-features/fishing/campguillermo.avif" alt="Camp Guillermo" width="400"> <br> Freshwater {: #CampGuillermo} | Bass, Koi, Crappie, Guppy, Minnow, Bluegill, Goldfish, Snapping Turtle, Bullfrog <br> **BOSS:** Aspidochelone, Ahuitzotl | Margaux, Chet, Zara |
+| <a href="/Items/Fishing/Creatures#CryptKeepersPond" target="_blank">Crypt Keeper's Pond</a> <br> <img src="/bot-features/fishing/cryptkeeperspond.avif" alt="Crypt Keeper's Pond" width="400"> <br>  Freshwater, <br> Exclusive Halloween Location {: #CryptKeepersPond}  | Ghost Fish, Zombie Fish, Spectral Fish, Electric Eel, Skeleton Fish, Piranha <br> **BOSS:** Gorgolox | Thrym |
+|  <a href="/Items/Fishing/Creatures#IceCaves" target="_blank">Ice Caves</a> <br> <img src="/bot-features/fishing/icecaves.avif" alt="Ice Caves" width="400"> <br>  Saltwater, <br> Exclusive Winter Location {: #IceCaves}  | Beluga Whale, Jellyfish, Ocean Sunfish, Coelacanth, Narwhal, Arctic Char, Sturgeon, Vampire Squid, Leafy Sea Dragon <br> **BOSS:** Pliosaur | None |
+| <a href="/Items/Fishing/Creatures#MysticPond" target="_blank">Mystic Pond</a> <br> <img src="/bot-features/fishing/mysticpond.avif" alt="Mystic Pond" width="400"> <br> Freshwater, <br> Only available Tuesday and Saturday {: #MysticPond} | Spectral Fish, Guppy, Koi, Flying Fish, Goldfish, Crayfish, Box Turtle <br> **BOSS:** Vodyanoy | ???? ???? (Mysterious Figure)|
+| <a href="/Items/Fishing/Creatures#SnowyMountain" target="_blank">Snowy Mountain</a> <br> <img src="/bot-features/fishing/snowymountain.avif" alt="Mystic Pond" width="400"> <br> Freshwater, <br> Exclusive Winter Location {: #SnowyMountain} | Spectral Fish, Guppy, Flying Fish, Arctic Char, Nelma, Arapaima, Bluegill <br> **BOSS:** Issrakr | Thrym |
+| <a href="/Items/Fishing/Creatures#UnderwaterSanctuary" target="_blank">Underwater Sanctuary</a> <br> <img src="/bot-features/fishing/underwatersanctuary.avif" alt="Underwater Sanctuary" width="400"> <br> Saltwater {: #UnderwaterSanctuary}  | Sardine, Cod, Marlin, Barracuda, Coelacanth, Giant Squid, Tuna, Mahi Mahi, Swordfish, Salmon, Vampire Squid <br> **BOSS:** Leviathan, Kraken | Zara, Chet, Samuel, Meridian |
+| <a href="/Items/Fishing/Creatures#VertigoBeach" target="_blank">Vertigo Beach</a> <br> <img src="/bot-features/fishing/vertigobeach.png" alt="Vertigo Beach" width="400"> <br> Saltwater {: #VertigoBeach} | Shrimp, Butterfly Fish, Pufferfish, Starfish, Hammerhead Shark, Ocean Sunfish, Sardine, Cod, Jellyfish, Flounder, Leafy Sea Dragon <br> **BOSS:** Scylla, Charybdis | Margaux, Chad, Zara, Meridian |
+| <a href="/Items/Fishing/Creatures#WilyRiver" target="_blank">Wily River</a> <br> <img src="/bot-features/fishing/wilyriver.avif" alt="Wily River" width="400"> <br> Freshwater {: #WilyRiver} | Rainbow Bass, Electric Eel, Catfish, Crayfish, Arapaima, Red Arowana, Piranha, Golden Dorado, Salmon, Sturgeon <br> **BOSS:** Jormungandr, Bunyip | Chad, Samuel, Zara |
 
 <br>
 
@@ -96,7 +102,9 @@ The more they like you, the more they'll visit and the better rewards they'll of
 | Chad "The Giga" Erningway | <img src="/bot-features/fishing/npc_chad_erningway.png" alt="Chad Erningway" width="200">| Likes working out, fishing, and is surprisingly nice. Doesn't like bullies. | Vertigo Beach, Wily River |
 | Chet "Crypto Bro" Sterling | <img src="/bot-features/fishing/npc_chet_sterling.png" alt="Chet Sterling" width="200"> | Likes money, making money, and hearing himself talk. | Camp Guillermo, Underwater Sanctuary |
 | Marguax "Robbie" Handler | <img src="/bot-features/fishing/npc_margaux_handler.avif" alt="Margaux Handler" width="200">| Is new to real life, and still learning about the world. Likes making friends and trying new things. | Camp Guillermo, Vertigo Beach |
+| Meridian "Mermaid" | <img src="/bot-features/fishing/npc_meridian.avif" alt="Mermaid Meridian" width="200">| A defender of the ocean and extremely curious about humans. | Underwater Sanctuary, Vertigo Beach |
 | Samuel "Tired Father" Booker | <img src="/bot-features/fishing/npc_samuel_booker.png" alt="Samuel Booker" width="200"> | Loves his family, woodworking, and meeting new people. | Underwater Sanctuary, Wily River |
+| Thrym "Golden Leash"  | <img src="/bot-features/fishing/npc_thrym.avif" alt="Thrym the Wolf" width="200"> | A winter wolf who loves to rob and steal things. | Ice Caves, Snowy Mountain |
 | Zara "Fisherwoman" Grey | <img src="/bot-features/fishing/npc_zara_grey.png" alt="Zara Grey" width="200"> | Loves fishing, being outdoors, and helping people. | Camp Guillermo, Underwater Sanctuary, Vertigo Beach, Wily River |
 
 
@@ -111,9 +119,9 @@ The fishing guide book available in `/fish guide` is one of the most useful tool
 <img src="/items/fishing/guide/guide_freshwater.webp" alt="Bare Hand" width="400">
 </center>
 
-To complete the guidebook and earn the gold fishing badge, you must fill in all the missing information. Find every creature and every variant, unlock the complete time available for each creature, meet every NPC, and meet every NPC at each location. All shadows and question marks must be filled in before your guide will count as being completed.
+To complete the guidebook and earn the <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler badge</a>, you must fill in all the missing information. Find every creature and every variant, unlock the complete time available for each creature, meet every NPC, and meet every NPC at each location they visit. All shadows and question marks must be filled in before your guide will count as being completed.
 
-See more information about what each page of the guidebook shows <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">here. </a>
+See more information about what each page of the guidebook shows <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">here.</a>
 
 
 ## Fish Leaderboard {: #FishLeaderboards}
@@ -130,6 +138,8 @@ The scores on each leaderboard are not just the number of interactions you've ha
 For example, to top the location leaderboard, it takes into account the number of fish you've caught at that location, but the quality of the fish matters too, and the person who catches the largest fish of the day has a big advantage.
 
 For NPC leaderboards, the number of interactions you have with an NPC on that day does help, but also your overall reputation and how the NPC feels about you.
+
+You can read more about how fishing leaderboards work in the <a href="https://dankmemer.lol/tutorial/fish-leaderboards" target="_blank">leaderboard tutorial</a>.
 
 
 ## Fish Log {: #FishLog}
@@ -150,18 +160,23 @@ The `/fish season` command shows you the current season pass that is available f
   <img src="/bot-features/fishing/fishseason.png" alt="Fish leaderboard" width="300">
   </center>
 
-There are two possible reward tracks you can earn from: the free track on top and the premium track on the bottom. All users will receive the free rewards when they reach that tier, but only users who buy the premium season pass will receive the premium rewards. The fish season pass is available for a set amount of time, but if you purchase the premium pass you will continue to have access for as long as you need to earn all of the rewards. 
+There are two possible reward tracks you can earn from: the free track on top and the premium track on the bottom. All users will receive the free rewards when they reach that tier, but only users who buy the premium season pass will receive the premium rewards. 
+
+The fish season pass is available for a set amount of time, but if you purchase the premium pass, you will continue to have access for as long as you need to earn all of the rewards. 
 
 <br>
 <center>
   <img src="/bot-features/fishing/fishseason_upgrademenu.png" alt="Fish leaderboard" width="400">
   </center>
 
-Once the season ends, a new pass will be released will all new rewards to aim for. There is also a premium+ version of the season pass you can purchase that will allow you to move up 25 levels instantly, so you can unlock 25 tiers of rewards all at once. You can upgrade the season pass at any time, and if you sign up for the regular premium pass and decide you want to move to the + version, you can do that as well.
+Once the season ends, a new pass will be released will all new rewards to aim for. There is also a premium+ version of the season pass you can purchase that will allow you to move up 25 levels instantly, so you can unlock 25 tiers of rewards all at once. You can upgrade the season pass at any time while the season is available, and if you sign up for the regular premium pass and decide you want to move to the + version, you can do that as well.
 
-The current fish season pass is titled, "Season of the Haunted Waters" and you can see the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">full rewards available here</a>.
+The current fish season pass is titled, "Season of the Frozen Heart" and you can see the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">full rewards available here</a>.
 
-Event fish, variants, and bosses give more XP, so if you are trying to level up quickly on a season pass, go after those creatures and use nets or dynamite to catch more fish at once.
+Event fish, variants, and bosses give more XP, so if you are trying to level up quickly on a season pass, go after those creatures and use nets or dynamite to catch more fish at once. You can also use <a href="/Items/Fishing#XPBait" target="_blank">XP Bait</a> to earn more XP per catch.
+
+**Previous Season Passes:**
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">The Season of the Haunted Waters</a>
 
 ## Fish Settings {: #FishSettings}
 The `/fish settings` command allows you to change your settings for fishing so you can control how bait and tools are managed.
@@ -174,7 +189,7 @@ The `/fish settings` command allows you to change your settings for fishing so y
 If you have the re-equip bait or re-equip tools settings enabled, it will automatically grab a new tool or bait when one breaks so you don't have to go back to the equipment menu.
 
 ## Fish Shop {: #FishShop}
-You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like tools, buckets, and baits, as well as fish tank decorations and some foods that can be consumed to give you boosts outside of fishing.
+You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like <a href="/Items/Fishing#Tools" target="_blank">tools</a>, <a href="/Items/Fishing#Buckets" target="_blank">buckets</a>, and <a href="/Items/Fishing#Baits" target="_blank">baits</a>, as well as <a href="/Items/Fishing#Decorations" target="_blank">fish tank decorations</a> and some foods that can be consumed to give you boosts outside of fishing.
 
 <br>
 <center>
@@ -197,7 +212,7 @@ Skill Points can be used with the `/fish skills` command. There are a variety of
 
 <br>
 <center>
-<img src="/bot-features/fishing/fishskills_main.png" alt="Fish Skills" width="300">
+<img src="/bot-features/fishing/fishskills_main2.png" alt="Fish Skills" width="300">
 </center>
 
 Other skills help improve your tools, shorten cooldowns, and increase NPC interactions. There is even a skill that unlocks an idle fishing machine. Check out a full list of the available <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills and skill challenges here</a>. 
@@ -214,9 +229,9 @@ The idle fishing machine is a machine that will fish for you while you are away 
 
 Once unlocked, the idle machine will automatically fish for you every 30 minutes and attempt to catch a fish. It is not guaranteed it will catch something, though, and it will continue to operate every 30 minutes until the storage space is full. When it is, you will be notified and given a grace period until the next catch to keep it going before it stops.
 
-You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. The machine will fish at all available locations for you, so it can catch a variety of creatures but cannot capture bosses.
+You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. The machine will fish at all available locations for you, so it can catch a variety of creatures but cannot capture bosses unless you upgrade the AFK Skill under the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">science skills</a> category.
 
-Upgrade the AFK Skill under the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">science skills</a> category to increase the function of the idle machine.
+Upgrading can also allow you to decrease the cooldown, increase storage space, equip baits, and target a location.
 
 ## Fish Tank {: #FishTank}
 If you want to save a few of your favorite fish, you can put them in your fish tank. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
@@ -226,7 +241,9 @@ If you want to save a few of your favorite fish, you can put them in your fish t
   <img src="/bot-features/fishing/fish_tank.webp" alt="Fish Tank" width="400">
   </center>
 
-You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. Your tank can hold a limited number of fish and decorations, but if you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Aquarium Keeper skill</a>, you can increase what the tank can hold.
+You can own up to 5 fish tanks, and each tank can hold 5 fish max. Purchase extra tanks from the `/fish shop` command. 
+
+You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. To increase the number of fish you can hold to the max amount or enable the use of decorations, upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Aquarium Keeper skill</a>.
 
 You can see a full list of the possible decorations so far <a href="/Items/Fishing#Decorations" target="_blank">here. </a>
 
