@@ -2,7 +2,7 @@
 title: Crafting
 description: Learn about the /craft command and see a list of currenty recipes for what is available to craft.
 published: true
-date: 2023-11-24T09:57:06.016Z
+date: 2024-01-02T05:37:53.207Z
 tags: craft, bean mp3, adventure voucher, pepe medal, coin voucher, candy corn, life saver, bank note, lifesaver, crafting, duct tape
 editor: markdown
 dateCreated: 2023-10-31T21:50:56.224Z
@@ -68,8 +68,8 @@ Some items are only available to craft during certain parts of the year. It is n
 | Item Name | Availability | Components | Crafting Time | Yields |
 | :----:| :----:| :----:| :----:| :----:|
 |<a href="/Items/Power-ups#CandyCorn" target="_blank">Candy Corn</a>| Around Halloween | 10x <a href="/Items/Power-ups#Candy" target="_blank">Candy</a>, 5x <a href="/Items/Sellables#Corncob" target="_blank">Corncob</a>, 1x <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 45 Minutes | 4|
-|<a href="/Items/Collectables#ChristmasTree" target="_blank">Christmas Tree</a>| Last Available Christmas 2021 | 3x <a href="/Items/Tools#CandyCane" target="_blank">Candy Cane</a>, 3x <a href="/Items/Collectables#Ornament" target="_blank">Ornament</a>, 2x <a href="/Items/Sellables#LiterallyaTree" target="_blank">Literally a Tree</a>, 1x <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | N/A | N/A |
-|<a href="/Items/Power-ups#CandyCorn" target="_blank">Snowball</a>| Around Christmas | 3x <a href="/Items/Collectables#Snowflake" target="_blank">Snowflake</a> | 10 Minutes | 2 |
+|<a href="/Items/Collectables#ChristmasTree" target="_blank">Christmas Tree</a>| Around Christmas | 4x <a href="/Items/Collectables#Ornament" target="_blank">Ornament</a>, 2x <a href="/Items/Tools#CandyCane" target="_blank">Candy Cane</a>, 1x <a href="/Items/Sellables#LiterallyaTree" target="_blank">Literally a Tree</a>, 1x <a href="/Items/Tools#DuctTape" target="_blank">Duct Tape</a> | 20 Minutes | 1 |
+|<a href="/Items/Power-ups#CandyCorn" target="_blank">Snowball</a>| Last Available Christmas 2022 | 3x <a href="/Items/Collectables#Snowflake" target="_blank">Snowflake</a> | 10 Minutes | 2 |
 
 
 
