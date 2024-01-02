@@ -2,7 +2,7 @@
 title: Advancements
 description: Learn about the advancements commands, including levels, voting, Omega, prestige, and upgrades.
 published: true
-date: 2023-10-31T02:11:23.210Z
+date: 2024-01-02T05:04:42.992Z
 tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T18:12:11.087Z
@@ -28,14 +28,14 @@ These are the **current** level rewards:
 <p><img src="/bot-features/advancements/advancementslevels3new.png" alt="level rewards page 3" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels4new.png" alt="level rewards page 4" width="300" height="375"></p>
 <p><img src="/bot-features/advancements/advancementslevels5new.png" alt="level rewards page 5" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels6new.png" alt="level rewards page 6" width="300" height="375"></p>
 <p><img src="/bot-features/advancements/advancementslevels7new.png" alt="level rewards page 7" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels8new.png" alt="level rewards page 8" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels9new.png" alt="level rewards page 9" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels10new.png" alt="level rewards page 10" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels11new.png" alt="level rewards page 11" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels12new.png" alt="level rewards page 12" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/advancementslevels9new.png" alt="level rewards page 9" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_10_new.png" alt="level rewards page 10" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/advancementslevels11new.png" alt="level rewards page 11" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_12_new.png" alt="level rewards page 12" width="300" height="375"></p>
 <p><img src="/bot-features/advancements/advancementslevels13new.png" alt="level rewards page 13" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels14new.png" alt="level rewards page 14" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels15new.png" alt="level rewards page 15" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels16new.png" alt="level rewards page 16" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels17new.png" alt="level rewards page 17" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels18new.png" alt="level rewards page 18" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels19new.png" alt="level rewards page 19" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels20new.png" alt="level rewards page 20" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels21new.png" alt="level rewards page 21" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels22new.png" alt="level rewards page 22" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels23new.png" alt="level rewards page 23" width="300"></p>
+<p><img src="/bot-features/advancements/advancementslevels_15_new.png" alt="level rewards page 15" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_16_new.png" alt="level rewards page 16" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/advancementslevels17new.png" alt="level rewards page 17" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_18_new.png" alt="level rewards page 18" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/advancementslevels19new.png" alt="level rewards page 19" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_20_new.png" alt="level rewards page 20" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/advancementslevels_21_new.png" alt="level rewards page 21" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_22_new.png" alt="level rewards page 22" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/advancementslevels_23_new.png" alt="level rewards page 23" width="300"></p>
 </center>
 <br>
 
@@ -57,7 +57,7 @@ Currently Available in the Omega Shop:
 | Purchase the "Omega chad" Title for 50,000,000 | 10 | 1 |
 | Purchase the "Omega Virgin" Title for 10,000,000 | 1 | 1 |
 | Reset all your bundles for 20,000,000 so you can redo bundles, this only works once per account | 1 | 1 |
-| Purchase a +10% Luck Multiplier for 1 week for 25,000,000 | 1 | 1 |
+| Purchase a +10% Luck Multiplier for 1 week for 25,000,000 | 5 | 1 |
 | Purchase 9 Lotus seeds for 75,000,000 | 3 | 1 |
 
 <br>
@@ -68,7 +68,7 @@ When you "Go Omega," you purchase the next omega level and upgrade your stats. W
 The reward for going Omega include:
 - An increase in your Max Bank Space (1 billion per Omega level)
 - An Omega badge on the top of your profile
-- An XP multiplier (1 +1.12xOmega Level, capped at +5x max)
+- An XP multiplier (1 +1.13xOmega Level, capped at +5x max)
 
 The requirements for Omega are:
 - 150m for Omega level 1, + 150m increase per Omega level
@@ -92,7 +92,7 @@ You can prestige once every 6 hours with the `/advancements prestige` command. P
 
 When you prestige, you will lose all of your levels and the money from your wallet and bank. As a reward for prestiging, you receive:
 - A coin multiplier for each prestige (+5% per prestige until 100% total)
-- An XP multiplier for each prestige (1 + 1.015xPrestige Level, capped at 2x max)
+- An XP multiplier for each prestige (1 + 1.012xPrestige Level, capped at 2x max)
 - An increase in the rate you earn bank space
 - A prestige-level icon on your profile
 - One or more prestige coins, which give you a temporary multiplier boost
@@ -129,10 +129,10 @@ Vote levels add up throughout the month, and the higher your level, the more rew
 
 These are the **current** vote-level rewards:
 <center>
-<p><img src="/bot-features/advancements/advancements_vote_page_1.png" alt="advancements_vote_page_1" width="275" height="400"> <img src="/bot-features/advancements/advancements_vote_page_2.png" alt="advancements_vote_page_2" width="275" height="400"></p>
+<p><img src="/bot-features/advancements/votelevels_pg1.png" alt="advancements_vote_page_1" width="275" height="400"> <img src="/bot-features/advancements/votelevels_pg2.png" alt="advancements_vote_page_2" width="275" height="400"></p>
 
-<p><img src="/bot-features/advancements/advancements_vote_page_4.png" alt="advancements_vote_page_4" width="275" height="400"> <img src="/bot-features/advancements/advancements_vote_page_4.png" alt="advancements_vote_page_4" width="275" height="400"></p>
-<p><img src="/bot-features/advancements/advancements_vote_page_5.png" alt="advancements_vote_page_5" width="275" height="400"></p>
+<p><img src="/bot-features/advancements/votelevels_pg3.png" alt="advancements_vote_page_4" width="275" height="400"> <img src="/bot-features/advancements/votelevels_pg4.png" alt="advancements_vote_page_4" width="275" height="400"></p>
+<p><img src="/bot-features/advancements/votelevels_pg5.png" alt="advancements_vote_page_5" width="275" height="400"></p>
 </center>
 <br>
 
