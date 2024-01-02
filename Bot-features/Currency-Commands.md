@@ -2,7 +2,7 @@
 title: Currency Commands
 description: Information about Dank Memer currency commands.
 published: true
-date: 2023-11-24T09:51:58.343Z
+date: 2024-01-02T04:46:10.947Z
 tags: commands, currency commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T15:28:48.532Z
@@ -91,7 +91,7 @@ There are tons of commands to <a href="/Bot-features/All-commands" target="_blan
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Crime" target="_blank">Crime</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">Item</a></td>
     <td><a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a></td>
-  <td></td>
+  <td><a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a></td>
 <tr align=center>
     <td><a href="/Bot-features/Currency-Commands/Basic-Commands#Currencylog" target="_blank">Currencylog</a></td>
   	<td><a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">Leaderboard</a></td>
