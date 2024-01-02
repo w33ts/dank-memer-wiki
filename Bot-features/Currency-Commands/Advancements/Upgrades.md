@@ -2,7 +2,7 @@
 title: Advancements Upgrades
 description: Learn about possible upgrades that can be purchased through the advancements upgrades command, including monthly, advanced profile customization, a refresh button, auto lottery,  user leaderboards, net worth sort, and more pets and flows.
 published: true
-date: 2024-01-02T05:10:14.621Z
+date: 2024-01-02T05:10:42.468Z
 tags: upgrades, profile customization, monthly, net worth sort, refresh button, autolottery, auto lottery, flows, pets, more pets, leaderboards, user leaderboards, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T20:51:36.240Z
@@ -114,6 +114,7 @@ The stats are listed in order from the user's highest position to the lowest.
 - Commands
 - <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">Daily</a> Streak
 - Deaths
+- Fight Reputation
 - Last <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Alert" target="_blank">Alert</a> Position
 - <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Level</a>
 - Net Worth
