@@ -2,7 +2,7 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2024-01-02T04:27:18.708Z
+date: 2024-01-02T04:39:41.289Z
 tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
@@ -75,6 +75,7 @@ You can read more about other premium benefits <a href="/About-Dank-Memer/Premiu
 
 ## Block {: #Block}
 You can block people on the bot by using the `/block` command. This stops others from interacting with you in various ways. 
+
 If you blocked a user, they can no longer:
 - Send you messages via the <a href="/Items/Tools#CellPhone" target="_blank">Cell Phone</a> or a <a href="/Items/Consumables#Postcard" target="_blank">Postcard</a>;
 - Try to use an engagement ring on you to start a <a href="/Bot-features/Currency-Commands/Marriage" target="_blank">marriage</a>;
@@ -111,19 +112,21 @@ The `/flow` command can be used to manage and activate your flows. You can use f
 
 Read the in-depth guide to flows <a href="https://dankmemer.lol/tutorial/flows" target="_blank">here</a> to learn how to record a flow, import a flow, and more.
 
+<br>
 <center>
 <img src="/bot-features/grinding/flows2.png" alt="Flow list.">
 </center>
 
-### Editing Flows
+#### Editing Flows
 It is possible to edit **your own created** flows with te "Edit this Flow" button after using `/flow list`. 
 
 - If someone shared a flow with you, then you can **not** edit that flow, only the original creator can.
 - If the owner of a flow edits it, the flow gets changed for **everyone** who it has been shared to.
 
 #### Flow Conditions
-While editing flows, you can add certain conditions for each command in that flow.
-The conditions for these commands **only** work if you click the "Run" button while grinding, not if you skip a flow command.
+While editing flows, you can add certain conditions for each command in that flow. The conditions tell the flow when you want to use a command, for example, if you only want a command to run when it has 0 cooldown or when you have a certain number of coins in your wallet.
+
+While grinding, the conditions for these commands **only** work if you click the "Run" button, not if you skip to the command in your flow.
 
 The command you're putting conditions for will have a little arrow next to it like shown below.
 
@@ -133,9 +136,7 @@ The command you're putting conditions for will have a little arrow next to it li
 
 </center>
 
-You can use the arrows next to the remove button to change which command in your flow you'd add a condition to.
-
-A condition is built out of 3 types of attributes and will always look like `(if Requirement + Operator + Number)`, for example: `(if pocket < 1,000,000)`.
+A condition is built out of 3 types of attributes and will always look like `(if Requirement + Operator + Number)`, for example: `(if pocket < 1,000,000)` means you only want a command to run if your pocket is less than 1,000,000 coins.
 
 <center> 
   
@@ -181,7 +182,6 @@ When using the `/serversettings` command, there are several options you can mana
 |:------:|:----:|
 | Bank Robbing | Enable or disable bankrobbing in your server. <br> NOTE: **Only** the owner of the server can change this setting. |
 | Events Manager | Add/edit a role through a role select menu that will be in charge of managing <a href="/Bot-features/Currency-Commands/Serverevents-and-Giveaways#Serverevents" target="_blank">/serverevents</a>  in your server. <br> NOTE: **Only** the owner of the server can change this setting. |
-| Random Events | Enable or disable random events in your server. |
 | Rob Protection | Enable or disable the rob protection in your server, which makes it that members who joined within the last day can not rob anyone for 24 hours. |
 | Robbing | Enable or disable robbing in your server. <br> NOTE: **Only** the owner of the server can change this setting. |
 
@@ -196,14 +196,16 @@ The following are the settings that can be changed:
 | Compact Mode | Enable or disable compact mode. Compact mode makes your <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">inventory</a> and the <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">/shop view</a> page smaller, so they fit more info in less space.|
 | Confirmation Number | If you have <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Warning" target="_blank">warning confirmations</a> enabled, the number you put here will be the value for when you'll get a confirmation message before selling and buying items or sharing things with friends. The value can be set between 1 and 2,000,000,000. | 
 | <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Customization" target="_blank">Customize Your Profile</a> | Edit your profile and personalize it to your own liking! You can buy advanced profile customization in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>. | 
-| DM <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Fight" target="_blank">Fight</a> Logs {: #DMLogs} | Enable or disable whether you receive a DM of fight logs after a fight. |
 | Ephemeral Notifications | Ephemeral messages are pop-up notifications only you can see that you can receive when running commands. Use this setting to customize which type of ephemeral messages you'd like to receive. |
 | Expose IDs | When you enable this you'll be able to see User ID's in leaderboards, fighting ranking, global/server giveaways and market accept notifications. |
 | Hide Public | Enable or disable yourself being shown on <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">leaderboards</a>. Having this set to true hides your username from the leaderboards, so it shows you only as "Hidden User." |
 | <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Level Up</a> Notifications | Enable, disable, or change your level-up notifications. Notifications are sent to DMs, and you can customize what type of notifications you want to see, such as only one every minute, every level, or only for rewards.| 
+  | Mobile | Changes your view of some commands to a more mobile-friendly appearance | 
 | <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#NetWorthSort" target="_blank">Net Worth Sort</a> | Once you purchase the <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#NetWorthSort" target="_blank">Net Worth Sort</a> upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you can use this to disable it and put your inventory back into alphabetical order. | 
 | Passive | Enable or disable passive mode. When passive mode is enabled, you cannot be <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">robbed</a> or <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">bankrobbed</a> or do them on others, use items on others or have them used on you, and play <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">/wager</a> games. Passive expires if you don't run commands for 5 days. |  
 | Recurring Income Reminders | Enable or disable whether or not you'll get a notification about being able to run <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">/daily</a>, <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">/weekly</a>, or <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">/monthly</a> again. Notifications come based on when you last used the commands. |
+  | Texts | Enable or disable whether you want people to be able to text you using the cell phone item |
+  | Vote Reminders | Enable or disable whether you want DM reminders to vote |
 | Warning Confirmations {: #Warning} | Enable or disable whether or not you'll get a confirmation warning before sending a large number of coins or items or making an expensive purchase. |
 
 <br>
