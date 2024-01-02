@@ -2,7 +2,7 @@
 title: All commands
 description: 
 published: true
-date: 2024-01-02T04:13:49.407Z
+date: 2024-01-02T04:43:24.730Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T22:20:13.396Z
@@ -129,32 +129,32 @@ dateCreated: 2023-04-30T22:20:13.396Z
 <tr align="center">
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Alert" target="_blank">Alert</a></td>
   	<td><a href="/Resources/help" target="_blank">Help</a></td>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Recap" target="_blank">Recap</a></td>
+    <td><a href="/Resources/Reports-and-appeals" target="_blank">Report</a></td>
 </tr>
 <tr align=center>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Audit" target="_blank">Audit</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a></td>
-    <td><a href="/Resources/Reports-and-appeals" target="_blank">Report</a></td>
-</tr>
-<tr align=center>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a></td>
-  	<td><a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a></td>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#ServerSettings" target="_blank">Serversettings</a></td>
 </tr>
 <tr align=center>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Automeme" target="_blank">Automeme</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a></td>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">Settings</a></td>
 </tr>
 <tr align=center>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Block" target="_blank">Block</a></td>
   	<td><a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium</a></td>
     <td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a></td>
 </tr>
 <tr align=center>
-    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a></td>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Disableuse" target="_blank">Disableuse</a></td>
   	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a></td>
     <td><a href="/About-Dank-Memer/Vote" target="_blank">Vote</a></td>
+</tr>
+<tr align=center>
+    <td><a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">Flow</a></td>
+  	<td><a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Recap" target="_blank">Recap</a></td>
+    <td></td>
 </tr>
    </table>
  </div>
