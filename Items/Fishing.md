@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-01-01T23:33:22.453Z
+date: 2024-01-02T01:31:49.452Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -34,9 +34,9 @@ Each tool has slightly different abilities when fishing, and a different durabil
 | Tool | Image | Default Number of Uses |Usage Notes | Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 |Bare Hands {: #BareHands} | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |Cannot catch bosses, items, or use bait without upgrading the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Zen Hands skill</a>. Cannot catch multiple fish at a time.| All users have by default. |
-|Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 12 | Can catch one creature at a time, use bait, and catch bosses and items. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-|Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 15 | Can use bait and catch bosses, items, and multiple fish at a time.| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-| Net {: #Net} | <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 8 | Can use bait and catch items and multiple fish at a time. Can only catch some bosses (Pliosaur, Issrakr, and Bunyip). | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
+|Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 8 | Can catch one creature at a time, use bait, and catch bosses and items. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
+|Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 12 | Can use bait and catch bosses, items, and multiple fish at a time.| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
+| Net {: #Net} | <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 6 | Can use bait and catch items and multiple fish at a time. Can only catch some bosses (Pliosaur, Issrakr, and Bunyip). | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
 | Dynamite {: #Dynamite} | <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 3 | Can use bait and catch bosses and multiple fish at a time. No items.| <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters</a> |
 |Idle Fishing Machine {: #IdleMachine} | <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is upgraded.  | Can't catch bosses, use baits, or set a location unless you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">AFK Skill</a>.| Unlock by putting at least one point on the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">AFK skill</a> |
 
