@@ -2,14 +2,14 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2024-01-02T02:37:37.451Z
+date: 2024-01-02T05:29:18.489Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
 ---
 
 # Badges
-Badges can be unlocked by playing the bot and reaching certain milestones. Earning a badge can be a challenge, and they all are varying degrees of difficulty. If you want an extra challenge, each badge also has a platinum version that is even harder,
+Badges can be unlocked by playing the bot and reaching certain milestones. Earning a badge can be a challenge, and they all are varying degrees of difficulty. If you want an extra challenge, each badge also has a platinum version that is even harder.
 
 You can check your badge progress with the `/badges list` command. Within this command, you can filter the badge information by:
 - Gold Unlocked
@@ -41,7 +41,7 @@ If you have unlocked a platinum badge and you want to use the golden badge art i
 <br>
 
 ### <font color =b32d2d>Upkeep Required Badges</font> {: #Upkeep}
-There are currently two upkeep badges possible to unlock. Upkeep required badges mean the badge is unlocked as long as the requirement is true, but if you no longer meet the requirements, you lose the badge.
+There are currently four upkeep badges possible to unlock. Upkeep required badges mean the badge is unlocked as long as the requirement is true, but if you no longer meet the requirements, you lose the badge.
 
 <center>
 
@@ -103,6 +103,7 @@ The following badges were once available to be unlocked, but they are currently 
 | New Year, New Me | <img src="/bot-features/dank-goals/badges/2020badge_new.webp" alt="New Year, New Me" width="50" height="50"> | N/A | Year Badge |
 | Another Year, Same Me | <img src="/bot-features/dank-goals/anotheryearsameme.png" alt="Another Year, Same Me" width="50" height="50"> | N/A | Year Badge | 
 | Still Alive Somehow | <img src="/bot-features/dank-goals/stillalivesomehow.png" alt="Still Alive Somehow" width="50" height="50"> | N/A | Year Badge | 
+ | Free of 2023 | <img src="/bot-features/dank-goals/badges/2023badge.png" alt="2023 Badge" width="50" height="50"> | N/A | Year Badge | 
 | Slash Tester | <img src="/bot-features/dank-goals/slashtester.gif" alt="Slash Tester" width="50" height="50"> | N/A | Given for participating in the 2022 Public Beta Test |
 | Slippery Snake | <img src="/bot-features/dank-goals/slipperysnake.gif" alt="Slippery Snake" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slipperysnakeplatinum.png" alt="Slippery Snake Platinum" width="50" height="50"> | Old `/snakeEyes` Badge |
 | Dice Shake | <img src="/bot-features/dank-goals/diceshaker.png" alt="Dice Shaker" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/diceshakerplatinum.png" alt="Dice Shaker Platinum" width="50" height="50"> | Old `/gamble` Badge |
@@ -126,7 +127,7 @@ The following badges are only obtainable by helping the bot in one way or anothe
 |:------:|:----:|:------:|:------:|
 | Alpha Tester | <img src="/bot-features/dank-goals/alphatester.png" alt="Alpha Tester" width="50" height="50"> | N/A | Become an alpha tester and test bugs before they are live on the production bot |
 | Bot Moderator | <img src="/bot-features/dank-goals/botmoderator.png" alt="Bot Moderator" width="50" height="50"> | N/A | Only obtainable by being a Bot Admin for the bot |
-| Bug Hunter | <img src="/bot-features/dank-goals/bughunter-new.png" alt="Bug Hunter" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/bughunterplatinum.webp" alt="Bug Hunter" width="50" height="50">  | Only obtainable by reporting a legit exploit |
+| Bug Hunter | <img src="/bot-features/dank-goals/bughunter-new.png" alt="Bug Hunter" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/bughunterplatinum.webp" alt="Bug Hunter" width="50" height="50">  | Only obtainable by reporting a legit dupe or exploit |
 | Developer | <img src="/bot-features/dank-goals/developer.png" alt="Developer" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/developerplatinum.png" alt="Developer Platinum" width="50" height="50"> | Only obtainable by being a Bot Developer for the bot |
   
   </center>
