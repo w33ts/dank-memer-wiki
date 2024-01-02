@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2023-11-24T05:03:09.887Z
+date: 2024-01-02T05:50:16.298Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -26,12 +26,11 @@ Here you can find all the basic commands you will need to get the best out of th
 - [Withdraw](/Bot-features/Currency-Commands/Basic-Commands#Withdraw)
 
 ## Balance {: #Balance}
-The `/balance` command can be used to check not only your wallet & bank value, but also your inventory net, market net & total net.
-This command also shows you your global rank on the bot.
+The `/balance` command can be used to check not only your wallet & bank value, but also your inventory net, market net & total net. This command also shows you your global rank on the bot and how many <a href="Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">gems</a> you currently have to spend.
 
 <br>
 <center>
-<img src="/bot-features/basic-commands/balance2.png" alt="balance.">
+<img src="/bot-features/basic-commands/balance_new.png" alt="The balance command.">
 </center>
 
 There buttons at the bottom of the balance embed message can be used to withdraw and deposit money. When using one of these buttons, the max value possible is automatically entered for you by default.
@@ -93,11 +92,9 @@ With the `/Deposit` command, you can move coins from your wallet to your bank wh
 
 The deposit command allows quite a few numeral wordings, shown below.
 
+<br>
 <center>
-<p><img src="/bot-features/basic-commands/deposit_1k.png" alt="deposit_1k."> <img src="/bot-features/basic-commands/deposit_1m.png" alt="deposit_1m."></p> 
-<p><img src="/bot-features/basic-commands/deposit_1b.png" alt="deposit_1b.">  <img src="/bot-features/basic-commands/deposit_2000.png" alt="deposit_2000."></p>
-<p><img src="/bot-features/basic-commands/deposit_2000000.png" alt="deposit_20000.">  <img src="/bot-features/basic-commands/deposit_2000000000.png" alt="deposit_2000000000."></p>
-<p><img src="/bot-features/basic-commands/deposit_50_percent.png" alt="deposit_50%.">  <img src="/bot-features/basic-commands/deposit_max.png" alt="deposit_max."></p>
+<img src="/bot-features/basic-commands/deposit_1k.png" alt="deposit_1k."> <img src="/bot-features/basic-commands/deposit_1m.png" alt="deposit_1m."><img src="/bot-features/basic-commands/deposit_1b.png" alt="deposit_1b."> <img src="/bot-features/basic-commands/deposit_2000000.png" alt="deposit_20000."><img src="/bot-features/basic-commands/deposit_50_percent.png" alt="deposit_50%."><img src="/bot-features/basic-commands/deposit_max.png" alt="deposit_max.">
 </center>
 
 
@@ -125,13 +122,11 @@ At the bottom of each item embed, there are two or more buttons that can be used
 
 ## Notifications {: #Notifications}
 
-When playing the bot, you can receive DM notifications from the bot with updates on important events. These can include things like your pets bringing you an item or losing a level, a friend sharing something with you, a market ad being accepted, you level up, etc. Usually, anytime you receive something that you didn't run the command yourself to get, you can get a DM notification about it. 
+When playing the bot, you can receive DM notifications from the bot with updates on important events. These can include things like your pets bringing you an item or losing a level, a friend sharing something with you, a market ad being accepted, you leveled up, etc. Usually, anytime you receive something that you didn't run the command yourself to get, you can get a DM notification about it. 
 
 Most Dank Memer notifications are usually enabled by default, but you have to have at least one Discord server where you also allow people to DM you to receive them. Many users create a private server with Dank Memer to do this if they don't want to enable messaging in a public one.
 
-You can customize which notifications you receive or disable them completely in <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">/settings</a>. 
-
-You can also use `/notifications list` to check your 200 most recent notifications or `/notifications search` to search for something specific. For example, in the image below, the query is "coins".
+You can customize which notifications you receive or disable them completely in <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">/settings</a>. You can also use `/notifications list` to check your 200 most recent notifications or `/notifications search` to search for something specific. For example, in the image below, the query is "coins".
 
 <br>
 <center>
@@ -193,7 +188,7 @@ Items with a circular icon in the top left corner of their shop picture rotate w
 
 The gem shop is where you can spend gems that you can purchase from the <a href="https://dankmemer.lol/store" target="_blank">web store</a>. Usually, gems shop items are a bit rarer, and you can buy things like multipliers and boosts.
 
-Yuo can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multiplier</a> boosts which affect **every** player. There are also sometimes exclusive pets, skins, titles and much more.
+You can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multiplier</a> boosts which affect **every** player. There are also sometimes exclusive pets, skins, titles and much more.
 
 <br>
 <center>
@@ -234,7 +229,7 @@ The `/use` command allows you to use <a href="/Items/Lootboxes" target="_blank">
 <img src="/use_example.png" alt="use example.">
 </center>
 
-If you are opening lootboxes, <a href="/About-Dank-Memer/Premium-users" target="_blank">premium supporters</a> can reroll the loot from boxes for a chance to change what they received!
+If you are opening lootboxes, <a href="/About-Dank-Memer/Premium-users" target="_blank">premium supporters</a> can reroll the loot from boxes for a chance to change what they received! If you have gems, you can continue to reroll for an increasing amount of gems until you get what you want.
 
 A `Use Again` button will pop up after you used an item (besides lootboxes) under the embed or when an item expires through the DM Notifications.
 
@@ -254,7 +249,9 @@ Using this command will upkeep your:
 - <a href="/Bot-features/Currency-Commands/Pets" target="_blank">Pets</a> (You can't lose your pets)
 - <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a> (You can't get fired)
 
-Upkeeping these things means they stay protected, but they do not increase during the vacation either. Each stat you need to protect will cost you some money to upkeep, depending on the duration of your vacation.
+Upkeeping these things means they stay protected, but they do not increase during the vacation either. Each stat you need to protect will cost you some money to upkeep, depending on the duration of your vacation. 
+
+Since December 2023, vacation will also upkeep your passive mode, so you can't be robbed while you are away.
 
 <a href="/About-Dank-Memer/Premium-users" target="_blank">Premium users</a> receive a certain amount of free vacation days based on their tier.
 
