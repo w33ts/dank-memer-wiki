@@ -2,7 +2,7 @@
 title: Utility Commands
 description: Learn about basic utility commands available in Dank Memer, including invite, ping, reminder, resetmydata, and usage.
 published: true
-date: 2023-07-29T13:24:33.942Z
+date: 2024-01-02T04:25:43.087Z
 tags: invite, ping, reminder, resetmydata, usage, reminders, reminder every, reset my data, reset data, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T06:41:51.720Z
@@ -12,14 +12,13 @@ dateCreated: 2023-05-31T06:41:51.720Z
 Utility commands are useful tools for users. Some of the basic utility commands are things like the ability to set reminders for yourself, an invite command that gives you access to important Dank Memer links, and even a command to see your complete command usage stats. 
 
 - <a href="/Resources/help" target="_blank">Help</a>
-- [Invite](/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite)
-- <a href="/About-Dank-Memer/About-the-bot#Partners" target="_blank">Partners</a>
-- [Ping](/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping)
-- [Reminder](/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders)
+- <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Invite" target="_blank">Invite</a>
+- <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Ping" target="_blank">Ping</a>
+- <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Recap" target="_blank">Recap</a>
+- <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reminders" target="_blank">Reminder</a>
 - <a href="/Resources/Reports-and-appeals" target="_blank">Report</a>
-- [Resetmydata](/Bot-features/Utility-and-Config-Commands/Utility-Commands#Reset)
-- [Taxcalc](/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc)
-- [Usage](/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage)
+- <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Taxcalc" target="_blank">Taxcalc</a>
+- <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">Usage</a>
 - <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a>
 
 
@@ -40,6 +39,17 @@ The `/ping` command is used as a quick and easy way to see the bot's response ti
 ![ping.png](/bot-features/utility/ping.png)
   
 </center>
+
+## Recap {: #Recap}
+The `/recap` command was released in December 2023 as a way for users to see a recap of their year in Dank Memer. Once ran, it would take a while to process your data, and then you would receive a summary of your most used commands, usage, and various data about what you did on the bot over the past year.
+
+<center>
+  
+![recap.webp](/bot-features/utility/recap.webp)
+  
+</center>
+
+
 
 ## Reminders {: #Reminders}
 You can create reminders by using the `/reminder` command. There are two types of reminders you can create, a one-time reminder with `/reminder add` or a recurring reminder with `/reminder every`. When it is time for the reminder to be delivered, you will receive a DM from the bot about it.
@@ -80,18 +90,6 @@ There is also a limit to how many active reminders a user can have, depending on
 | Recurring reminders | Premium users | Unlimited |
 <br>
 
-## Resetmydata {: #Reset}
-The `/resetmydata` command is a way you can reset **all** of your progress on the bot so far. Using this command will reset all of your information, including <a href="/Bot-features/Currency-Commands/Badges" target="_blank">badges</a>, <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">achievements</a>, <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">levels</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">inventory</a>, bank, wallet, etc. The only information that will not be removed is some of your <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">usage</a> data, which is saved for the bot staff to use as needed.  
-
-Players can use this command when they want to quit the bot and wipe their data or if they want to have a fresh start. To reset your data, run the command and then press the button 3 times and enter RESET MY DATA in all capital letters in the text box given.
-
-This action cannot be undone, so only reset your data if you are sure you're ready to lose everything.
-
-<center>
-  
-![resetmydata.png](/bot-features/utility/resetmydata.png)  
-  
-</center>
 
 ## Taxcalc {: #Taxcalc}
 The `/taxcalc` command is used for players to be able to calculate the tax they would have to pay for fighting with others.
@@ -108,7 +106,7 @@ The `/usage` command shows your complete command usage. Each command in the usag
 
 <center>
   
-![usage.png](/bot-features/utility/usage.png)  
+![usage.png](/bot-features/utility/usage2.png)  
   
 </center>
 
