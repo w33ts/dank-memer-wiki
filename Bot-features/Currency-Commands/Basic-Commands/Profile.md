@@ -2,7 +2,7 @@
 title: Profile
 description: Learn about Dank Memer profiles, profile titles, the showcase, and the advanced profile customization upgrade.
 published: true
-date: 2023-07-29T12:03:27.684Z
+date: 2024-01-02T05:58:23.288Z
 tags: titles, title list, title set, profile, profile customization, advanced profile customization upgrade, basic commands, showcase, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T20:50:53.899Z
@@ -100,7 +100,7 @@ Without the advanced profile customization upgrade, you can only do basic change
 
 ### <font color =b32d2d>Advanced Profile Customization Upgrade</font> {: #AdvancedCustomization}
 
-The Advanced Profile Customization upgrade gives allows you to completely customize your profile so that only the information you want to show is available. It gives you more information you can display, and you can completely control what order the information is in.
+The Advanced Profile Customization upgrade allows you to completely customize your profile so that only the information you want to show is available. It gives you more information you can display, and you can completely control what order the information is in.
 
 After purchasing the upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, to edit your profile, go to <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">/settings</a> and choose the profile customization option from the drop-down menu. Click "Edit Profile" and a new version of your profile will appear with various buttons you can use to edit it. 
 
@@ -120,32 +120,32 @@ After clicking on the **Edit Profile** button, you'll notice two drop-down menus
     <th colspan=4>Profile Customization Sections</th>
     <tr>
       <td>Coins</td>
+      <td>Friends</td>
+      <td>Market</td>
+      <td>Streaks</td>
+    </tr>
+    <tr>
+      <td>Collector</td>
       <td>Gambling</td>
       <td>Marriage</td>
       <td>Vote levels</td>
     </tr>
     <tr>
-      <td>Collector</td>
+      <td>Commands</td>
       <td>Gems</td>
       <td>Pets</td>
       <td>Work</td>
     </tr>
     <tr>
-      <td>Commands</td>
+      <td>Donor</td>
       <td>Items</td>
       <td>Robbing</td>
       <td></td>
     </tr>
     <tr>
-      <td>Donor</td>
+      <td>Fights</td>
       <td>Level</td>
       <td>Showcase</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Friends</td>
-      <td>Market</td>
-      <td>Streaks</td>
       <td></td>
     </tr>  
   </table>
