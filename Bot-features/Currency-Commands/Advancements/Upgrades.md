@@ -2,7 +2,7 @@
 title: Advancements Upgrades
 description: Learn about possible upgrades that can be purchased through the advancements upgrades command, including monthly, advanced profile customization, a refresh button, auto lottery,  user leaderboards, net worth sort, and more pets and flows.
 published: true
-date: 2023-07-29T12:07:14.195Z
+date: 2024-01-02T05:10:14.621Z
 tags: upgrades, profile customization, monthly, net worth sort, refresh button, autolottery, auto lottery, flows, pets, more pets, leaderboards, user leaderboards, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T20:51:36.240Z
@@ -40,7 +40,7 @@ The Monthly coin upgrade in <a href="/Bot-features/Currency-Commands/Advancement
 <br>
 
 <center>
-<img src="/bot-features/upgrades/monthly.png" alt="monthly command.">
+<img src="/bot-features/upgrades/monthly2.png" alt="monthly command.">
 </center>
 
 ## More Flows {: #MoreFlows}
@@ -55,11 +55,12 @@ Without upgrading this, you can only keep one flow in your list. You can read mo
 </center>
 
 ## More Pets {: #MorePets}
-The More Pets upgrade is an upgrade for the <a href="/Bot-features/Currency-Commands/Pets" target="_blank">pets command</a>, and is (so far) the only recurring upgrade that you can buy multiple times. For each purchase of this upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you increase your maximum number of pets slots by one. 
+The More Pets upgrade is an upgrade for the <a href="/Bot-features/Currency-Commands/Pets" target="_blank">pets command</a>, and you can buy multiple times. For each purchase of this upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you increase your maximum number of pets slots by one. 
 
-The upgrade only increases the max *possible* slots, and your previous pets still have to be level 30 or prestiged in order for the slot to be open. 
+The upgrade only increases the max *possible* slots, and any baby pets you own will fill these slots if they weren't already in a possible slot. 
 
 Without the upgrade, the base amount of pet slots is 5 slots + 1 space only a baby pet can fill. With the upgarde, the total possible slots for all pets increase to 25.
+
 <br>
 <center>
 <img src="/bot-features/upgrades/more_pets.png" alt="more pets." width="340" height="500">
@@ -99,7 +100,7 @@ The refresh button is usually added to embeds that contain pagination, such as <
 ## User's Leaderboards {: #UserLeaderboards}
 The `/leaderboard user` command is only able to be checked after you purchase it as an upgrade from <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>.
 
-With the `/leaderboard user` command, you can check the server or global stats positions of a certain user (including yourself).
+With the `/leaderboard user` command, you can check the server or global stats positions of a certain user (including yourself). If a user is hidden, the `/leaderboard user` command won't work on them.
 
 The stats are listed in order from the user's highest position to the lowest.
 
