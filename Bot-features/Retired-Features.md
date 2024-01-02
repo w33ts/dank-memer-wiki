@@ -2,7 +2,7 @@
 title: Retired Features
 description: Learn about past features and commands that have been retired from Dank Memer, such as several image commands, gambling commands, the original /fish, and more.
 published: true
-date: 2023-11-24T09:46:13.026Z
+date: 2024-01-02T04:06:53.349Z
 tags: scratch, gambling removal, gambling commands, gambling, /fish, phallic objects, nsfw commands, snakeeyes, flashsales, sales
 editor: markdown
 dateCreated: 2023-11-24T06:50:58.215Z
@@ -10,8 +10,22 @@ dateCreated: 2023-11-24T06:50:58.215Z
 
 # Retired Dank Memer Features
 
-COMING SOON!
+MORE COMING SOON!
 
+## Reset My Data {: #Reset}
+Originally, the `/resetmydata` command completely wiped all of your data on the bot and bot banned you after you used it. 
+
+The updated `/resetmydata` command was a way you could reset **all** of your progress on the bot so far, and the only information that was not removed was some of your <a href="/Bot-features/Utility-and-Config-Commands/Utility-Commands#Usage" target="_blank">usage</a> data.  
+
+Players often used this command when they wanted to quit the bot and wipe their data or if they want to have a fresh start. To reset your data, you had to run the command and then press the button 3 times and enter RESET MY DATA in all capital letters in the text box given.
+
+This action could not be undone, and once you reset your data it was final.
+
+<center>
+  
+![resetmydata.png](/bot-features/utility/resetmydata.png)  
+  
+</center>
 
 ---
 
