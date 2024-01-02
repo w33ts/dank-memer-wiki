@@ -2,7 +2,7 @@
 title: Fishing Skills
 description: Learn about the different fishing skills you can upgrade to make fishing easier, faster, and more profitable.
 published: true
-date: 2023-11-24T09:45:40.148Z
+date: 2024-01-02T03:51:30.072Z
 tags: fish buckets, fishing, fish skills, fish catch, fish guide, fishing npcs, skill points, skill challenges
 editor: markdown
 dateCreated: 2023-11-17T09:24:21.401Z
@@ -13,7 +13,7 @@ dateCreated: 2023-11-17T09:24:21.401Z
 
 <br>
 <center>
-<img src="/bot-features/fishing/fishskills_main.png" alt="Fish Skills" width="300">
+<img src="/bot-features/fishing/fishskills_main2.png" alt="Fish Skills" width="300">
 </center>
 
 If you decide you do not like the skills you've put your skill points on, you can reset your skills once every 3 days for free. When you reset your skill points, it will remove any skill points you've applied and put them back to your total so you can apply them again however you want. If you are impatient and do not want to wait 3 days, you can bypass the wait time by using gems.
@@ -44,95 +44,73 @@ For skills that require you to have the <a href="/Bot-features/Currency-Commands
 ### <font color =b32d2d>Economy Skills</font> {: #Economy}
 The economy skills are all about maximizing your profits. They allow you to make more money when selling fish or can help you save time while traveling so you can fish faster.
 
+**Economy Skills:**
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Haggler" target="_blank">Haggler</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economist" target="_blank">Economist</a> 
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#ShopKeeper" target="_blank">Shop Keeper</a> 
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Cartographer" target="_blank">Cartographer</a>
+
+<br>
+
+#### Haggler Skill {: #Haggler}
+The Haggler Skill increases the coins you can earn from selling creatures or interacting with NPCs.
+
 <center>
-<div>
-  <table style="font-family: 'Times New Roman', serif;">
-      <tr>
-        <th>Skill name</th>
-        <th>Skill Level</th>
-        <th>Description</th>
-        <th>Requirements</th>
-        <tr>
-          <td rowspan="4">Haggler</td>
-          <td>I</td>
-          <td>Allows you to sell creatures for 10% more and helps you get 15% more coins from NPCs</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Allows you to sell creatures for 15% more coins and helps get 25% more coins from NPCs</td>
-          <td>Requires Haggler Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Allows you to sell creatures for 25% more and helps you get 50% more coins from NPCs</td>
-          <td>Requires Haggler Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Allows you to sell creatures for 200% more and helps you get 200% more coins from NPCs</td>
-          <td>Requires Haggler Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector's Badge</a></td>
-        </tr>
-        <tr>
-          <td rowspan="4">Economist</td>
-          <td>I</td>
-          <td>Unlocks a Happy Hour period from 4pm-5pm UTC every day where you earn 1.5x coins for selling creatures</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases the coin multiplier for Happy Hour to 2x</td>
-          <td>Requires Economist Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Unlocks a second Happy Hour period from 4am-5am UTC each day</td>
-          <td>Requires Economist Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Market" target="_blank">Market Manipulator Badge</a></td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>During Happy Hours, you earn 2x tokens when selling creatures</td>
-          <td>Requires Economist Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> </td>
-        </tr>
-        <tr>
-          <td rowspan="4">Shop Keeper</td>
-          <td>I</td>
-          <td>Reduce the prices in <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> by a total of 5%</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Unlocks additional things to buy in <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a></td>
-          <td>Requires Shop Keeper Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases the discount you receive for <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> to 15% total</td>
-          <td>Requires Shop Keeper Level I, II, and <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector's Badge</a></td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Gives you a 1% chance to pay nothing when purchasing something from <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a></td>
-          <td>Requires Shop Keeper Level I, II, and III</td>
-        </tr>
-        <tr>
-          <td rowspan="3">Cartographer</td>
-          <td>I</td>
-          <td>Reduces your fishing travel time to 40 minutes</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Reduces your fishing travel time to 30 minutes</td>
-          <td>Requires Cartographer Level I</td>
-        </tr>
-         <tr>
-           <td>Level III</td>
-          <td>Reduces your fishing travel time to 5 minutes</td>
-          <td>Requires Cartographer Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a></td>
-        </tr>
-    </table>
-</div>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+| Haggler Level I | Allows you to sell creatures for 10% more and helps you get 15% more coins from NPCs | No Requirements |
+  | Haggler Level II | Allows you to sell creatures for 15% more coins and helps get 25% more coins from NPCs | Haggler Level I |
+  | Haggler Level III | Allows you to sell creatures for 25% more and helps you get 50% more coins from NPCs | Haggler Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  | Haggler Level IV | Allows you to sell creatures for 200% more and helps you get 200% more coins from NPCs | Haggler Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector's Badge</a> |
+  
+  </center>
+    <br>
+  
+#### Economist Skill {: #Economist}
+The Economist Skill gives you access to one or more Happy Hours a day, where you can sell creatures for more coins or tokens, or earn more Season Pass XP.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Economist Level I | Unlocks a Happy Hour period from 4pm-5pm UTC every day where you earn 1.5x coins for selling creatures | No Requirements |
+  | Economist Level II | Increases the coin multiplier for Happy Hour to 2x | Economist Level I |
+  | Economist Level III | Unlocks a second Happy Hour period from 4am-5am UTC each day | Economist Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Market" target="_blank">Market Manipulator Badge</a> |
+  |  Economist Level IV | During Happy Hours, you earn 2x <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">Season Pass XP</a> | Economist Level I, II, and III |
+  |  Economist Level V | During Happy Hours, you earn 2x Fish Tokens for selling creatures |  Economist Level I, II, III, and IV, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> | 
+  
+  </center>
+  
+  <br>
+  
+#### Shop Keeper Skill {: #ShopKeeper}
+The Shop Keeper skills give you discounts for the shop and let you access some exclusive items. 
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Shop Keeper Level I | Reduce the prices in <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> by a total of 5% | No Requirements |
+  | Shop Keeper Level II | Unlocks additional things to buy in <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> | Shop Keeper Level I |
+  | Shop Keeper Level III | Increases the discount you receive for <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> to 15% total | Shop Keeper Level I and II |
+  | Shop Keeper Level IV | During Happy Hour, get an extra 8% discount on items in <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> | Shop Keeper Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector's Badge</a> |
+  | Shop Keeper Level V | Gives you a 1% chance to pay nothing when purchasing something from <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> | Shop Keeper Level I, II, III, and IV |
+  
+</center>
+<br>
+
+#### Cartographer Skill {: #Cartographer}
+The Cartographer Skill decreases the time needed to travel, helping you get around faster.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Cartographer Level I | Reduces your fishing travel time to 40 minutes | No Requirements |
+  | Cartographer Level II | Reduces your fishing travel time to 30 minutes | Cartographer Level I |
+  | Cartographer Level III | Reduces your fishing travel time to 5 minutes | Cartographer Level I, II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a> |
+  
 </center>
 
 <br>
@@ -141,334 +119,255 @@ The economy skills are all about maximizing your profits. They allow you to make
 ### <font color =b32d2d>Nature Skills</font> {: #Nature}
 The Nature Skills are ones that help you with what you can catch and display, such as increasing fish tank capacity and your odds of catching rarer things.
 
-<center>
-<div>
-  <table style="font-family: 'Times New Roman', serif;">
-      <tr>
-        <th>Skill name</th>
-        <th>Skill Level</th>
-        <th>Description</th>
-        <th>Requirements</th>
-        <tr>
-          <td rowspan="5">Zoologist</td>
-          <td>I</td>
-          <td>Unlocks the ability to catch high quality fish</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases your chance of catching high quality fish by 5%</td>
-          <td>Requires Zoologist Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Slightly increases your chance to catch things that have "absurdly rare" odds</td>
-          <td>Requires Zoologist Level I and II</td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Increases your chance of catching unique variants by 5%</td>
-          <td>Requires Zoologist Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td>V</td>
-          <td>Increases your chance of catching chroma fish by 5%</td>
-          <td>Requires Zoologist Level I, II, III, and IV</td>
-        </tr>
-        <tr>
-          <td rowspan="4">Aquarium Keeper</td>
-          <td>I</td>
-          <td>Allows you to have 2 fish and 2 decorations in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a></td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> capacity to 3 fish and 4 decorations </td>
-          <td>Requires Aquarium Keeper Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> capacity to 4 fish</td>
-          <td>Requires Aquarium Keeper Level I and II</td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Increases your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> capacity to 5 fish</td>
-          <td>Requires Aquarium Keeper Level I, II, and III</td>
-        </tr>
-        <tr>
-          <td rowspan="5">Keen Angler</td>
-          <td>I</td>
-          <td>Reduce the chance of mines spawning by 10%</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Have a 10% chance of a second non-mine shadow spawning when fishing</td>
-          <td>Requires Keen Angler Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Removes 1 mine when a boss spawns</td>
-          <td>Requires Keen Angler Level I and II</td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Changes the shadow you see when fishing to be a shadow of what you are catching</td>
-          <td>Requires Keen Angler Level I, II, and III</td>
-        </tr>
-            <tr>
-          <td>V</td>
-          <td>Reduces mine spawning by 50% and you always have 2 non-mine shadows</td>
-          <td>Requires Keen Angler Level I, II, III, IV and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td rowspan="3">Zen Hands</td>
-          <td>I</td>
-          <td>Decreases the chance you catch nothing when fishing with your bare hands by 5%</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Enables the ability to catch items with bare hands</td>
-          <td>Requires Zen Hands Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Enables the ability to catch bosses with bare hands</td>
-          <td>Requires Zen Hands Level I and II</td>
-        </tr>
-    </table>
-</div>
-</center>
+**Nature Skills:**
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Zoologist" target="_blank">Zoologist</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#AquariumKeeper" target="_blank">Aquarium Keeper</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#KeenAngler" target="_blank">Keen Angler</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#ZenHands" target="_blank">Zen Hands</a>
 
+<br>
+
+#### Zoologist Skill {: #Zoologist}
+The Zoologist Skill helps increase the chances for you to catch rarer creatures and variants.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Zoologist Level I | Unlocks the ability to catch high quality fish | No Requirements | 
+  | Zoologist Level II | Increases your chance of catching high quality fish by 5% | Zoologist Level I |
+  | Zoologist Level III | Slightly increases your chance to catch things that have "absurdly rare" odds | Zoologist Level I and II |
+  | Zoologist Level IV | Increases your chance of catching unique variants by 2% |  Zoologist Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  | Zoologist Level V | Increases your chance of catching chroma fish by 5% | Zoologist Level I, II, III, and IV |
+
+</center>
+<br>
+
+#### Aquarium Keeper Skill {: #AquariumKeeper}
+The Aquarium Keeper Skills allow you to hold more fish in your fish tanks and give you the ability to use tank <a href="/Items/Fishing#Decorations" target="_blank">decorations</a>.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Aquarium Keeper Level I | Unlocks the ability to use decorations in your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tanks</a> | No Requirements |
+  | Aquarium Keeper Level II | Allows you to hold up to 5 fish and 4 decorations in each <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">fish tank</a> | Aquarium Keeper Level I |
+  
+</center>
+<br>
+
+#### Keen Angler Skill {: #KeenAngler}
+The Keen Angler Skills can give you an increased chance for rarer fish like bosses by adding a second shadow to the mini game. It also can reduce the number of mines, and lets you see the outline of what you are going to catch. Items will still look like the generic shadow.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Keen Angler Level I | Reduce the chance of mines spawning by 10% | No Requirements |
+  | Keen Angler Level II | Have a 10% chance of a second non-mine shadow spawning when fishing | Keen Angler Level I |
+  | Keen Angler Level III | Changes the shadow you see when fishing to be an outline of what you are catching | Keen Angler Level I and II |
+  | Keen Angler Level IV | Reduce the chance of mines spawning by 25% total | Keen Angler Level I, II, and II |
+  | Keen Angler Level V | Increases the chance for 2 shadows to spawn to 50% | Keen Angler Level I, II, III, and IV, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  
+  </center>
+  <br>
+  
+#### Zen Hands Skill {: #ZenHands}
+The Zen Hands Skill increases what <a href="/Items/Fishing#BareHands" target="_blank">Bare Hands</a> can catch while fishing.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Zen Hands Level I | Decreases the chance you catch nothing when fishing with your bare hands by 5% | No Requirements |
+  | Zen Hands Level II | Enables the ability to catch items with bare hands | Zen Hands Level I |
+  | Zen Hands Level III | Enables the ability to catch bosses with bare hands | Zen Hands Level I and II |
+  | Zen Hands Level IV | Increases the chance to catch "unique" variants by 2% with <a href="/Items/Fishing#BareHands" target="_blank">Bare Hands</a> | Zen Hands Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+
+</center>
 <br>
 
 ### <font color =b32d2d>Social Skills</font> {: #Social}
 The Social Skills generally help you with the NPC interactions you might have, so you can meet NPCs more frequently, choose the right responses, and earn better rewards.
-<center>
-<div>
-  <table style="font-family: 'Times New Roman', serif;">
-      <tr>
-        <th>Skill name</th>
-        <th>Skill Level</th>
-        <th>Description</th>
-        <th>Requirements</th>
-        <tr>
-          <td rowspan="4">Influencer</td>
-          <td>I</td>
-          <td>Increases the positive reputation earned with NPCs by 5%, so good interactions are more effective</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Decreases negative reputation earned when interacting with NPCs by 10%, so a bad interaction is less effective</td>
-          <td>Requires Influencer Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases the time given to complete NPC tasks by 25%</td>
-          <td>Requires Influencer Level I and II, and  and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Increases the chance an NPC stops to ask you to complete a task for them by 10%</td>
-          <td>Requires Influencer Level I, II, and III</td>
-        </tr>
-        <tr>
-          <td rowspan="3">Charming</td>
-          <td>I</td>
-          <td>Increases the chance an NPC stops to give you a gift by 2%</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases the chance you have an NPC encounter by 3%</td>
-          <td>Requires Charming Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>When an NPC brings you a gift, you will be offered two options to choose from</td>
-          <td>Requires Charming Level I and II</td>
-        </tr>
-        <tr>
-          <td rowspan="5">Delegator</td>
-          <td>I</td>
-          <td>Fish caught from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> sell for 35% more</td>
-          <td>Requires AFK Level I (from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Category</a>)</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Fish caught from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> sell for a total of 50% more</td>
-          <td>Requires Delegator Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Fish caught from idle fishing sell for 2x Fish Tokens</td>
-          <td>Requires Delegator Level I and II</td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>While idle fishing is running and its storage is NOT full, you will get 1.5x NPC reputation on NPC interactions</td>
-          <td>Requires Delegator Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td>V</td>
-          <td>While idle fishing is running and the storage is NOT full, you will have a <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">1.25 XP multiplier</a> for regular Dank Memer leveling</td>
-          <td>Requires Delegator Level I, II, III, and IV</td>
-        </tr>
-        <tr>
-          <td rowspan="3">Empath</td>
-          <td>I</td>
-          <td>Have a 5% chance for any positive NPC dialogue to be twice as effective</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Shows you whether the dialogue choices when interacting with an NPC will have negative or positive results</td>
-          <td>Requires Empath Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Shows you the exact reputation change a choice during an NPC interaction will cause</td>
-          <td>Requires Empath Level I and II</td>
-        </tr>
-    </table>
-</div>
-</center>
+
+**Social Skills:**
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Charming" target="_blank">Charming</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Delegator" target="_blank">Delegator</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Empath" target="_blank">Empath</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#MagneticPersonality" target="_blank">Magnetic Personality</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#TrashMan" target="_blank">Friends with the Trash Man</a>
 
 <br>
 
-### <font color =b32d2d>Science Skills</font> {: #Science}
-The Science Skills available offer ways you can make your fishing more effective and productive, such as increasing tool durability, unlocking the idle fishing machine, and increasing loot availability.
+#### Charming Skill {: #Charming}
+The Charming Skills help you by increasing the chance for NPC encounters and can make encounters easier or more profitable.
 
 <center>
-<div>
-  <table style="font-family: 'Times New Roman', serif;">
-      <tr>
-        <th>Skill name</th>
-        <th>Skill Level</th>
-        <th>Description</th>
-        <th>Requirements</th>
-        <tr>
-          <td rowspan="4">Horologist</td>
-          <td>I</td>
-          <td>Loot you can fish is normally available for set amounts of time throughout the day. This increases the time it is available by 60 minutes</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases the time loot is available by 2 hour</td>
-          <td>Requires Horologist Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases the time loot is available by 3 hours</td>
-          <td>Requires Horologist Level I and II</td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Makes Mystic Pond available for an extra day each week</td>
-          <td>Requires Horologist Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td rowspan="5">Storage Specialist</td>
-          <td>I</td>
-          <td>Unlocks your <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">2nd bucket slot</a> in <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a></td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Unlocks your <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">3rd bucket slot</a> in <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a></td>
-          <td>Requires Storage Specialist Level I and II</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases all <a href="/Items/Fishing#Buckets" target="_blank">bucket</a> space by 15%</td>
-          <td>Requires Storage Specialist Level I, II, and III</td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Unlocks your <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">4th and 5th bucket slot</a> in <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a></td>
-          <td>Requires Storage Specialist Level I, II, and III</td>
-        </tr>
-        <tr>
-          <td>V</td>
-          <td>Increases all <a href="/Items/Fishing#Buckets" target="_blank">bucket</a> space to 80% more than the base capacity</td>
-          <td>Requires Storage Specialist Level I, II, III, and IV, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td rowspan="4">Time Keeper</td>
-          <td>I</td>
-          <td>Have an 10% chance for no cooldown after catching something</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Reduces the fishing cooldown to 10 seconds</td>
-          <td>Requires Time-Keeper Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Reduces the fishing cooldown to 8 seconds</td>
-          <td>Requires Time-Keeper Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-          <td>IV</td>
-          <td>Reduces the fishing cooldown to 5 seconds</td>
-          <td>Requires Time-Keeper Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Voter" target="_blank">Disenfranchised Voter Badge</a></td>
-        </tr>
-        <tr>
-          <td rowspan="4">Tool Tamer</td>
-          <td>I</td>
-          <td>Increases the durability of all tools by 5%</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases the durability of all tools to +25%</td>
-          <td>Requires Tool Tamer Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases the durability of all tools to +40%</td>
-          <td>Requires Tool Tamer Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-             <tr>
-           <td>IV</td>
-          <td>Adds a 5% chance that when a tool breaks it will be regenerated to 75% durability</td>
-          <td>Requires Tool Tamer Level I, II, and III</td>
-        </tr>
-            <tr>
-          <td rowspan="5">AFK</td>
-          <td>I</td>
-          <td>Unlocks the idle fishing machine and the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> command</td>
-          <td>No Requirements</td>
-        </tr>
-          <tr>
-          <td>II</td>
-          <td>Increases the idle fishing machine's storage to 12 and decreases the cooldown between attempts to 20 minutes</td>
-          <td>Requires AFK Level I</td>
-        </tr>
-         <tr>
-           <td>III</td>
-          <td>Increases the idle fishing machine's storage to 25 </td>
-          <td>Requires AFK Level I and II</td>
-        </tr>
-         <tr>
-           <td>IV</td>
-          <td>Decreases the cooldown between attempts to 10 minutes</td>
-          <td>Requires AFK Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a></td>
-        </tr>
-        <tr>
-           <td>V</td>
-          <td>Increases the idle fishing machine's storage to 35 and decreases the cooldown between attempts to 5 minutes</td>
-          <td>Requires AFK Level I, II, III, and IV</td>
-        </tr>
-    </table>
-</div>
-</center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Charming Level I | Increases the chance an NPC stops to give you a gift by 2% | No requirements |
+  | Charming Level II | Increases the time given to complete NPC tasks by 10% | Charming Level I |
+   | Charming Level III | When an NPC brings you a gift, you will be offered two options to choose from | Charming Level I and II |
+   | Charming Level IV | Increases the chance an NPC stops to ask you to complete a task for them by 10% | Charming Level I, II, and III |
 
+</center>
+<br>
+
+#### Delegator Skill {: #Delegator}
+The Delegator Skills give you boosts connected to the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> machine found in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Category</a> of skills. Once you activate your idle machine, you can use the Delegator Skills to increase the pay per catch, earn Season Pass XP, and more.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Delegator Level I | Fish caught from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> give <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">Season Pass XP</a> | AFK Level I from the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Category</a>
+  | Delegator Level II | Fish caught from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> sell for 50% more | Delegator Level I |
+  | Delegator Level III | Fish caught from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> sell for 2x Fish Tokens | Delegator Level I and II |
+  | Delegator Level IV | While idle fishing is running and its storage is NOT full, you will get 1.5x NPC reputation on NPC interactions | Delegator Level I, II, and III |
+  | Delegator Level V | Fish caught from <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> give 2x the normal <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">Season Pass XP</a> | Delegator Level I, II, III, and IV, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  | Delegator Level VI | While idle fishing is running and the storage is NOT full, you will have a <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">2x XP multiplier</a> for regular Dank Memer leveling | Delegator Level I, II, III, IV, and V, and <a href="/Bot-features/Currency-Commands/Badges#XPBadge" target="_blank">Platinum XPlosion Expert Badge</a> |
+  
+</center>
+<br>
+
+#### Empath Skill {: #Empath}
+The Empath Skills help make interacting with NPCs easier by helping you choose the correct outcomes and increasing positive reputation.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Empath Level I | Have a 5% chance for any positive NPC dialogue to be twice as effective | No Requirements |
+  | Empath Level II | Shows you whether the dialogue choices when interacting with an NPC will have negative or positive results | Empath Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  | Empath Level III | Shows you the exact reputation change a choice during an NPC interaction will cause | Empath Level I and II |
+  
+</center> 
+<br>
+
+#### Magnetic Personality Skill {: #MagneticPersonality}
+The Magnetic Personality Skills help bring good things your way, such as increasing NPC encounters, doubling NPC gifts, and increasing chroma encounters.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+  | Magnetic Personality I | Increase the chance of an NPC encounter by 3% | No Requirements |
+  | Magnetic Personality II | When you are traveling within an island on the fishing map, you can see where NPCs are located on the map | Magnetic Personality Level I |
+  | Magnetic Personality III | When you receive a gift from an NPC, there is a 10% chance another NPC will get jealous and send you a gift as well | Magnetic Personality Level I and II |
+  | Magnetic Personality IV | Increase the chance to catch chroma variants by 2% | Magnetic Personality Level I, II, and III |
+  | Magnetic Personality V | When you get any gift from an NPC, it is doubled | Magnetic Personality Level I, II, III, and IV, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  
+</center> 
+<br>
+
+#### Friends with the Trash Man Skill {: #TrashMan}
+The Trash Man Skills helps you with items you can collect while fishing and can help increase NPC reputation. Trash-type items are things like <a href="/Items/Sellables#SoggyPlantClump" target="_blank">Soggy Plant Clump</a>, <a href="/Items/Sellables#WaterloggedLog" target="_blank">Waterlogged Log</a>, and <a href="/Items/Sellables#OldShell" target="_blank">Old Shell</a>.
+
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+ | Trash Man Level I | Trash-type items found while fishing will give season XP when caught | No Requirements |
+  | Trash Man Level II | Allows you to catch multiple trash-type items with a net when fishing | Trash Man Level I |
+  | Trash Man Level III | Gain rep with nearby NPCs when you pickup trash | Trash Man Level I and II |
+  | Trash Man Level IV | Automatically sell trash for a token instead of collecting it to your inventory | Trash Man Level I, II, and III |
+  
+</center> 
+<br>
+
+### <font color =b32d2d>Science Skills</font> {: #Science}
+The Science Skills offer ways you can make your fishing more effective and productive, such as increasing tool durability, unlocking the idle fishing machine, and increasing loot availability.
+
+**Science Skills:**
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Horologist" target="_blank">Horologist</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Storage Specialist" target="_blank">Storage Specialist</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#TimeKeeper" target="_blank">Time-Keeper</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#ToolBaiter" target="_blank">Tool Baiter</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#AFK" target="_blank">AFK</a>
+
+<br>
+
+#### Horologist Skill {: #Horologist}
+The Horologist Skills help you by increasing the availability of creatures, items, and the Mystic Pond. Each Creature and item has a specific time it is available while fishing, and this skill increases the time ranges available.
+
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|
+| Horologist Level I | Increases Item/Creature Availability by 60 minutes | No Requirements |
+  | Horologist Level II | Increases Item/Creature Availability by 2 hours total | Horologist Level I and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+  | Horologist Level III | Increases Item/Creature Availability by 3 hours total | Horologist Level I and II |
+  | Horologist Level IV | Opens Mystic Pond an extra day each week (Thursday UTC) | Horologist Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a> |
+  
+  </center>
+  <br>
+  
+#### Storage Specialist Skill {: #StorageSpecialist}
+The Storage Specialist Skills give you access to more <a href="/Items/Fishing#Buckets" target="_blank">bucket</a> slots and increases bucket capacity.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:| 
+  | Storage Specialist Level I | Unlocks your <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">3rd bucket slot</a> in <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a> | No Requirements |
+  | Storage Specialist Level II | Increases all buckets' capacity by 15% | Storage Specialist Level I |
+  | Storage Specialist Level III |  Unlocks your <a href="https://dankmemer.lol/tutorial/managing-buckets-creatures" target="_blank">4th and 5th bucket slot</a> in <a href="/Items/Fishing#Buckets" target="_blank">/fish buckets</a> | Storage Specialist Level I and II |
+  | Storage Specialist Level IV |  Increases all <a href="/Items/Fishing#Buckets" target="_blank">bucket</a> space to 80% more than the base capacity | Storage Specialist Level I, II, III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Platinum Seasoned Angler Badge</a> |
+ 
+ </center>
+ <br>
+ 
+#### Time-Keeper Skill {: #TimeKeeper}
+The Time-Keeper Skill decreases the cooldown between catching fish.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:| 
+ | Time-Keeper Level I | Reduces the fishing cooldown to 10 seconds | No Requirements |
+ | Time-Keeper Level II | Reduces the fishing cooldown to 8 seconds | Time-Keeper Level I |
+ | Time-Keeper Level III | Have an 10% chance for no cooldown after catching something | Time-Keeper Level I and II |
+ | Time-Keeper Level IV | Have no cooldown after catching a boss, unique variant, or chroma fish. | Time-Keeper Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+ | Time-Keeper Level V | Have no cooldown after a tool or bait breaks | Time-Keeper Level I, II, III, and IV |
+
+</center>
+<br>
+
+#### Tool Baiter Skill {: #ToolBaiter}
+The Tool Baiter Skills increase the durability of your tools and baits.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:| 
+ | Tool Baiter Level I | All tools have +5% durability | No Requirements |
+ | Tool Baiter Level II | All baits have +15% durability | Tool Baiter Level I |
+ | Tool Baiter Level III | All tools have +40% durability | Tool Baiter Level I and II, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+ | Tool Baiter Level IV | Have 5% chance for a tool to be regenerated to 75% after one breaks | Tool Baiter Level I, II, and III |
+| Tool Baiter Level V | Have 5% chance for a bait to be regenerated to 75% after one breaks |  Tool Baiter Level I, II, III, and IV |
+  
+ </center>
+ <br>
+ 
+  
+#### AFK Skill {: #AFK}
+The AFK Skills give you access to the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> command and increase the abilities of your idle fishing machine.
+
+<center>
+  
+| Skill Level | Description | Requirements | 
+|:--------:|:------:|:------:|  
+| AFK Level I | Unlocks the idle fishing machine and the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> command | No Requirements |
+| AFK Level II | Increases the idle fishing machine's storage to 12 and decreases the cooldown between attempts to 20 minutes | AFK Level I |
+| AFK Level III | Unlocks the ability to use baits in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> | AFK Level I and II |
+| AFK Level IV | Unlocks the ability to target a specific location in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> | AFK Level I, II, and III, and <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> |
+| AFK Level V | Increases the idle fishing machine's storage to 40 and decreases the cooldown between attempts to 5 minutes | AFK Level I, II, III, and IV |
+| AFK Level VI | Have the chance to catch bosses with <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> | AFK Level I, II, III, IV, and V | 
+
+</center>
 <br>
 
 ## <font color =b32d2d>Skill Challenges</font> {: #SkillChallenges}
@@ -479,9 +378,9 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 |:--------:|:------:|:------:|:--------------:|
 | Saltwater Creatures | Catch 1,000 <a href="/Items/Fishing/Creatures#Saltwater" target="_blank">Saltwater Creatures</a> | 1 | Use <a href="/Items/Fishing#Tools" target="_blank">Nets, Harpoons, and Dynamite</a> to catch multiple fish at a time |
 | Freshwater Creatures | Catch 1,000 <a href="/Items/Fishing/Creatures#Freshwater" target="_blank">Freshwater Creatures</a> | 1 | Use <a href="/Items/Fishing#Tools" target="_blank">Nets, Harpoons, and Dynamite</a> to catch multiple fish at a time |
-| Bossy Fisher | Catch every <a href="/Items/Fishing/Creatures#Bosses" target="_blank">available boss</a> at least 3 times | 1 | Use <a href="/Items/Fishing#DeadlyBait" target="_blank">Deadly Bait</a> and <a href="/Items/Fishing#Dynamite" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
+| Bossy Fisher | Catch every <a href="/Items/Fishing/Creatures#Bosses" target="_blank">available boss</a> at least 3 times | 1 | Use <a href="/Items/Fishing#DeadlyBait" target="_blank">Deadly Bait</a> and <a href="/Items/Fishing#Dynamite" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch some bosses. |
 | NPC Greeter | Interact with <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">every available NPC</a> at least once | 1 | Use the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#Locations" target="_blank">location pages</a> in your guide book to see where NPCs might be and talk with other users to find out where they've been seen that day. Increase <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Social" target="_blank">Social skills</a> for better NPC interactions |
-| Traveler | Fish at every <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#Locations" target="_blank">non-holiday location</a> at least once | 1 | Apply points to the Cartographer Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">Economy Category</a> for shorter travel times |
+| Traveler | Fish at every <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide#Locations" target="_blank">non-holiday location</a> at least once | 1 | Apply points to the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Cartographer" target="_blank">Cartographer</a> Skill for shorter travel times |
 | Rod Snapper | Break 50 <a href="/Items/Fishing#FishingRod" target="_blank">Fishing Rods</a> | 1 | Use Fish Tokens to buy fishing rods from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. If you want to complete this faster, make sure NOT to apply skill points to the Tool Tamer skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Skills</a> category |
 | Pass Crawler | Reach Tier 25 on a <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">Season Pass</a> | 1 | Bosses, Variants, and Event fish get extra Fishing XP, so try fishing at an event <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">location</a> if one is available. Try to use <a href="/Items/Fishing#Tools" target="_blank">tools</a> that catch multiple creatures at a time also, such as a net or dynamite. |
 | See, Weed! | Catch 350 <a href="/Items/Sellables#Seaweed" target="_blank">Seaweed</a> | 1 | Increase the Horologist Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Skills</a> category to make seaweed available for longer times during the day. Avoid using <a href="/Items/Fishing#Tools" target="_blank">tools</a> like dynamite that cannot catch items. |
@@ -493,9 +392,9 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 | Show Off | Feature a <a href="/Items/Fishing/Creatures" target="_blank">creature</a> that weighs at least 750 pounds | 1 | Use a <a href="/Items/Fishing#Baits" target="_blank">Weighted Bait</a> to help your creatures be on the larger side of what is possible. |
 | Humble | Feature a <a href="/Items/Fishing/Creatures" target="_blank">creature</a> that weighs under one pound | 1 | Try to fish for smaller creatures like shrimp and minnows. |
 | Wormussy | Catch 100 <a href="/Items/Fishing/Creatures#Charybdis" target="_blank">Charybdis</a> creatures | 3 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> and <a href="/Items/Fishing#Tools" target="_blank">Dynamite</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
-| Bucket B^tch | Own at least 3 <a href="/Items/Fishing#Buckets" target="_blank">buckets</a> | 1 | Upgrade the Shop Keeper skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">Economy Skills</a> category to make the buckets in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> cheaper. |
+| Bucket B^tch | Own at least 3 <a href="/Items/Fishing#Buckets" target="_blank">buckets</a> | 1 | Upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#ShopKeeper" target="_blank">Shop Keeper</a> skill to make the buckets in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> cheaper. |
 | Golden Dorado | Catch 50 Golden Dorados | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> to help you catch rarer fish and <a href="/Items/Fishing/Creatures" target="_blank">check when the Golden Dorado is available</a>  |
-| Truly Idle | Keep your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">idle machine</a> running non-stop for 18 hours | 2 | Increase the AFK Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">Science Category</a> so your idle machine will have more time before being full, and try to start it very early in the morning so you can check it every 2 hours without interrupting your sleep. |
+| Truly Idle | Keep your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">idle machine</a> running non-stop for 18 hours | 2 | Increase the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#AFK" target="_blank">AFK Skill</a> so your idle machine will have more time before being full, and try to start it very early in the morning so you can check it every 2 hours without interrupting your sleep. |
 | Mines! | Hit 100 Mines | 1 | Avoid applying skill points to the Keen Angler Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Nature Category</a> until after you've finished this task. Also avoid using any <a href="/Items/Fishing#Tools" target="_blank">tools</a> when hitting mines. |
 | Waiting Game | Collect 3 <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">Season Pass</a> tier rewards at once | 1 | If using the free pass, make sure to verify there are 3 rewards waiting in `/fish season` and not just that you've gone up 3 levels. Aim for variants, bosses, and event fish for more XP per fish. |
 | Free Rewards! | Vote at Discordbotlist.com 50 times | 1 | You can <a href="/About-Dank-Memer/Vote" target="_blank">vote</a> twice a day. Enable reminders in <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Settings" target="_blank">/settings</a>. |
@@ -506,6 +405,13 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 | Chance Taker | Open 100 Bait Boxes | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Magnet Bait </a> to fish for items and collect bait boxes when they are available. |
 | Strong Alibi | <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">Rob 500 million</a> coins while your idle fishing machine is running | 1 | If robbing a friend, use a <a href="/Items/Power-ups#Caipirinha" target="_blank">caipirinha</a> before each rob to avoid dropping coins. |
 | I Hate Tokens | Spend 30,000 tokens in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> | 1 | Max out the Economist skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">Economy Category</a> to double the tokens you can earn for selling fish during Happy Hour and use an  <a href="/Items/Power-ups#InflatedDelicacy" target="_blank">Inflated Delicacy</a> for even more tokens. |
+| Repetitive | Catch the same creature 5 times in a row. | 1 | Upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#KeenAngler" target="_blank">Keen Angler Skill</a> so you can see the outline of what you are catching, and only catch the same creature each turn. Aim for the most common fish at the location you are fishing |
+| Nutjob | Own 5 fish tanks at once, all full of 5 bosses | 2 | Use <a href="/Items/Fishing#Baits" target="_blank">Deadly Bait </a> to help you catch more bosses, and purchase extra fish tanks in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> |
+| Daily Devotee (Wet Edition) | Fish manually (with `/fish catch`) every day for 2 weeks | 1 | Set a reminder to fish once a day when you do your `/daily` command so you don't forget |
+| Wasteful | Break 3 fishing <a href="/Items/Fishing#Tools" target="_blank">tools</a> within a 5 minute time span | 1 | Use a fishing pole since it is easiest to replace, and if you are having trouble breaking 3 in the time limit, run into a mine to speed up the process | 
+| Min-Maxer | Catch 20 Chroma Jormungandrs | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Deadly Bait</a> to help you catch more bosses |
+| Sight Seer | Visit every available location (including Mystic Pond) in the same UTC day without fishing at any of them | 1 | Apply points to the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Cartographer" target="_blank">Cartographer Skill</a> and make sure your idle fishing machine is turned off before the new day starts | 
+| Socialite | Speak to every NPC in the same UTC day at least once | 1 | Increase skills in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Social" target="_blank">Social Skill</a> category to help make NPC encounters more common |
 
 
 
