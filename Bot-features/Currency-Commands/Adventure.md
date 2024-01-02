@@ -2,7 +2,7 @@
 title: Adventure
 description: Learn about the adventure command, adventure guides, and rewards.
 published: true
-date: 2023-11-05T01:50:57.745Z
+date: 2024-01-02T05:23:39.906Z
 tags: vacation, adventure, space adventure, space, out west adventure, out west, brazil adventure, brazil, brasil, vacation adventure, pepe holidays, pepe winter wonderland, pepe goes trick or treating, pepe goes to the museum, pepe goes on vacation, pepe goes to brazil, halloween adventure, skins adventure, adventure guides, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T15:45:24.049Z
@@ -52,19 +52,19 @@ You can complete a full adventure before you have a cooldown, and then you have 
       <td>Pepe goes to the <br> Museum</td>
       <td>4</td>
       <td>2 Minutes per Interaction</td>
-      <td>Sundays Only <br> (<a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">UTC</a>)</td>
+      <td>Thursdays and Sundays Only <br> (<a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">UTC</a>)</td>
     </tr>
         <tr align=center>
       <td>Pepe goes <br> Fishing with Friends</td>
       <td>5</td>
       <td>2 Minutes per Interaction</td>
-      <td><a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters Premium Pass Only</a></td>
+      <td>If unlocked from the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters Premium Pass</a> or from <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a></td>
     </tr>
         <tr align=center>
       <td>Pepe Winter <br> Wonderland</td>
-      <td>2</td>
-      <td>Unknown</td>
-      <td>Christmas Only</td>
+      <td>3</td>
+      <td>2 Minutes per Interaction</td>
+      <td>December Only</td>
     </tr>
     <tr align=center>
       <td>Pepe goes <br> Trick or Treating</td>
@@ -85,40 +85,20 @@ The adventure guides are user made, so they sometimes aren't updated with the la
 
 When a new adventure is released, the adventure guides are often shared on the <a href="https://www.reddit.com/r/dankmemer/" target="_blank">Dank Memer Reddit</a> or in the <a href="https://discord.gg/memers" target="_blank">Dank Memer Community Server (DMC)</a> in the grind strategy channel. Below are the current most updated adventure guides.
 
-There is currently no guide for the "Pepe goes Fishing with Friends" adventure, since it is the largest adventure ever with over 100 events to record.
-
-<br>
 <center>
-  <table>
-    <th>Adventure Guide</th>
-    <th>Created By (Discord Username)</th>
-    <tr align=center>
-      <td><a href="https://docs.google.com/spreadsheets/d/1MffBQskdCKXu3zCx9smLc_MepKg_BKldL7X5yhF0xr4/edit?usp=sharing" target="_blank">Vacation</a> <br> <a href="https://docs.google.com/spreadsheets/d/1MffBQskdCKXu3zCx9smLc_MepKg_BKldL7X5yhF0xr4/edit?usp=sharing" target="_blank">Museum</a></td>
-      <td>alyssahatesdankmemer</td>
-    </tr>
-    <tr align=center>
-      <td><a href="https://discord.com/channels/682809584985178135/1091017663054098573/1145313952235016192">Space</a> <br> (Must join DMC server and have grinder role to access. Instructions below) </td>
-      <td>Eagle.Bearer</td>    
-    </tr>
-    <tr>
-   	<tr align=center>
-      <td><a href="https://docs.google.com/spreadsheets/d/1LVzQiBcTHRWL1_ZFzxs7j3mz1nzS2BDP-um5E6d24MA/edit?usp=sharing">Out West</a></td>
-      <td>Technocat#1610</td>
-    </tr>
-    <tr>
-    <tr align=center>
-      <td><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Winter Wonderland </a></td>
-      <td>AwesomeDude</td>
-         	<tr align=center>
-      <td><a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Trick or Treat</a></td>
-      <td>      RogueHollow, 9xoz, Wafflebowl, the_a_person, and callate_pls</td>
-    </tr>
-        <tr align=center>
-      <td>
-        <a href="https://docs.google.com/spreadsheets/d/1PQmwyLPm1dxTNidvPlMfwV-xmGi1_3mjPLk-QCDXlNE/edit#gid=0" target="_blank">Brazil</a><br></td>
-      <td>Dunex22#5256 and Techno Cat#1610</td>
-    </tr>
-  </table>
+  <br>
+  
+| Adventure Name | Guide Link | Author(s) |
+|:----:|:----:|:----:|
+| Brazil Adventure | <a href="https://docs.google.com/spreadsheets/d/1PQmwyLPm1dxTNidvPlMfwV-xmGi1_3mjPLk-QCDXlNE/edit#gid=0" target="_blank">Google Doc</a> | Dunex22#5256 and Techno Cat#1610 |
+  | Fishing Adventure | <a href="https://docs.google.com/spreadsheets/d/1Ig7focYxJaITIDdoP7a22tI2Sm9HFOzBth-RYAONYac/edit?usp=sharing" target="_blank">Google Doc</a> | roguehollow, wafflebowl, akarkie, callate_pls, the_a_person, static_._, ccao56. and dunex22 |
+| Museum Adventure | <a href="https://docs.google.com/spreadsheets/d/1MffBQskdCKXu3zCx9smLc_MepKg_BKldL7X5yhF0xr4/edit?usp=sharing" target="_blank">Google Doc</a> | alyssahatesdankmemer |
+| Space Adventure | <a href="https://discord.com/channels/682809584985178135/1091017663054098573/1145313952235016192">DMC Grind Strategy Channel</a> <br> (Must join DMC server and have grinder role to access. Instructions below) | Eagle.Bearer |
+| Trick or Treat Adventure | <a href="https://docs.google.com/spreadsheets/d/14AC-mmYNMrcdDGxfG2Nv0OAwq-Pkth1SIJuW3ADSXYQ/edit#gid=806653247" target="_blank">Google Doc</a> | RogueHollow, 9xoz, Wafflebowl, the_a_person, and callate_pls |
+| Out West Adventure | <a href="https://docs.google.com/spreadsheets/d/1LVzQiBcTHRWL1_ZFzxs7j3mz1nzS2BDP-um5E6d24MA/edit?usp=sharing">Google Doc</a> | Technocat#1610 |
+|Vacation Adventure | <a href="https://docs.google.com/spreadsheets/d/1MffBQskdCKXu3zCx9smLc_MepKg_BKldL7X5yhF0xr4/edit?usp=sharing" target="_blank">Google Doc</a> | alyssahatesdankmemer |
+| Winter Wonderland Adventure | <a href="https://docs.google.com/spreadsheets/d/1xdCEPktTGcQG0HjEIrB6JrhMO58SocFNEl8KpvOAdzk/edit?usp=sharing" target="_blank">Google Doc</a> | RogueHollow, 9xoz, Wafflebowl, the_a_person, and callate_pls | 
+
   </center>
 <br>
 
