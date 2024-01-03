@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-03T23:44:05.350Z
+date: 2024-01-03T23:45:20.306Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -102,7 +102,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Cookie" target="_blank">Cookie</a>** | Legacy Cookie | <img src="/bot-features/skins/item-skins/cookie-legacycookie.png" alt="Legacy Cookie" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Corncob" target="_blank">Corncob</a>** | Legacy Corncob | <img src="/bot-features/skins/item-skins/corncob-legacycorncob.png" alt="Legacy Corncob" width="50" height="50"> {: #CorncobSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Corndog" target="_blank">Corndog</a>** | Legacy Corndog | <img src="/bot-features/skins/item-skins/corndog-legacycorndog.png" alt="Legacy Corndog" width="50" height="50"> {: #CorndogSkin} | 
-| **<a href="i/Items/Collectables#CowboyHat" target="_blank">Cowboy Hat</a>** | Fisherman Variant | <img src="/bot-features/skins/item-skins/cowboyhat-fishermanvariant.png" alt="Fisherman Hat" width="50" height="50"> {: #CowboyHatSkin} | 
+| **<a href="/Items/Collectables#CowboyHat" target="_blank">Cowboy Hat</a>** | Fisherman Variant | <img src="/bot-features/skins/item-skins/cowboyhat-fishermanvariant.png" alt="Fisherman Hat" width="50" height="50"> {: #CowboyHatSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#CrunchyTaco" target="_blank">Crunchy Taco</a>** | Legacy Taco | <img src="/bot-features/skins/item-skins/crunchytaco-legacytaco.png" alt="Legacy Taco" width="50" height="50"> {: #CrunchyTacoSkin} | 
 | **<a href="/Items/Sellables#Deer" target="_blank">Deer</a>** | Legacy Deer | <img src="/bot-features/skins/item-skins/deer-legacyvariant.png" alt="Legacy Deer" width="50" height="50"> {: #DeerSkin} | 
 | **<a href="/Items/Sellables#Dragon" target="_blank">Dragon</a>** | Legacy Dragon | <img src="/bot-features/skins/item-skins/dragon-legacyvariant.png" alt="Legacy Dragon" width="50" height="50"> {: #DragonSkin} | 
