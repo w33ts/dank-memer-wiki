@@ -2,30 +2,36 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2023-11-24T09:40:03.480Z
+date: 2024-01-03T23:36:38.718Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
 ---
 
 # Skins
-Skins are cosmetics you can collect and unlock in multiple different ways to make your game experience more unique for yourself. You're completely free to pick whichever available and unlocked skin you want for the items, pets, badges, farm, and fish tank. 
+Skins are cosmetics you can collect and unlock in multiple different ways to make your game experience more unique for yourself. You're completely free to pick whichever available and unlocked skin you want. Currently, you can choose skins for your:
 
-You can unlock skins by finding them when <a href="/Bot-features/Currency-Commands/Grind-Commands" taget="_blank">grinding</a>, earning them as a <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" taget="_blank">level</a> or <a href="/Bot-features/Currency-Commands/Advancements#Vote" taget="_blank">vote</a> reward, or purchashing them from the <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" taget="_blank">gem shop</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#SkinShop" taget="_blank">skin shop</a>, or `/advancements omega` shop. To purchase skins from the omega shop and skin shop you need skin fragments. Since you can only have one copy of a skin, when you find the same one again you receive skin fragments instead.
+- <a href="/Bot-features/Currency-Commands/Badges" taget="_blank">Badges</a>
+- <a href="/Bot-features/Currency-Commands/Skins#ItemSkins" taget="_blank">Items</a>
+- <a href="/Bot-features/Currency-Commands/Skins#PetSkins" taget="_blank">Pets</a>
+- <a href="/Bot-features/Currency-Commands/Skins#FarmSkins" taget="_blank">Farm</a>
+- <a href="/Bot-features/Currency-Commands/Skins#FishTankSkins" taget="_blank">Fish Tank</a>
+- <a href="/Bot-features/Currency-Commands/Skins#FishGuideSkins" taget="_blank">Fish Guide</a>
 
-
-There are 6 commands related to skins: 
-- `/skins view` - where you can view your skin fragment balance as well as all the skins you currently have unlocked.
-- `/skins select badge` - where you can choose if you want to use the gold or platinum version of a badge on your profile (if you have both unlocked).
-- `/skins select farm` - where you can choose which farm skin you want to equip.
-- `/skins select fishtank` - where you can choose which fish tank skin you want to equip.
-- `/skins select item` - where you can pick an item to change the skin for.
-- `/skins select pet` - where you can equip a pet skin on one of your pets. You must own the pet of that type to equip the skin.
+You can unlock skins by finding them when <a href="/Bot-features/Currency-Commands/Grind-Commands" taget="_blank">grinding</a>, earning them as a <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" taget="_blank">level</a> or <a href="/Bot-features/Currency-Commands/Advancements#Vote" taget="_blank">vote</a> reward, or purchashing them from the <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" taget="_blank">gem shop</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#SkinShop" taget="_blank">skin shop</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" taget="_blank">fishing shop</a>, or `/advancements omega` shop. To purchase skins from the omega shop and skin shop you need skin fragments. Since you can only have one copy of a skin, when you find the same one again you receive skin fragments instead.
 
 
-A detailed blog on the release of skins can be found [here](https://dankmemer.lol/community/blog/skin-release).
+There are 7 commands related to skins: 
+- `/skins select badge` - where you can choose if you want to use the gold or platinum version of a <a href="/Bot-features/Currency-Commands/Badges" taget="_blank">badge</a> on your profile (if you have both unlocked).
+- `/skins select farm` - where you can choose which <a href="/Bot-features/Currency-Commands/Skins#FarmSkins" taget="_blank">Farm</a> skin you want to equip.
+- `/skins select fishguidebook` - where you can choose which <a href="/Bot-features/Currency-Commands/Skins#FishGuideSkins" taget="_blank">Fish Guide</a> skin you want to equip.
+- `/skins select fishtank` - where you can choose which <a href="/Bot-features/Currency-Commands/Skins#FishTankSkins" taget="_blank">Fish Tank</a> skin you want to equip.
+- `/skins select item` - where you can pick an <a href="/Bot-features/Currency-Commands/Skins#ItemSkins" taget="_blank">items</a> to change the skin for.
+- `/skins select pet` - where you can equip a <a href="/Bot-features/Currency-Commands/Skins#PetSkins" taget="_blank">pet</a> skin on one of your pets. You must own the pet of that type to equip the skin.
+- `/skins view` - where you can your skin fragment balance as well as all the skins you currently have unlocked.
 
-You can find a tutorial on how to collect and use skins [here](https://dankmemer.lol/tutorial/skins).
+
+A detailed blog on the release of skins can be found [here](https://dankmemer.lol/community/blog/skin-release), and there is a tutorial on how to collect and use skins [here](https://dankmemer.lol/tutorial/skins).
 
 
 ## View Your Skins
@@ -53,6 +59,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | Item Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Aplus" target="_blank">A Plus</a>** | Legacy A Plus | <img src="/bot-features/skins/item-skins/aplus-legacyaplus.png" alt="Legacy A Plus" width="50" height="50"> {: #APlusSkin} |
+  | **<a href="/Items/Power-ups#AdventureCompass" taget="_blank">Adventure Compass</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/adventurecompass-holidaylightsvariant.gif" alt="Realism Variant" width="50" height="50"> {: #AdventureCompassSkin}  |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#AdventureTicket" taget="_blank">Adventure Ticket</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventureticket-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureTicketSkin}  |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AdventureVoucher" target="_blank">Adventure Voucher</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventurevoucher-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureVoucherSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Lively Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-aethslivelyflowervariant.png" alt="Aeth's Lively Flower Variant" width="50" height="50"> {: #AetheryxFlowerSkin} |
@@ -71,8 +78,11 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Apple" target="_blank">Apple</a>** | Poison Variant | <img src="/bot-features/skins/item-skins/apple-poisonvariant.png" alt="Poison Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Baby" target="_blank">Baby</a>** | Legacy Baby | <img src="/bot-features/skins/item-skins/baby-legacybaby.png" alt="Legacy Baby" width="50" height="50"> {: #BabySkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BadoszsCard" target="_blank">Badosz's Card</a>** | Badosz Card Gnik Variant | <img src="/bot-features/skins/item-skins/badoszscard-badoszcardgnikvariant.gif" alt="Badosz Card Gnik Variant" width="50" height="50"> {: #BadoszsCardSkin} |
+  | **<a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/baitbox-holidaylightsvariant.gif" alt="Holiday Lights Bait Box Variant" width="50" height="50"> {: #BaitBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#BanHammer" target="_blank">Ban Hammer</a>** | Legacy Hammer | <img src="/bot-features/skins/item-skins/banhammer-legacyhammer.png" alt="Legacy Hammer" width="50" height="50"> {: #BanHammerSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of sus fluid</a>** | Legacy Beaker | <img src="/bot-features/skins/item-skins/beakerofsusfluid-legacybeaker.png" alt="Legacy Beaker" width="50" height="50"> {: #BeakerofsusfluidSkin} |
+  | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/blackhole-holidaylightsvariant.webp" alt="Holiday Lights Black Hole Variant" width="50" height="50"> {: #BlackHoleSkin} | 
+  | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Unknown Variant | <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Unknown Black Hole Variant" width="50" height="50">  | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a>** | Legacy Binary | <img src="/bot-features/skins/item-skins/binary-legacybinary.png" alt="Legacy Binary" width="50" height="50"> {: #BinarySkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | Pepe Flavored Cake Variant | <img src="/bot-features/skins/item-skins/birthdaycake-pepeflavoredcakevariant.png" alt="Pepe Flavored Cake Variant" width="50" height="50"> {: #BirthdayCakeSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Blob" target="_blank">Blob</a>** | Legacy Blob | <img src="/bot-features/skins/item-skins/blob-legacyblob.gif" alt="Legacy Blob" width="50" height="50"> {: #BlobSkin} | 
@@ -82,6 +92,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Tools#BoxofSand" target="_blank">Box of Sand</a>** | Sand Box Castle Variant | <img src="/bot-features/skins/item-skins/boxofsand-sandboxcastlevariant.gif" alt="Sand Box Castle Variant" width="50" height="50"> {: #BoxofSandSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Consumables#BoxedChocolates" target="_blank">Boxed Chocolates</a>** | Boxed Chocolates Fountain Variant | <img src="/bot-features/skins/item-skins/boxedchocolates-boxedchocolatefountainvariant.gif" alt="Boxed Chocolates Fountain Variant" width="50" height="50"> {: #BoxedChocolatesSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Cactus" target="_blank">Cactus</a>** |  Dancing Cactus Variant | <img src="/bot-features/skins/item-skins/cactus-dancingvariant.gif" alt="Dancing Cactus Variant" width="50" height="50"> {: #CactusSkin} |
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#Cactus" target="_blank">Cactus</a>** |  Holiday Lights Variant | <img src="/bot-features/skins/item-skins/cactus-holidaylightsvariant.gif" alt="Holiday Lights Cactus Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Candy" target="_blank">Candy</a>** | Candy Apple | <img src="/bot-features/skins/item-skins/candy-candyapple.png" alt="Candy Apple" width="50" height="50"> {: #CandySkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#CandyCorn" target="_blank">Candy Corn</a>** | Legacy Candy Corn | <img src="/bot-features/skins/item-skins/candycorn-legacycandycorn.png" alt="Legacy Candy Corn" width="50" height="50"> {: #CandyCornSkin} |
 | **<a href="/Items/Collectables#ChillPill" target="_blank">Chill Pill</a>** | Chill Pill Legacy Variant | <img src="/bot-features/skins/item-skins/chillpill-legacyvariant.png" alt="Chill Pill Legacy Variant" width="50" height="50"> {: #ChillPillSkin} |
@@ -103,6 +114,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | OG Bread | <img src="/bot-features/skins/item-skins/freshbread-ogbread.png" alt="OG Bread" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Garbage Can Variant | <img src="/bot-features/skins/item-skins/garbage-garbagecanvariant.gif" alt="Garbage Can Variant" width="50" height="50"> {: #GarbageSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Legacy Garbage (Smashed Energy Drink) | <img src="/bot-features/skins/item-skins/garbage-legacygarbage(smashedenergydrink).png" alt="Legacy Garbage (Smashed Energy Drink)"  height="50"> |
+  | **<a href="/Items/Collectables#Grass" target="_blank">Grass</a>** | Holiday Lights Variant  | <img src="/bot-features/skins/item-skins/grass-holidaylightsvariant.gif" alt="Holiday Lights Grass"  height="50"> {: #GrassSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#GodBox" target="_blank">God Box</a>** | Legacy God Box | <img src="/bot-features/skins/item-skins/godbox-legacygodbox.gif" alt="Legacy God Box" width="50" height="50"> {: #GodBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#HolyBadoszsBread" target="_blank">Holy Badosz's Bread</a>** | Moldy Holy Bread Variant | <img src="/bot-features/skins/item-skins/holybadoszsbread-moldyholybreadvariant.gif" alt="Moly Holy Bread Variant" width="50" height="50"> {: #HolyBadoszsBreadSkin} |
 | **<a href="/Items/Collectables#HolyWater" target="_blank">Holy Water</a>** | Unholy Variant | <img src="/bot-features/skins/item-skins/holywater-unholyvariant.png" alt="Unholy Holy Water" width="50" height="50"> {: #HolyWaterSkin} |
@@ -129,7 +141,10 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a>** | Legacy Like Button | <img src="/bot-features/skins/item-skins/likebutton-legacylikebutton.png" alt="Legacy Like Button" width="50" height="50"> {: #LikeButtonSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Literally Karen</a>** | Literally Karen Witch Variant | <img src="/bot-features/skins/item-skins/literallykaren-witchvariant.png" alt="Literally Karen Witch" width="50" height="50"> {: #LiterallyKarenSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>** | Legacy Horseshoe | <img src="/bot-features/skins/item-skins/luckyhorseshoe-legacyhorseshoe.png" alt="Legacy Horseshoe" width="50" height="50"> {: #LuckyHorseshoeSkin} |
-| **<a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>** | Legacy Membership Box Skin | <img src="/bot-features/skins/item-skins/membershipbox-legacyboxskin.gif" alt="Membership Box Skin" width="50" height="50"> {: #MembershipBoxSkin} |
+| **<a href="/Items/Collectables#MelmsiesBeard" target="_blank">Melmsie's Beard</a>** | Legacy Melmsie's Beard | <img src="/bot-features/skins/item-skins/melmsiesbeard-legacyvariant.webp" alt="Mel's Beard Legacy Variant" width="50" height="50"> {: #MelmsiesBeardSkin} |
+  | **<a href="/Items/Collectables#MelmsiesBeard" target="_blank">Melmsie's Beard</a>** | Clown Variant | <img src="/bot-features/skins/item-skins/melmsiesbeard-clownvariant.png" alt="Mel's Beard Clown Variant" width="50" height="50">  |
+  | **<a href="/Items/Collectables#MelmsiesBeard" target="_blank">Melmsie's Beard</a>** | Snowy Variant | <img src="/bot-features/skins/item-skins/melmsiesbeard-snowyvariant.png" alt="Mel's Beard Snowy Variant" width="50" height="50">  |
+  | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>** | Legacy Membership Box Skin | <img src="/bot-features/skins/item-skins/membershipbox-legacyboxskin.gif" alt="Membership Box Skin" width="50" height="50"> {: #MembershipBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Packs#MembershipPack" target="_blank">Membership Pack</a>** | Legacy Membership Pack | <img src="/bot-features/skins/item-skins/membershippack-legacypackskin.png" alt="Membership Pack Skin" width="50" height="50"> {: #MembershipPackSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#MemePills" target="_blank">Meme Pills</a>** | Legacy Meme Pills | <img src="/bot-features/skins/item-skins/memepills-legacymemepills.png" alt="Legacy Meme Pills" width="50" height="50"> {: #MemePillsSkin} |
 | **<a href="/Items/Tools#Microphone" target="_blank">Microphone</a>** | Parabolic Microphone | <img src="/bot-features/skins/item-skins/microphone-parabolicvariant.png" alt="Parabolic Microphone" width="50" height="50"> {: #MicrophoneSkin} |
@@ -158,6 +173,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Potato" target="_blank">Potato ☭</a>** | Sussy Legacy Variant | <img src="/bot-features/skins/item-skins/potato-sussylegacyvariant.png" alt="Sussy Legacy Variant" width="50" height="50"> {: #PotatoSkin} |
 | **<a href="/Items/Sellables#Rabbit" target="_blank">Rabbit</a>** | Legacy Rabbit | <img src="/bot-features/skins/item-skins/rabbit-legacyvariant.png" alt="Legacy Rabbit" width="50" height="50"> {: #RabbitSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#RarePepe" target="_blank">Rare Pepe</a>** | Mona Lisa Variant | <img src="/bot-features/skins/item-skins/monalisapepeitem.png" alt="Mona Lisa Variant" width="50" height="50"> {: #RarePepeSkin} |
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#RarePepe" target="_blank">Rare Pepe</a>** | Snowy Variant | <img src="/bot-features/skins/item-skins/rarepepe-snowyvariant.png" alt="Rare Pepe Snowy Variant" width="50" height="50">  |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#RobbersMask" target="_blank">Robbers Mask</a>** | Legacy Robbers Mask | <img src="/bot-features/skins/item-skins/robbersmask-legacyrobbersmask.png" alt="Legacy Robbers Mask" width="50" height="50"> {: #RobbersMaskSkin} |
 | **<a href="/Items/Collectables#RoyalScepter" target="_blank">Royal Scepter</a>** | Trident Variant | <img src="/bot-features/skins/item-skins/royalscepter-tridentvariant.gif" alt="Trident Scepter Skin" width="50" height="50"> {: #RoyalScepterSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SanicHotDog" target="_blank">Sanic Hot Dog</a>** | Sandwich Variant | <img src="/bot-features/skins/item-skins/sanichotdog-sandwichvariant.png" alt="Sandwich Variant" width="50" height="50"> {: #SanicHotDogSkin} |
@@ -173,11 +189,14 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Spider" target="_blank">Spider</a>** | Legacy Spider | <img src="/bot-features/skins/item-skins/spider-legacyspider.png" alt="Legacy Spider" width="50" height="50"> {: #SpiderSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#SpookyMask" target="_blank">Spooky Mask</a>** | Jason Spooky Mask Variant | <img src="/bot-features/skins/item-skins/spookymask-jasonspookymaskvariant.png" alt="Jason Spooky Mask Variant" width="50" height="50"> {: #SpookyMaskSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SquishyPaw" target="_blank">Squishy Paw</a>** | Squishy Cat Paw Variant | <img src="/bot-features/skins/item-skins/squishypaw-squishycatpawvariant.gif" alt="Squishy Cat Paw Variant" width="50" height="50"> {: #SquishyPawSkin} |
+  | **<a href="/Items/Collectables#StackofCash" target="_blank">Stack of Cash</a>** | Snowy Variant | <img src="/bot-features/skins/item-skins/stackofcash-snowyvariant.png" alt="Snowy Stack of Cash" width="50" height="50"> {: #StackOfCashSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#StonkMachine" target="_blank">Stonk Machine</a>** | Legacy Stonk Machine | <img src="/bot-features/skins/item-skins/stonkmachine-legacystonkmachine.png" alt="Legacy Stonk Machine" width="50" height="50"> {: #StonkMachineSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#TipJar" target="_blank">Tip Jar</a>** | Legacy Tip Jar | <img src="/bot-features/skins/item-skins/tipjar-legacytipjar.png" alt="Legacy Tip Jar" width="50" height="50"> {: #TipJarSkin} |
+  | **<a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/toolbox-holidaylightsvariant.gif" alt="Tool Box Holiday Lights" width="50" height="50"> {: #ToolBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#TowniesEyes" target="_blank">Townie's Eyes</a>** | Bloodshot Townie Eyes Variant | <img src="/bot-features/skins/item-skins/townieseyes-bloodshottownieeyesvariant.gif" alt="Bloodshot Townie Eyes Variant" width="50" height="50"> {: #TowniesEyesSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Trash" target="_blank">Trash</a>** | Legacy Trash (Eaten Apple) | <img src="/bot-features/skins/item-skins/trash-legacytrash(eatenapple).png" alt="Legacy Trash (Eaten Apple)" width="50" height="50"> {: #TrashSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Question Trivia Trophy Variant | <img src="/bot-features/skins/item-skins/triviatrophy-questiontriviatrophyvariant.png" alt="Question Trivia Trophy Variant" width="50" height="50"> {: #TriviaTrophySkin} |
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/triviatrophy-holidaylightsvariant.gif" alt="Holiday Lights Trophy Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Tumbleweed" target="_blank">Tumbleweed</a>** | Googly Eye Tumbleweed Variant | <img src="/bot-features/skins/item-skins/tumbleweed-googlyeyetumbleweedvariant.gif" alt="Googly Eye Tumbleweed Variant" width="50" height="50"> {: #TumbleWeedSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Used Diaper</a>** | Legacy Diaper | <img src="/bot-features/skins/item-skins/useddiaper-legacydiaper.png" alt="Legacy Diaper" width="50" height="50"> {: #UsedDiaperSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a>** | Legacy Vaccine | <img src="/bot-features/skins/item-skins/vaccine-legacyvaccine.png" alt="Legacy vaccine" width="50" height="50"> {: #VaccineSkin} |
@@ -254,13 +273,14 @@ The pet skins can be equipped on a pet you own, but only for the type of pet it 
   <br>
 
 ### <font color =b32d2d>Farm Skins</font> {: #FarmSkins}
-The farm skins can be equipped on your farm, and it will be what you or anyone else sees when they view your farm. To view the skins you have unlocked for the farm, use the `/skins select farm` command.
+The <a href="/Bot-features/Currency-Commands/Farm" target="_blank">farm</a> skins can be equipped on your farm, and it will be what you or anyone else sees when they view your farm. To view the skins you have unlocked for the farm, use the `/skins select farm` command.
 
 <center>
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Blob {: #BlobSkin} | <img src="/bot-features/skins/farm-skins/farm-blob.png" alt="Farm Desert" width="50" height="50"> |
+| **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Basic {: #BaseFarmSkin} | <img src="/bot-features/skins/farm-skins/farm-baseskin.png" alt="Farm Desert" width="50" height="50"> |
+  | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Blob {: #BlobSkin} | <img src="/bot-features/skins/farm-skins/farm-blob.png" alt="Farm Desert" width="50" height="50"> |
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Desert {: #DesertSkin} | <img src="/bot-features/skins/farm-skins/farm-desert.png" alt="Farm Desert" width="50" height="50"> |
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Ghostly {: #GhostlySkin} | <img src="/bot-features/skins/farm-skins/farm-ghostly.png" alt="Farm Desert" width="50" height="50"> |
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
@@ -279,7 +299,21 @@ The fish tank skins can be equipped on your fish tank, and it will be what you o
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #BaseTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-base.png" alt="Base Fish Tank" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
+  
+  </center>
+  
+### <font color =b32d2d>Fish Guide Skins</font> {: #FishGuideSkins}
+The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">fish guide</a> skins can be equipped on your `/fish guide`, and it will be what you or anyone else sees when they view your guidebook. To view the skins you have unlocked for the fish guide, use the `/skins select fishguidebook` command.
+
+<center>
+  
+| Name | Skin Name | Skin Image |
+|:------:|:----:|:------:|
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Winter {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-winterskin.png" alt="Winter Fish Guidebook Skin" width="100"> |
 
 
   </center>
