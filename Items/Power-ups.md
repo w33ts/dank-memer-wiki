@@ -2,7 +2,7 @@
 title: Power-ups
 description: Learn about Dank Memer power-up items that can help give you a boost when running commands.
 published: true
-date: 2023-11-24T09:44:37.057Z
+date: 2024-01-03T22:38:10.887Z
 tags: robbers mask, alcohol, bottle of whiskey, adventure compass, ammo, bait, fishing bait, life saver, lucky horseshoe, apple, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:05.066Z
@@ -44,6 +44,8 @@ Power-up items are items that give the user some kind of boost to help them when
 | **Spooky Mask** {: #SpookyMask} | <img src="/items/power-ups/spookymask.png" alt="Spooky Mask" width="50" height="50"> | 198 | An item that scares all your pets into submission. The pets won't lose levels, but they also will not gain xp, reproduce, or be able to fight. This lasts 2 weeks. | Yes | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#ISpoopedMyPants" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#SpookyMaskSkin" target="_blank">Yes</a> | 
 | **Stolen Amulet** {: #StolenAmulet} | <img src="/items/power-ups/stolenamulet.gif" alt="Stolen Amulet" width="50" height="50"> | 237 | An item that makes it so you ***always*** get a reward from the `/dig` command. This item usage lasts an hour. This item can be found from the Grave Digger job. | Yes | <a href="/Bot-features/Currency-Commands/Work" target="_blank">Work</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#ChronicWorker" target="_blank">Yes</a> | No | 
 | **Streak Freeze** {: #StreakFreeze} | <img src="/items/power-ups/streakfreeze.png" alt="Streak Freeze" width="50" height="50"> | 50 | This item saves your streaks, marriage, pets, and work. The usage of this item lasts 7 days | Yes | <a href="https://dankmemer.wiki/en/Items/Packs#MembershipPack" target="_blank">Membership Pack</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#Craft" target="_blank">Craft</a>, <a href="https://dankmemer.wiki/e/en/About-Dank-Memer/Vote/Vote-levels#VoteRewards" target="_blank">Vote Rewards</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#HumanPowerup" target="_blank">Yes</a> | No |
+| **Tentacled Temptation** {: #TentacledTemptation} | <img src="/items/power-ups/tentacledtemptation.gif" alt="Tentacled Temptation" width="50" height="50"> | 271 | An item that prevents you from dying in an adventure for 3 hours. | Yes | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fishing Shop</a> | <a href="/Bot-features/Currency-Commands/Bundles#Fisher" target="_blank">Yes</a> | No | 
+
 
 <br>
 
