@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-01-01T20:38:55.862Z
+date: 2024-01-03T22:32:56.496Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -136,14 +136,14 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#Laptop" target="_blank">Laptop</a>
 - <a href="/Items/Sellables#Lasso" target="_blank">Lasso</a>
 - <a href="/Items/Sellables#LawDegree" target="_blank">Law Degree</a>
-- <a href="/Items/Collectables#CommonFish" target="_blank">Legacy Common Fish</a>
-- <a href="/Items/Collectables#ExoticFish" target="_blank">Legacy Exotic Fish</a>
-- <a href="/Items/Collectables#FishingBait" target="_blank">Legacy Fishing Bait</a>
-- <a href="/Items/Collectables#FishingPole" target="_blank">Legacy Fishing Pole</a>
-- <a href="/Items/Collectables#JellyFish" target="_blank">Legacy Jelly Fish</a>
-- <a href="/Items/Collectables#Kraken" target="_blank">Legacy Kraken</a>
-- <a href="/Items/Collectables#LegendaryFish" target="_blank">Legacy Legendary Fish</a>
-- <a href="/Items/Collectables#RareFish" target="_blank">Legacy Rare Fish</a>
+- <a href="/Items/Collectables#LegacyCommonFish" target="_blank">Legacy Common Fish</a>
+- <a href="/Items/Collectables#LegacyExoticFish" target="_blank">Legacy Exotic Fish</a>
+- <a href="/Items/Collectables#LegacyFishingBait" target="_blank">Legacy Fishing Bait</a>
+- <a href="/Items/Collectables#LegacyFishingPole" target="_blank">Legacy Fishing Pole</a>
+- <a href="/Items/Collectables#LegacyJellyFish" target="_blank">Legacy Jelly Fish</a>
+- <a href="/Items/Collectables#LegacyKraken" target="_blank">Legacy Kraken</a>
+- <a href="/Items/Collectables#LegacyLegendaryFish" target="_blank">Legacy Legendary Fish</a>
+- <a href="/Items/Collectables#LegacyRareFish" target="_blank">Legacy Rare Fish</a>
 - <a href="/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>
 - <a href="/Items/Collectables#LikeButton" target="_blank">Like Button</a>
 - <a href="/Items/Sellables#LiterallyaTree" target="_blank">Literally a Tree</a>
