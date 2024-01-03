@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-03T23:46:19.621Z
+date: 2024-01-03T23:48:23.507Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -301,9 +301,9 @@ The fish tank skins can be equipped on your fish tank, and it will be what you o
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #BaseTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-base.png" alt="Base Fish Tank" width="100"> |
-  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
-  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Base Tank {: #BaseTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-base.png" alt="Base Fish Tank" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Black Rock {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Bone Tank {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
   | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
   
   </center>
