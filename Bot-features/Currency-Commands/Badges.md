@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2024-01-03T22:43:40.254Z
+date: 2024-01-03T22:45:59.547Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -100,10 +100,10 @@ The following badges were once available to be unlocked, but they are currently 
 
 | Badge Name | Gold Badge Image | Platinum Badge Skin | Type Of Badge |
 |:------:|:----:|:------:|:------:|:----:|
-| New Year, New Me | <img src="/bot-features/dank-goals/badges/2020badge_new.webp" alt="New Year, New Me" width="50" height="50"> | N/A | Year Badge |
-| Another Year, Same Me | <img src="/bot-features/dank-goals/anotheryearsameme.png" alt="Another Year, Same Me" width="50" height="50"> | N/A | Year Badge | 
-| Still Alive Somehow | <img src="/bot-features/dank-goals/stillalivesomehow.png" alt="Still Alive Somehow" width="50" height="50"> | N/A | Year Badge | 
- | Free of 2023 | <img src="/bot-features/dank-goals/badges/2023badge.png" alt="2023 Badge" width="50" height="50"> | N/A | Year Badge | 
+| New Year, New Me | <img src="/bot-features/dank-goals/badges/2020badge_new.webp" alt="New Year, New Me" width="50" height="50"> | N/A | Year Badge - earned for running a command on the last day of 2020. |
+| Another Year, Same Me | <img src="/bot-features/dank-goals/anotheryearsameme.png" alt="Another Year, Same Me" width="50" height="50"> | N/A | Year Badge - earned for running a command on the last day of 2021. | 
+| Still Alive Somehow | <img src="/bot-features/dank-goals/stillalivesomehow.png" alt="Still Alive Somehow" width="50" height="50"> | N/A | Year Badge - earned for running a command on the last day of 2022. | 
+ | Free of 2023 | <img src="/bot-features/dank-goals/badges/2023badge.png" alt="2023 Badge" width="50" height="50"> | N/A | Year Badge - earned for running a command on the last day of 2023. | 
 | Slash Tester | <img src="/bot-features/dank-goals/slashtester.gif" alt="Slash Tester" width="50" height="50"> | N/A | Given for participating in the 2022 Public Beta Test |
 | Slippery Snake | <img src="/bot-features/dank-goals/slipperysnake.gif" alt="Slippery Snake" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/slipperysnakeplatinum.png" alt="Slippery Snake Platinum" width="50" height="50"> | Old `/snakeEyes` Badge |
 | Dice Shake | <img src="/bot-features/dank-goals/diceshaker.png" alt="Dice Shaker" width="50" height="50"> | <img src="/bot-features/dank-goals/badges/diceshakerplatinum.png" alt="Dice Shaker Platinum" width="50" height="50"> | Old `/gamble` Badge |
