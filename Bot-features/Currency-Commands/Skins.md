@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-03T23:45:20.306Z
+date: 2024-01-03T23:46:19.621Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -115,8 +115,8 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | OG Bread | <img src="/bot-features/skins/item-skins/freshbread-ogbread.png" alt="OG Bread" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Garbage Can Variant | <img src="/bot-features/skins/item-skins/garbage-garbagecanvariant.gif" alt="Garbage Can Variant" width="50" height="50"> {: #GarbageSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Legacy Garbage (Smashed Energy Drink) | <img src="/bot-features/skins/item-skins/garbage-legacygarbage(smashedenergydrink).png" alt="Legacy Garbage (Smashed Energy Drink)"  height="50"> |
+  | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#GodBox" target="_blank">God Box</a>** | Legacy God Box | <img src="/bot-features/skins/item-skins/godbox-legacygodbox.gif" alt="Legacy God Box" width="50" height="50"> {: #GodBoxSkin} |
   | **<a href="/Items/Collectables#Grass" target="_blank">Grass</a>** | Holiday Lights Variant  | <img src="/bot-features/skins/item-skins/grass-holidaylightsvariant.gif" alt="Holiday Lights Grass"  height="50"> {: #GrassSkin} |
-| **<a href="https://dankmemer.wiki/en/Items/Lootboxes#GodBox" target="_blank">God Box</a>** | Legacy God Box | <img src="/bot-features/skins/item-skins/godbox-legacygodbox.gif" alt="Legacy God Box" width="50" height="50"> {: #GodBoxSkin} |
   | **<a href="/Items/Collectables#Gravestone" target="_blank">Gravestone</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/gravestone-holidaylightsvariant.gif" alt="Holiday Lights Gravestone" width="50" height="50"> {: #GravestoneSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#HolyBadoszsBread" target="_blank">Holy Badosz's Bread</a>** | Moldy Holy Bread Variant | <img src="/bot-features/skins/item-skins/holybadoszsbread-moldyholybreadvariant.gif" alt="Moly Holy Bread Variant" width="50" height="50"> {: #HolyBadoszsBreadSkin} |
 | **<a href="/Items/Collectables#HolyWater" target="_blank">Holy Water</a>** | Unholy Variant | <img src="/bot-features/skins/item-skins/holywater-unholyvariant.png" alt="Unholy Holy Water" width="50" height="50"> {: #HolyWaterSkin} |
