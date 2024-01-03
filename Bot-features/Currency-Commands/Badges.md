@@ -2,14 +2,16 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2024-01-03T22:45:59.547Z
+date: 2024-01-03T23:15:10.271Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
 ---
 
 # Badges
-Badges can be unlocked by playing the bot and reaching certain milestones. Earning a badge can be a challenge, and they all are varying degrees of difficulty. If you want an extra challenge, each badge also has a platinum version that is even harder.
+Badges can be unlocked by playing the bot and reaching certain milestones. Earning a badge can be a challenge, and they all are varying degrees of difficulty. If you want an extra challenge, each badge also has a platinum version that is even harder. 
+
+The platinum version of a badge is really a <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skin</a> for the badge, and once unlocked, you can choose which version of the badge you want to display. Since it is a skin, you cannot use or display a platinum badge until you have the golden badge first.
 
 You can check your badge progress with the `/badges list` command. Within this command, you can filter the badge information by:
 - Gold Unlocked
