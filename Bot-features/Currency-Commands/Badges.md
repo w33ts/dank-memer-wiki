@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2024-01-02T05:29:18.489Z
+date: 2024-01-03T22:43:40.254Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -48,7 +48,7 @@ There are currently four upkeep badges possible to unlock. Upkeep required badge
 | Badge Name | Gold Badge Image | Gold Badge Requirement | Platinum Badge Skin | Platinum Badge Requirement |
 |:------:|:----:|:------:|:------:|:----:|
 | Daily Devotee | <img src="/bot-features/dank-goals/badges/dailydevoteegold.png" alt="Daily Devotee" width="50" height="50"> | Have a daily streak of 420 | <img src="/bot-features/dank-goals/badges/dailydevoteeplatinum.png" alt="Daily Devotee Platinum" width="50" height="50"> | Have a daily streak of 666 |
-| Seasoned Angler {: #Angler} | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge.webp" alt="Seasoned Angler Badge" width="50" height="50"> | Complete the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide book</a> | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge_platinum.webp" alt="Seasoned Angler Platinum" width="50" height="50"> | Rank 1st on one of the daily <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLeaderboards" target="_blank">/fish leaderboards</a> |
+| Seasoned Angler {: #Angler} | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge.webp" alt="Seasoned Angler Badge" width="50" height="50"> | Complete the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">/fish guide book</a>. Each time new NPCs, locations, or creatures are available, you must reach 100% again to re-obtain the badge | <img src="/bot-features/dank-goals/badges/seasonedanglerbadge_platinum.webp" alt="Seasoned Angler Platinum" width="50" height="50"> | Rank 1st on one of the daily <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLeaderboards" target="_blank">/fish leaderboards.</a> <br> You do not have to upkeep the platinum requirements |
 | Marital Marvel | <img src="/bot-features/dank-goals/maritalmarvel.png" alt="Marital Marvel" width="50" height="50"> | Stay married for 16 weeks | <img src="/bot-features/dank-goals/badges/maritalmarvelplatinum.png" alt="Marital Marvel Platinum" width="50" height="50"> | Stay married for 52 weeks |
 | Goldzilla | <img src="/bot-features/dank-goals/goldzilla.png" alt="Rock" width="50" height="50"> | Have a net worth of 100,000,000,000 | <img src="/bot-features/dank-goals/badges/goldzillaplatinum.png" alt="Goldzilla Platinum" width="50" height="50"> | Have a net worth of 300,000,000,000 |
   
