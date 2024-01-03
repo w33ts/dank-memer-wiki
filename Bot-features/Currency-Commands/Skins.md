@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-03T23:36:38.718Z
+date: 2024-01-03T23:44:05.350Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -109,6 +109,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="/Items/Sellables#Duck" target="_blank">Duck</a>** | Legacy Duck | <img src="/bot-features/skins/item-skins/duck-legacyvariant.png" alt="Legacy Duck" width="50" height="50"> {: #DuckSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Ectoplasm" target="_blank">Ectoplasm</a>** | Legacy Ectoplasm | <img src="/bot-features/skins/item-skins/ectoplasm-legacyectoplasm.png" alt="Legacy Ectoplasm" width="50" height="50"> {: #EctoplasmSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#ElfOnTheShelf" target="_blank">Elf On The Shelf</a>** | Burning Elf Variant | <img src="/bot-features/skins/item-skins/elfontheshelf-burningvariant.gif" alt="Burning Elf Variant" width="50" height="50"> {: #ElfOnTheShelfSkin} |
+| **<a href="/Items/Collectables#EnchantedBadoszCard" target="_blank">Enchanted Badosz's Card</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/enchantedbadoszcard-holidaylightsvariant.gif" alt="Holiday Enchanted Badosz Card" width="50" height="50"> {: #EnchantedBadoszSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a>** | Legacy Energy Drink | <img src="/bot-features/skins/item-skins/energydrink-legacyenergydrink.png" alt="Legacy Energy Drink" width="50" height="50"> {: #EnergyDrinkSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | Legacy Bread | <img src="/bot-features/skins/item-skins/freshbread-legacybread.png" alt="Legacy Bread" width="50" height="50"> {: #FreshBreadSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | OG Bread | <img src="/bot-features/skins/item-skins/freshbread-ogbread.png" alt="OG Bread" width="50" height="50"> |
@@ -116,6 +117,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Legacy Garbage (Smashed Energy Drink) | <img src="/bot-features/skins/item-skins/garbage-legacygarbage(smashedenergydrink).png" alt="Legacy Garbage (Smashed Energy Drink)"  height="50"> |
   | **<a href="/Items/Collectables#Grass" target="_blank">Grass</a>** | Holiday Lights Variant  | <img src="/bot-features/skins/item-skins/grass-holidaylightsvariant.gif" alt="Holiday Lights Grass"  height="50"> {: #GrassSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#GodBox" target="_blank">God Box</a>** | Legacy God Box | <img src="/bot-features/skins/item-skins/godbox-legacygodbox.gif" alt="Legacy God Box" width="50" height="50"> {: #GodBoxSkin} |
+  | **<a href="/Items/Collectables#Gravestone" target="_blank">Gravestone</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/gravestone-holidaylightsvariant.gif" alt="Holiday Lights Gravestone" width="50" height="50"> {: #GravestoneSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#HolyBadoszsBread" target="_blank">Holy Badosz's Bread</a>** | Moldy Holy Bread Variant | <img src="/bot-features/skins/item-skins/holybadoszsbread-moldyholybreadvariant.gif" alt="Moly Holy Bread Variant" width="50" height="50"> {: #HolyBadoszsBreadSkin} |
 | **<a href="/Items/Collectables#HolyWater" target="_blank">Holy Water</a>** | Unholy Variant | <img src="/bot-features/skins/item-skins/holywater-unholyvariant.png" alt="Unholy Holy Water" width="50" height="50"> {: #HolyWaterSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a>** | Legacy Hunting Badge | <img src="/bot-features/skins/item-skins/huntingrifle-legacyhuntingbadge.png" alt="Legacy Hunting Badge" width="50" height="50"> {: #HuntingRifleSkin} |
