@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-01-03T22:39:05.371Z
+date: 2024-01-04T21:52:40.491Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -244,7 +244,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Power-ups#StreakFreeze" target="_blank">Streak Freeze</a>
 - <a href="/Items/Consumables#SugarSkull" target="_blank">Sugar Skull</a>
 - <a href="/Items/Collectables#SunbearsD20" target="_blank">Sunbear's D20</a>
-- <a href="/Items/Sellables#SunkenTreasure" target="_blank">Sunken Trasure</a>
+- <a href="/Items/Sellables#SunkenTreasure" target="_blank">Sunken Treasure</a>
 - <a href="/Items/Power-ups#TentacledTemptation" target="_blank">Tentacled Temptation</a>
 - <a href="/Items/Collectables#TheLetter" target="_blank">The Letter</a>
 - <a href="/Items/Collectables#TheMegaphone" target="_blank">The Megaphone</a>
