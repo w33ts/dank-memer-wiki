@@ -2,7 +2,7 @@
 title: Multipliers
 description: Learn about xp and coin multipliers, how they work, and ways to earn them.
 published: true
-date: 2024-01-04T00:08:19.340Z
+date: 2024-01-04T22:43:07.851Z
 tags: leveling, badges, multipliers, coin multiplier, xp multiplier, multi, xp, coin, prestige coin, stonk coin, cupids toe, shredded cheese, slice of pizza, daily box, cowboy boots, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:20:54.508Z
@@ -33,6 +33,7 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 ### <font color =b32d2d>Your XP multiplier can be affected by</font> {: #XPMulti}
 | Name | XP Multiplier | Duration | Extra info |
 |:------:|:----:|:----:|:----:|
+| Adventures | 1.1x (from Space) or 1.02x/1.25x (from Brazil) | 1 hour | The Brazil and Space adventures both have nodes (Galaxy Donuts & Zog Fight) that have a possibility of giving an xp multiplier. |
 | <a href="https://dankmemer.wiki/en/Items/Collectables#CowboyBoots" target="_blank">Cowboy Boots</a> | 2x | 4 hours | Can only use one at a time. |
 | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DailyBox" target="_blank">Daily Box</a> | 2x | 10 minutes | Can use more than 1 at a time. |
 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Delegator" target="_blank">Delegator VI (/Fish Skills)</a> | 2x | Is active as long as your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">/fish idle</a> machine is not full | Requires the <a href="/Bot-features/Currency-Commands/Badges#Angler" target="_blank">Seasoned Angler Badge</a> and <a href="/Bot-features/Currency-Commands/Badges#XPBadge" target="_blank">Platinum XP Badge</a> to unlock |
@@ -50,6 +51,7 @@ You will be notified when your boost starts and ends, with a notifiation at the 
 | Scratch Rewards | Varies | Varies | Depends on the <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">/scratch</a> reward at that time. |
 | <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a> | Up to 1.5x | Until the next Prestige/Omega | Consume cheese until 1.5x multipler is reached. Requires 50 cheese successfully consumed. |
 | <a href="/Items/Collectables#SunbearsD20" target="_blank">Sunbear's D20</a> | 1.05x (Roll 7), 1.2x (Roll 11), 1.5x (Roll 17), 2x (Roll 20) | Lasts 12-24 hours | Can use once per 24 hour period, and results can include multipliers for luck, coins, or XP, as well as miscellaneous other items. The D20 can also break, destroying the item. |
+| <a href="https://dankmemer.wiki/Items/Lootboxes#UniverseBox" target="_blank">Universe Box</a> | 2x | 12 hours | Can only use one at a time. |
 | <a href="/About-Dank-Memer/Vote" target="_blank">Vote</a> | 1.5x | Lasts 2 hours per site | Each site gives a 1.50x XP multiplier. Voting on both extends the time and does not stack. |
 
 <br>
