@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2024-01-04T23:19:15.258Z
+date: 2024-01-04T23:36:36.161Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -200,7 +200,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - I'm Dynamite Baby
 - Net Positive, Grass Negative
 
-### From Gem Shop (28)
+### From Gem Shop (40)
 - <img src="/bot-features/basic-commands/title/credit-card.gif" alt="Credit Card" width="18" height="18">
 - <img src="/bot-features/basic-commands/title/gem-static.png" alt="Gem Static" width="18" height="18"> <img src="/bot-features/basic-commands/title/gem-static.png" alt="Gem Static" width="18" height="18"> <img src="/bot-features/basic-commands/title/gem-static.png" alt="Gem Static" width="18" height="18">
 - <img src="/bot-features/basic-commands/title/legacy-odd-eye.gif" alt="Legacy Odd Eye" width="18" height="18">:lips:<img src="/bot-features/basic-commands/title/legacy-odd-eye.gif" alt="Legacy Odd Eye" width="18" height="18">
@@ -210,18 +210,27 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Bad Bitch Energy
 - barely surviving
 - Big Chet Energy
+- Bought Chet's NFTs
+- Chad lift me pls
+- Chronic Fight Loser
 - Collecting > Fighting
 - Fighting > Gambling
 - Fish fear me
+- Fishing > Fighting
 - Gambling > Fighting
 - Gem Rat
 - I embezzled this title
 - Just one more wager… <img src="/bot-features/basic-commands/title/fight.png" alt="Fight" width="18" height="18">
+- Mistletoe Simp
+- My other car is a gem
+- Mysterious Figure Stan
 - NPC Simp
 - No Rizz
 - Not a lawyer
 - On Vacation <img src="/bot-features/basic-commands/title/streak-freeze.png" alt="Streak Freeze" width="18" height="18">
+- Robbieland Native
 - Royalty <img src="/bot-features/basic-commands/title/legacy-pepe-crown.png" alt="Legacy Pepe Crown" width="18" height="18">
+- Samuel is my dad
 - Skipped leg day
 - Slaying 💅
 - <img src="/bot-features/basic-commands/title/fishing-harpoon.png" alt="Fishing Harpoon" width="18" height="18"> Summon Fish Update <img src="/bot-features/basic-commands/title/swordfish.png" alt="Swordfish" width="18" height="18">
@@ -229,8 +238,11 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Team Freshwater
 - Team Saltwater
 - VAT Cat
+- Weak in the knees
+- Why are my pets so h*rny
+- Zara's #1 Student
 
-### From Leveling (42)
+### From Leveling (43)
 #### <font color =b32d2d>Not obtainable (6)</font> 
 - Re-poster (Level 5)
 - Original Memer (Level 15)
@@ -239,7 +251,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Kek Lord (Level 100)
 - Badosz Stan (Level 13,500)
 
-#### <font color =b32d2d>Obtainable (33)</font> 
+#### <font color =b32d2d>Obtainable (37)</font> 
 - Newbie (Level 1)
 - Memer (Level 10)
 - Dank Memer (Level 25)
@@ -276,6 +288,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Odd Player (Level 13,000)
 - why pls rich no work (Level 14,500)
 - Agrostophobic (Level 15,000)
+- Why? (Level 20,000)
 
 ### From Marriage (2)
 - True Love (Marriage Level 15)
@@ -286,26 +299,43 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Omega Chad
 - Omega Virgin
 
-### From Other (16)
-#### <font color =b32d2d>Not obtainable (8)</font> 
-- Actually Never Seen Grass (Voting)
-- Chonky Stonky (Exclusive Title #1 Website Subscriber)
-- Donated XX <img src="/items/collectables/pinkplasticbits.png" alt="Pink Plastic Bits" width="18" height="18"> (Custom from Pink Event Donations)
-- Look Mom, I'm a Beta (Beta Testing)
-- Member me? (Exclusive Title #2 Website Subscriber)
-- no (Voting)
-- Patreon Drools (Exclusive Title #3 Website Subscriber)
-- Yes (Voting)
+### From Voting (7)
+#### <font color =b32d2d>Not obtainable (5)</font> 
+- Actually Never Seen Grass
+- I eated cake
+- no
+- Water my melons
+- Yes
 
-#### <font color =b32d2d>Obtainable (8)</font> 
+#### <font color =b32d2d>Obtainable (2)</font> 
+- develop deez
+- MVP Voter
+
+### From Website (5)
+#### <font color =b32d2d>Not obtainable (3)</font> 
+- Chonky Stonky (Exclusive Title #1 Website Subscriber)
+- Member me? (Exclusive Title #2 Website Subscriber)
+- Patreon Drools (Exclusive Title #3 Website Subscriber)
+
+#### <font color =b32d2d>Obtainable (2)</font> 
 - Big Member (Subscribe for three months)
 - Gemcat's Lil Cutie (Website - Purchasing $100 Gem Bundle)
-- I eated cake (Voting)
-- Lottery Winner (Winning Lotto)
-- MVP Voter (Voting)
+
+### From Other (9)
+#### <font color =b32d2d>Not obtainable (7)</font> 
+- Beloved Staff Member (Exclusive gift from Mel)
+- Donated XX <img src="/items/collectables/pinkplasticbits.png" alt="Pink Plastic Bits" width="18" height="18"> (Custom from Pink Event Donations)
+- droppy papi (limited drop)
+- Happy Holidays ❤️ MeL (Exclusive gift from Mel)
+- Look Mom, I'm a Beta (Beta Testing)
 - Pinkies Down! (Pink "Bit of a Change" Event - 2nd Place)
 - Pinkies Up! (Pink "Bit of a Change" Event - 1st Place)
-- Water my melons (Voting)
+
+*~ Several other custom titles from Mel (not included in count above)*
+
+#### <font color =b32d2d>Obtainable (2)</font> 
+- Lottery Winner (Winning Lotto)
+- stupid universe box... (Universe Box)
 
 ---
 
