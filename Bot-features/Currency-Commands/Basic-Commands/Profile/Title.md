@@ -2,33 +2,35 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2023-08-08T22:14:19.811Z
+date: 2024-01-04T23:19:15.258Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
 ---
 
 # Titles
-There are a variety of titles you can unlock that you can display at the top of your profile, and tons of ways titles can be earned, including <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">achievements</a>, <a href="/Bot-features/Currency-Commands/Badges" target="_blank">badges</a>, <a href="/Bot-features/Currency-Commands/Bundles" target="_blank">bundles</a>, special events, <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">leveling</a>, and more. Check out the <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">list of available titles</a> to see what you can aim for! 
+There are a variety of titles you can unlock that you can display at the top of your profile, and tons of ways titles can be earned, including <a href="/Bot-features/Currency-Commands/Achievements" target="_blank">achievements</a>, <a href="/Bot-features/Currency-Commands/Badges" target="_blank">badges</a>, <a href="/Bot-features/Currency-Commands/Bundles" target="_blank">bundles</a>, special events, <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank"> leveling</a>, and more. Check out the <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">list of available titles</a> to see what you can aim for! 
 
 You can check all your obtained titles with the `/titles list` command.
 If you want to select a specific title to display, you can do so with the `/titles set` command.
 
 Read about other ways you can customize your profile <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">here</a>.
 
-## Possible Titles
-### From Achievements
-#### <font color =b32d2d>Not obtainable</font> 
+## Possible Titles (265)
+### From Achievements (37)
+#### <font color =b32d2d>Not obtainable (3)</font> 
 - Professional Petter
 - Satan
 - Terrible Pet Owner
 
-#### <font color =b32d2d>Obtainable</font> 
+#### <font color =b32d2d>Obtainable (34)</font> 
 - Achievement Hunter
 - Always Dead
 - Bad Plant Parent
 - Badger Binger
+- Bossmaster
 - Bundled Baby
+- Busy Angler
 - Chain Fighter
 - Crafter
 - Daily Grinder
@@ -44,21 +46,49 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Melmsie's Favorite
 - No-Lifer
 - Nosy Neighbor
+- NPC HATER!
+- NPC Stan
 - Omega God
 - Omega Player
 - Overachiever
 - Popular Farmer
 - Prestige Royalty
 - Stream Queen
+- Tool Stomper
 - Use me?
+- Water Collector
 - Wet and Dirty
 
-### From Adventures
+### From Adventures (26)
+- Band Kid (Brazil)
 - Cat Lover (Halloween)
 - Corn Enjoyer (Halloween)
+- Dirty dirty liar (Winter Wonderland)
+- Dirty Thief (Museum)
+- Exotic Dancer (Brazil)
+- Eye Collection Agent (Space)
+- Fish Update WHEN? (Museum)
+- Frozen Winner (Winter Wonderland)
+- Heavy Drinker (Brazil)
+- Hunter at Heart (Museum)
+- Impatient AF (Winter Wonderland)
+- Jim Carrey MEGAFAN (Winter Wonderland)
+- Keeper? I barely know er (Vacation)
+- Kid Defeater (Winter Wonderland)
+- Kind Soul (Out West)
+- Never Smiling (Vacation)
+- Ring a Ding a Dong (Brazil)
+- Sk8ter Boi (Winter Wonderland)
+- Sleigh Slayer (Winter Wonderland)
+- Snail Eater (Vacation)
+- Super NERD (Winter Wonderland)
+- Urinary Visionary (Space)
+- Wish Granted (Space)
+- ZogChamp (Brazil)
+- Zoya Slayer (Brazil)
 
-### From Badges
-#### <font color =b32d2d>Not obtainable</font> 
+### From Badges (37)
+#### <font color =b32d2d>Not obtainable (11)</font> 
 - Alpha Tester
 - BJ Master
 - Bot Moderator
@@ -66,11 +96,12 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Developer
 - Dice Shaker
 - Itch Scratcher
+- Rod Master
 - Slash Tester
 - Slippery Snake
 - Slot Master
 
-#### <font color =b32d2d>Obtainable</font> 
+#### <font color =b32d2d>Obtainable (26)</font> 
 - Always High
 - BANG BANG BANG Expert
 - Bester Quester
@@ -80,6 +111,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Charity Leader
 - Collector
 - Crime Lord
+- Daily Devotee
 - Diggin It
 - Disenfranchised Voter
 - Fighter
@@ -93,20 +125,22 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Pet Handling Expert
 - Poor Little Beggar
 - Rob Them Blind
-- Rod Master
+- Seasoned Angler
 - Server Lifeblood
 - XPlosion Expert
 
-### From Bundles
-#### <font color =b32d2d>Not obtainable</font> 
+### From Bundles (27)
+#### <font color =b32d2d>Not obtainable (5)</font> 
 - Drop Shopper
+- Fisher
 - Packer
 - Phalliac
 - QuizNOs!
 
-#### <font color =b32d2d>Obtainable</font> 
+#### <font color =b32d2d>Obtainable (22)</font> 
 - Adept Farmer
 - Adventurer
+- Angler
 - Bits and Bobs Collector
 - Boxer
 - Brazilian Vacationer
@@ -115,7 +149,6 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Dev Collector
 - Excavator
 - Family Starter
-- Fisher
 - Holiday Collector
 - Human Powerup
 - Hunter
@@ -128,7 +161,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Streaming Maniac
 - Total Tool
 
-### From Fights
+### From Fights (7)
 - Bronze Warrior (Bronze Rank)
 - Iron Knight (Iron Rank)
 - Silver Surfer (Silver Rank)
@@ -137,31 +170,85 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Green like Pepe (Jade Rank)
 - Elite Fighter (Amethyst Rank)
 
-### From Gem Store
+### From Fish Leaderboards (3 Types)
+- *Fish Name* Champion
+- *Location Name* Native
+- *NPC Name's* BFF
+
+### From Fish Season Pass 1 (8)
+- A bit fishy...
+- Dark Knight
+- Fishing Addict
+- Haunter, I barely know er'
+- Jack Skellingfisher
+- Seasoned Passer
+- Trick or Treater
+- Water Haunter
+
+### From Fish Season Pass 2 (7)
+- Holiday spirits haunt me
+- Kissing Santa rn
+- Lump of coal
+- Naughty lister
+- Nice lister
+- Rock around my tree...
+- Santa's Baby
+
+### From Fish Shop (4)
+- All Hands, All Day
+- Harpoons make me swoon
+- I'm Dynamite Baby
+- Net Positive, Grass Negative
+
+### From Gem Shop (28)
+- <img src="/bot-features/basic-commands/title/credit-card.gif" alt="Credit Card" width="18" height="18">
+- <img src="/bot-features/basic-commands/title/gem-static.png" alt="Gem Static" width="18" height="18"> <img src="/bot-features/basic-commands/title/gem-static.png" alt="Gem Static" width="18" height="18"> <img src="/bot-features/basic-commands/title/gem-static.png" alt="Gem Static" width="18" height="18">
+- <img src="/bot-features/basic-commands/title/legacy-odd-eye.gif" alt="Legacy Odd Eye" width="18" height="18">:lips:<img src="/bot-features/basic-commands/title/legacy-odd-eye.gif" alt="Legacy Odd Eye" width="18" height="18">
+- <img src="/bot-features/basic-commands/title/mel-odd-eye.gif" alt="Mel Odd eye" width="18" height="18">:lips:<img src="/bot-features/basic-commands/title/mel-odd-eye.gif" alt="Mel Odd eye" width="18" height="18">
+- <img src="/bot-features/basic-commands/title/default-odd-eye.gif" alt="Default Odd Eye" width="18" height="18">:lips:<img src="/bot-features/basic-commands/title/default-odd-eye.gif" alt="Default Odd Eye" width="18" height="18">
+- Bad Attitude
+- Bad Bitch Energy
 - barely surviving
-- I embezzled this title
+- Big Chet Energy
+- Collecting > Fighting
+- Fighting > Gambling
+- Fish fear me
+- Gambling > Fighting
 - Gem Rat
+- I embezzled this title
+- Just one more wager… <img src="/bot-features/basic-commands/title/fight.png" alt="Fight" width="18" height="18">
+- NPC Simp
 - No Rizz
 - Not a lawyer
+- On Vacation <img src="/bot-features/basic-commands/title/streak-freeze.png" alt="Streak Freeze" width="18" height="18">
+- Royalty <img src="/bot-features/basic-commands/title/legacy-pepe-crown.png" alt="Legacy Pepe Crown" width="18" height="18">
+- Skipped leg day
+- Slaying 💅
+- <img src="/bot-features/basic-commands/title/fishing-harpoon.png" alt="Fishing Harpoon" width="18" height="18"> Summon Fish Update <img src="/bot-features/basic-commands/title/swordfish.png" alt="Swordfish" width="18" height="18">
 - Tax fraud
+- Team Freshwater
+- Team Saltwater
 - VAT Cat
 
-
-### From Leveling
-#### <font color =b32d2d>Not obtainable</font> 
+### From Leveling (42)
+#### <font color =b32d2d>Not obtainable (6)</font> 
 - Re-poster (Level 5)
-
-#### <font color =b32d2d>Obtainable</font> 
-- Newbie (Level 1)
-- Memer (Level 10)
 - Original Memer (Level 15)
 - Total Memer (Level 20)
-- Dank Memer (Level 25)
-- Good Meme (Level 50)
 - 69 Nice (Level 69)
 - Kek Lord (Level 100)
+- Badosz Stan (Level 13,500)
+
+#### <font color =b32d2d>Obtainable (33)</font> 
+- Newbie (Level 1)
+- Memer (Level 10)
+- Dank Memer (Level 25)
+- Good Meme (Level 45)
+- CEO, Entrepreneur (Level 64)
+- 69 (Level 69)
+- reposter (Level 200)
+- two fiddy (Level 250)
 - Amazing Cute Memer (Level 300)
-- reposter (Level 325)
 - Wow Memer (Level 400)
 - God of Memes (Level 500)
 - Literally Dank Memer (Level 700)
@@ -171,38 +258,53 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Tryhard Gamer (Level 2,000)
 - Stepped on a lego (Level 2,100)
 - Sweatlord (Level 2,750)
+- Beanie Baby (Level 3,250)
 - God's Dad (Level 3,500)
 - Level Champ (Level 4,000)
 - DANK MEMER'S LITTLE POGCHAMP (Level 4,500)
 - Not even ONE candycorn (Level 4,800)
 - Holy Gamer (Level 5,500)
 - Greg (Level 5,800)
-- Odd Player (Level 7,000)
+- woah 😳 (Level 8,000)
 - I miss my mommy (Level 8,200)
-- Not Even My Final Form (Level 9,666)
-- Badosz Stan (Level 13,500)
+- Not even my final form (Level 9,666)
+- 🫥 Hiding from Responsibility (Level 10,000)
+- Egg (Level 11,000)
+- Average Karen (Level 11,750)
+- Sitting != Standing (Level 12,000)
+- 🐄 Moo 🐄 (Level 12,400)
+- Odd Player (Level 13,000)
 - why pls rich no work (Level 14,500)
 - Agrostophobic (Level 15,000)
 
-### From Marriage
+### From Marriage (2)
 - True Love (Marriage Level 15)
 - Endless Love? (Marriage Level 52)
 
-### From Other
-#### <font color =b32d2d>Not obtainable</font> 
+### From Omega Store (3)
+- Hardcore
+- Omega Chad
+- Omega Virgin
+
+### From Other (16)
+#### <font color =b32d2d>Not obtainable (8)</font> 
 - Actually Never Seen Grass (Voting)
 - Chonky Stonky (Exclusive Title #1 Website Subscriber)
+- Donated XX <img src="/items/collectables/pinkplasticbits.png" alt="Pink Plastic Bits" width="18" height="18"> (Custom from Pink Event Donations)
 - Look Mom, I'm a Beta (Beta Testing)
 - Member me? (Exclusive Title #2 Website Subscriber)
-- No (Voting)
+- no (Voting)
 - Patreon Drools (Exclusive Title #3 Website Subscriber)
 - Yes (Voting)
 
-#### <font color =b32d2d>Obtainable</font> 
-- Big Member (Subscribe for 3 months)
+#### <font color =b32d2d>Obtainable (8)</font> 
+- Big Member (Subscribe for three months)
+- Gemcat's Lil Cutie (Website - Purchasing $100 Gem Bundle)
 - I eated cake (Voting)
 - Lottery Winner (Winning Lotto)
 - MVP Voter (Voting)
+- Pinkies Down! (Pink "Bit of a Change" Event - 2nd Place)
+- Pinkies Up! (Pink "Bit of a Change" Event - 1st Place)
 - Water my melons (Voting)
 
 ---
