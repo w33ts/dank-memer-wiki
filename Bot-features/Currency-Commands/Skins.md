@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-03T23:48:23.507Z
+date: 2024-01-05T21:17:48.244Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -59,12 +59,12 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | Item Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Aplus" target="_blank">A Plus</a>** | Legacy A Plus | <img src="/bot-features/skins/item-skins/aplus-legacyaplus.png" alt="Legacy A Plus" width="50" height="50"> {: #APlusSkin} |
-  | **<a href="/Items/Power-ups#AdventureCompass" taget="_blank">Adventure Compass</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/adventurecompass-holidaylightsvariant.gif" alt="Realism Variant" width="50" height="50"> {: #AdventureCompassSkin}  |
+| **<a href="/Items/Power-ups#AdventureCompass" taget="_blank">Adventure Compass</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/adventurecompass-holidaylightsvariant.gif" alt="Realism Variant" width="50" height="50"> {: #AdventureCompassSkin}  |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#AdventureTicket" taget="_blank">Adventure Ticket</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventureticket-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureTicketSkin}  |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AdventureVoucher" target="_blank">Adventure Voucher</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventurevoucher-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureVoucherSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Lively Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-aethslivelyflowervariant.png" alt="Aeth's Lively Flower Variant" width="50" height="50"> {: #AetheryxFlowerSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Beastly Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-aethsflowerbeastvariant.png" alt="Aeth's Beastly Flower Variant" width="50" height="50"> |
- | **<a href="/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Legacy Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-legacyvariant.png" alt="Aeth's Beastly Flower Variant" width="50" height="50"> |
+| **<a href="/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Legacy Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-legacyvariant.png" alt="Aeth's Beastly Flower Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AipheysGemstone" target="_blank">Aiphey's Gemstone</a>** | Aiphey's Gemstone Destiny Variant | <img src="/bot-features/skins/item-skins/aipheysgemstone-aipheysgemstonedestinyvariant.gif" alt="Aiphey's Gemstone Destiny Variant" width="50" height="50"> {: #AipheysGemstoneSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Alcohol" target="_blank">Alcohol</a>** | Hard Alcohol Variant | <img src="/bot-features/skins/item-skins/alcohol-hardalcoholvariant.png" alt="Hard Alcohol Variant" width="50" height="50"> {: #AlcoholSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Alcohol" target="_blank">Alcohol</a>** | Legacy Alcohol | <img src="/bot-features/skins/item-skins/alcohol-legacyalcohol.png" alt="Legacy Alcohol" width="50" height="50"> |
@@ -78,13 +78,13 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#Apple" target="_blank">Apple</a>** | Poison Variant | <img src="/bot-features/skins/item-skins/apple-poisonvariant.png" alt="Poison Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Baby" target="_blank">Baby</a>** | Legacy Baby | <img src="/bot-features/skins/item-skins/baby-legacybaby.png" alt="Legacy Baby" width="50" height="50"> {: #BabySkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BadoszsCard" target="_blank">Badosz's Card</a>** | Badosz Card Gnik Variant | <img src="/bot-features/skins/item-skins/badoszscard-badoszcardgnikvariant.gif" alt="Badosz Card Gnik Variant" width="50" height="50"> {: #BadoszsCardSkin} |
-  | **<a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/baitbox-holidaylightsvariant.gif" alt="Holiday Lights Bait Box Variant" width="50" height="50"> {: #BaitBoxSkin} |
+| **<a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/baitbox-holidaylightsvariant.gif" alt="Holiday Lights Bait Box Variant" width="50" height="50"> {: #BaitBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#BanHammer" target="_blank">Ban Hammer</a>** | Legacy Hammer | <img src="/bot-features/skins/item-skins/banhammer-legacyhammer.png" alt="Legacy Hammer" width="50" height="50"> {: #BanHammerSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of sus fluid</a>** | Legacy Beaker | <img src="/bot-features/skins/item-skins/beakerofsusfluid-legacybeaker.png" alt="Legacy Beaker" width="50" height="50"> {: #BeakerofsusfluidSkin} |
-  | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/blackhole-holidaylightsvariant.webp" alt="Holiday Lights Black Hole Variant" width="50" height="50"> {: #BlackHoleSkin} | 
-  | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Unknown Variant | <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Unknown Black Hole Variant" width="50" height="50">  | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a>** | Legacy Binary | <img src="/bot-features/skins/item-skins/binary-legacybinary.png" alt="Legacy Binary" width="50" height="50"> {: #BinarySkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | Pepe Flavored Cake Variant | <img src="/bot-features/skins/item-skins/birthdaycake-pepeflavoredcakevariant.png" alt="Pepe Flavored Cake Variant" width="50" height="50"> {: #BirthdayCakeSkin} |
+| **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/blackhole-holidaylightsvariant.webp" alt="Holiday Lights Black Hole Variant" width="50" height="50"> {: #BlackHoleSkin} | 
+| **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Unknown Variant | <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Unknown Black Hole Variant" width="50" height="50">  | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Blob" target="_blank">Blob</a>** | Legacy Blob | <img src="/bot-features/skins/item-skins/blob-legacyblob.gif" alt="Legacy Blob" width="50" height="50"> {: #BlobSkin} | 
 | **<a href="/Items/Sellables#Boar" target="_blank">Boar</a>** | Legacy Boar | <img src="/bot-features/skins/item-skins/boar_legacyvariant.png" alt="Legay Boar" width="50" height="50"> {: #BoarSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BoltCutters" target="_blank">Bolt Cutters</a>** | Legacy Bolt Cutters | <img src="/bot-features/skins/item-skins/boltcutters-legacyboltcutters.png" alt="Legay Bolt Cutters" width="50" height="50"> {: #BoltCuttersSkin} |
