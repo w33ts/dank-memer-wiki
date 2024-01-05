@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-05T21:36:20.753Z
+date: 2024-01-05T21:50:29.687Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -59,7 +59,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | Item Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Aplus" target="_blank">A Plus</a>** | Legacy A Plus | <img src="/bot-features/skins/item-skins/aplus-legacyaplus.png" alt="Legacy A Plus" width="50" height="50"> {: #APlusSkin} |
-| **<a href="/Items/Power-ups#AdventureCompass" taget="_blank">Adventure Compass</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/adventurecompass-holidaylightsvariant.gif" alt="Realism Variant" width="50" height="50"> {: #AdventureCompassSkin}  |
+| **<a href="/Items/Power-ups#AdventureCompass" target="_blank">Adventure Compass</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/adventurecompass-holidaylightsvariant.gif" alt="Realism Variant" width="50" height="50"> {: #AdventureCompassSkin}  |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#AdventureTicket" taget="_blank">Adventure Ticket</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventureticket-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureTicketSkin}  |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AdventureVoucher" target="_blank">Adventure Voucher</a>** | Realism Variant | <img src="/bot-features/skins/item-skins/adventurevoucher-realismvariant.png" alt="Realism Variant" width="50" height="50"> {: #AdventureVoucherSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#AetheryxFlower" target="_blank">Aetheryx Flower</a>** | Aeth's Lively Flower Variant | <img src="/bot-features/skins/item-skins/aetheryxflower-aethslivelyflowervariant.png" alt="Aeth's Lively Flower Variant" width="50" height="50"> {: #AetheryxFlowerSkin} |
