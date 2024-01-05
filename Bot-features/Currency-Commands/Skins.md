@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-05T21:53:52.740Z
+date: 2024-01-05T22:37:06.516Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -109,7 +109,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="/Items/Sellables#Duck" target="_blank">Duck</a>** | Legacy Duck | <img src="/bot-features/skins/item-skins/duck-legacyvariant.png" alt="Legacy Duck" width="50" height="50"> {: #DuckSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Ectoplasm" target="_blank">Ectoplasm</a>** | Legacy Ectoplasm | <img src="/bot-features/skins/item-skins/ectoplasm-legacyectoplasm.png" alt="Legacy Ectoplasm" width="50" height="50"> {: #EctoplasmSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#ElfOnTheShelf" target="_blank">Elf On The Shelf</a>** | Burning Elf Variant | <img src="/bot-features/skins/item-skins/elfontheshelf-burningvariant.gif" alt="Burning Elf Variant" width="50" height="50"> {: #ElfOnTheShelfSkin} |
-| **<a href="/Items/Collectables#EnchantedBadoszCard" target="_blank">Enchanted Badosz's Card</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/enchantedbadoszcard-holidaylightsvariant.gif" alt="Holiday Enchanted Badosz Card" width="50" height="50"> {: #EnchantedBadoszSkin} |
+| **<a href="/Items/Collectables#EnchantedBadoszsCard" target="_blank">Enchanted Badosz's Card</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/enchantedbadoszcard-holidaylightsvariant.gif" alt="Holiday Enchanted Badosz Card" width="50" height="50"> {: #EnchantedBadoszSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a>** | Legacy Energy Drink | <img src="/bot-features/skins/item-skins/energydrink-legacyenergydrink.png" alt="Legacy Energy Drink" width="50" height="50"> {: #EnergyDrinkSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | Legacy Bread | <img src="/bot-features/skins/item-skins/freshbread-legacybread.png" alt="Legacy Bread" width="50" height="50"> {: #FreshBreadSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | OG Bread | <img src="/bot-features/skins/item-skins/freshbread-ogbread.png" alt="OG Bread" width="50" height="50"> |
