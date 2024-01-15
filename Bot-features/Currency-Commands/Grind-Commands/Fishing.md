@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2024-01-02T01:02:10.718Z
+date: 2024-01-15T19:06:59.955Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -26,7 +26,7 @@ In 2023, the fishing command in Dank Memer was complete redesigned and expanded 
 
 <br>
 
-Fising Tutorials:
+Fishing Tutorials:
 - <a href="https://dankmemer.lol/tutorial/complete-fishing-tutorial" target="_blank">Complete Fishing Tutorial</a> 
 - <a href="https://www.youtube.com/watch?v=c3fFkl6IHyI&ab_channel=DankMemerDiscordBot" target="_blank">Complete Video Fishing Tutorial</a> 
 - <a href="https://dankmemer.lol/tutorial/fish-leaderboards" target="_blank">Fishing Leaderboard Tutorial</a> 
