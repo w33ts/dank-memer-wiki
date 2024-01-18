@@ -2,7 +2,7 @@
 title: Bundles
 description: Earn the Collector's Badge by completing all of the bundles in /bundle list.
 published: true
-date: 2024-01-01T20:17:13.549Z
+date: 2024-01-18T19:21:54.979Z
 tags: collector's, collector's badge, goals, bundles, bundle list, dank goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:19:53.161Z
@@ -84,6 +84,9 @@ There are also <a href="/Bot-features/Currency-Commands/Achievements" target="_b
 
 ### <font color =b32d2d>Brazilian Vacationer</font>  {: #BrazilianVacationer}
 ![chronicworker.png](/bot-features/dank-goals/brazilian_vacationer.png)
+
+### <font color =b32d2d>Level Leviathan</font>  {: #LevelLeviathan}
+<img src="/bot-features/dank-goals/level_leviathan.png" alt="level_leviathan" width="250">
 
 
 ## Deprecated Bundles
