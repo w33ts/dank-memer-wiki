@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2024-01-18T23:33:15.101Z
+date: 2024-01-18T23:34:54.832Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -264,7 +264,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - two fiddy (Level 250)
 - Amazing Cute Memer (Level 300)
 - Wow Memer (Level 400)
-- :Skunk: (Level 420)
+- 🦨 (Level 420)
 - God of Memes (Level 500)
 - Literally Dank Memer (Level 700)
 - God (Level 1,000)
