@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2024-01-18T23:34:54.832Z
+date: 2024-01-18T23:47:03.215Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -295,15 +295,15 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Money. (Level 13,000)
 - Pet me? (Level 13,200)
 - why pls rich no work (Level 13,400)
-- Big Donut :WeetsDonut: (Level 13,600)
+- Big Donut <img src="/items/sellables/weetsdonut.png" alt="Weet's Donut" width="18" height="18"> (Level 13,600)
 - Back it up on me (Level 13,800)
 - Cut em up (Level 14,200)
 - Eats XP for dinner (Level 14,400)
-- Flew away :Amathinesbutterfly: (Level 14,600)
+- Flew away <img src="/items/collectables/rarebutterfly.gif" alt="Rare Butterfly" width="18" height="18"> (Level 14,600)
 - Royal Spammer (Level 14,800)
 - Agrostophobic (Level 15,000)
-- Robotic :spamRobot: (Level 15,001)
-- Sucker :BlackHoleSkin: (Level 15,002)
+- Robotic <img src="/bot-features/pets/spambot.png" alt="Spam Bot" width="18" height="18"> (Level 15,001)
+- Sucker <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Colorful Black Hole Variant" width="18" height="18"> (Level 15,002)
 - Why? (Level 20,000)
 
 ### From Marriage (2)
