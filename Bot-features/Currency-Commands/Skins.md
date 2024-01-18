@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-18T23:24:11.935Z
+date: 2024-01-18T23:41:39.497Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -83,7 +83,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of sus fluid</a>** | Legacy Beaker | <img src="/bot-features/skins/item-skins/beakerofsusfluid-legacybeaker.png" alt="Legacy Beaker" width="50" height="50"> {: #BeakerofsusfluidSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a>** | Legacy Binary | <img src="/bot-features/skins/item-skins/binary-legacybinary.png" alt="Legacy Binary" width="50" height="50"> {: #BinarySkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | Pepe Flavored Cake Variant | <img src="/bot-features/skins/item-skins/birthdaycake-pepeflavoredcakevariant.png" alt="Pepe Flavored Cake Variant" width="50" height="50"> {: #BirthdayCakeSkin} |
-| **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Colorful Variant | <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Unknown Black Hole Variant" width="50" height="50">  | 
+| **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Colorful Variant | <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Colorful Black Hole Variant" width="50" height="50">  | 
 | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/blackhole-holidaylightsvariant.webp" alt="Holiday Lights Black Hole Variant" width="50" height="50"> {: #BlackHoleSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Blob" target="_blank">Blob</a>** | Legacy Blob | <img src="/bot-features/skins/item-skins/blob-legacyblob.gif" alt="Legacy Blob" width="50" height="50"> {: #BlobSkin} | 
 | **<a href="/Items/Sellables#Boar" target="_blank">Boar</a>** | Legacy Boar | <img src="/bot-features/skins/item-skins/boar_legacyvariant.png" alt="Legay Boar" width="50" height="50"> {: #BoarSkin} |
