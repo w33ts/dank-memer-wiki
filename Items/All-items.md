@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-01-04T21:52:40.491Z
+date: 2024-01-18T19:33:00.589Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -128,6 +128,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Power-ups#InflatedDelicacy" target="_blank">Inflated Delicacy</a>
 - <a href="/Items/Collectables#JackyoLanty" target="_blank">Jacky o' Lanty</a>
 - <a href="/Items/Collectables#JarOfSingularity" target="_blank">Jar Of Singularity</a>
+- <a href="Items/Consumables#JokeBook" target="_blank">Joke Book</a>
 - <a href="/Items/Sellables#Junk" target="_blank">Junk</a>
 - <a href="/Items/Collectables#KablesSunglasses" target="_blank">Kable's Sunglasses</a>
 - <a href="/Items/Tools#Keyboard" target="_blank">Keyboard</a>
@@ -189,6 +190,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>
 - <a href="/Items/Power-ups#PetCollar" target="_blank">Pet Collar</a>
 - <a href="/Items/Collectables#PetFeces" target="_blank">Pet Feces</a>
+- <a href="/Items/Consumables#PetFeeder" target="_blank">Pet Feeder</a>
 - <a href="/Items/Tools#PetFood" target="_blank">Pet Food</a>
 - <a href="/Items/Collectables#PetSaddle" target="_blank">Pet Saddle</a>
 - <a href="/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits (Deprecated)</a>
