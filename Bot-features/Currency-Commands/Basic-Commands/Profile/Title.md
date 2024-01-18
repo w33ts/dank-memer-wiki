@@ -2,7 +2,7 @@
 title: Titles
 description: A complete list of possible titles you can display on your profile with title set.
 published: true
-date: 2024-01-04T23:36:36.161Z
+date: 2024-01-18T23:33:15.101Z
 tags: titles, title list, title set, profile, profile customization, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T03:39:50.991Z
@@ -16,7 +16,7 @@ If you want to select a specific title to display, you can do so with the `/titl
 
 Read about other ways you can customize your profile <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">here</a>.
 
-## Possible Titles (265)
+## Possible Titles (281)
 ### From Achievements (37)
 #### <font color =b32d2d>Not obtainable (3)</font> 
 - Professional Petter
@@ -129,7 +129,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Server Lifeblood
 - XPlosion Expert
 
-### From Bundles (27)
+### From Bundles (29)
 #### <font color =b32d2d>Not obtainable (5)</font> 
 - Drop Shopper
 - Fisher
@@ -137,7 +137,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Phalliac
 - QuizNOs!
 
-#### <font color =b32d2d>Obtainable (22)</font> 
+#### <font color =b32d2d>Obtainable (24)</font> 
 - Adept Farmer
 - Adventurer
 - Angler
@@ -153,6 +153,8 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Human Powerup
 - Hunter
 - I Spooped My Pants
+- Level Leviathan
+- Nostalgia Lover
 - Old Cowboy
 - Pepe Collector
 - Plastic Maniac
@@ -242,7 +244,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Why are my pets so h*rny
 - Zara's #1 Student
 
-### From Leveling (43)
+### From Leveling (57)
 #### <font color =b32d2d>Not obtainable (6)</font> 
 - Re-poster (Level 5)
 - Original Memer (Level 15)
@@ -251,7 +253,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Kek Lord (Level 100)
 - Badosz Stan (Level 13,500)
 
-#### <font color =b32d2d>Obtainable (37)</font> 
+#### <font color =b32d2d>Obtainable (51)</font> 
 - Newbie (Level 1)
 - Memer (Level 10)
 - Dank Memer (Level 25)
@@ -262,6 +264,7 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - two fiddy (Level 250)
 - Amazing Cute Memer (Level 300)
 - Wow Memer (Level 400)
+- :Skunk: (Level 420)
 - God of Memes (Level 500)
 - Literally Dank Memer (Level 700)
 - God (Level 1,000)
@@ -279,15 +282,28 @@ Read about other ways you can customize your profile <a href="/Bot-features/Curr
 - Greg (Level 5,800)
 - woah 😳 (Level 8,000)
 - I miss my mommy (Level 8,200)
+- Butter? (Level 8,750)
 - Not even my final form (Level 9,666)
 - 🫥 Hiding from Responsibility (Level 10,000)
 - Egg (Level 11,000)
 - Average Karen (Level 11,750)
 - Sitting != Standing (Level 12,000)
-- 🐄 Moo 🐄 (Level 12,400)
-- Odd Player (Level 13,000)
-- why pls rich no work (Level 14,500)
+- Smelly Smellerson (Level 12,200)
+- AI Cringelord (Level 12,400)
+- 🐄 Moo 🐄 (Level 12,600)
+- Odd Player (Level 12,800)
+- Money. (Level 13,000)
+- Pet me? (Level 13,200)
+- why pls rich no work (Level 13,400)
+- Big Donut :WeetsDonut: (Level 13,600)
+- Back it up on me (Level 13,800)
+- Cut em up (Level 14,200)
+- Eats XP for dinner (Level 14,400)
+- Flew away :Amathinesbutterfly: (Level 14,600)
+- Royal Spammer (Level 14,800)
 - Agrostophobic (Level 15,000)
+- Robotic :spamRobot: (Level 15,001)
+- Sucker :BlackHoleSkin: (Level 15,002)
 - Why? (Level 20,000)
 
 ### From Marriage (2)
