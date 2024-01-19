@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-01-18T19:33:00.589Z
+date: 2024-01-19T00:28:01.744Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -128,7 +128,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Power-ups#InflatedDelicacy" target="_blank">Inflated Delicacy</a>
 - <a href="/Items/Collectables#JackyoLanty" target="_blank">Jacky o' Lanty</a>
 - <a href="/Items/Collectables#JarOfSingularity" target="_blank">Jar Of Singularity</a>
-- <a href="Items/Consumables#JokeBook" target="_blank">Joke Book</a>
+- <a href="/Items/Consumables#JokeBook" target="_blank">Joke Book</a>
 - <a href="/Items/Sellables#Junk" target="_blank">Junk</a>
 - <a href="/Items/Collectables#KablesSunglasses" target="_blank">Kable's Sunglasses</a>
 - <a href="/Items/Tools#Keyboard" target="_blank">Keyboard</a>
