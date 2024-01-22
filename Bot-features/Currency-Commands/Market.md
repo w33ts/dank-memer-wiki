@@ -2,7 +2,7 @@
 title: Market
 description: Learn about market commands, selling and buying items for coins or items for items.
 published: true
-date: 2023-07-29T12:05:12.095Z
+date: 2024-01-22T17:03:54.833Z
 tags: market, trading, selling, buying, items for items, coins for coins, items, coins, global market, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:40:00.691Z
@@ -14,7 +14,7 @@ The market is the primary way of buying and selling items for coins or other ite
 
 With `/market`, you can view the market, sell, buy, and accept others' offers. After negotiating a deal, you can also make private market offers by adding the optional private market setting when you do the command. It is also possible to remove your own market offers with a button click on the red "remove" button in `/market view`.
 
-In order to post offers on the market, you have to pay a `5% base fee` (of the average market price of that item) **and** a 0.2% extra fee **per day** you want to post that offer. The max a fee can cost is 100,000,000, no matter the item/amount of days.
+In order to post offers on the market, you have to pay a `2.5% base fee` (of the average market price of that item) **and** a 1.5%% extra fee **per day** you want to post that offer. The max a fee can cost is ⏣ 5,000,000,000, no matter the item/amount of days. As well as this, accounts younger than 3 months cannot post ads.
 
 <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium Members</a> do not pay a fee for the first 3 days. Anything longer than that they'll also start paying a 0.2% fee per extra day.
 
