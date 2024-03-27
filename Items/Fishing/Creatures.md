@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2024-01-01T19:58:10.464Z
+date: 2024-03-27T04:42:38.335Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -338,7 +338,7 @@ You can meet several <a href="/Bot-features/Currency-Commands/Grind-Commands/Fis
 | Turkey Fish {: #TurkeyFishSanctuary} | <img src="/items/fishing/creatures/turkeyfish.png" alt="Turkey Fish" width="50">  |  All Day <br> (Requires Turkey Bait)  | Any Location <br> (Requires Turkey Bait) | <img src="/items/fishing/creatures/variants/turkeyfish_hq.gif" alt="HQ Tuna" width="50"> | 7,500 |
   | Vampire Squid {: #VampireSquid} | <img src="/items/fishing/creatures/vamp_squid.webp" alt="Vampire Squid" width="50">  |  5am - 10pm  | Ice Caves, Underwater Sanctuary | <img src="/items/fishing/creatures/variants/vampiresquid_hq.gif" alt="HQ Vampire Squid" width="50"> <img src="/items/fishing/creatures/variants/vampiresquid_chroma.png" alt="Chroma Vampire Squid" width="50"> <img src="/items/fishing/creatures/variants/vampiresquid_realvampire.png" alt="Real Vampire, Vampire Squid" width="50">  | 12,000 |
 |**Boss:** <br>  Kraken {: #KrakenSanctuary} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 6,000,000 |
-|**Boss:** Leviathan {: #LeviathanSanctuary} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | 12am - 2pm | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50"> | 6,000,000 |
+|**Boss:** Leviathan {: #LeviathanSanctuary} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50"> | 6,000,000 |
   
   </center>
 
