@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2024-03-29T12:12:46.697Z
+date: 2024-03-29T15:34:06.626Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -44,7 +44,7 @@ You can see the current vote-level rewards <a href="/About-Dank-Memer/Vote/Vote-
 
 ### <font color =b32d2d>The "Disenfranchised Voter" badge</font>
 
-You can also get a <a href="/Bot-features/Currency-Commands/Badges">badge</a> by reaching Vote Level 115 three times. Each month your vote levels are reset, so you have to successfully vote 115 times within a single month to earn vote level 115. You must do this three times for the standard badge and six times for the platinum badge.
+You can also get a <a href="/Bot-features/Currency-Commands/Badges">badge</a> by reaching Vote Level 58 three times. Each month your vote levels are reset, so you have to successfully vote 58 times within a single month to earn vote level 58. You must do this three times for the standard badge and six times for the platinum badge.
 
 <center>
   
