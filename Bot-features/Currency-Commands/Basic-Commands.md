@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2024-03-29T19:27:00.650Z
+date: 2024-03-29T19:32:33.148Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -196,11 +196,13 @@ You can even buy global <a href="/Bot-features/Currency-Commands/Multipliers" ta
 </center>
 <br>
 
+Almost everything in the Gem Shop is also available in the <a href="/Items/Lootboxes#ExclusiveGemsBox" target="_blank">Exclusive Gems Box</a>, except a few special items. The Exclusive Gems Box uses the knockout system, so titles you already have, pets you don't have space for, and boosts for things like crafting and farming you can't use won't be given. The "Possible Rewards" loot table updates to show exactly what items you are eligible for at any moment.
+
 
 ### <font color =b32d2d>Fishing Shop</font> {: #FishingShop}
 You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like tools, buckets, and baits, as well as fish tank decorations and some foods that can be consumed to give you boosts outside of fishing.
 
-Some items in the Fish Shop are restricted, though, and you'll notice they are grayed out. These items need to be unlocked by either leveling up a special skill in /fish skills, or by being friends with one of the fishing NPCs.
+Some items in the Fish Shop are restricted, though, and you'll notice they are grayed out. These items need to be unlocked by either leveling up a special skill in `/fish skills`, or by being friends with one of the fishing NPCs.
 
 <br>
 <center>
@@ -209,7 +211,7 @@ Some items in the Fish Shop are restricted, though, and you'll notice they are g
 <br>
 
 ### <font color =b32d2d>Skin Shop</font> {: #SkinShop}
-The last shop you can access is the Skin Shop. This is where you can use Skin Fragments you've earned from duplicate skins to buy new <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. What is availabe in the shop is the same for everyone and it rotates every UTC day.
+The Skin Shop is where you can use Skin Fragments you've earned from duplicate skins to buy new <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. What is availabe in the shop is the same for everyone and it rotates every UTC day. If you already own a skin or do not have enough fragments, the button will be grayed out.
 
 <br>
 <center>
