@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-01-23T20:14:47.863Z
+date: 2024-03-29T11:21:23.410Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -84,6 +84,7 @@ Each bucket has a different storage capacity, but you can increase how much your
 |Metal Bucket {: #MetalBucket} | <img src="/items/fishing/metal_bucket.png" alt="Metal Bucket" width="50" height="50">| 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pepe Bucket {: #PepeBucket} | <img src="/items/fishing/pepe_bucket.png" alt="Pepe Bucket" width="50" height="50">| 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pink Bucket {: #PinkBucket} |<img src="/items/fishing/pink_bucket.png" alt="Pink Bucket" width="50" height="50">| 10 | Awarded to participants of the Pink Event. |
+ |Shark Bucket {: #SharkBucket} | <img src="/items/fishing/shark_bucket.gif" alt="Shark Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
   |Yellow Snucket Bucket {: #YellowSnucketBucket} | <img src="/items/fishing/yellowsnucket_bucket.webp" alt="Yellow Snucket Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
  | Winter Light Bucket {: #WinterLightBucket} | <img src="/items/fishing/winterlight_bucket.gif" alt="Winter Light Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
 |Wooden Bucket {: #WoodenBucket} | <img src="/items/fishing/wooden_bucket.png" alt="Wooden Bucket" width="50" height="50">| 5 | Given by Default |
