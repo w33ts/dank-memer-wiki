@@ -2,7 +2,7 @@
 title: Farm
 description: Learn about the farm command, what tools and seeds are needed, farming patterns, and more.
 published: true
-date: 2023-07-29T12:46:39.728Z
+date: 2024-03-29T21:13:04.017Z
 tags: farm, watermelon, potato, potato seeds, watermelon seeds, corncob, corn seeds, carrots, carrot seeds, broccoli, broccoli seeds, fertilizer, hoe, watering can, water bucket, elf on a shelf, farming, crops, seeds, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T16:17:27.856Z
@@ -21,11 +21,18 @@ Every user starts off with a default farm that is bare and empty.
   
 You can use a <a href="/Items/Tools#Hoe" target="_blank">hoe</a> to till the empty land and then water it with a <a href="/Items/Tools#WateringCan" target="_blank">watering can</a> or <a href="/Items/Tools#WaterBucket" target="_blank">water bucket</a> before planting the seeds you want to grow. If you don't have time to actively farm, you can simply till and water the land and leave it empty for a chance to get <a href="/Items/Sellables#Diamond" target="_blank">diamonds</a>, <a href="/Items/Sellables#Worm" target="_blank">worms</a>, and <a href="/Items/Sellables#MoleMan" target="_blank">mole men</a>. 
 
-These random items can appear at any time as long as a spot is tilled, but watering helps the tilling last longer. <a href="/Items/Sellables#CommonFish" target="_blank">Common Fish</a> can also spawn within water buckets used on your farm, and you can find them by harvesting the water.
+These random items can appear at any time as long as a spot is tilled, but watering helps the tilling last longer.
+
+Once your crops are done, you can use them with the "harvest all" button. This will harvest all your crops that are ready or any wilted crops, random spawned items or unready crops won't be harvested.
+
+<br>
+<center>
+<img src="/bot-features/basic-commands/harvestall.png" alt="Harvest All.">
+</center>
 
 An in-depth tutorial on farming can be found <a href="https://dankmemer.lol/tutorial/farming" target="_blank">here</a>.
 
-You can buy 2 types of Farm boosts with  <a href="https://dankmemer.lol/store" target="_blank">gems</a>. from the gem store via `/shop view`.
+You can buy 2 types of Farm boosts with  <a href="https://dankmemer.lol/store" target="_blank">gems</a> from the gem store via `/shop view` or for free in the <a href="/Items/Lootboxes#ExclusiveGemsBox" target="_blank">Exclusive Gems Box</a>.
 
 <center>
   
@@ -41,19 +48,24 @@ You can buy 2 types of Farm boosts with  <a href="https://dankmemer.lol/store" t
 
 
 ## Crop Growth Time
-| Seed | Growth Time | Wilt Time (After Fully Matured) | Harvest Rewards |
-|:------:|:----:|:----:|:----:|
-| <a href="https://dankmemer.wiki/en/Items/Tools#PotatoSeeds" target="_blank">Potato Seeds</a> | 2 hours | 24 hours | 1-3 seeds + 1-5 potatoes |
-| <a href="https://dankmemer.wiki/en/Items/Tools#CornSeeds" target="_blank">Corn Seeds</a> | 4 hours | 24 hours | 1-2 seeds + 1-4 corncobs |
-| <a href="https://dankmemer.wiki/en/Items/Tools#CarrotSeeds" target="_blank">Carrot Seeds</a> | 8 hours | 24 hours | 1-2 seeds + 1-3 carrots |
-| <a href="https://dankmemer.wiki/en/Items/Tools#BroccoliSeeds" target="_blank">Broccoli Seeds</a> | 24 hours | 24 hours | 1-2 seeds + 1-3 broccoli |
-| <a href="https://dankmemer.wiki/en/Items/Tools#BeanSeeds" target="_blank">Bean Seeds</a> | 30 mins | 36 hours | 1-2 seeds + 1 bean |
-| <a href="https://dankmemer.wiki/en/Items/Tools#WatermelonSeeds" target="_blank">Watermelon Seeds</a> | 36 hours | 24 hours | 1-2 seeds + 1 watermelon |
-| <a href="https://dankmemer.wiki/en/Items/Tools#LotusSeeds" target="_blank">Lotus Seeds</a> | 48 hours | 24 hours | 0 seeds + 1 Lotus Flower |
-| <a href="https://dankmemer.wiki/en/Items/Sellables#Diamond" target="_blank">Diamond</a> | Spawns on Empty tilled tile | Indefinitely | 1 diamond |
-| <a href="https://dankmemer.wiki/en/Items/Sellables#Worm" target="_blank">Worm</a> | Spawns on Empty tilled tiled | Indefinitely | 1-3 worms |
-| <a href="https://dankmemer.wiki/en/Items/Sellables#CommonFish" target="_blank">Common Fish</a> | Spawns within Water Bucket used on your farm | Indefinitely | 1 Common Fish |
-| <a href="https://dankmemer.wiki/en/Items/Sellables#MoleMan" target="_blank">Mole Man</a> | Spawns on Empty tilled tile | Indefinitely | 1 Mole Man |
+Each crop takes a different amount of time to grow. Once a crop is ready to harvest, you have 3-5 days to pick up the crops before they wilt. When you harvest a crop, each can give various amounts of plants and seeds back to you. Some crops, like the <a href="https://dankmemer.wiki/en/Items/Tools#LotusSeeds" target="_blank">Lotus Seeds</a>, do not give seeds back.
+
+<center>
+  
+| Seed | Growth Time | 
+|:------:|:----:|
+| <a href="https://dankmemer.wiki/en/Items/Tools#PotatoSeeds" target="_blank">Potato Seeds</a> | 2 hours |
+| <a href="https://dankmemer.wiki/en/Items/Tools#CornSeeds" target="_blank">Corn Seeds</a> | 8 hours |
+| <a href="https://dankmemer.wiki/en/Items/Tools#CarrotSeeds" target="_blank">Carrot Seeds</a> | 8 hours | 
+| <a href="https://dankmemer.wiki/en/Items/Tools#BroccoliSeeds" target="_blank">Broccoli Seeds</a> | 24 hours |
+| <a href="https://dankmemer.wiki/en/Items/Tools#BeanSeeds" target="_blank">Bean Seeds</a> | 1h |
+| <a href="https://dankmemer.wiki/en/Items/Tools#WatermelonSeeds" target="_blank">Watermelon Seeds</a> | 36 hours | 
+| <a href="https://dankmemer.wiki/en/Items/Tools#LotusSeeds" target="_blank">Lotus Seeds</a> | 36 hours |
+| <a href="https://dankmemer.wiki/en/Items/Sellables#Diamond" target="_blank">Diamond</a> | Spawns on Empty tilled tile | 
+| <a href="https://dankmemer.wiki/en/Items/Sellables#Worm" target="_blank">Worm</a> | Spawns on Empty tilled tiled |
+| <a href="https://dankmemer.wiki/en/Items/Sellables#MoleMan" target="_blank">Mole Man</a> | Spawns on Empty tilled tile |
+  
+  </center>
 
 ## Farm Patterns
 The following patterns are known to spam specific seeds in the empty tilled spaces. This can be useful so you can find seeds for free. It's possible the seeds won't spawn instantly, as no pattern is guaranteed. If they don't spawn, just keep trying, and they eventually will.
