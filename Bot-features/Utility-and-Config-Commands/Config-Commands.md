@@ -2,7 +2,7 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2024-01-02T04:39:41.289Z
+date: 2024-03-29T19:39:44.566Z
 tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
@@ -193,16 +193,19 @@ The `/settings` command gives users the ability to change their personal setting
 The following are the settings that can be changed:
 | Setting option | Does what? |
 |:------:|:----:|
+| Automatic Work Reminders | When enabled, a reminder will be set each time you work and you'll receive a DM when you are able to work again. |
 | Compact Mode | Enable or disable compact mode. Compact mode makes your <a href="/Bot-features/Currency-Commands/Basic-Commands#Inventory" target="_blank">inventory</a> and the <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">/shop view</a> page smaller, so they fit more info in less space.|
-| Confirmation Number | If you have <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Warning" target="_blank">warning confirmations</a> enabled, the number you put here will be the value for when you'll get a confirmation message before selling and buying items or sharing things with friends. The value can be set between 1 and 2,000,000,000. | 
+| Confirmation Number | If you have <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Warning" target="_blank">warning confirmations</a> enabled, the number you put here will be the value for when you'll get a confirmation message before selling and buying items or sharing items/coins with friends. The value can be set between 1 and 2,000,000,000. | 
 | <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Customization" target="_blank">Customize Your Profile</a> | Edit your profile and personalize it to your own liking! You can buy advanced profile customization in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>. | 
+| DM Notifications | This allows you to enable/disable DM notifications from the bot, or you can customaize which notifications you wish to receive. |
 | Ephemeral Notifications | Ephemeral messages are pop-up notifications only you can see that you can receive when running commands. Use this setting to customize which type of ephemeral messages you'd like to receive. |
 | Expose IDs | When you enable this you'll be able to see User ID's in leaderboards, fighting ranking, global/server giveaways and market accept notifications. |
 | Hide Public | Enable or disable yourself being shown on <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">leaderboards</a>. Having this set to true hides your username from the leaderboards, so it shows you only as "Hidden User." |
 | <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Level Up</a> Notifications | Enable, disable, or change your level-up notifications. Notifications are sent to DMs, and you can customize what type of notifications you want to see, such as only one every minute, every level, or only for rewards.| 
-  | Mobile | Changes your view of some commands to a more mobile-friendly appearance | 
+ | Mobile | Changes your view of some commands to a more mobile-friendly appearance | 
 | <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#NetWorthSort" target="_blank">Net Worth Sort</a> | Once you purchase the <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#NetWorthSort" target="_blank">Net Worth Sort</a> upgrade in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>, you can use this to disable it and put your inventory back into alphabetical order. | 
-| Passive | Enable or disable passive mode. When passive mode is enabled, you cannot be <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">robbed</a> or <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">bankrobbed</a> or do them on others, use items on others or have them used on you, and play <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">/wager</a> games. Passive expires if you don't run commands for 5 days. |  
+| Passive | Enable or disable passive mode. When passive mode is enabled, you cannot be <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Rob" target="_blank">robbed</a> or <a href="/Bot-features/Currency-Commands/Rob-and-Heist#Bankrob" target="_blank">bankrobbed</a> or do them on others, use items on others or have them used on you, and play <a href="/Bot-features/Fun-Games-Image/Games-and-Wagers#Wagers" target="_blank">/wager</a> games. Passive expires if you don't run commands for 5 days. |
+| Pet Breeding | Enable or Disable whether you want your <a href="/Bot-features/Currency-Commands/Pets" target="_blank">pets</a> to be able to breed. (You still need a space for a pet in order for them to breed.) | 
 | Recurring Income Reminders | Enable or disable whether or not you'll get a notification about being able to run <a href="/Bot-features/Currency-Commands/Basic-Commands#Daily" target="_blank">/daily</a>, <a href="/About-Dank-Memer/Premium-users#Weekly" target="_blank">/weekly</a>, or <a href="/Bot-features/Currency-Commands/Advancements/Upgrades#Monthly" target="_blank">/monthly</a> again. Notifications come based on when you last used the commands. |
   | Texts | Enable or disable whether you want people to be able to text you using the cell phone item |
   | Vote Reminders | Enable or disable whether you want DM reminders to vote |
