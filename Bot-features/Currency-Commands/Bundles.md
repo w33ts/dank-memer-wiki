@@ -2,7 +2,7 @@
 title: Bundles
 description: Earn the Collector's Badge by completing all of the bundles in /bundle list.
 published: true
-date: 2024-01-18T19:29:05.964Z
+date: 2024-03-29T20:40:31.302Z
 tags: collector's, collector's badge, goals, bundles, bundle list, dank goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:19:53.161Z
@@ -20,90 +20,93 @@ There are also <a href="/Bot-features/Currency-Commands/Achievements" target="_b
 ## Bundle Requirements
 
 ### <font color =b32d2d>Plastic Maniac</font>  {: #PlasticManiac}
-![plasticmaniac.png](/bot-features/dank-goals/plastic_maniac.png)
+![plasticmaniac.png](/bot-features/dank-goals/bundles/bundle_plasticmaniac_march2024.png)
 
 ### <font color =b32d2d>Pepe Collector</font>  {: #PepeCollector}
-![pepecollector.png](/bot-features/dank-goals/pepe_collector.png)
+![pepecollector.png](/bot-features/dank-goals/bundles/bundle_pepecollector_march2024.png)
 
 ### <font color =b32d2d>Adept Farmer</font>  {: #AdeptFarmer}
-![adeptfarmer.png](/bot-features/dank-goals/adept_farmer.png)
+![adeptfarmer.png](/bot-features/dank-goals/bundles/bundle_adeptfarmer_march2024.png)
+
+### <font color =b32d2d>Nostalgia Lover</font>  {: #NostalgiaLover}
+![adeptfarmer.png](/bot-features/dank-goals/bundles/bundle_nostalgialover_march2024.png)
 
 ### <font color =b32d2d>Total Tool</font>  {: #TotalTool}
-![totaltool.png](/bot-features/dank-goals/total_tool.png)
+![totaltool.png](/bot-features/dank-goals/bundles/bundle_totaltool_march2024.png)
 
 ### <font color =b32d2d>Human Powerup</font>  {: #HumanPowerup}
-![humanpowerup.png](/bot-features/dank-goals/human_powerup.png)
+![humanpowerup.png](/bot-features/dank-goals/bundles/bundle_humanpowerup_march2024.png)
 
 ### <font color =b32d2d>Streaming Maniac</font>  {: #StreamingManiac}
-![streamingmaniac.png](/bot-features/dank-goals/streaming_maniac.png)
+![streamingmaniac.png](/bot-features/dank-goals/bundles/bundle_streamingmaniac_march2024.png)
 
 ### <font color =b32d2d>Dev Collector</font>  {: #DevCollector}
-![devcollector.png](/bot-features/dank-goals/bundle_devcollector.png)
+![devcollector.png](/bot-features/dank-goals/bundles/bundle_devcollector_march2024.png)
 
 ### <font color =b32d2d>Statistical Improbability</font>  {: #StatisticalImprobability}
-![statisticalimprobability.png](/bot-features/dank-goals/statistical_improbability.png)
+![statisticalimprobability.png](/bot-features/dank-goals/bundles/bundle_statisticalimprobability_march2024.png)
 
 ### <font color =b32d2d>Boxer</font>  {: #Boxer}
-![boxer2.png](/bot-features/dank-goals/boxer3.png)
+![boxer2.png](/bot-features/dank-goals/bundles/bundle_boxer_march2024.png)
 
 ### <font color =b32d2d>Adventurer</font>  {: #Adventurer}
-![adventurer2.png](/bot-features/dank-goals/adventurer3.png)
-
-### <font color =b32d2d>Bits and Bobs</font>  {: #BitsandBobs}
-![bitsandbobscollector.png](/bot-features/dank-goals/bits_and_bobs_collector.png)
-
-### <font color =b32d2d>Hunter</font>  {: #Hunter}
-![hunter2.png](/bot-features/dank-goals/hunter3.png)
-
-### <font color =b32d2d>Angler</font>  {: #Angler}
-![angler2.png](/bot-features/dank-goals/bundle_angler2.png)
-
-### <font color =b32d2d>Excavator</font>  {: #Excavator}
-![escavator2.png](/bot-features/dank-goals/excavator3.png)
-
-### <font color =b32d2d>Holiday Collector</font>  {: #HolidayCollector}
-![holidaycollector.png](/bot-features/dank-goals/holiday_collector.png)
-
-### <font color =b32d2d>I Spooped My Pants</font>  {: #ISpoopedMyPants}
-![ispoopedmypants.png](/bot-features/dank-goals/i_spooped_my_pants.png)
-
-### <font color =b32d2d>Family Starter</font>  {: #FamilyStarter}
-![familystarter.png](/bot-features/dank-goals/family_starter.png)
-
-### <font color =b32d2d>Collecting Fiend</font>  {: #CollectingFiend}
-![collectingfiend.png](/bot-features/dank-goals/collecting_fiend.png)
-
-### <font color =b32d2d>SPACE!</font>  {: #Space}
-![space!.png](/bot-features/dank-goals/space.png)
-
-### <font color =b32d2d>Old Cowboy</font>  {: #OldCowboy}
-![oldcowboy.png](/bot-features/dank-goals/old_cowboy.png)
-
-### <font color =b32d2d>Chronic Worker</font>  {: #ChronicWorker}
-![chronicworker.png](/bot-features/dank-goals/chronic_worker.png)
-
-### <font color =b32d2d>Brazilian Vacationer</font>  {: #BrazilianVacationer}
-![chronicworker.png](/bot-features/dank-goals/brazilian_vacationer.png)
+![adventurer2.png](/bot-features/dank-goals/bundles/bundle_adventurer_march2024.png)
 
 ### <font color =b32d2d>Level Leviathan</font>  {: #LevelLeviathan}
-<br> 
-<img src="/bot-features/dank-goals/level_leviathan.png" alt="level_leviathan" width="250">
+![adventurer2.png](/bot-features/dank-goals/bundles/bundle_levelleviathan_march2024.png)
+
+### <font color =b32d2d>Bits and Bobs</font>  {: #BitsandBobs}
+![bitsandbobscollector.png](/bot-features/dank-goals/bundles/bundle_bitsandbobs_march2024.png)
+
+### <font color =b32d2d>Hunter</font>  {: #Hunter}
+![hunter2.png](/bot-features/dank-goals/bundles/bundle_hunter_march2024.png)
+
+### <font color =b32d2d>Angler</font>  {: #Angler}
+![angler2.png](/bot-features/dank-goals/bundles/bundle_angler_march2024.png)
+
+### <font color =b32d2d>Excavator</font>  {: #Excavator}
+![escavator2.png](/bot-features/dank-goals/bundles/bundle_excavator_march2024.png)
+
+### <font color =b32d2d>Holiday Collector</font>  {: #HolidayCollector}
+![holidaycollector.png](/bot-features/dank-goals/bundles/bundle_holidaycollector_march2024.png)
+
+### <font color =b32d2d>I Spooped My Pants</font>  {: #ISpoopedMyPants}
+![ispoopedmypants.png](/bot-features/dank-goals/bundles/bundle_ispoopedmypants_march2024.png)
+
+### <font color =b32d2d>Family Starter</font>  {: #FamilyStarter}
+![familystarter.png](/bot-features/dank-goals/bundles/bundle_familystarter_march2024.png)
+
+### <font color =b32d2d>Collecting Fiend</font>  {: #CollectingFiend}
+![collectingfiend.png](/bot-features/dank-goals/bundles/bundle_collectingfiend_march2024.png)
+
+### <font color =b32d2d>SPACE!</font>  {: #Space}
+![space!.png](/bot-features/dank-goals/bundles/bundle_space_march2024.png)
+
+### <font color =b32d2d>Old Cowboy</font>  {: #OldCowboy}
+![oldcowboy.png](/bot-features/dank-goals/bundles/bundle_oldcowboy_march2024.png)
+
+### <font color =b32d2d>Chronic Worker</font>  {: #ChronicWorker}
+![chronicworker.png](/bot-features/dank-goals/bundles/bundle_chronicworker_march2024.png)
+
+### <font color =b32d2d>Brazilian Vacationer</font>  {: #BrazilianVacationer}
+![brazilianvacationer.png](/bot-features/dank-goals/bundles/bundle_brazilianvacationer_march2024.png)
+
 
 
 ## Deprecated Bundles
-Sometimes a bundle is removed from being required for the Collector's Badge, which means it is deprecated and you can no longer submit it. However, if a user submitted it before it was removed, they will still receive credit toward the badge so they can skip submitting a bundle and reach 100%. 
+Sometimes a bundle is removed from being required for the Collector's Badge, which means it is deprecated and you can no longer submit it. However, if a user submitted it before it was removed, they will still receive credit toward the badge so they can skip submitting a bundle and earn the badge. 
 
 ### <font color =b32d2d>Drop Shopper</font>  {: #DropShopper}
-![chronicworker.png](/bot-features/dank-goals/bundle_dropshopper.png)
+![dropshopper.png](/bot-features/dank-goals/bundles/depbundle_dropshopper_march2024.png)
 
 ### <font color =b32d2d>Fisher</font>  {: #Fisher}
-![chronicworker.png](/bot-features/dank-goals/bundle_fisher.png)
+![fisher.png](/bot-features/dank-goals/bundles/depbundle_fisher_march2024.png)
 
 ### <font color =b32d2d>Packer</font>  {: #Packer}
-![chronicworker.png](/bot-features/dank-goals/bundle_packer.png)
+![depbundle_packer_march2024.png](/bot-features/dank-goals/bundles/depbundle_packer_march2024.png)
 
 ### <font color =b32d2d>QuizNOs!</font>  {: #QuizNos}
-![chronicworker.png](/bot-features/dank-goals/bundle_quiznos.png)
+![depbundle_quiznos_march2024.png](/bot-features/dank-goals/bundles/depbundle_quiznos_march2024.png)
 
 <br>
 ---
