@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-03-29T11:35:52.480Z
+date: 2024-03-29T11:39:25.898Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -47,7 +47,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
 
 <center>
   
-| Bait | Image | Usage Description |Default Number of Uses | Found |
+| Bait | Image | Usage Description | Default Number of Uses | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 |Deadly Bait {: #DeadlyBait} | <img src="/items/fishing/deadly_bait.gif" alt="Eyeball Bait" width="50" height="40">| Increases the chance to catch a boss (8x) and the chance to catch boss variants (2x), but bosses are still rare. | 1 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
 |Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 3 | Crypt Keeper's Pond |
@@ -75,7 +75,7 @@ You can only have one of each bucket. All the buckets can also be found in drops
 
 <center>
   
-| Bait | Image | Default Space | Where Found |
+| Bucket | Image | Default Space | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 |Alien Bucket {: #AlienBucket} | <img src="/items/fishing/alien_bucket.gif" alt="Alien Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
 |Bone Bucket {: #BoneBucket} | <img src="/items/fishing/bone_bucket2a.png" alt="Bone Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a>, <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
@@ -108,7 +108,7 @@ You can also get decorations to put in your fish tank from the `/fish season` an
 
 <center>
 
-| Bait | Image | Where Found |
+| Decoration | Image | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 | Christmas Tree {: #ChristmasTree} | <img src="/items/fishing/decorations/christmastree.png" alt="Christmas Tree" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
   | Christmas Wreath {: #ChristmasWreath} | <img src="/items/fishing/decorations/christmaswreath.png" alt="Christmas Wreath" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
