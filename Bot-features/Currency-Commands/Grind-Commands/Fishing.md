@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2024-03-29T19:54:45.574Z
+date: 2024-03-29T23:51:44.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -101,6 +101,7 @@ The more they like you, the more they'll visit and the better rewards they'll of
 | ???? "Mysterious Figure" ???? | <img src="/bot-features/fishing/npc_mysterious_figure.png" alt="Mysterious Figure" width="200">| Is a bit odd and always wears a hood. Says a lot of ominous things. | Mystic Pond |
 | Chad "The Giga" Erningway | <img src="/bot-features/fishing/npc_chad_erningway.png" alt="Chad Erningway" width="200">| Likes working out, fishing, and is surprisingly nice. Doesn't like bullies. | Vertigo Beach, Wily River |
 | Chet "Crypto Bro" Sterling | <img src="/bot-features/fishing/npc_chet_sterling.png" alt="Chet Sterling" width="200"> | Likes money, making money, and hearing himself talk. | Camp Guillermo, Underwater Sanctuary |
+| Developer Team | <img src="/bot-features/fishing/npc_devs.avif" alt="Developer Team NPCs" width="200"> | Melmsie, Badosz, and Zain's (AKA Aetheryx) cat as NPCs | Available during Dank Memer's birthday at all locations, and after only during the NPC Space Time Rift event. | 
 | Marguax "Robbie" Handler | <img src="/bot-features/fishing/npc_margaux_handler.avif" alt="Margaux Handler" width="200">| Is new to real life, and still learning about the world. Likes making friends and trying new things. | Camp Guillermo, Vertigo Beach |
 | Meridian "Mermaid" | <img src="/bot-features/fishing/npc_meridian.avif" alt="Mermaid Meridian" width="200">| A defender of the ocean and extremely curious about humans. | Underwater Sanctuary, Vertigo Beach |
 | Samuel "Tired Father" Booker | <img src="/bot-features/fishing/npc_samuel_booker.png" alt="Samuel Booker" width="200"> | Loves his family, woodworking, and meeting new people. | Underwater Sanctuary, Wily River |
