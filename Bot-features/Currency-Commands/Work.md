@@ -2,65 +2,91 @@
 title: Work
 description: Learn how to work on Dank Memer, about the various jobs, and possible work items you can receive.
 published: true
-date: 2023-07-29T13:11:21.353Z
+date: 2024-03-29T16:51:18.555Z
 tags: work, teacher, scientist, professional fisherman, professional hunter, gravedigger, fast food cook, discord mod, adventurer, babysitter, housewife, twitch streamer, youtuber, bartender, robber, police officer, pro gamer, manager, developer, day trader, santa clause, politician, pharmacist, shopkeeper, work list, work shift, work rewards, ghost, doctor, lawyer, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:49:29.820Z
 ---
 
 # Work
-Every x amount of time, you can work a shift at your job on the bot. The cooldown between each shift varies on which job you apply for. You can find the time between shifts back by using the `/work list` command or look at the table below.
+If you want an easy way to earn more coins and unique items, you can "work" a job on the bot. The `/work list` command gives you a complete list of all the possible jobs you can try. 
 
-## Applying for a job
-You can apply for any job by using the `/work apply job:` command.
+Each job has a required number of hours per day you must work in order to keep the job. The `/work list` command will show you what each job pays, how often you can work, the minimum number of hours required to work each day, and the hours required to unlock it. 
 
-## Job information
+Each job has a unique item it can give you. Check out all of the possible job options, salaries, and items in the <a href="/Bot-features/Currency-Commands/Work#Jobs" target="_blank">work job options</a> seciton.
 
-| Job | Job Item | Image | Base Coin Reward Per Shift | Number Of Shifts To Unlock | Required Shifts Per Day | Shift Cooldown |
-|:--:|:------:|:----:|:------:|:--------:|:--------:|:--------:|
-| Discord Mod | <a href="https://dankmemer.wiki/en/Items/Sellables#BanHammer" target="_blank">Ban Hammer</a> | <img src="/items/sellables/banhammer.png" alt="Ban Hammer" width="50" height="50"> | 10,000 | 0 | 0 | 40 minutes |
-| Baby Sitter | <a href="https://dankmemer.wiki/en/Items/Collectables#Baby" target="_blank">Baby</a> | <img src="/items/collectables/baby.png" alt="Baby" width="50" height="50"> | 10,500 | 0 | 0 | 40 minutes |
-| Fast Food Cook | <a href="https://dankmemer.wiki/en/Items/Power-ups#CrunchyTaco" target="_blank">Crunchy Taco</a> | <img src="/items/power-ups/crunchytaco.png" alt="Crunchy Taco" width="50" height="50"> | 11,111 | 0 | 1 | 43 minutes |
-| House Wife | <a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Used Diaper</a> | <img src="/items/tools/useddiaper.png" alt="Used Diaper" width="50" height="50"> | 12,000 | 0 | 1 | 43 minutes |
-| Twitch Streamer | <a href="https://dankmemer.wiki/en/Items/Tools#TipJar" target="_blank">Tip Jar</a> | <img src="/items/tools/tipjar.png" alt="Tip Jar" width="50" height="50"> | 16,000 | 20 | 2 | 46 minutes |
-| Youtuber | <a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a> | <img src="/items/collectables/likebutton.png" alt="Like Button" width="50" height="50"> | 17,000 | 20 | 2 | 46 minutes |
-| Professional Hunter | <a href="https://dankmemer.wiki/en/Items/Power-ups#Ammo" target="_blank">Ammo</a> | <img src="/items/power-ups/ammo.png" alt="Ammo" width="50" height="50"> | 19,000 | 30 | 3 | 49 minutes |
-| Professional Fisherman | <a href="https://dankmemer.wiki/en/Items/Power-ups#FishingBait" target="_blank">Fishing Bait</a> | <img src="/items/power-ups/fishingbait.png" alt="Fishing Bait" width="50" height="50"> | 20,000 | 30 | 3 | 49 minutes |
-| Grave Digger | <a href="https://dankmemer.wiki/en/Items/Power-ups#StolenAmulet" target="_blank">Stolen Amulet</a> | <img src="/items/power-ups/stolenamulet.gif" alt="Stolen Amulet" width="50" height="50"> | 20,000 | 30 | 3 | 49 minutes |
-| Bartender | <a href="https://dankmemer.wiki/en/Items/Power-ups#BottleofWhiskey" target="_blank">Bottle of Whiskey</a> | <img src="/items/power-ups/bottleofwhiskey.png" alt="Bottle of Whiskey" width="50" height="50"> | 21,000 | 40 | 3 | 49 minutes |
-| Robber | <a href="https://dankmemer.wiki/en/Items/Power-ups#RobbersMask" target="_blank">Robbers Mask</a> | <img src="/items/power-ups/robbersmask.png" alt="Robbers Mask" width="50" height="50"> | 22,000 | 50 | 3 | 49 minutes |
-| Police Officer | <a href="https://dankmemer.wiki/en/Items/Collectables#PoliceBadge" target="_blank">PoliceBadge</a> | <img src="/items/collectables/policebadge.png" alt="Police Badge" width="50" height="50"> | 23,000 | 60 | 3 | 49 minutes |
-| Teacher | <a href="https://dankmemer.wiki/en/Items/Sellables#APlus" target="_blank">A Plus</a> | <img src="/items/sellables/aplus.gif" alt="A Plus" width="50" height="50"> | 24,000 | 80 | 3 | 49 minutes |
-| Musician | <a href="https://dankmemer.wiki/en/Items/Sellables#MusicalNote" target="_blank">Musical Note</a> | <img src="/items/sellables/musicalnote.gif" alt="Musical Note" width="50" height="50"> | 25,000 | 85 | 3 | 49 minutes |
-| Pro Gamer | <a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a> | <img src="/items/power-ups/energydrink.png" alt="Energy Drink" width="50" height="50"> | 28,000 | 100 | 4 | 52 minutes |
-| Manager | <a href="https://dankmemer.wiki/en/Items/Power-ups#MotivationalPoster" target="_blank">Motivational Poster</a> | <img src="/items/power-ups/motivationalposter.png" alt="Motivational Poster" width="50" height="50"> | 29,000 | 120 | 4 | 52 minutes |
-| Developer | <a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a> | <img src="/items/collectables/binary.gif" alt="Binary" width="50" height="50"> | 30,000 | 150 | 4 | 52 minutes |
-| Day Trader | <a href="https://dankmemer.wiki/en/Items/Tools#StonkMachine" target="_blank">Stonk Machine</a> | <img src="/items/tools/stonkmachine.gif" alt="Stonk Machine" width="50" height="50"> | 35,000 | 175 | 5 | 55 minutes |
-| Santa Claus | <a href="https://dankmemer.wiki/en/Items/Lootboxes#SantasBag" target="_blank">Santa's Bag</a> | <img src="/items/lootboxes/santasbag.png" alt="Santa's Bag" width="50" height="50"> | 36,000 | 185 | 5 | 55 minutes |
-| Politician | <a href="https://dankmemer.wiki/en/Items/Collectables#StackofCash" target="_blank">Stack of Cash</a> | <img src="/items/collectables/stackofcash.png" alt="Stack of Cash" width="50" height="50"> | 37,000 | 200 | 5 | 55 minutes |
-| Veterinarian | <a href="https://dankmemer.wiki/en/Items/Power-ups#PetCollar" target="_blank">Pet Collar</a> | <img src="/items/power-ups/petcollar.png" alt="Pet Collar" width="50" height="50"> | 38,000 | 200 | 5 | 55 minutes |
-| Pharmacist | <a href="https://dankmemer.wiki/en/Items/Sellables#MemePills" target="_blank">Meme Pills</a> | <img src="/items/sellables/memepills.png" alt="Meme Pills" width="50" height="50"> | 39,000 | 210 | 5 | 55 minutes |
-| Dank Memer Shopkeeper | <a href="https://dankmemer.wiki/en/Items/Power-ups#ShopCoupon" target="_blank">Shop Coupon</a> | <img src="/items/power-ups/shopcoupon.png" alt="Shop Coupon" width="50" height="50"> | 40,000 | 225 | 5 | 55 minutes |
-| Lawyer | <a href="https://dankmemer.wiki/en/Items/Sellables#LawDegree" target="_blank">Law Degree</a> | <img src="/items/sellables/lawdegree.png" alt="Law Degree" width="50" height="50"> | 45,000 | 250 | 6 | 58 minutes |
-| Doctor | <a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a> | <img src="/items/sellables/vaccine.png" alt="Vaccine" width="50" height="50"> | 46,000 | 280 | 6 | 58 minutes |
-| Scientist | <a href="https://dankmemer.wiki/en/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of sus fluid</a> | <img src="/items/sellables/beakerofsusfluid.png" alt="Beaker of sus fluid" width="50" height="50"> | 47,000 | 300 | 6 | 58 minutes |
-| Ghost | <a href="https://dankmemer.wiki/en/Items/Sellables#Ectoplasm" target="_blank">Ectoplasm</a> | <img src="/items/sellables/ectoplasm.gif" alt="Ectoplasm" width="50" height="50"> | 48,000 | 350 | 6 | 58 minutes |
-| Adventurer | <a href="https://dankmemer.wiki/en/Items/Power-ups#AdventureCompass" target="_blank">Adventure Compass</a> | <img src="/items/power-ups/adventurecompass.gif" alt="Adventure Compass" width="50" height="50"> | 50,000 | 350 | 6 | 58 minutes |
+**Work Information:**
+- <a href="/Bot-features/Currency-Commands/Work#Apply" target="_blank">Applying for a Job</a>
+- <a href="/Bot-features/Currency-Commands/Work#WorkShifts" target="_blank">Earning Coins/Items</a>
+- <a href="/Bot-features/Currency-Commands/Work#Promotions" target="_blank">Earning Promotions</a>
+- <a href="/Bot-features/Currency-Commands/Work#WorkStars" target="_blank">Earning Work Stars</a>
+- <a href="/Bot-features/Currency-Commands/Work#Jobs" target="_blank">Work Job Options</a>
 
-## Working shifts
-You can work a shift by running the `/work shift` command after you've applied for a job.
 
-## Resigning
-You can resign from your job by using the `/work resign` command.
+## Applying for a job {: #Apply}
+You can see all of the possible jobs with the `/work list` command. Each job requires a certain number or work hours to unlock it, so you have to begin by working lower level jobs to unlock higher paying ones. You can see how many hours you've worked to date by checking your `/profile` and using the drop-down menu to go to the work section.
 
-## Work stars
-Work stars give a slight extra luck boost (**per star**) on getting job items from a job.
-They can be earned by getting 20 promotions for a job.
+If you meet the required work hours, you can apply for any job by using the `/work apply job:` command. 
+
+If you decide you don't like the job you are working, you can resign at anytime with the `/work resign` command. If you resign from a job, you have to wait 3 hours before you can apply for another one.
+
+## Earning Coins and Items (Working!) {: #WorkShifts}
+Once you've applied for a job, you use the `/work shift` command to work throughout the day. Each time you do the command you'll earn coins for working, and you have a chance to earn your job's unique item. Each job has a different cooldown after you work before you can work again, but you can use the <a href="/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a> item to shorten it.
+
+If you do not meet your job's required work hours for a week or more, you'll be fired. You can also be fired if you are caught robbing other users, but if you use a <a href="/Items/Tools#FakeID" target="_blank">Fake ID</a> before each rob, your boss won't notice and your job will be safe. If you are fired from a job, you have to wait 6 hours before you can apply for a new one.
+
+
+## Earning Promotions {: #Promotions}
+If you want to earn more money from your job, you'll need to get promoted. In order to receive a promotion, you need to work more than 1.5x the required work hours, you need to avoid failing or having your boss angry because you robbed, and you need to have had the job for at least 12 hours.
+
+If you meet all of the requirements, then the first time you work at the start of a new UTC day you'll get a notice you were promoted and your pay has increased. If you work 4x the required amount with no fails, you also have a 50% chance to receive 2 promotions at once. If you earn 10 promotions, you will receive a work star, which increases your chance to receive items when working. You cannot earn more than 20 promotions per job.
+
+
+## Earning Work Stars {: #WorkStars}
+Work stars give a slight extra luck boost (**per star**) on getting job items from a job. Each star only applies to the job you earned it for, and ther eis no limit to how many stars you earn.
+
+Every 10 promotions you earn,  you will receive a work star. 
 
 ![work_stars.png](/bot-features/work/work_stars.png)
 
-Each time you reach 20 promotions, you get 1 work star for **that specific job**. 
-If you wish to get more work stars for that job, you have to resign (`/work resign`) and apply (`/work apply job:`) again and start from 0 promotions back to 20 to get the next star.
+You cannot earn more than 20 promotions for a job, though, so if you want to earn more stars you have to resign (`/work resign`) and apply (`/work apply job:`) again and start from 0 promotions back to 20 to get the next star.
+
+
+## Work Job Options {: #Jobs}
+
+| Job | Job Item | Item Image | Base Pay Per Shift | Shifts Required To Unlock | Shifts Required Per Day | Shift Cooldown |
+|:--:|:------:|:----:|:------:|:--------:|:--------:|:--------:|
+| Discord Mod | <a href="https://dankmemer.wiki/en/Items/Sellables#BanHammer" target="_blank">Ban Hammer</a> | <img src="/items/sellables/banhammer.png" alt="Ban Hammer" width="50" height="50"> | 50,000 | 0 | 0 | 40 minutes |
+| Baby Sitter | <a href="https://dankmemer.wiki/en/Items/Collectables#Baby" target="_blank">Baby</a> | <img src="/items/collectables/baby.png" alt="Baby" width="50" height="50"> | 55,000 | 0 | 0 | 40 minutes |
+| Fast Food Cook | <a href="https://dankmemer.wiki/en/Items/Power-ups#CrunchyTaco" target="_blank">Crunchy Taco</a> | <img src="/items/power-ups/crunchytaco.png" alt="Crunchy Taco" width="50" height="50"> | 60,000 | 0 | 1 | 43 minutes |
+| House Wife | <a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Used Diaper</a> | <img src="/items/tools/useddiaper.png" alt="Used Diaper" width="50" height="50"> | 65,000 | 0 | 1 | 43 minutes |
+| Twitch Streamer | <a href="https://dankmemer.wiki/en/Items/Tools#TipJar" target="_blank">Tip Jar</a> | <img src="/items/tools/tipjar.png" alt="Tip Jar" width="50" height="50"> | 66,000 | 20 | 2 | 46 minutes |
+| Youtuber | <a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a> | <img src="/items/collectables/likebutton.png" alt="Like Button" width="50" height="50"> | 67,000 | 20 | 2 | 46 minutes |
+| Professional Hunter | <a href="https://dankmemer.wiki/en/Items/Power-ups#Ammo" target="_blank">Ammo</a> | <img src="/items/power-ups/ammo.png" alt="Ammo" width="50" height="50"> | 69,000 | 30 | 3 | 49 minutes |
+| Professional Fisherman | <a href="/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a> | <img src="/items/power-ups/fishingbait.png" alt="Fishing Bait" width="50" height="50"> | 70,000 | 30 | 3 | 49 minutes |
+| Grave Digger | <a href="https://dankmemer.wiki/en/Items/Power-ups#StolenAmulet" target="_blank">Stolen Amulet</a> | <img src="/items/power-ups/stolenamulet.gif" alt="Stolen Amulet" width="50" height="50"> | 70,000 | 30 | 3 | 49 minutes |
+| Bartender | <a href="https://dankmemer.wiki/en/Items/Power-ups#BottleofWhiskey" target="_blank">Bottle of Whiskey</a> | <img src="/items/power-ups/bottleofwhiskey.png" alt="Bottle of Whiskey" width="50" height="50"> | 71,000 | 40 | 3 | 49 minutes |
+| Robber | <a href="https://dankmemer.wiki/en/Items/Power-ups#RobbersMask" target="_blank">Robbers Mask</a> | <img src="/items/power-ups/robbersmask.png" alt="Robbers Mask" width="50" height="50"> | 72,000 | 50 | 3 | 49 minutes |
+| Police Officer | <a href="https://dankmemer.wiki/en/Items/Collectables#PoliceBadge" target="_blank">PoliceBadge</a> | <img src="/items/collectables/policebadge.png" alt="Police Badge" width="50" height="50"> | 73,000 | 60 | 3 | 49 minutes |
+| Teacher | <a href="https://dankmemer.wiki/en/Items/Sellables#APlus" target="_blank">A Plus</a> | <img src="/items/sellables/aplus.gif" alt="A Plus" width="50" height="50"> | 74,000 | 80 | 3 | 49 minutes |
+| Musician | <a href="https://dankmemer.wiki/en/Items/Sellables#MusicalNote" target="_blank">Musical Note</a> | <img src="/items/sellables/musicalnote.gif" alt="Musical Note" width="50" height="50"> | 75,000 | 85 | 3 | 49 minutes |
+| Pro Gamer | <a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a> | <img src="/items/power-ups/energydrink.png" alt="Energy Drink" width="50" height="50"> | 80,000 | 100 | 4 | 52 minutes |
+| Manager | <a href="https://dankmemer.wiki/en/Items/Power-ups#MotivationalPoster" target="_blank">Motivational Poster</a> | <img src="/items/power-ups/motivationalposter.png" alt="Motivational Poster" width="50" height="50"> | 80,000 | 120 | 4 | 52 minutes |
+| Developer | <a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a> | <img src="/items/collectables/binary.gif" alt="Binary" width="50" height="50"> | 30,000 | 150 | 4 | 52 minutes |
+| Day Trader | <a href="https://dankmemer.wiki/en/Items/Tools#StonkMachine" target="_blank">Stonk Machine</a> | <img src="/items/tools/stonkmachine.gif" alt="Stonk Machine" width="50" height="50"> | 95,000 | 175 | 5 | 55 minutes |
+| Santa Claus | <a href="https://dankmemer.wiki/en/Items/Lootboxes#SantasBag" target="_blank">Santa's Bag</a> | <img src="/items/lootboxes/santasbag.png" alt="Santa's Bag" width="50" height="50"> | 96,000 | 185 | 5 | 55 minutes |
+| Politician | <a href="https://dankmemer.wiki/en/Items/Collectables#StackofCash" target="_blank">Stack of Cash</a> | <img src="/items/collectables/stackofcash.png" alt="Stack of Cash" width="50" height="50"> | 120,000 | 200 | 5 | 55 minutes |
+| Veterinarian | <a href="https://dankmemer.wiki/en/Items/Power-ups#PetCollar" target="_blank">Pet Collar</a> | <img src="/items/power-ups/petcollar.png" alt="Pet Collar" width="50" height="50"> | 125,000 | 200 | 5 | 55 minutes |
+| Pharmacist | <a href="https://dankmemer.wiki/en/Items/Sellables#MemePills" target="_blank">Meme Pills</a> | <img src="/items/sellables/memepills.png" alt="Meme Pills" width="50" height="50"> | 130,000 | 210 | 5 | 55 minutes |
+| Dank Memer Shopkeeper | <a href="https://dankmemer.wiki/en/Items/Power-ups#ShopCoupon" target="_blank">Shop Coupon</a> | <img src="/items/power-ups/shopcoupon.png" alt="Shop Coupon" width="50" height="50"> | 150,000 | 225 | 5 | 55 minutes |
+| Lawyer | <a href="https://dankmemer.wiki/en/Items/Sellables#LawDegree" target="_blank">Law Degree</a> | <img src="/items/sellables/lawdegree.png" alt="Law Degree" width="50" height="50"> | 155,000 | 250 | 6 | 58 minutes |
+| Doctor | <a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a> | <img src="/items/sellables/vaccine.png" alt="Vaccine" width="50" height="50"> | 160,000 | 280 | 6 | 58 minutes |
+| Scientist | <a href="https://dankmemer.wiki/en/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of Sus Fluid</a> | <img src="/items/sellables/beakerofsusfluid.png" alt="Beaker of sus fluid" width="50" height="50"> | 165,000 | 300 | 6 | 58 minutes |
+| Ghost | <a href="https://dankmemer.wiki/en/Items/Sellables#Ectoplasm" target="_blank">Ectoplasm</a> | <img src="/items/sellables/ectoplasm.gif" alt="Ectoplasm" width="50" height="50"> | 175,000 | 350 | 6 | 58 minutes |
+| Adventurer | <a href="https://dankmemer.wiki/en/Items/Power-ups#AdventureCompass" target="_blank">Adventure Compass</a> | <img src="/items/power-ups/adventurecompass.gif" alt="Adventure Compass" width="50" height="50"> | 200,000 | 350 | 6 | 58 minutes |
+
+
+
 
 ---
 
