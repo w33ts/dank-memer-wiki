@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-03-29T11:47:54.887Z
+date: 2024-03-29T19:47:43.263Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -52,7 +52,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
 |Deadly Bait {: #DeadlyBait} | <img src="/items/fishing/deadly_bait.gif" alt="Eyeball Bait" width="50" height="40">| Increases the chance to catch a boss (8x) and the chance to catch boss variants (2x), but bosses are still rare. | 1 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
 |Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 3 | Crypt Keeper's Pond |
 |Ghastly Bait {: #GhastlyBait} | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Crypt Keeper's Pond |
- |Gift Bait {: #GiftBait} | <img src="/items/fishing/gift_bait.png" alt="Gift Bait" width="50" height="50">|  Adds a chance to catch winter Holiday items while fishing. | 5 | Ice Caves, Snowy Mountain |
+ |Gift Bait {: #GiftBait} | <img src="/items/fishing/gift_bait.png" alt="Gift Bait" width="50" height="50">|  Adds a chance to catch winter Holiday items while fishing. | 5 | Ice Caves, Snowy Mountain, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Golden Bait {: #GoldenBait} | <img src="/items/fishing/golden_bait.webp" alt="Golden Bait" width="50" height="50">| Increases the chance for high-quality fish. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Lucky Bait {: #LuckyBait} | <img src="/items/fishing/lucky_bait.webp" alt="Lucky Bait" width="50" height="50">| Increases your luck to help you catch rarer fish. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Magnet Bait {: #MagnetBait} | <img src="/items/fishing/magnet_bait.webp" alt="Magnet Bait" width="50" height="50">| Helps you catch only loot, not creatures. | 5 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
@@ -61,7 +61,7 @@ There are tons of possible baits you can use while fishing, and each one has a d
 |Turkey Bait {: #TurkeyBait} | <img src="/items/fishing/turkey_bait.png" alt="Timely Bait" width="50" height="50">| Adds a <a href="/en/Items/Fishing/Creatures#TurkeyFish" target="_blank">Turkey Fish</a> to your catch. Is the only way to catch one. | 5 | Currently Unobtainable |
 |Vintage Bait {: #VintageBait} | <img src="/items/fishing/vintage_bait.webp" alt="Vintage Bait" width="50" height="50">| Helps you catch creatures instead of items. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
 |Weighted Bait {: #WeightedBait} |<img src="/items/fishing/weighted_bait.webp" alt="Weighted Bait" width="50" height="50">| Increases your chance to catch larger sized fish. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
-|XP Bait {: #XPBait} |<img src="/items/fishing/xp_bait.gif" alt="XP Bait" width="50" height="50">| Gives 3x Season Pass XP on any catch and gives 1-3 XP points for regular dank leveling. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|XP Bait {: #XPBait} |<img src="/items/fishing/xp_bait.gif" alt="XP Bait" width="50" height="50">| Gives 3x Season Pass XP on any catch and gives 1-3 XP points for regular dank leveling. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
 
 
   </center>
