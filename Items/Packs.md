@@ -2,7 +2,7 @@
 title: Packs
 description: Browse the list of possible packs you can find on Dank Memer, including membership packs, prestige packs, vote packs, and more.
 published: true
-date: 2024-03-29T22:16:18.690Z
+date: 2024-03-29T22:17:44.796Z
 tags: use, vote pack, prestige pack, pack, premium pack, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:31:34.581Z
@@ -10,6 +10,10 @@ dateCreated: 2023-04-30T21:31:34.581Z
 
 # Pack Items
 Packs are similar to lootboxes, except packs have a set list of contents you will receive when you open them. Each pack has a different set of rewards you'll receive, and you can view them on the <a href="/Bot-features/Currency-Commands/Basic-Commands#Item" target="_blank">/item</a> page for that pack.
+
+> The below info gives you a general idea of where to find each item, but it is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
+
 
 | Item   | Image | ID  | Description | Usable |  Location | Contains | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
