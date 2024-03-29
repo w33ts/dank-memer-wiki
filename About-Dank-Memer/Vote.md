@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2024-03-29T15:34:06.626Z
+date: 2024-03-29T15:35:59.853Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -46,12 +46,11 @@ You can see the current vote-level rewards <a href="/About-Dank-Memer/Vote/Vote-
 
 You can also get a <a href="/Bot-features/Currency-Commands/Badges">badge</a> by reaching Vote Level 58 three times. Each month your vote levels are reset, so you have to successfully vote 58 times within a single month to earn vote level 58. You must do this three times for the standard badge and six times for the platinum badge.
 
-<center>
-  
-![vote_badge.png](/vote_badge.png)
 
-  </center>
-<br>
+<center>
+	<img src="/vote_badge.png" alt="Dynamite" height="100">
+</center>
+
 
 ## Freemium
 <a href="https://dankmemer.lol/freemium">Freemium</a> is a new type of reward claiming website that was released in order to fund the development of free content. 
