@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2024-01-15T19:06:59.955Z
+date: 2024-03-29T18:02:48.163Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -21,8 +21,8 @@ In 2023, the fishing command in Dank Memer was complete redesigned and expanded 
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSeason" target="_blank">/fish season</a> - A leveling system within fishing where you can earn rewards, or upgrade to the premium pass for bonus rewards.
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishSettings" target="_blank">/fish settings</a> - Used to manage your settings for fishing, such as if you want to auto-equip bait or tools.
 - <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> - A shop where you can use the Fish Tokens you've earned to buy fishing-related items.
-- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a> - Use to check what skills you can upgrade to make fishing easier and more profitable. 
-- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> - A virtual fish tank where you can save a few fish to show off or put decorations.
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a> - Used to check what skills you can upgrade to make fishing easier and more profitable. 
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">/fish tank</a> - Virtual fish tanks where you can save a few fish to show off or put decorations.
 
 <br>
 
@@ -65,7 +65,7 @@ Move your tool to the shadow you want and click catch to pull something from the
 
 If you want to shorten the time between fishing, decrease the number of mines, or improve the shape of the shadows so you can see what you are catching, there are skills you can upgrade to help in <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a>.
 
-When you see three shadows, it means that you've encountered a <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss creature</a>. Navigate around the two mines to the non-mine shadow to capture it.
+When you see two mines and one shadow, it means that you've encountered a <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss creature</a>. Navigate around the two mines to the non-mine shadow to capture the boss.
 
 <br>
 
@@ -111,7 +111,9 @@ The more they like you, the more they'll visit and the better rewards they'll of
 <br>
 
 ## Fishing Guidebook 
-The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">location</a>, the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a>, and even the <a href="https://dankmemer.wiki/Items/Fishing" target="_blank">tools and baits</a> available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress.
+The fishing guide book available in `/fish guide` is one of the most useful tools for fishing. The guidebook gives you information about each <a href="/Items/Fishing/Creatures" target="_blank">creature</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishLocations" target="_blank">location</a>, the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">NPCs</a>, and even the <a href="https://dankmemer.wiki/Items/Fishing" target="_blank">tools and baits</a> available. The guide also lists out all of the skill challenges you can complete, and has a summary page that shows your overall fishing progress. 
+
+If you are missing information, you can use `/fish guide` to view other people's guidebooks as well, so you can check someone who has completed more than you to find out what you need to know.
 
 <br>
 
@@ -186,10 +188,17 @@ The `/fish settings` command allows you to change your settings for fishing so y
   <img src="/bot-features/fishing/fishsettings.png" alt="Fish Setting" width="400">
   </center>
 
+Currently, the /fish settings allows you to control:
+- If you automatically re-equip baits when they break while fishing
+- If you automatically re-equip baits in your idle machine when they break
+- If you automatically re-equip tools when they break while fishing
+
 If you have the re-equip bait or re-equip tools settings enabled, it will automatically grab a new tool or bait when one breaks so you don't have to go back to the equipment menu.
 
 ## Fish Shop {: #FishShop}
-You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like <a href="/Items/Fishing#Tools" target="_blank">tools</a>, <a href="/Items/Fishing#Buckets" target="_blank">buckets</a>, and <a href="/Items/Fishing#Baits" target="_blank">baits</a>, as well as <a href="/Items/Fishing#Decorations" target="_blank">fish tank decorations</a> and some foods that can be consumed to give you boosts outside of fishing.
+You can find the fishing shop with the `/shop view` or `/fish shop` commands. The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">fishing</a> shop is where you can spend the Fish Tokens you earn from selling your fish. Throughout the fishing shop you'll find fishing-related items like <a href="/Items/Fishing#Tools" target="_blank">tools</a>, <a href="/Items/Fishing#Buckets" target="_blank">buckets</a>, and <a href="/Items/Fishing#Baits" target="_blank">baits</a>, as well as <a href="/Items/Fishing#Decorations" target="_blank">fish tank decorations</a> and some foods that can be consumed to give you boosts outside of fishing. 
+
+Some items in the shop rotate every few hours, so check back after the shop rotates if you don't see what you are looking for.
 
 <br>
 <center>
@@ -207,7 +216,7 @@ The new fishing system comes with a new skill system as well. In the `/fish guid
 <img src="/items/fishing/guide/guide_challenge.webp" alt="Bare Hand" width="400">
 </center>
 
-Skill Points can be used with the `/fish skills` command. There are a variety of <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills you can upgrade</a> to help you fish easier and make money money. For example, several skills in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">economy section</a> increase the coins or tokens you can earn when selling fish.
+Skill Points can be used with the `/fish skills` command. There are a variety of <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">skills you can upgrade</a> to help you fish easier and make more money. For example, several skills in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Economy" target="_blank">economy section</a> increase the coins or tokens you can earn when selling fish.
 
 
 <br>
@@ -224,26 +233,26 @@ The idle fishing machine is a machine that will fish for you while you are away 
 
 <br>
 <center>
-  <img src="/bot-features/fishing/fish_idle.png" alt="Fish leaderboard" width="400">
+  <img src="/bot-features/fishing/fish_idle2.png" alt="Fish leaderboard" width="400">
   </center>
 
 Once unlocked, the idle machine will automatically fish for you every 30 minutes and attempt to catch a fish. It is not guaranteed it will catch something, though, and it will continue to operate every 30 minutes until the storage space is full. When it is, you will be notified and given a grace period until the next catch to keep it going before it stops.
 
-You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. The machine will fish at all available locations for you, so it can catch a variety of creatures but cannot capture bosses unless you upgrade the AFK Skill under the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">science skills</a> category.
+You can decrease the time between fishing attempts and increase the storage by continuing to upgrade the AFK skill. By default, the machine will fish at all available locations for you, so it can catch a variety of creatures. If you want to fish at a specific location, use baits, or enable it to catch bosses, upgrade the AFK Skill under the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">science skills</a> category.
 
-Upgrading can also allow you to decrease the cooldown, increase storage space, equip baits, and target a location.
+Upgrading can also allow you to decrease the cooldown, and increase storage space.
 
 ## Fish Tank {: #FishTank}
-If you want to save a few of your favorite fish, you can put them in your fish tank. To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
+If you want to save a few of your favorite fish, you can put them in your fish tanks. You start with one fish tank by default and one space for a fish. If you want to purchase more fish tanks, you can buy up to 5 from the `/fish shop`. If you want to hold more than one fish, upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Aquarium Keeper skill</a> and each tank can hold up to 5 creatures.
+
+To put a fish in your tank, use the `/fish buckets` command. Select a bucket, then a fish, and click move. To remove a fish from your tank, use the `/fish tank` command. Press the manage button, select a fish, and click remove.
 
 <br>
 <center>
   <img src="/bot-features/fishing/fish_tank.webp" alt="Fish Tank" width="400">
   </center>
 
-You can own up to 5 fish tanks, and each tank can hold 5 fish max. Purchase extra tanks from the `/fish shop` command. 
-
-You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. To increase the number of fish you can hold to the max amount or enable the use of decorations, upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Aquarium Keeper skill</a>.
+You can also get decorations to put in your fish tank from the `/fish season` and `/fish shop`. To enable the use of decorations, upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Aquarium Keeper skill</a>.
 
 You can see a full list of the possible decorations so far <a href="/Items/Fishing#Decorations" target="_blank">here. </a>
 
