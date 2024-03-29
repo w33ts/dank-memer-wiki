@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-03-29T11:33:09.691Z
+date: 2024-03-29T11:35:52.480Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -122,14 +122,14 @@ You can also get decorations to put in your fish tank from the `/fish season` an
   | Haunted House {: #HauntedHouse} | <img src="/items/fishing/decorations/haunted_house.webp" alt="Haunted House" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Free Reward</a> |
   | Jack O Lantern {: #JackOLantern} | <img src="/items/fishing/decorations/jack_o_lantern.webp" alt="Jack O Lantern" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
    | Krampus Statue {: #KrampusStatue} | <img src="/items/fishing/decorations/krampus.png" alt="Krampus Statue" height="60">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
-  | Mistletoe {: #Mistletoe} | <img src="/items/fishing/decorations/mistletoe.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Mistletoe {: #Mistletoe} | <img src="/items/fishing/decorations/mistletoe.png" alt="Mistletoe" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
   |Neon Plant {: #NeonPlant} | <img src="/items/fishing/decorations/neon_plant.webp" alt="Neon Plant" width="50" height="80">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
   | Pagoda {: #Pagoda} | <img src="/items/fishing/decorations/pagoda.webp" alt="Pagoda" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
   | Present {: #Present} | <img src="/items/fishing/decorations/present.png" alt="Present Decoration" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
   | Skull {: #Skull} | <img src="/items/fishing/decorations/skull.webp" alt="Skull" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
-  | Silver Wreath {: #SilverWreath} | <img src="/items/fishing/decorations/silverwreath.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
+  | Silver Wreath {: #SilverWreath} | <img src="/items/fishing/decorations/silverwreath.png" alt="Silver Wreath" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
   | Sled {: #Sled} | <img src="/items/fishing/decorations/sled.png" alt="Sled Decoration" width="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
-  | Snowflake {: #Snowflake} | <img src="/items/fishing/decorations/snowflake.png" alt="N/A" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Snowflake {: #Snowflake} | <img src="/items/fishing/decorations/snowflake.png" alt="Snowflake" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
   | Snowman Statue {: #SnowmanStatue} | <img src="/items/fishing/decorations/snowman.png" alt="Snowman Statue" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
 |Sunken Ship {: #SunkenShip} | <img src="/items/fishing/decorations/sunken_ship.webp" alt="Metal Bucket" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
   |Treasure Chest {: #TreasureChest} | <img src="/items/fishing/decorations/treasure_chest.webp" alt="Treasure Chest" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
