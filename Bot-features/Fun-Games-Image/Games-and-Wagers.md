@@ -2,7 +2,7 @@
 title: Games and Wagers
 description: Learn about the games available to play or wager on, including Connect4, Tic-Tac-Toe (TTT), Rock-Paper-Scissors (RPS), Fight, and Petfight.
 published: true
-date: 2024-01-22T17:09:42.296Z
+date: 2024-03-29T18:17:44.809Z
 tags: fight, game, connect4, ttt, tictactoe, rockpaperscissors, rps, petfight, wager, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T11:26:13.575Z
@@ -23,13 +23,13 @@ Dank Memer has several games that you can play with others for fun with the `/ga
 ## Fight {: #Fight}
 You can fight with others by either using the `/fight` command, either by `/fight create` or `/fight quick`. 
 
-These commands also lets you wager coins and/or items against others by adding the "**quantity**" and "**for_quantity**" options in the command, allowing you to do coins vs items crossbets too.
+These commands also lets you wager coins and/or items against others by adding the "**quantity/for_quantity**" and "**item/for_item**" options in the command, allowing you to wager coins, items, or coin vs item crossbets too.
 
 The biggest difference is that only `/fight quick` counts towards `/fight ranking` and that `/fight create` gives you full control on how you want to customize your fight.
 
-To be able to fight, you have to pay a tax which can add up to **2.5%** of the total fight value. As well as this, accounts younger than 3 months cannot fight.
+To be able to fight with a wager, your account must be at least 3 months old. For every fight with a wager, you also have to pay a **1.5%** tax of the total fight value. 
 
-When fighting, if you flee or you timeout in the first round, it will be considered a draw.
+When fighting, if you flee or you let the fight timeout in the first round, it will be considered a draw. On any draws during a fight with a bet, first round or not, the tax is refunded.
 
 <br>
 <center>
