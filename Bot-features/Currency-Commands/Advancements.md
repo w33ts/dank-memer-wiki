@@ -2,7 +2,7 @@
 title: Advancements
 description: Learn about the advancements commands, including levels, voting, Omega, prestige, and upgrades.
 published: true
-date: 2024-03-29T18:54:29.761Z
+date: 2024-03-29T22:45:38.666Z
 tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T18:12:11.087Z
@@ -52,13 +52,17 @@ Currently Available in the Omega Shop:
 |:------:|:----:|:------:|
 | <a href="/Bot-features/Currency-Commands/Advancements#GoOmega" target="_blank">Upgrade your Omega level</a> | Any | Unlimited |
 | Purchase a random skin you still need to obtain. <br> These skins are 10% cheaper than the ones in the skin shop in `/shop view`. The available skin changes daily when the new day starts | 1 | Can purchase each skin once |
+| Purchase exclusive Omega Skins. <br> These skins rotate every day, and each requires a different Omega level. They are not offered anywhere else. | 3 - 21 | Can purchase each skin once |
+| Purchase the Omega Bucket for 100,000,000. <br> It's a 100 space bucket to use with the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">/fish catch</a> command | 12 | Can be purchased once |
+| Purchase some Omega-exclusive titles. <br> The titles rotate every day, and each requires a different Omega level. | 1 - 50 | Can purchase each title once |
 | Purchase a Coin Voucher for 11,000,000 | 5 | Unlimited |
-| Purchase the "Hardcore" Title for 50,000,000 | 25 | 1 |
-| Purchase the "Omega chad" Title for 50,000,000 | 10 | 1 |
-| Purchase the "Omega Virgin" Title for 10,000,000 | 1 | 1 |
 | Reset all your bundles for 20,000,000 so you can redo bundles, this only works once per account | 1 | 1 |
-| Purchase a +10% Luck Multiplier for 1 week for 25,000,000 | 5 | 1 |
-| Purchase 9 Lotus seeds for 75,000,000 | 3 | 1 |
+| Sacrifice an Preistge 5+ Pet for an <a href="/Items/Collectables#EnchantedBadoszsCard" target="_blank">Enchanted Badosz Card</a> | 10 | Unlimited |
+| Purchase 20 Vote levels to be added to your monthly vote level total for 25,000,000 | 15 | Can purchase once every 4 weeks and 2 days |
+| Purchase a 2x Global XP Boost for 30,000,000 | 25  | Can purchase once per week |
+| Purchase an "Instantly Finish Ongoing Crafts" boost to make all of your ongoing crafts be completed for 1,000,000	 | 3 | Can purchase once per day |
+| Purchase an "Instantly Grow Plants" boost to make all of your growing crops be ready to harvest for 1,000,000	 | 3 | Can purchase once per day |
+
 
 <br>
 
@@ -88,7 +92,7 @@ Things you **won't** lose when you Omega:
 - Your work stars/stats
 
 ## Prestige {: #Prestige}
-You can prestige once every 6 hours with the `/advancements prestige` command. Prestige can be useful to earn multipliers, grind Omegas, or for a fun challenge.
+You can prestige once every 3 hours with the `/advancements prestige` command. Prestige can be useful to earn multipliers, grind Omegas, or for a fun challenge.
 
 When you prestige, you will lose all of your levels and the money from your wallet and bank. As a reward for prestiging, you receive:
 - A coin multiplier for each prestige (+5% per prestige until 100% total)
@@ -123,16 +127,16 @@ Upgrades are extra features and commands you can buy access to for the bot. Thes
 Read the complete list and explanations of the upgrades available with `/advancements upgrades` <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">here</a>.
 
 ## Vote {: #Vote}
-<a href="/About-Dank-Memer/Vote" target="_blank">Voting</a> twice a day on <a href="https://top.gg/bot/memes/vote" target="_blank">Top.gg</a> and <a href="https://discordbotlist.com/bots/dank-memer/upvote" target="_blank">Discordbotlist</a> is something you can do to help support the bot. When you vote, you earn rewards immediately for voting, but you also earn a vote level. 
+<a href="/About-Dank-Memer/Vote" target="_blank">Voting</a> twice a day on <a href="https://discordbotlist.com/bots/dank-memer/upvote" target="_blank">Discordbotlist</a> is something you can do to help support the bot. When you vote, you earn rewards immediately for voting, but you also earn a vote level. You can also redeem <a href="/About-Dank-Memer/Vote" target="_blank">Freemium</a> throughout the day, but that does not contribute to your vote levels.
 
-Vote levels add up throughout the month, and the higher your level, the more rewards you can earn. You can see the vote level rewards using the `/advancements vote` command. Keep in mind that these vote-level rewards can change, and they are often updated the first or second week of the month.
+Vote levels from Discordbotlist add up throughout the month, and the higher your level, the more rewards you can earn. You can see the vote level rewards using the `/advancements vote` command. Keep in mind that these vote-level rewards can change, and they are often updated the first or second week of the month.
 
 These are the **current** vote-level rewards:
 <center>
-<p><img src="/bot-features/advancements/votelevels_pg1.png" alt="advancements_vote_page_1" width="275" height="400"> <img src="/bot-features/advancements/votelevels_pg2.png" alt="advancements_vote_page_2" width="275" height="400"></p>
+<p><img src="/bot-features/advancements/vote-levels/vote_march2024_pg1.png" alt="advancements_vote_page_1" height="400"> <img src="/bot-features/advancements/vote-levels/vote_march2024_pg2.png" alt="advancements_vote_page_2" height="400"></p>
 
-<p><img src="/bot-features/advancements/votelevels_pg3.png" alt="advancements_vote_page_4" width="275" height="400"> <img src="/bot-features/advancements/votelevels_pg4.png" alt="advancements_vote_page_4" width="275" height="400"></p>
-<p><img src="/bot-features/advancements/votelevels_pg5.png" alt="advancements_vote_page_5" width="275" height="400"></p>
+<p><img src="/bot-features/advancements/vote-levels/vote_march2024_pg3.png" alt="advancements_vote_page_4" height="400"> <img src="/bot-features/advancements/vote-levels/vote_march2024_pg4.png" alt="advancements_vote_page_4" height="400"></p>
+<p><img src="/bot-features/advancements/vote-levels/vote_march2024_pg5.png" alt="advancements_vote_page_5" height="400"></p>
 </center>
 <br>
 
