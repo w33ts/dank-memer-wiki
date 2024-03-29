@@ -2,7 +2,7 @@
 title: Sellables
 description: Browse the possible sellable-type items that are available on the bot, including animals, work items, and more.
 published: true
-date: 2024-03-29T21:18:51.869Z
+date: 2024-03-29T22:21:13.693Z
 tags: kraken, dragon, sellables, sellable items, aplus, a plus, ant, rabbit, deer, aha, pitcher plant, legendary fish, rare fish, common fish, stickbug, lady bug, duck, skunk, worm, mole man, fossil, meteorite, music note, beaker of sus fluid, vaccine, law degree, trash, junk, garbage, fresh bread, star fragment, lasso, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:25.441Z
@@ -10,6 +10,9 @@ dateCreated: 2023-04-30T21:32:25.441Z
 
 # Sellable Items
 Sellable items are items that you can sell directly to the bot for coins using the <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">/shop sell</a>  command. The value of these items is affected by your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a>, and the higher your multiplier the more they are worth.
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 | Item | Image | ID | Description | Max Coin Multi Sell Price | Location | Bundle Item | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
