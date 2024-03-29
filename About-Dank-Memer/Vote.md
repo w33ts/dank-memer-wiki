@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2024-01-22T17:00:11.657Z
+date: 2024-03-29T11:58:55.699Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -11,19 +11,18 @@ dateCreated: 2023-04-29T22:01:53.156Z
 # Vote
 Voting is a great way to make some money and to help support the bot. Thanks to the daily vote rewards and vote-level rewards, you can earn quite a bit of money and rewards by voting daily/monthly. Every vote also helps other Discord users know you enjoy the bot and they should try it out.
 
+Voting is split into <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> and <a href="https://dankmemer.lol/freemium">Fremium</a>. Each site gives different perks and has their own seperate voting systems
+
 
 <br>
 <center>
-<img src="/about-dank-memer/vote/vote_jan2024.png" alt="vote embed" width="400">
+<img src="/about-dank-memer/vote/vote_march2024.png" alt="vote embed" width="400">
 </center>
 
-## How to vote?
-You can vote for the bot either on <a href="https://top.gg/bot/memes/vote" target="_blank">top.gg</a> or <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a>. These links also appear on the `/vote` command. There is a 12-hour cooldown on each website, meaning you can vote a maximum of 4 times per day, twice on each website. 
+## Discordbotlist
+You can vote for the bot on <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a>. There is a 12-hour cooldown meaning you can vote a maximum of 4 times per day.
 
-**Important Note:** Voting from alt accounts is strictly against the <a href="/About-Dank-Memer/Bot-rules">bot rules</a>, so make sure you are only voting on one account.
-
-## Perks of Voting
-### <font color =b32d2d>Vote rewards</font>
+### <font color =b32d2d>Perks</font>
 Every time you vote, you receive some rewards instantly, and you can earn a vote level for larger monthly rewards. 
 
 These are the instant perks you receive per vote:
@@ -34,20 +33,15 @@ These are the instant perks you receive per vote:
 - 1x Vote Pack
 - 1x Daily Box
 - 1x Tool Box
- 
-`Top.gg`
-- 1.85x XP Multiplier for 2 hours
-- +150% Coin Multiplier for 1 hour
-- 1x Vote Pack
-- 1x Daily Box
-- 1x Bait Box
 
  
-Each vote on <a href="https://top.gg/bot/memes/vote" target="_blank">top.gg</a> or <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> also gives you one vote level, and you can earn more rewards by reaching certain vote levels every month. You can earn up to 4 vote levels per day by voting on both websites twice a day. 
+Each vote on <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> also gives you one vote level, and you can earn more rewards by reaching certain vote levels every month. 
 
 If you get enough vote levels, you can earn the rewards shown in the `/advancements vote` command. Your vote levels will reset to 0 every month, and the vote rewards are sometimes updated a week or two into the month. 
 
 You can see the current vote-level rewards <a href="/About-Dank-Memer/Vote/Vote-levels">here</a>.
+
+**Important Note:** Voting from alt accounts is strictly against the <a href="/About-Dank-Memer/Bot-rules">bot rules</a>, so make sure you are only voting on one account.
 
 ### <font color =b32d2d>The "Disenfranchised Voter" badge</font>
 
