@@ -2,7 +2,7 @@
 title: Stream Command
 description: Learn more detail about the /stream command, how it works, how to make the most money, and more.
 published: true
-date: 2023-11-29T02:09:21.772Z
+date: 2024-03-29T16:13:28.372Z
 tags: stream, xp, green screen, camera, mic, microphone, headphones, sound card, sponsors, viewers, level, interactions, ringlight, ring light, streaming
 editor: markdown
 dateCreated: 2023-11-28T23:25:20.315Z
@@ -59,13 +59,13 @@ Streaming items are usable items that can be found in Collect Donations (and oth
 
 The Mouse and Keyboard do not need to be activated to use, and you simply need to have one of each in your inventory to begin streaming.
 
-To activate the other streaming items, run the `/use` command. The items are consumed upon use and the effects last 8 hours, except the Electrifying Zing which lasts 24 hours. You can't use multiple of the same streaming item at once.
+To activate the other streaming items, run the `/use` command. The items are consumed upon use and the effects last 3 days, except the Electrifying Zing which lasts 24 hours. You can't use multiple of the same streaming item at once.
 
 ## Streaming Formulas {: #StreamFormula}
 There are a few useful formulas for streaming you can use to calculate things like the profit you can make and the number of viewers you can achieve.
 
 - Coins from Run AD can be calculated as follows: 
-`350 * [Viewers] + [random # between 5000-10000]`
+`350 * [Viewers] + [random # between 10000 - 25000]`
 - Coins from Collect Donations can be calculated as follows: 
 `250 * [Sponsors] + [random # between 10000-20000]`
 - Starting Stream Views = `[Stream Level] * 2 + [Sponsors] + 10`
