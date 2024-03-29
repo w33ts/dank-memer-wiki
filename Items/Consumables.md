@@ -2,14 +2,17 @@
 title: Consumables
 description: Browse consumable items, such as postcards, boxed chocolates, fart in a bottle, sugar skull, and coin voucher
 published: true
-date: 2024-01-18T19:28:09.717Z
+date: 2024-03-29T22:18:46.786Z
 tags: items, consumable, postcards, post card, boxed chocolate, fart in a bottle, sugar skull, coin voucher, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:30:33.791Z
 ---
 
 # Consumable Items
-Consumable items are some items that can be used and are consumed on use. 
+Consumable items are some items that can be used and are consumed on use.
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 | Item   | Image | ID  | Description | Usable |  Location | Bundle Item | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
