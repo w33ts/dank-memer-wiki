@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-03-29T19:59:19.424Z
+date: 2024-03-29T22:19:45.633Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -23,6 +23,9 @@ You can read more about this change in the <a href="https://dankmemer.lol/tutori
  - <a href="/Items/Fishing#Decorations" target="_blank">Tank Decorations</a>
  - <a href="/Items/Fishing#Tools" target="_blank">Tools</a>
 
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 ## Tools {: #Tools}
 The old fishing pole item was retired, and all new tools were created for the fishing update in 2023. These tools can be found in the <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box item</a>, which is obtainable around the bot, or purchased from the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>. They can also be gifted or traded to you by a <a href="https://dankmemer.lol/tutorial/fishing-npcs" target="_blank">fishing NPC.</a>
