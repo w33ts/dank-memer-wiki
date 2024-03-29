@@ -2,19 +2,19 @@
 title: Friends
 description: Learn about the friend system and how you can add or remove friends and share items and coins.
 published: true
-date: 2023-07-29T13:12:22.735Z
+date: 2024-03-29T18:35:24.023Z
 tags: friends, friends add, friends share coins, friends share items, friends share, friend remove, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:54:50.914Z
 ---
 
 # Friends
-The `/friends` system is a way you can play Dank Memer with friends and help each other. Every user has the ability to add up to 10 people (20 if <a href="/About-Dank-Memer/Premium-users" target="_blank">premium</a>) as a friend, and once you've added them, you can share items, coins, and <a href="/Bot-features/Currency-Commands/Pets" target="_blank">pets</a> with each other for fun. This can be useful if you want to help your friends collect something or send them gifts, but make sure to only add people you are actually friends with. 
+The `/friends` system is a way you can play Dank Memer with friends and help each other. Every user whose Discord account is at least 3 months old has the ability to add up to 10 people (20 if <a href="/About-Dank-Memer/Premium-users" target="_blank">premium</a>) as a friend, and once you've added them, you can share items, coins, and <a href="/Bot-features/Currency-Commands/Pets" target="_blank">pets</a> with each other for fun. This can be useful if you want to help your friends collect something or send them gifts, but make sure to only add people you are actually friends with. 
 
 Adding people simply for a one-time transaction, whether it is a trade, a gift, or a loan, is against <a href="/About-Dank-Memer/Bot-rules" target="_blank">bot rules</a>.
 
 ## Adding/Removing Friends
-You can add friends with the `/friends add` command. Both users must have an available friend slot in order to add each other. [Friend slots](/Bot-features/Currency-Commands/Friends#Slots) are unlocked at specific levels.
+You can add friends with the `/friends add` command. Both users must have a Discord account that is at least 3 months old, and each user needs to have an available friend slot in order to add each other. [Friend slots](/Bot-features/Currency-Commands/Friends#Slots) are unlocked at specific levels.
 
 <center>
   
@@ -71,7 +71,7 @@ You can also share items with your friends with the `/friends share items` comma
   </center>
   
 ## Share Pets
-You can even share pets with your friends with the `/friends share pet` command.
+You can even share pets with your friends with the `/friends share pet` command. If you have more than 25 pets, you'll have to type part of the pet's name (not species) in order to find the pet you want to share. 
 
 <center>
 
