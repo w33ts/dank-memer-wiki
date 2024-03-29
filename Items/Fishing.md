@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-03-29T11:47:38.315Z
+date: 2024-03-29T11:47:46.663Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -111,7 +111,7 @@ You can also get decorations to put in your fish tank from the `/fish season` an
 | Decoration | Image | Where Found |
 |:--------:|:------:|:------:|:--------------:|:------:|
 | Christmas Tree {: #ChristmasTree} | <img src="/items/fishing/decorations/christmastree.png" alt="Christmas Tree" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Premium Pass</a> |
-  | Christmas Wreath {: #ChristmasWreath} | <img src="/items/fishing/decorations/classicwreath.webp" alt="Christmas Wreath" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
+  | Classic Wreath {: #ChristmasWreath} | <img src="/items/fishing/decorations/classicwreath.webp" alt="Christmas Wreath" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">Season of the Frozen Heart - Free Pass</a> |
   | Demon {: #Demon} | <img src="/items/fishing/decorations/demon.webp" alt="Demon" width="80" height="50">| <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters - Premium Pass</a> |
   |Diver's Helmet {: #DiversHelmet} |<img src="/items/fishing/decorations/diver_helmet.webp" alt="Diver's Helmet" width="50" height="50">| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
   | Fishing Trophy {: #FishingTrophy} | <img src="/items/fishing/decorations/fishing_trophy.webp" alt="Fishing Trophy" width="50" height="50">|  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
