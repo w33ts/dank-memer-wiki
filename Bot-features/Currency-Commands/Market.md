@@ -2,7 +2,7 @@
 title: Market
 description: Learn about market commands, selling and buying items for coins or items for items.
 published: true
-date: 2024-01-22T17:03:54.833Z
+date: 2024-03-29T18:29:01.804Z
 tags: market, trading, selling, buying, items for items, coins for coins, items, coins, global market, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:40:00.691Z
@@ -10,13 +10,17 @@ dateCreated: 2023-06-02T18:40:00.691Z
 
 # Market
 
-The market is the primary way of buying and selling items for coins or other items. It is a global market, and users can post ads that anyone can accept. A detailed guide on how to use the market for trading can be found <a href="https://dankmemer.lol/community/blog/new-way-to-trade" target="_blank">here</a>, and information for how to use the partial market feature is <a href="https://dankmemer.lol/tutorial/partials" target="_blank">here</a>.
+The market is the primary way of buying and selling items for coins or other items. It is a global market, and users can post ads that anyone can accept. In order to be able to post market offers, your account has to be at least 3 months old. 
+
+A detailed guide on how to use the market for trading can be found <a href="https://dankmemer.lol/blog/new-way-to-trade" target="_blank">here</a>, and information for how to use the partial market feature is <a href="https://dankmemer.lol/tutorial/partials" target="_blank">here</a>.
 
 With `/market`, you can view the market, sell, buy, and accept others' offers. After negotiating a deal, you can also make private market offers by adding the optional private market setting when you do the command. It is also possible to remove your own market offers with a button click on the red "remove" button in `/market view`.
 
-In order to post offers on the market, you have to pay a `2.5% base fee` (of the average market price of that item) **and** a 1.5%% extra fee **per day** you want to post that offer. The max a fee can cost is ⏣ 5,000,000,000, no matter the item/amount of days. As well as this, accounts younger than 3 months cannot post ads.
+In order to post offers on the market, you have to pay a `2.5% base fee` **plus** a `1.5%% extra fee per day` you want the offer to be posted. The fee is calculated based on the most expensive side of the offer, and any item value is calculated by the average trade value. The max a fee can cost is ⏣ 5,000,000,000, no matter the item/amount of days.
 
-<a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium Members</a> do not pay a fee for the first 3 days. Anything longer than that they'll also start paying a 0.2% fee per extra day.
+If you post a private market offer, the base fee is lowered to `1.5%` plus the `1.5% extra fee per day` you want the offer to be posted.
+
+Previously, <a href="/About-Dank-Memer/Premium-users#PremiumCommands" target="_blank">Premium Members</a> did not pay a fee for the first few days of posting, but as of 2024, all users pay the same market tax.
 
 
 
@@ -47,6 +51,7 @@ When looking at the `/market view`, you are viewing all offers that have been po
 - Expiring Soon
 - Posted Recently
 - Allows Partial (All offers that allow you to buy an item from that offer partially)
+
 
 <br>
 
