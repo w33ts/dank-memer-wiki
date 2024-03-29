@@ -2,7 +2,7 @@
 title: Adventure
 description: Learn about the adventure command, adventure guides, and rewards.
 published: true
-date: 2024-01-22T18:04:12.957Z
+date: 2024-03-29T18:05:03.599Z
 tags: vacation, adventure, space adventure, space, out west adventure, out west, brazil adventure, brazil, brasil, vacation adventure, pepe holidays, pepe winter wonderland, pepe goes trick or treating, pepe goes to the museum, pepe goes on vacation, pepe goes to brazil, halloween adventure, skins adventure, adventure guides, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T15:45:24.049Z
@@ -57,7 +57,7 @@ You can complete a full adventure before you have a cooldown, and then you have 
         <tr align=center>
       <td>Pepe goes <br> Fishing with Friends</td>
       <td>4</td>
-      <td>2 Minutes per Interaction</td>
+      <td>1.5 Minutes per Interaction</td>
       <td>If unlocked from the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters Premium Pass</a> or from <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a></td>
     </tr>
         <tr align=center>
