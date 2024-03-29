@@ -2,7 +2,7 @@
 title: Drops
 description: Learn about drop items and the drop command.
 published: true
-date: 2024-01-03T23:50:23.261Z
+date: 2024-03-29T22:19:14.647Z
 tags: stonk coin, drops, pepe sus, pepe ribbon, boxed chocolate, fart in a bottle, sugar skull, /drop, drop items, birthday cake, fools notifs, holiday stocking, new years poppers, candy corn, toilet paper, rusty machine, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:30:51.821Z
@@ -12,6 +12,9 @@ dateCreated: 2023-04-30T21:30:51.821Z
 Drops are special events where a specific item is for sale with the `/drops` command for a limited time. Drop sales can be for new exclusive items that are **only** purchasable when there is a drop, or they can be a random sale for an existing item. If the item is drop-exclusive, then once the drop is over, there is no way to get the item again except from other users, unless the developers create a new drop for it in the future.
 
 When there is a drop, the items have limited stock available to be sold, and each person can only buy a certain amount. You can read more about drops <a href="https://dankmemer.lol/tutorial/drop-items" target="_blank">here</a>.
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 ## Drop Items
 | Item | Image | ID | Description | Usable | Location | Item Type | Skins Available |
