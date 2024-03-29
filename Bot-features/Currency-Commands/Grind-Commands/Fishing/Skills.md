@@ -2,14 +2,16 @@
 title: Fishing Skills
 description: Learn about the different fishing skills you can upgrade to make fishing easier, faster, and more profitable.
 published: true
-date: 2024-01-02T03:51:30.072Z
+date: 2024-03-29T20:06:25.016Z
 tags: fish buckets, fishing, fish skills, fish catch, fish guide, fishing npcs, skill points, skill challenges
 editor: markdown
 dateCreated: 2023-11-17T09:24:21.401Z
 ---
 
 # Fishing Skills and Skill Challenges
-<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fishing</a> skills are skills you can upgrade in `/fish skills` to help you while fishing. To upgrade a fishing skill, you need a fish skill point. You can earn skill points by completing the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">Skill Challenges</a> found in the `/fish guide` command. There are a variety of challenges, and some skills can help you complete the challenges faster.
+<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fishing</a> skills are skills you can upgrade in `/fish skills` to help you while fishing. There are tons of skills to browse, and each one has multiple levels. If you want to view a specific skill, you can enter the name of the skill in the optional "search" section of the command to go straight to a skill page.
+
+To upgrade a fishing skill, you need a fish skill point. You can earn skill points by completing the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillChallenges" target="_blank">Skill Challenges</a> found in the `/fish guide` command. There are a variety of challenges, and some skills can help you complete the challenges faster.
 
 <br>
 <center>
@@ -18,7 +20,7 @@ dateCreated: 2023-11-17T09:24:21.401Z
 
 If you decide you do not like the skills you've put your skill points on, you can reset your skills once every 3 days for free. When you reset your skill points, it will remove any skill points you've applied and put them back to your total so you can apply them again however you want. If you are impatient and do not want to wait 3 days, you can bypass the wait time by using gems.
 
-Read details below about what each skill does below and any requirements needed to unlock the skill or explore the possible Skill Challenges.
+Read details below about what each skill does below and any requirements needed to unlock the skill or explore the possible Skill Challenges. 
 
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#FishSkills" target="_blank">Skill Descriptions and Requirements</a>
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#SkillTips" target="_blank">Skill Challenges and Tips</a>
