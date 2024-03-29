@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2024-03-29T12:03:30.258Z
+date: 2024-03-29T12:12:46.697Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -12,6 +12,8 @@ dateCreated: 2023-04-29T22:01:53.156Z
 Voting is a great way to make some money and to help support the bot. Thanks to the daily vote rewards and vote-level rewards, you can earn quite a bit of money and rewards by voting daily/monthly. Every vote also helps other Discord users know you enjoy the bot and they should try it out.
 
 Voting is split into <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> and <a href="https://dankmemer.lol/freemium">Fremium</a>. Each site gives different perks and has their own seperate voting systems
+
+**Important Note:** Voting or using Freemium from alt accounts is strictly against the <a href="/About-Dank-Memer/Bot-rules">bot rules</a>, and can result in a bot ban or even a permanent Freemium ban.
 
 
 <br>
@@ -54,9 +56,21 @@ You can also get a <a href="/Bot-features/Currency-Commands/Badges">badge</a> by
 ## Freemium
 <a href="https://dankmemer.lol/freemium">Freemium</a> is a new type of reward claiming website that was released in order to fund the development of free content. 
 
-There is a 6-hour cooldown meaning you can claim rewards a maximum of 8 times per day.
+There is a 6-hour cooldown meaning you can claim rewards a maximum of 8 times per day. Freemium **does not** give you vote levels nor count to the vote badge.
 
-**Important Note:** Voting from alt accounts is strictly against the <a href="/About-Dank-Memer/Bot-rules">bot rules</a>, so make sure you are only voting on one account.
+### <font color =b32d2d>Rewards</font>
+Rewards on the website are selected by cards. Every time you claim Freemium, you draw three cards that everyone gets and then three cards that are randomly generated for you.
+
+These are the default rewards you receive:
+
+- 1.85x XP Multiplier for 1 hour 30 minutes
+- +150% Coin Multiplier for 1 hour
+- 1x Vote Pack
+
+### <font color =b32d2d>Streaks</font>
+Every time you go to claim Freeemium, you get a streak number added to your total streak. Each streak number adds 0.1% to your luck when drawing random cards, and resets if you go 12.5 hours without redeeming.
+
+This is **not** frozen by vacation, streak freeze, or anything else. 
 
 
 ---
