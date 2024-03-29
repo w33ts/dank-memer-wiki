@@ -2,7 +2,7 @@
 title: Config Commands
 description: Learn more about commands to help configure settings, serversettings, audit servers, block users, manage flows, access premium, and more.
 published: true
-date: 2024-03-29T19:39:44.566Z
+date: 2024-03-29T23:57:54.176Z
 tags: premium, server settings, audit, automeme, config commands, alert, block, disableuse, flow, serversettings, settings, config, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T09:02:15.887Z
@@ -198,7 +198,7 @@ The following are the settings that can be changed:
 | Confirmation Number | If you have <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Warning" target="_blank">warning confirmations</a> enabled, the number you put here will be the value for when you'll get a confirmation message before selling and buying items or sharing items/coins with friends. The value can be set between 1 and 2,000,000,000. | 
 | <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile#Customization" target="_blank">Customize Your Profile</a> | Edit your profile and personalize it to your own liking! You can buy advanced profile customization in <a href="/Bot-features/Currency-Commands/Advancements/Upgrades" target="_blank">/advancements upgrades</a>. | 
 | DM Notifications | This allows you to enable/disable DM notifications from the bot, or you can customaize which notifications you wish to receive. |
-| Ephemeral Notifications | Ephemeral messages are pop-up notifications only you can see that you can receive when running commands. Use this setting to customize which type of ephemeral messages you'd like to receive. |
+| Ephemeral Notifications | Ephemeral messages are pop-up notifications only you can see that you can receive when running commands (such as tip notices for regular commands and fishing). Use this setting to customize which type of ephemeral messages you'd like to receive.  |
 | Expose IDs | When you enable this you'll be able to see User ID's in leaderboards, fighting ranking, global/server giveaways and market accept notifications. |
 | Hide Public | Enable or disable yourself being shown on <a href="/Bot-features/Currency-Commands/Leaderboards" target="_blank">leaderboards</a>. Having this set to true hides your username from the leaderboards, so it shows you only as "Hidden User." |
 | <a href="/Bot-features/Currency-Commands/Advancements#LevelRewards" target="_blank">Level Up</a> Notifications | Enable, disable, or change your level-up notifications. Notifications are sent to DMs, and you can customize what type of notifications you want to see, such as only one every minute, every level, or only for rewards.| 
