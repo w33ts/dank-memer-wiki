@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2024-03-29T11:58:55.699Z
+date: 2024-03-29T12:03:30.258Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -27,21 +27,18 @@ Every time you vote, you receive some rewards instantly, and you can earn a vote
 
 These are the instant perks you receive per vote:
 
-`Discordbotlist`
 - 1.85x XP Multiplier for 2 hours
 - +150% Coin Multiplier for 1 hour
 - 1x Vote Pack
 - 1x Daily Box
 - 1x Tool Box
 
- 
+### <font color =b32d2d>Vote Levels</font>
 Each vote on <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> also gives you one vote level, and you can earn more rewards by reaching certain vote levels every month. 
 
 If you get enough vote levels, you can earn the rewards shown in the `/advancements vote` command. Your vote levels will reset to 0 every month, and the vote rewards are sometimes updated a week or two into the month. 
 
 You can see the current vote-level rewards <a href="/About-Dank-Memer/Vote/Vote-levels">here</a>.
-
-**Important Note:** Voting from alt accounts is strictly against the <a href="/About-Dank-Memer/Bot-rules">bot rules</a>, so make sure you are only voting on one account.
 
 ### <font color =b32d2d>The "Disenfranchised Voter" badge</font>
 
@@ -53,6 +50,14 @@ You can also get a <a href="/Bot-features/Currency-Commands/Badges">badge</a> by
 
   </center>
 <br>
+
+## Freemium
+<a href="https://dankmemer.lol/freemium">Freemium</a> is a new type of reward claiming website that was released in order to fund the development of free content. 
+
+There is a 6-hour cooldown meaning you can claim rewards a maximum of 8 times per day.
+
+**Important Note:** Voting from alt accounts is strictly against the <a href="/About-Dank-Memer/Bot-rules">bot rules</a>, so make sure you are only voting on one account.
+
 
 ---
 
