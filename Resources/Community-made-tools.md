@@ -2,7 +2,7 @@
 title: Community Made Tools
 description: Learn about community-made tools and resources to help you with your Dank Memer gameplay, including a prestige and omega calculator, collector list, and bundle cost calculator.
 published: true
-date: 2023-11-24T07:48:10.437Z
+date: 2024-03-29T11:50:33.902Z
 tags: bundle list, bundle cost calculator, community tools, prestige calculator, omega calculator, collectors list, collecting, collection, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T08:28:59.982Z
@@ -18,6 +18,10 @@ The Dank Memer community is filled with avid fans of the bot who spend time buil
 |<a href="https://docs.google.com/spreadsheets/d/1px-cUPwfEQHN31TZ7TawA68uuSXt8sZr/edit#gid=609553487" target="_blank">Prestige and Omega Calculator</a> | Rachel (308303909783339010) |
 |<a href="https://docs.google.com/spreadsheets/d/1q3AXvxvmC7UvrgoNMRbnh_0qNHEPGnBggC-065-e6J0/edit#gid=689230186" target="_blank">Bundles Cost Calculator</a> | Creator: Violet (710210011976040448)<br>Upkeeper: Niels (237899173003788299) |
 | <a href="https://docs.google.com/document/d/159WAmzAeKxbaMocdUlOqG_anAye0x4S3aD8LKnhHMwk/edit?usp=sharing" target="_blank">Collector's Checklist</a> | DrAsylum (304649407444287488) |
+  | <a href="https://docs.google.com/spreadsheets/d/1cDyt_WCSgbHBY3YhsUFIg4KU_7QFGoKHBKrydlXbhvk/edit?usp=sharing" target="_blank">Fishing Checklist</a> | Exo (718470586661208114) |
+  | <a href="https://docs.google.com/spreadsheets/d/1mxcZIbHdmGIYYkYCvtuDMM0fBTj7kcS6_MejGWWLYFw/edit?usp=sharing" target="_blank">Fishing Skills & Challenges Checklist</a> | Crazygerman (509995602705383444) |
+  | <a href="https://docs.google.com/spreadsheets/d/1c1Pjsw3wcE8UrfVfTCD02mv4MTvAZg7jEvCkw6A4Dx8/edit?usp=sharing" target="_blank">XP Multi Calculator</a> | Crazygerman (509995602705383444) |
+  | <a href="https://dankalert.xyz/" target="_blank">Dank Alert Bot</a> | D1P (833972562210979891) |
 
   </center>
 <br>
