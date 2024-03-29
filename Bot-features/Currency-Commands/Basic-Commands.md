@@ -2,7 +2,7 @@
 title: Basic Commands
 description: Learn about basic Dank Memer commands, including balance, craft, currencylog, daily, deposit, inventory, item, notifications, profile, shop (gem shop), use, vacation, and withdraw.
 published: true
-date: 2024-01-02T05:50:16.298Z
+date: 2024-03-29T19:27:00.650Z
 tags: profile, basic commands, balance, craft, currencylog, daily, deposit, inventory, item, shop, use, withdraw, vacation, notifications, notification search, notification view, notification list, gem shop, dank memer wiki, dankmemer wiki, coin shop
 editor: markdown
 dateCreated: 2023-05-29T20:20:06.427Z
@@ -251,14 +251,16 @@ Using this command will upkeep your:
 
 Upkeeping these things means they stay protected, but they do not increase during the vacation either. Each stat you need to protect will cost you some money to upkeep, depending on the duration of your vacation. 
 
-Since December 2023, vacation will also upkeep your passive mode, so you can't be robbed while you are away.
+Since December 2023, vacation will also upkeep your passive mode, so you can't be robbed while you are away. Once your vacation ends, you have 5 days to do a command before passive mode expires as well.
 
 <a href="/About-Dank-Memer/Premium-users" target="_blank">Premium users</a> receive a certain amount of free vacation days based on their tier.
 
-- As a 2$ subscriber, you get 4 days of free vacation.
+- As a 2$ subscriber (old tier), you get 4 days of free vacation.
+- As a 3$ subscriber, you get 6 days of free vacation.
 - As a 5$ subscriber, you get 10 days of free vacation.
 - As a 10$ subscriber, you get 20 days of free vacation.
 - As a 20$ subscriber, you get 30 days of free vacation.
+- As a 45$ subscriber, you get 30 days of free vacation.
 
 <br>
 <center>
