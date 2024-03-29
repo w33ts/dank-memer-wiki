@@ -2,7 +2,7 @@
 title: Power-ups
 description: Learn about Dank Memer power-up items that can help give you a boost when running commands.
 published: true
-date: 2024-01-03T23:30:45.944Z
+date: 2024-03-29T22:20:53.776Z
 tags: robbers mask, alcohol, bottle of whiskey, adventure compass, ammo, bait, fishing bait, life saver, lucky horseshoe, apple, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:05.066Z
@@ -10,6 +10,9 @@ dateCreated: 2023-04-30T21:32:05.066Z
 
 # Power-up Items
 Power-up items are items that give the user some kind of boost to help them when running commands. These items can do things like increase luck, make a certain task easier, or help you earn more rewards.
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 | Item   | Image | ID  | Description | Usable |  Location | Bundle Item | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
