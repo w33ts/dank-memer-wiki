@@ -2,16 +2,24 @@
 title: Pets
 description: Learn about the pet system in Dank Memer, how to care for your pets, level them up, pet quests, and more.
 published: true
-date: 2023-10-31T02:25:03.513Z
+date: 2024-03-29T23:46:18.761Z
 tags: pets, more pets, pet skins, pets care, pets view, walk, feed, play, wash, pet food, pet collar, pet saddle, quest pets, pet quests, t-rex, kraken, alien, dragon, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:59:36.080Z
 ---
 
 # Pets
+Dank Memer has a huge variety of pets you can own, raise, and breed. Pets are easy to care for and can bring you items and coins if you keep them happy. Read more about each part of the pet system below.
+- <a href="/Bot-features/Currency-Commands/Pets#PossiblePets" target="_blank">All Possible Pets</a>
+- <a href="/Bot-features/Currency-Commands/Pets#BuyingPets" target="_blank">Buying/Obtaining Pets</a> 
+- <a href="/Bot-features/Currency-Commands/Pets#PetsCare" target="_blank">Caring for Pets</a> 
+- <a href="/Bot-features/Currency-Commands/Pets#PetQuests" target="_blank">Pet Quests</a>
+- <a href="/Bot-features/Currency-Commands/Pets#PetSlots" target="_blank">Pet Slots</a> 
+- <a href="/Bot-features/Currency-Commands/Pets#PetsTraining" target="_blank">Training Pets</a> 
 
-## Buying pets
-You can buy pets from the pet store with the `/pets buy` command. 
+
+## Buying/Obtaining Pets {: #BuyingPets}
+You can buy most pets from the pet store with the `/pets buy` command, but some pets are only available in the Gem shop, `/fish shop`, or are exclusive to limited time locations. 
 
 The following pets are obtainable from the pet store, listed from cheapest to most expensive:
 - Rock
@@ -36,18 +44,48 @@ The following pets are obtainable from the Fishing Shop using Fish Tokens with t
 - Shark
 
 The following pets are obtainable from the gem store with the `/shop view` command.
-- Garden Gnome
-- Rat
-- Owl
 - Flying Spaghetti Monster
 - Phoenix
 - Yeti
 - Blobfish
 
-## Care
-You can take care of your pets by using the `/pets care` command.
+The following pet is only obtainable from level rewards:
+- Spam Robot
 
+Pets Currently Unable to be Purchased:
+- Blob
+- Garden Gnome
+- Krampus
+- Owl
+- Rat
+
+## Pet Slots {: #PetSlots}
+Before you purchase a pet, you need to make sure you have an open pet slot. Every user has 5 pet slots for free. Previously, there was also 1 slot that could only be filled when your pets have a baby, but this secret slot is gone. 
+
+Now, each pet needs a slot, and there are no hidden slots. If you previously had a baby pet when secret slots existed, you'll have to make sure the baby pet is in a lot before you can obtain any new pets. You can read more about how pet slots work <a href="https://dankmemer.lol/tutorial/pet-slots" target="_blank">in the pets slots tutorial.</a> 
+
+After you have used the 5 free pet slots, you can unlock more pets by buying new pet slots from the `/advancements upgrades` for money.
+
+You get 5 free pet slots in the beginning and then can purchase up to 45 more if you'd like. If you want your pets to be able to have baby pets, make sure you have an empty slot available for one. You can not have more baby pets if all your pet slots are filled.
+
+## Pet Babies
+Legend has it that your pets can make babies. We believe the following circumstances have to be true in order for this to happen, but we can't be certain as this is legend after all. Play around with your pets and see if you can get them to make a baby!
+- Have an open pet slot;
+- Hug your pets --> Some pets need to be "loved" and some need to be in "Love Mode";
+- Pets can't be "hostile" towards each other
+- "Pet Breeding" has to be enabled in `/settings`
+
+***The above may also be entirely inaccurate and we accept no form of liability if your pets hate you***
+
+## Caring for Pets {: #PetsCare}
+In order for your pets to be happy, you need to keep their love stat up. You can see your pet's love stat in the `/pets view `command. 
+
+To keep a pet's love up, you need to take care of your pet by feeding, playing, and washing it. You can take care of your pets by using the `/pets care` command. When your pet is happy, it can bring you items and coins as rewards.
+
+<center>
+  
 ![pets_care.png](/bot-features/pets/pets_care.png)
+  
 
 | Button | What It Does |
 |:------:|:----:|
@@ -57,29 +95,14 @@ You can take care of your pets by using the `/pets care` command.
 | Hug | Hug your pet, this doesn't really do anything |
 | Fetch | Play fetch with your pet. This gives your pet XP but also lets your pet find you items, based on the hunting skill level they have |
 | Walk | Walk with your pet. This gives your pet XP, if you have a pet saddle in your inventory, you'll get even more XP per walk |
+  
+ </center>
 
-Not taking care of your pet will result in the pet losing 1 level per day until they reach level 0. For now, the pet will not run away until mentioned otherwise.
+Not taking care of your pet will result in the pet losing 1 level per day until they reach level 0. For now, the pet will not run away until mentioned otherwise. 
 
-## Getting new pet slots
 
-Every use has 5 pet slots for free, plus 1 slot that can only be filled when your pets have a baby. You can read more about how pet slots work <a href="https://dankmemer.lol/tutorial/pet-slots" target="_blank">in the pets slots tutorial.</a> 
-
-After you have used the 5 free pet slots, you can unlock more pets by buying new pet slots from the `/advancements upgrades` for money.
-
-You get 5 free pet slots in the beginning and then can purchase up to 19 more if you'd like. After having all the pet slots filled, it is still possible for some of your pets to have a baby, which can give you 1 more extra pet, up to a total of 25 pets.
-
-You can not have more baby pets if all your pet slots are filled.
-
-## Pet baby
-Legend has it that your pets can make babies. We believe the following circumstances have to be true in order for this to happen, but we can't be certain as this is legend after all. Play around with your pets and see if you can get them to make a baby!
-- Have an open pet slot;
-- Hug your pets --> Some pets need to be "loved" and some need to be in "Love Mode";
-- Pets can't be "hostile" towards each other
-
-***The above may also be entirely inaccurate and we accept no form of liability if your pets hate you***
-
-## Training
-You can train your pets via the `/pets view` command.
+## Training Pets {: #PetsTraining}
+You can train your pets in a few different ways via the `/pets view` command.
 
 <center>
 
@@ -87,7 +110,7 @@ You can train your pets via the `/pets view` command.
 
 </center>
 
-Here you can click multiple buttons, the function can be found in the table below:
+Below are the possible buttons on the `/pets view` command with a brief explanation of what they do.
 | Button | What It Does |
 |:------:|:----:|
 | Set current | Set one of your pets (if you have more than 1) as your current pet, this pet is also the pet that has a chance on attacking others if you are getting robbed |
@@ -96,23 +119,24 @@ Here you can click multiple buttons, the function can be found in the table belo
 | Prestige | Pet prestige your pet, this is unlimited. The first 3 pet prestiges are at pet level 35, after that the requirement increases by 5 pet levels per prestige |
 | Disown | Disown the current selected pet.
 
-### Pet skills
-You can train your pet with up to 30 skill points.
+**Note** - If your pets lose a level and then you earn the level back, you may get a notice that they have training points to apply, but you won't have any because you already used them when they were at that level previously.
 
-There are 4 skills:
+### Pet skills
+As your pets level up, they'll earn skill points. You can train your pet with up to 30 skill points. Each skill has a different benefit.
+
 | Skill | What It Does |
 |:------:|:----:|
-| Attack | Deal more base damage during pet fights |
-| Defence | Take less base damage during pet fights | 
-| Sustainability | Take longer time before you have to interact with your pet again |
-| Hunting | The higher hunting level, the better the items your pet can fetch/find for you |
+| Attack | Makes your pet deal more base damage during pet fights |
+| Defense | Makes your pet take less base damage during pet fights | 
+| Sustainability | Makes your pet's stats last longer, so you have more time before you have to interact with your pet again |
+| Hunting | The hunting skill is what allows your pet to bring you items and coins. You need at least one point for a pet to bring you rewards, and the higher the hunting level, the better the items your pet can fetch/find for you |
 
-## Types
+## All Possible Pets {: #PossiblePets}
 
 | Pet Name | Image | Obtainable how? |
 |:------:|:----:|:------:|
-| Rock {: #Rock} | <img src="/bot-features/pets/rock.png" alt="Rock" width="50" height="50"> | 1,000,000 in `/pets buy` |
-| Crab {: #Crab} | <img src="/bot-features/pets/crab.png" alt="Crab" width="50" height="50"> | 3,000,000 in `/pets buy` | 
+| Rock {: #Rock} | <img src="/bot-features/pets/rock.png" alt="Rock" width="50" height="50"> | 500,000 in `/pets buy` |
+| Crab {: #Crab} | <img src="/bot-features/pets/crab.png" alt="Crab" width="50" height="50"> | 2,000,000 in `/pets buy` | 
 | Snake {: #Snake} | <img src="/bot-features/pets/snake.gif" alt="Snake" width="50" height="50"> | 3,000,000 in `/pets buy` |
 | Dog {: #Dog} | <img src="/bot-features/pets/dog.png" alt="Dog" width="50" height="50"> | 3,000,000 in `/pets buy` |
 | Fox {: #Fox} | <img src="/bot-features/pets/fox.png" alt="Fox" width="50" height="50"> | 5,000,000 in `/pets buy` |
@@ -123,28 +147,32 @@ There are 4 skills:
 | Birb {: #Birb} | <img src="/bot-features/pets/birb.png" alt="Birb" width="50" height="50"> | 10,000,000 in `/pets buy` | 
 | Monkey {: #Monkey} | <img src="/bot-features/pets/monkey.png" alt="Monkey" width="50" height="50"> | 10,000,000 in `/pets buy` | 
 | Panda Bear {: #PandaBear} | <img src="/bot-features/pets/pandabear.png" alt="Panda Bear" width="50" height="50"> | 12,000,000 in `/pets buy` | 
-| Pepe {: #PepePet} | <img src="/bot-features/pets/pepe.png" alt="Pepe" width="50" height="50"> | 12,500,000 in `/pets buy` | 
+| Pepe {: #PepePet} | <img src="/bot-features/pets/pepe.png" alt="Pepe" width="50" height="50"> | 15,000,000 in `/pets buy` | 
 | Hamster {: #Hamster} | <img src="/bot-features/pets/hamster2.png" alt="Hamster" width="50" height="50"> | 15,000,000 in `/pets buy` |
 | Catgirl {: #Catgirl} | <img src="/bot-features/pets/catgirl.png" alt="Catgirl" width="50" height="50"> | 15,000,000 in `/pets buy` | 
-| Kraken {: #KrakenPet} | <img src="/bot-features/pets/kraken.png" alt="Kraken" width="50" height="50"> | 25,000,000 in `/pets buy` |
 | Axolotl {: #Axolotl} |![axolotls.png](/bot-features/pets/axolotls.png)| 30,000,000 in `/pets buy`|
+| Kraken {: #KrakenPet} | <img src="/bot-features/pets/kraken.png" alt="Kraken" width="50" height="50"> | 50,000,000 in `/pets buy` |
 | Shark {: #Shark} |![shark.webp](/bot-features/pets/shark.webp)| 5,000 Fish Tokens in `/fish shop`|
+| Alien {: #Alien} | <img src="/bot-features/pets/alien.png" alt="Alien" width="50" height="50"> | Alien quest by using the `/use item:meteorite` command |
 | Dragon {: #DragonPet} | <img src="/bot-features/pets/dragon.png" alt="Dragon" width="50" height="50"> | Dragon quest by using the `/use item:dragon` command |
 | T-Rex {: #TRex} | <img src="/bot-features/pets/t-rex.png" alt="T-Rex" width="50" height="50"> | T-Rex quest by using the `/use item:fossil` command |
-| Alien {: #Alien} | <img src="/bot-features/pets/alien.png" alt="Alien" width="50" height="50"> | Alien quest by using the `/use item:meteorite` command |
-| Capybara {: #Capybara} | <img src="/bot-features/pets/capybara.png" alt="Capybara" width="50" height="50"> | Use a shooting star in order to change any pet to the capybara with `/use item:shooting star`. Your pet must be prestige 5+, and you should set it as your current pet in /pet view before you use the shooting star. |
-| Blob {: #BlobPet} | <img src="/bot-features/pets/blob.gif" alt="Blob" width="50" height="50"> | Temporary halloween adventure event reward or trade 25 Melmsie's Beards and 10 Voodoo Dolls for one in the `/advancements omega` store. You must be Omega 1. |
-| Jack O' Lantern {: #JackoLantern} | <img src="/bot-features/pets/jackolantern.gif" alt="Jack O' Lantern" width="50" height="50"> | Temporary halloween adventure event reward or trade 25 Jacky O'Lantys and 10 Spooky Masks for one in the `/advancements omega` store. You must be Omega 1.  | 
+| Capybara {: #Capybara} | <img src="/bot-features/pets/capybara.png" alt="Capybara" width="50" height="50"> | Use a shooting star in order to change any pet to the capybara with `/use item:shooting star`. Your pet must be prestige 5+, and you should set it as your current pet in `/pet view` before you use the shooting star. |
+| Spam Robot {: #SpamRobot} | <img src="/bot-features/pets/spamrobot.png" alt="Spam Robot" width="50" height="50"> | Available as a level reward at level 15,0001 starting from January 17, 2024 for a limited time.  |
+| Blob {: #BlobPet} | <img src="/bot-features/pets/blob.gif" alt="Blob" width="50" height="50"> | Temporary halloween adventure event reward or could be earned from the "Season of the Haunted Waters" season pass in fishing. |
+| Cupid {: #Cupid} | <img src="/bot-features/pets/cupid.png" alt="Cupid" width="50" height="50"> | A temporary Valentine's Day pet available in 2024. | 
+| Jack O' Lantern {: #JackoLantern} | <img src="/bot-features/pets/jackolantern.gif" alt="Jack O' Lantern" width="50" height="50"> | Temporary halloween adventure event reward. | 
 | Krampus {: #Krampus} | <img src="/bot-features/pets/krampus.png" alt="Krampus" width="50" height="50"> | Temporary Winter Wonderland adventure pet. | 
-| Garden Gnome {: #GardenGnome} | <img src="/bot-features/pets/gardengnome.gif" alt="Garden Gnome" width="50" height="50"> | 250 gems in `/shop view` |
-| Owl {: #Owl} | <img src="/bot-features/pets/owl.gif" alt="Owl" width="50" height="50"> | 250 gems in `/shop view` |
-| Rat {: #Rat} | <img src="/bot-features/pets/rat.png" alt="Rat" width="50" height="50"> | 250 gems in `/shop view` |
+| Garden Gnome {: #GardenGnome} | <img src="/bot-features/pets/gardengnome.gif" alt="Garden Gnome" width="50" height="50"> | Previously 250 gems in `/shop view`, but currently no longer available |
+| Owl {: #Owl} | <img src="/bot-features/pets/owl.gif" alt="Owl" width="50" height="50"> | Previously 250 gems in `/shop view`, but currently no longer available |
+| Rat {: #Rat} | <img src="/bot-features/pets/rat.png" alt="Rat" width="50" height="50"> | Previously 250 gems in `/shop view`, but currently no longer available |
 | Flying Spaghetti Monster {: #FlyingSpaghettiMonster} | <img src="/bot-features/pets/flyingspaghettimonster.gif" alt="Flying Spaghetti Monster" width="50" height="50"> | 350 gems in `/shop view` |
 | Phoenix {: #Phoenix} | <img src="/bot-features/pets/phoenix.gif" alt="Phoenix" width="50" height="50"> | 350 gems in `/shop view` |
 | Yeti {: #Yeti} | <img src="/bot-features/pets/yeti.webp" alt="Yeti" width="50" height="50"> | 350 gems in `/shop view` |
 | Blobfish {: #Blobfish} | <img src="/bot-features/pets/blobfish.webp" alt="Blobfish" width="50" height="50"> | 500 gems in `/shop view` |
 
-### Pet quests
+<br>
+
+## Pet quests {: #PetQuests}
 **Alien pet quest**
 - You must not own a pet
 - You must have  2 badges 
