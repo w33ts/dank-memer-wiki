@@ -2,7 +2,7 @@
 title: Serverevents and Giveaways
 description: Learn about global giveaways you can do on your own and serverevents and giveaway features.
 published: true
-date: 2023-07-29T12:05:27.425Z
+date: 2024-03-29T18:38:30.755Z
 tags: serverevents, raffles, giveaways, split or steal, events, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:52:08.435Z
@@ -35,7 +35,8 @@ For items this means the **average market value** of your item is being taken.
 You can use the `/giveaway view` command to view current global giveaways. This shows you 1 random global giveaway, where you get the option to either the giveaway, show the next giveaway or do both.
 
 ## Serverevents {: #Serverevents}
-In order to run an event in your server, you need to have a server with **at least** 50 players in it. 
+To use any serverevent commands, your account must be at least 3 months old. In order to run an event in your server, you need to have a server with **at least** 50 players in it. 
+
 Going back below 50 members after donating items to your server pool does not make the items/coins from the pool vanish! They stay in the `/serverevents pool`, but will be unaccesable until your server reaches 50+ members again.
 
 Keep in mind, using alts to influence the server count is **NOT** allowed and can get you punished.
@@ -50,7 +51,8 @@ Each server has a `/serverevents pool` which will contain all the items donated 
   
 </center>
 
-To donate to a serverpool, you can use the `/serverevents donate` command, this lets you donate either items or coins.
+To donate to a serverpool, you can use the `/serverevents donate` command to donate either items or coins.
+
 You can check the recent server donations with the `/servervents donations` command.
 
 If items were to be missing from your server pool, you can check the logs by using the `/serverevents logs` command.
@@ -61,7 +63,7 @@ There are 4 different types of events:
 - Server bankrobs (`/serverevents run serverbankrob`)
 - Split or Steal (`/serverevents run splitorsteal`)
 
-After an event has been hosted, you can pay the winner(s) out with the `/serverevents payout` command.
+Most server events pay out automatically, but if you decide to host an event that is not run through the bot, you can manually pay the winner(s) out with the `/serverevents payout` command.
 
 ---
 
