@@ -2,7 +2,7 @@
 title: Achievements
 description: Learn how to earn achievements and rewards for playing the bot.
 published: true
-date: 2023-11-18T20:50:10.721Z
+date: 2024-03-29T17:10:46.817Z
 tags: achievements, rewards, overachiever, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T16:23:16.066Z
@@ -11,22 +11,23 @@ dateCreated: 2023-05-29T16:23:16.066Z
 # Achievements
 What would a game be without achievements?!
 
-Dank Memer has a wide range of achievements you can aim for, ranging from easy to hard. Some can be completed in a few minutes, while others could take weeks. The complete list of possible achievements can be found with the `/achievements` command.
+Dank Memer has a wide range of achievements you can aim for, from easy to hard. Some can be completed in a few minutes, while others could take weeks. The complete list of possible achievements can be found with the `/achievements` command.
 
-Completing an achievement will reward you with some coins, <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">titles</a>, items, or even a random <a href="/Bot-features/Currency-Commands/Skins#PetSkins" target="_blank">pet skin</a>. The harder the achievement is to obtain, the better the reward.
+Completing an achievement can reward you with some coins, <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile/Title" target="_blank">titles</a>, items, random <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a>, and more. The harder the achievement is to obtain, the better the reward.
 
 New achievements may always be added later, so make sure to check the <a href="https://dankmemer.lol/changelog" target="_blank">changelog</a> for updates.
 
 ## Current Achievements and Rewards
 <center>
-<p><img src="/bot-features/dank-goals/achievements_pg1.png" alt="Achievements page 1." height="400">  <img src="/bot-features/dank-goals/achievements_pg2.png" alt="Achievements page 2." height="400"></p>
-<p><img src="/bot-features/dank-goals/achievements_pg3.png" alt="Achievements page 3."  height="400"> <img src="/bot-features/dank-goals/achievements_pg4.png" alt="Achievements page 4." height="400"></p>
-<p><img src="/bot-features/dank-goals/achievements_pg5.png" alt="Achievements page 5." height="400"> <img src="/bot-features/dank-goals/achievements_pg6.png" alt="Achievements page 6." height="400"></p>
-<p><img src="/bot-features/dank-goals/achievements_pg7.png" alt="Achievements page 7." height="400"> <img src="/bot-features/dank-goals/achievements_pg8.png" alt="Achievements page 8." height="400"></p>
-<p><img src="/bot-features/dank-goals/achievements_pg9.png" alt="Achievements page 9." height="400"> <img src="/bot-features/dank-goals/achievements_pg10.png" alt="Achievements page 10." height="400"></p>
-<p><img src="/bot-features/dank-goals/achievements_pg11.png" alt="Achievements page 11."  height="400"> <img src="/bot-features/dank-goals/achievements_pg12.png" alt="Achievements page 12." height="400"></p>
-  <p><img src="/bot-features/dank-goals/ achievements_pg13.png" alt="Achievements page 13." height="400"> 
-    <img src="/bot-features/dank-goals/achievements_pg14.png" alt="Achievements page 14." width= "350" height="300"></p>
+<p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg1.png" alt="Achievements page 1." height="400">  <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg2.png" alt="Achievements page 2." height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg3.png" alt="Achievements page 3."  height="400"> <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg4.png" alt="Achievements page 4." height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg5.png" alt="Achievements page 5." height="400"> <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg6.png" alt="Achievements page 6." height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg7.png" alt="Achievements page 7." height="400"> <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg8.png" alt="Achievements page 8." height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg9b.png" alt="Achievements page 9." height="400"> <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg10.png" alt="Achievements page 10." height="400"></p>
+<p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg11.png" alt="Achievements page 11."  height="400"> <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg12.png" alt="Achievements page 12." height="400"></p>
+  <p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg13.png" alt="Achievements page 13." height="400"> 
+    <img src="/bot-features/dank-goals/achievements/achievements_march2024_pg14.png" alt="Achievements page 14." height="400"></p>
+   <p><img src="/bot-features/dank-goals/achievements/achievements_march2024_pg15.png" alt="Achievements page 14." height="400"></p>
 </center>
 
    
