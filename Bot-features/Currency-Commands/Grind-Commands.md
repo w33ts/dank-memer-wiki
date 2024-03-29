@@ -2,7 +2,7 @@
 title: Grind Commands
 description: Learn about basic grind commands, including beg, crime, dig, fish, flow, highlow, hunt, postmeme, scratch, search, and stream.
 published: true
-date: 2023-11-28T23:27:45.461Z
+date: 2024-03-29T16:10:57.035Z
 tags: flow, hunt, fish, dig, beg, search, crime, highlow, postmeme, post memes, postmemes, scratch, stream, grinding, grind commands, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-01T18:42:48.843Z
@@ -27,9 +27,9 @@ You can also grind things like <a href="/Bot-features/Currency-Commands/Adventur
 
 There are many different ways you can grind depending on what you are hoping to achieve, but one essential tool is to use a <a href="/Bot-features/Utility-and-Config-Commands/Config-Commands#Flow" target="_blank">flow</a>. With `/flow`, you can activate a command with a push of a button, making it easier to grind.
 
-Other useful commands when grinding can include <a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">notifications</a> to see when you level up or when a <a href="/Items/Power-ups" target="_blank">boost item</a> expires, your <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">profile</a> to view active items and levels, the <a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">use</a> command to activate boosts, and the <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multipliers</a> command to see your coin and XP multipliers. 
+Other useful commands when grinding can include <a href="/Bot-features/Currency-Commands/Basic-Commands#Notifications" target="_blank">notifications</a> to see when you level up or when a <a href="/Items/Power-ups" target="_blank">boost item</a> expires, your <a href="/Bot-features/Currency-Commands/Basic-Commands/Profile" target="_blank">profile</a> to view active items and levels, the <a href="/Bot-features/Currency-Commands/Basic-Commands#Use" target="_blank">use</a> command to activate boosts, and the <a href="/Bot-features/Currency-Commands/Multipliers" target="_blank">multipliers</a> command to see your coin, luck, and XP multipliers. 
 
-Your <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">XP multiplier</a> helps you level up faster, and your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a> increases the coins you earn when running commands like `/beg`, `/crime`, `/highlow`, and `/search`.
+Your <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti" target="_blank">XP multiplier</a> helps you level up faster, your <a href="/Bot-features/Currency-Commands/Multipliers#LuckMulti" target="_blank">luck multiplier</a> helps you earn better rewards, and your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a> increases the coins you earn when running commands like `/beg`, `/crime`, `/highlow`, and `/search`.
 
 When grinding, being a <a href="/About-Dank-Memer/Premium-users" target="_blank">premium member</a> and using a <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a> increases your luck and gives you a chance to get better items/rewards from most grind commands. A premium membership or <a href="/About-Dank-Memer/Premium-users#PremiumServers" target="_blank">premium server</a> also gives you lower cooldowns when running commands.
 
@@ -76,7 +76,7 @@ The `/crime` command lets you commit a variety of (fake) crimes for the chance t
 
 Any items you find have a chance to be sucked in by a Black Hole if you have (at least) one in your inventory, entering you into the <a href="/Bot-features/Currency-Commands/Lotteries#BlackHole" target="_blank">Black Hole Lottery</a>. 
 
-Unfortunately, this command does not have a public loot table available, but you can see a user-made list of known crime options and rewards <a href="/Bot-features/Currency-Commands/Grind-Commands/Crime" target="_blank">here</a>. Most of the crimes give generic grinding items, but the Tax Evasion option provides the developer with item <a href="/Items/Collectables#BadoszsCard" target="_blank">Badosz's Card</a>.
+Unfortunately, this command does not have a public loot table available, but you can see a user-made list of known crime options and rewards <a href="/Bot-features/Currency-Commands/Grind-Commands/Crime" target="_blank">here</a>. Most of the crimes give generic grinding items, but the Tax Evasion option provides the developer item <a href="/Items/Collectables#BadoszsCard" target="_blank">Badosz's Card</a>.
 
 <br>
 <center>
@@ -96,16 +96,16 @@ There is also a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" targ
     </tr>
     <tr>
       <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium Users</a></td>
-      <td>0 Seconds</td>
+      <td>2 Seconds</td>
     </tr>
   </table>
   </center>
 
 
 ## Dig {: #Dig}
-The `/dig` command lets you dig for rewards. To do this, you need to have at least one <a href="/Items/Tools#Shovel" target="_blank">Shovel</a> or a <a href="/Items/Collectables#DiggingTrophy" target="_blank">Digging Trophy</a> in your inventory. When digging, shovels can break, so it's a good idea to have a few extras. 
+The `/dig` command lets you dig for rewards, including items, coins, and <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. To use the `/dig` command, you need to have at least one <a href="/Items/Tools#Shovel" target="_blank">Shovel</a> or a <a href="/Items/Collectables#DiggingTrophy" target="_blank">Digging Trophy</a> in your inventory. When digging, shovels can break, so it's a good idea to have a few extras. 
 
-If you activate a <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>, it can give you extra luck for better rewards. For example, if you want to see all of the possible `/dig` rewards, you can find the loot table for this command by using <a href="/Resources/help#HelpTable" target="_blank">/help table</a>. 
+If you activate a <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>, it can give you extra luck for better rewards. Your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a> affects the coins you earn, as does the <a href="/Items/Power-ups#GrubPail" target="_blank">Grub Pail</a> item. If you want to see all of the possible `/dig` rewards, check out the loot table by using <a href="/Resources/help#HelpTable" target="_blank">/help table</a>. 
 
 Any items you find have a chance to be sucked in by a Black Hole if you have (at least) one in your inventory, entering you into the <a href="/Bot-features/Currency-Commands/Lotteries#BlackHole" target="_blank">Black Hole Lottery</a>. 
 
@@ -145,7 +145,7 @@ The new fishing system has multiple subcommands, including a <a href="/Bot-featu
 
 ## Highlow {: #Highlow}
 
-The `/highlow` command lets you guess if the number is higher or lower. If you're right, you get coins as a reward. If you are right, you get something. You cannot die or lose anything doing this command, and it is simply a chance to earn coins.
+The `/highlow` command asks you to guess if a hidden number is higher or lower than a hint you are given. If you're right, you get coins as a reward. You cannot die or lose anything doing this command, and it is simply a chance to earn coins.
 
 <center>
 
@@ -165,7 +165,7 @@ There is a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_
     </tr>
     <tr>
       <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium Users</a></td>
-      <td>0 Seconds</td>
+      <td>2 Seconds</td>
     </tr>
   </table>
   </center>
@@ -173,9 +173,7 @@ There is a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_
 
 
 ## Hunt {: #Hunt}
-The `/hunt` command lets you hunt for rewards. In order to do this, you need to have at least one <a href="/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a> or a <a href="/Items/Collectables#HuntingTrophy" target="_blank">Hunting Trophy</a> in your inventory. When hunting, rifles can break, so it's a good idea to have a few extras. 
-
-It may happen that you get nothing at all from using this command. You can find the loot table for this command by using the <a href="/Resources/help#HelpTable" target="_blank">/help table</a> command.
+The `/hunt` command lets you hunt for rewards, including items, coins, and <a href="/Bot-features/Currency-Commands/Skins" target="_blank">skins</a>. In order to do this, you need to have at least one <a href="/Items/Tools#HuntingRifle" target="_blank">Hunting Rifle</a> or a <a href="/Items/Collectables#HuntingTrophy" target="_blank">Hunting Trophy</a> in your inventory. When hunting, rifles can break, so it's a good idea to have a few extras. 
 
 <center>
 
@@ -183,7 +181,7 @@ It may happen that you get nothing at all from using this command. You can find 
   
   </center>
 
-The coins received are affected by your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a>, and if you activate a <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>, it can give you extra luck for better items or more coins.
+The coins received are affected by your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a>, and if you activate a <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>, it can give you extra luck for better items or more coins. You can find the loot table for `/hunt` by using the <a href="/Resources/help#HelpTable" target="_blank">/help table</a> command.
 
 Any items you find have a chance to be sucked in by a Black Hole if you have (at least) one in your inventory, entering you into the <a href="/Bot-features/Currency-Commands/Lotteries#BlackHole" target="_blank">Black Hole Lottery</a>.  
 
@@ -216,7 +214,7 @@ The `/postmemes` command lets you post (fake) memes on certain platforms. When y
   
   </center>
 
-It may happen that you get nothing at all from using this command. You can find the loot table for this command by using the <a href="/Resources/help#HelpTable" target="_blank">/help table</a> command.
+If you use the <a href="/Items/Consumables#JokeBook" target="_blank">Joke Book</a> item, it prevents you from posting dead memes for a while, however, you can still receive nothing. You can find the loot table for `/postmemes` by using the <a href="/Resources/help#HelpTable" target="_blank">/help table</a> command.
 
 There is a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_blank">postmemes badge</a> you can unlock, and if you are a <a href="/About-Dank-Memer/Premium-users" target="_blank">premium user</a> or in a premium server, you have lower cooldowns.
 
@@ -226,11 +224,11 @@ There is a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_
     <th colspan=2>Postmemes Cooldowns</th>
     <tr>
       <td>Normal User</td>
-      <td>20 Seconds</td>
+      <td>30 Seconds</td>
     </tr>
     <tr>
       <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium Users</a></td>
-      <td>0 Seconds</td>
+      <td>2 Seconds</td>
     </tr>
         <tr>
       <td>If you post a dead meme</td>
@@ -243,7 +241,7 @@ There is a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_
 
 ## Scratch {: #Scratch}
 
-The `/scratch` command lets you scratch 4 squares on a scratch ticket once every 3 hours. The hours are set throughout the day based on the bot's time zone (<a href=" https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">UTC</a>), starting a midnight UTC and continuing to give new scratch tickets every 3 hours.
+The `/scratch` command lets you scratch 4 squares on a scratch ticket if you have <a href="https://dankmemer.wiki/en/About-Dank-Memer/Vote" target="_blank">voted for the bot</a> on discordbotlist in the last 12 hours. You can use `/scratch` once every 3 hours, and the rewards rotate throughout the day. The 3-hour periods are set throughout the day based on the bot's time zone (<a href="https://www.timeanddate.com/worldclock/timezone/utc" target="_blank">UTC</a>), starting a midnight UTC and continuing to give new scratch tickets every 3 hours.
 
 <br>
 <center>
@@ -275,17 +273,17 @@ There is a <a href="/Bot-features/Currency-Commands/Badges#Obtainable" target="_
     <th colspan=2>Search Cooldowns</th>
     <tr>
       <td>Normal User</td>
-      <td>20 Seconds</td>
+      <td>25 Seconds</td>
     </tr>
     <tr>
       <td><a href="/About-Dank-Memer/Premium-users" target="_blank">Premium Users</a></td>
-      <td>0 Seconds</td>
+      <td>2 Seconds</td>
     </tr>
   </table>
   </center>
 
 
-This command does not have a publicly available loot table, but most of the locations give some generic (grinding) items you can obtain elsewhere in the bot. For a user-made list of all known locations and possible rewards, check out the list <a href="/Bot-features/Currency-Commands/Grind-Commands/Search" target="_blank">here</a>. 
+This command does not have a publicly available loot table, but most of the locations give some generic items you can obtain elsewhere in the bot. For a user-made list of all known locations and possible rewards, check out the list <a href="/Bot-features/Currency-Commands/Grind-Commands/Search" target="_blank">here</a>. 
 
 Below are some popular search locations that give unique or special items.
 
@@ -318,7 +316,7 @@ The `/stream` command lets you simulate your own streaming session. When using t
   
   </center>
 
-To add items to your active setup, you can use the `/use item:` command, and those items will show up there. Each <a href="Bot-features/Currency-Commands/Streaming#StreamItems" target="_blank">stream item</a> has a different perk to help your stream be more successful. 
+To add items to your active setup, you can use the `/use item:` command, and once used, the items will be visible when you view your setup. Each <a href="Bot-features/Currency-Commands/Streaming#StreamItems" target="_blank">stream item</a> has a different perk to help your stream be more successful. 
 
 When you want to go live, you can pick which game you are going to stream. The game you pick can have a huge impact on your amount of viewers and how much money you make. There is a different game trending each day. When you stream a trending game, you get 3x the coin rewards compared to streaming a non-trending game.
 
