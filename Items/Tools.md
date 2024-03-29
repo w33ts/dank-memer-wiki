@@ -2,7 +2,7 @@
 title: Tools
 description: Learn about the various tool items you can use when playing Dank Memer, including shovels, hunting rifles, fishing poles, adventure tickets, and more.
 published: true
-date: 2023-11-24T09:45:23.142Z
+date: 2024-03-29T22:21:29.004Z
 tags: potato seeds, watermelon seeds, corn seeds, carrot seeds, broccoli seeds, fertilizer, hoe, watering can, tools, vote pack, tool items, shovels, hunting rifle, rifle, fishing pole, pole, adventure ticket, bean seeds, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:48.085Z
@@ -10,6 +10,9 @@ dateCreated: 2023-04-30T21:32:48.085Z
 
 # Tool Items
 Tools are items that are useful for running commands, such as a shovel for when you run <a href="/Bot-features/Currency-Commands/Grind-Commands#Dig" target="_blank">/dig</a> or a fishing pole for when you want to do <a href="/Bot-features/Currency-Commands/Grind-Commands#Fish" target="_blank">/fish</a>. Each item has a different use, and most can be purchased from the <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">/shop</a> or found when running basic commands.
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 | Item   | Image | ID  | Description | Usable |  Location | Bundle Item | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
