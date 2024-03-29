@@ -2,7 +2,7 @@
 title: Advancements
 description: Learn about the advancements commands, including levels, voting, Omega, prestige, and upgrades.
 published: true
-date: 2024-01-02T05:04:42.992Z
+date: 2024-03-29T18:54:29.761Z
 tags: vote, voting, levels, leveling, omega, prestige, upgrades, advancements, advancements upgrades, advancements levels, advancements omega, advancements prestige, advancements vote, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-29T18:12:11.087Z
@@ -24,18 +24,18 @@ Some levels you reach can offer special rewards. You can find the current level 
 
 These are the **current** level rewards:
 <center>
- <p><img src="/bot-features/advancements/advancementslevels1new.png" alt="level rewards page 1" width="300" height="375oop "> <img src="/bot-features/advancements/advancementslevels2new.png" alt="level rewards page 2" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels3new.png" alt="level rewards page 3" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels4new.png" alt="level rewards page 4" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels5new.png" alt="level rewards page 5" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels6new.png" alt="level rewards page 6" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels7new.png" alt="level rewards page 7" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels8new.png" alt="level rewards page 8" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels9new.png" alt="level rewards page 9" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_10_new.png" alt="level rewards page 10" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels11new.png" alt="level rewards page 11" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_12_new.png" alt="level rewards page 12" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels13new.png" alt="level rewards page 13" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels14new.png" alt="level rewards page 14" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels_15_new.png" alt="level rewards page 15" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_16_new.png" alt="level rewards page 16" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels17new.png" alt="level rewards page 17" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_18_new.png" alt="level rewards page 18" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels19new.png" alt="level rewards page 19" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_20_new.png" alt="level rewards page 20" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels_21_new.png" alt="level rewards page 21" width="300" height="375"> <img src="/bot-features/advancements/advancementslevels_22_new.png" alt="level rewards page 22" width="300" height="375"></p>
-<p><img src="/bot-features/advancements/advancementslevels_23_new.png" alt="level rewards page 23" width="300"></p>
+ <p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg1.png" alt="level rewards page 1" width="300" height="375oop "> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg2.png" alt="level rewards page 2" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg3.png" alt="level rewards page 3" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg4.png" alt="level rewards page 4" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg5a.png" alt="level rewards page 5" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg6.png" alt="level rewards page 6" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg7.png" alt="level rewards page 7" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg8.png" alt="level rewards page 8" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg9.png" alt="level rewards page 9" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg10.png" alt="level rewards page 10" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg11.png" alt="level rewards page 11" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg12.png" alt="level rewards page 12" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg13.png" alt="level rewards page 13" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg14.png" alt="level rewards page 14" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg15.png" alt="level rewards page 15" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg16.png" alt="level rewards page 16" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg17.png" alt="level rewards page 17" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg18.png" alt="level rewards page 18" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg19.png" alt="level rewards page 19" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg20.png" alt="level rewards page 20" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg21.png" alt="level rewards page 21" width="300" height="375"> <img src="/bot-features/advancements/levels/levelrewards_march2024_pg22.png" alt="level rewards page 22" width="300" height="375"></p>
+<p><img src="/bot-features/advancements/levels/levelrewards_march2024_pg23.png" alt="level rewards page 23" width="300"><img src="/bot-features/advancements/levels/levelrewards_march2024_pg24.png" alt="level rewards page 23" width="300"></p>
 </center>
 <br>
 
