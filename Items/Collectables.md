@@ -2,7 +2,7 @@
 title: Collectables
 description: Browe Dank Memer's collectable-type items, including pepe items, developer items, craftable items, and more.
 published: true
-date: 2024-01-03T23:45:27.461Z
+date: 2024-03-29T22:18:21.845Z
 tags: bean mp3, aetheryx flower, melmsie's beard, zomb's zombee, adventure voucher, pepe trophy, pepe medal, pepe ring, pepe sus, pepe ribbon, bunny's apron, blue's plane, badosz card, pepe statue, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T20:35:17.911Z
@@ -10,6 +10,9 @@ dateCreated: 2023-04-28T20:35:17.911Z
 
 # Collectable Items
 Collectable items are items that are meant to be collected or to help you collect. Most do not have a use and are not sellable to the bot unless you have the <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector Badge</a>.
+
+> The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
+{.is-info}
 
 | Item | Image | ID | Description | Usable | Location | Bundle Item | Skins Available |
 |:--------:|:------:|:--------------:|:------:|:--------------:|:--------------:|:-----------------:|:-----------------:|
