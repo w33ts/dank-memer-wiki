@@ -2,7 +2,7 @@
 title: Vote
 description: 
 published: true
-date: 2024-03-29T15:35:59.853Z
+date: 2024-03-30T00:10:04.281Z
 tags: dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-29T22:01:53.156Z
@@ -22,18 +22,17 @@ Voting is split into <a href="https://discordbotlist.com/bots/dank-memer/upvote"
 </center>
 
 ## Discordbotlist
-You can vote for the bot on <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a>. There is a 12-hour cooldown meaning you can vote a maximum of 4 times per day.
+You can vote for the bot on <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a>. There is a 12-hour cooldown meaning you can vote a maximum of twice per day.
 
 ### <font color =b32d2d>Perks</font>
 Every time you vote, you receive some rewards instantly, and you can earn a vote level for larger monthly rewards. 
 
 These are the instant perks you receive per vote:
-
-- 1.85x XP Multiplier for 2 hours
-- +150% Coin Multiplier for 1 hour
-- 1x Vote Pack
-- 1x Daily Box
-- 1x Tool Box
+- 1.85x <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti">XP Multiplier</a> for 2 hours
+- +150% <a href="/Bot-features/Currency-Commands/Multipliers#Coin">Coin Multiplier</a> for 1 hour
+- 1x <a href="/Items/Packs#VotePack">Vote Pack</a>
+- 1x <a href="/Items/Lootboxes#DailyBox">Daily Box</a>
+- 1x <a href="/Items/Lootboxes#ToolBox">Tool Box</a>
 
 ### <font color =b32d2d>Vote Levels</font>
 Each vote on <a href="https://discordbotlist.com/bots/dank-memer/upvote">discordbotlist</a> also gives you one vote level, and you can earn more rewards by reaching certain vote levels every month. 
@@ -52,24 +51,25 @@ You can also get a <a href="/Bot-features/Currency-Commands/Badges">badge</a> by
 </center>
 
 
-## Freemium
-<a href="https://dankmemer.lol/freemium">Freemium</a> is a new type of reward claiming website that was released in order to fund the development of free content. 
+## Freemium {: #Freemium}
+<a href="https://dankmemer.lol/freemium">Freemium</a> is a page on Dank Memer's website where you can redeem rewards and earn bonus rewards by watchign ads. Freemium was released in 2024 by the Dank Memer team in order to fund the development of more free content on the bot. 
 
-There is a 6-hour cooldown meaning you can claim rewards a maximum of 8 times per day. Freemium **does not** give you vote levels nor count to the vote badge.
+There is a 6-hour cooldown on Freemium, meaning you can claim rewards a maximum of 4 times per day. Freemium **does not** give you vote levels nor count to the vote badge, but you can build up a Freemium streak to increase your luck for better rewards.
 
 ### <font color =b32d2d>Rewards</font>
-Rewards on the website are selected by cards. Every time you claim Freemium, you draw three cards that everyone gets and then three cards that are randomly generated for you.
+Rewards on the website are selected by cards. Every time you claim Freemium, you first see three cards that everyone gets, and then you'll see three cards that are randomly generated specifically for you.
 
-These are the default rewards you receive:
+The default rewards everyone receives are:
+- 1.85x <a href="/Bot-features/Currency-Commands/Multipliers#XPMulti">XP Multiplier</a> for 1 hour 30 minutes
+- +150% <a href="/Bot-features/Currency-Commands/Multipliers#Coin">Coin Multiplier</a> for 1 hour
+- 1x <a href="/Items/Packs#VotePack">Vote Pack</a>
 
-- 1.85x XP Multiplier for 1 hour 30 minutes
-- +150% Coin Multiplier for 1 hour
-- 1x Vote Pack
+The second set of rewards are different for each user. You can claim one reward for free, but if you want more than one reward from the second set, you have to watch an ad to claim it.
 
 ### <font color =b32d2d>Streaks</font>
-Every time you go to claim Freeemium, you get a streak number added to your total streak. Each streak number adds 0.1% to your luck when drawing random cards, and resets if you go 12.5 hours without redeeming.
+Every time you go to claim Freeemium, you get a streak number added to your total streak. Each streak number adds 0.1% to your luck when drawing random cards, and resets if you go 12.5 hours between redemptions.
 
-This is **not** frozen by vacation, streak freeze, or anything else. 
+The Freemium streak is **not** frozen by vacation, streak freeze, or anything else. 
 
 
 ---
