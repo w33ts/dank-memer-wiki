@@ -2,11 +2,24 @@
 title: Events
 description: Learn about past and present events happening with Dank Memer.
 published: true
-date: 2023-11-24T09:45:56.386Z
+date: 2024-04-01T15:25:50.479Z
 tags: events, /event, blob event, odd eye event, pink event, puzzle key event
 editor: markdown
 dateCreated: 2023-11-17T09:49:28.103Z
 ---
+
+# April Fool's Partnership Prank
+In 2024, on April 1st, Dank <a href="https://dankmemer.lol/blogs/april-first-partnership" target="_blank">released an announcement</a> that they were going to partner with YouTube to offer music for users to listen to while on Discord. All a user had to do to listen to music was go into a voice channel and run the command `/youtube play:` and enter a song they wanted to listen to.
+
+<center>
+  
+![youtubeplayprank.png](/bot-features/events/youtubeplayprank.png)
+  
+</center>
+
+Quickly, users discovered the bot did NOT play the requested song, and it instead played a variety of sound bites, from Melmsie eating a Banana to metal pipes clanking. Running the command did give an exclusive new item, though, a <a href="/Items/Collectables#MetalPipe" target="_blank">Metal Pipe</a> item.
+
+
 
 # Pink Event
 In 2023, the developers of Dank Memer decided to remove the Pink Plastic Bit item from the bot. To make it something fun instead of something sad, they decided to make it a special event with rewards and a competition.
