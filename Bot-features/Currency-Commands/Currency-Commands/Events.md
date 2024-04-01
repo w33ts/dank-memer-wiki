@@ -2,13 +2,13 @@
 title: Events
 description: Learn about past and present events happening with Dank Memer.
 published: true
-date: 2024-04-01T16:45:32.258Z
+date: 2024-04-01T16:45:58.252Z
 tags: events, /event, blob event, odd eye event, pink event, puzzle key event
 editor: markdown
 dateCreated: 2023-11-17T09:49:28.103Z
 ---
 
-# April Fool's Partnership Prank
+# April Fool's Partnership Prank {: #AprilFools}
 In 2024, on April 1st, Dank <a href="https://dankmemer.lol/blogs/april-first-partnership" target="_blank">released an announcement</a> that they were going to partner with YouTube to offer music for users to listen to while on Discord. All a user had to do to listen to music was go into a voice channel and run the command `/youtube play:` and enter a song they wanted to listen to.
 
 <center>
