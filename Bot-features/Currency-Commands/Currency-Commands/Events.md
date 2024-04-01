@@ -2,7 +2,7 @@
 title: Events
 description: Learn about past and present events happening with Dank Memer.
 published: true
-date: 2024-04-01T15:25:50.479Z
+date: 2024-04-01T16:45:32.258Z
 tags: events, /event, blob event, odd eye event, pink event, puzzle key event
 editor: markdown
 dateCreated: 2023-11-17T09:49:28.103Z
@@ -17,7 +17,26 @@ In 2024, on April 1st, Dank <a href="https://dankmemer.lol/blogs/april-first-par
   
 </center>
 
-Quickly, users discovered the bot did NOT play the requested song, and it instead played a variety of sound bites, from Melmsie eating a Banana to metal pipes clanking. Running the command did give an exclusive new item, though, a <a href="/Items/Collectables#MetalPipe" target="_blank">Metal Pipe</a> item.
+Quickly, users discovered the bot did NOT play the requested song, and it instead played a variety of sounds and songs with metal pipes clanking overtop. Running the command did give an exclusive new item, though, a <a href="/Items/Collectables#MetalPipe" target="_blank">Metal Pipe</a> item. Currently, it is believed the item will be a limited time item, released only for this April Fool's event.
+
+### List of Possible Sounds
+- <a href="https://www.youtube.com/watch?v=5UkFq3uOf7M&pp=ygVEMTgxMl9PdmVydHVyZV9lbmRpbmdfYnV0X0lfYWRkZWRfdGhlX21ldGFsX3BpcGVfZmFsbGluZ19zb3VuZF9lZmZlY3Q%3D" target="_blank">1812 Overture ending but with a metal pipe falling sound effect</a>
+- <a href="https://www.youtube.com/watch?v=F_KzC8XmXJs&pp=ygUZQW5pbWFuX2J1dF9pdHNfbWV0YWxfcGlwZQ%3D%3D" target="_blank">Animan but it's metal pipe</a>
+- <a href="https://www.youtube.com/watch?v=8DPPgK2EIOo&pp=ygU2R2FtZUN1YmVfSW50cm9fYnV0X2l0X2hhc190aGVfTWV0YWxfUGlwZV9GYWxsaW5nX1NvdW5k" target="_blank">GameCube Intro, but it has the Metal Pipe Falling Sound Effect</a>
+- <a href="https://www.youtube.com/watch?v=jCOKZyIEFKo&pp=ygU3aG93X2JhZF9jYW5faV9iZV9idXRfZXZlcnlfYmFkX2lzX3JlcGxhY2VkX3dpdGhfYV9tZXRhbA%3D%3D" target="_blank">How bad can i be but every bad is replaced with a metal pipe fallingt</a>
+- <a href="https://www.youtube.com/watch?v=o-Dc3izmgIU&pp=ygUoTWFyaW9fS2FydF9XaWlfLV9Db2NvbnV0X01hbGxfTWV0YWxfUGlwZQ%3D%3D" target="_blank">Mario Kart Wii - Coconut Mall | Metal Pipe Remix</a>
+- <a href="https://www.youtube.com/watch?v=in58wgvfaLQ&pp=ygUpbWVnYWxvdmFuaWFfYnV0X2V2ZXJ5X2luc3RydW1lbnRfaXNfbWV0YWw%3D" target="_blank">Megalovania, but every instrument is metal pipe falling sound effect</a>
+- <a href="https://www.youtube.com/watch?v=1p9CNfKqAdk&pp=ygUfbWV0YWxfcGlwZV9mYWxsaW5nX3NwYXJ0YV9yZW1peA%3D%3D" target="_blank">Metal pipe falling sparta remix.mp4</a>
+- <a href="https://www.youtube.com/watch?v=Mto87sDnEJk&pp=ygUcTWV0YWxfUGlwZV9SZW1peF8tX1dldF9IYW5kcw%3D%3D" target="_blank">Metal Pipe Remix - Wet Hands (INCREDIBLY RELAXING ASMR)</a>
+- <a href="https://www.youtube.com/watch?v=Zm6I5KGpGEc&pp=ygUoU3VwZXJfTWFyaW9fV29ybGRfLV9PdmVyd29ybGRfTWV0YWxfUGlwZQ%3D%3D" target="_blank">Super Mario World - Overworld | Metal Pipe Remix</a>
+- <a href="https://www.youtube.com/watch?v=Oh15F6lzi_w&pp=ygU9VGhlX29ubHlfdGhpbmdfdGhleV9mZWFyX2lzX3lvdV9idXRfZXZlcnlfaW5zdHJ1bWVudF9pc19tZXRhbA%3D%3D" target="_blank">The only thing they fear is you, but every instrument is metal pipe falling sound effect</a>
+- <a href="https://www.youtube.com/watch?v=L6WKHxXA31w&ab_channel=UniverseDevon" target="_blank">Wii Shop Channel - Main Theme | Metal Pipe Remix</a>
+- <a href="https://www.youtube.com/watch?v=oY9O-WbMxO0&pp=ygVLQWxsX0lfd2FudF9mb3JfQ2hyaXN0bWFzX2lzX1lvdV9idXRfZm9yX2V2ZXJ5X2Nob3JkX2NoYW5nZV90aGVyZV9pc19hX21ldGFs" target="_blank">All I want for Christmas is You, but for every chord change there is a metal pipe falling sound</a>
+- <a href="https://www.youtube.com/watch?v=uvBx0JDvVQ4&pp=ygUnRW5lbXlfYnV0X2FfbWV0YWxfcGlwZV9mYWxsc19ldmVyeV9ub3Vu
+" target="_blank">Enemy, but a metal pipe falls every noun</a>
+- <a href="https://www.youtube.com/watch?v=-YRUHSfjJ88&pp=ygU8VGVuZWJyZV9Sb3Nzb19TYW5ndWVfYnV0X2l0c19NZXRhbF9QaXBlX0ZhbGxpbmdfU291bmRfRWZmZWN0" target="_blank">Tenebre Rosso Sangue, but it's Metal Pipe Falling Sound Effect</a>
+- <a href="https://www.youtube.com/watch?v=Ps4vQBUcIUs&pp=ygUnQm9uZXNfYnV0X2FfbWV0YWxfcGlwZV9mYWxsc19ldmVyeV9ub3Vu" target="_blank">Bones, but a metal pipe falls every noun</a>
+- <a href="https://www.youtube.com/watch?v=LeTQOuaPUt8&pp=ygUxTWV0YWxfUGlwZV9TaW5nc19UaGVfQW1hemluZ19EaWdpdGFsX0NpcmN1c19UaGVtZQ%3D%3D" target="_blank">Metal Pipe Sings The Amazing Digital Circus Theme</a>
 
 
 
