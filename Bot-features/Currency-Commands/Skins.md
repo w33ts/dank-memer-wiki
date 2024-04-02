@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T16:02:55.985Z
+date: 2024-04-02T16:03:34.893Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -172,7 +172,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeMedal" target="_blank">Pepe Medal</a>** | Legacy Pepe Medal | <img src="/bot-features/skins/item-skins/pepemedal-legacypepemedal.gif" alt="Legacy Pepe Medal" width="50" height="50"> {: #PepeMedalSkin} |
  | **<a href="/Items/Collectables#PepeRibbon" target="_blank">Pepe Ribbon</a>** | Legacy Ribbon Skin | <img src="/bot-features/skins/item-skins/peperibbon-legacyribbon.png" alt="Legacy Ribbon Skin" width="50" height="50"> {: #PepeRibbonSkin} |
   | **<a href="/Items/Collectables#PepeRibbon" target="_blank">Pepe Ribbon</a>** | Quality Variant Skin | <img src="/bot-features/skins/item-skins/peperibbon-qualityvariant.gif" alt="Quality Variant Skin" width="50" height="50"> |
-    | **<a href="/Items/Collectables#PepeRing" target="_blank">Pepe Ring</a>** | Dollar Store Variant | <img src="/bot-features/skins/item-skins/pepering-dollarstorevariant.png" alt="Dollar Store Pepe Ring" width="50" height="50"> {: #PepeRingSkin}|
+  | **<a href="/Items/Collectables#PepeRing" target="_blank">Pepe Ring</a>** | Dollar Store Variant | <img src="/bot-features/skins/item-skins/pepering-dollarstorevariant.png" alt="Dollar Store Pepe Ring" width="50" height="50"> {: #PepeRingSkin}|
 | **<a href="/Items/Collectables#PepeStatue" target="_blank">Pepe Statue</a>** | Mermaid Pepe Statue | <img src="/bot-features/skins/item-skins/pepestatue-mermaidvariant.gif" alt="Mermaid Pepe Statue" width="50" height="50"> {: #PepeStatueSkin} |
 | **<a href="/Items/Collectables#PepeSus" target="_blank">Pepe Sus</a>** | Legacy Pepe Sus | <img src="/bot-features/skins/item-skins/pepesus-legacyvariant.png" alt="Legacy Pepe Sus" width="50" height="50"> {: #PepeSusSkin} |
  | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Blood Pour Variant | <img src="/bot-features/skins/item-skins/pepetrophy-bloodpourvariant.png" alt="Blood Pour Pepe Trophy" width="50" height="50"> {: #PepeTrophySkin} |
