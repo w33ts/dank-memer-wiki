@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T14:59:56.290Z
+date: 2024-04-02T15:04:49.339Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -321,7 +321,9 @@ The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" targe
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Winter {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-winterskin.png" alt="Winter Fish Guidebook Skin" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Base Skin {: #BaseGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-base.png" alt="Base Fish Guidebook Skin" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Valentine's Skin {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-valentines.png" alt="Valentine's Fish Guidebook Skin" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Winter Skin {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-winterskin.png" alt="Winter Fish Guidebook Skin" width="100"> |
 
 
   </center>
