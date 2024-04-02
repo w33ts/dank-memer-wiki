@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-01-19T19:33:31.334Z
+date: 2024-04-02T14:58:34.420Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -301,15 +301,16 @@ The fish tank skins can be equipped on your fish tank, and it will be what you o
   
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Base Tank {: #BaseTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-base.png" alt="Base Fish Tank" width="100"> |
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Black Rock {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Bone Tank {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Ice Tank {: #IceTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-ice.png" alt="Ice Fish Tank" width="100"> |
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink Tank {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | UNKNOWN Tank 1 {: #UNKOWNTank1Skin} | UNKNOWN|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | UNKNOWN Tank 2 {: #UNKOWNTank2Skin} | UNKNOWN|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | UNKNOWN Tank 3 {: #UNKOWNTank3Skin} | UNKNOWN|
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | UNKNOWN Tank 4 {: #UNKOWNTank4Skin} | UNKNOWN|
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Base Skin {: #BaseTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-base.png" alt="Base Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Black Rock Skin {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
+    | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Blue Skin {: #BlueTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blue.png" alt="Blue Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Bone Skin {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Ice Skin {: #IceTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-ice.png" alt="Ice Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Orange Skin {: #OrangeTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-orange.png" alt="Orange Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink Skin {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
+    | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Purple Skin {: #PurpleTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-purple.png" alt="Purple Fish Tank" width="100"> |
+  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Valentine's Skin {: #ValentinesTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-valentines.png" alt="Valentine's Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | UNKNOWN Tank {: #UNKOWNTankSkin} | UNKNOWN|
   
   </center>
   
