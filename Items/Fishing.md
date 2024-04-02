@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-03-29T22:19:45.633Z
+date: 2024-04-02T16:44:07.818Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -87,6 +87,7 @@ You can only have one of each bucket, and can use 5 buckets at a time (6 if you 
 |God Bucket {: #GodBucket} | <img src="/items/fishing/god_bucket.gif" alt="God Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a> |
 |Golden Bucket {: #GoldenBucket} | <img src="/items/fishing/golden_bucket.gif" alt="Golden Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Metal Bucket {: #MetalBucket} | <img src="/items/fishing/metal_bucket.png" alt="Metal Bucket" width="50" height="50">| 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
+ | Omega Bucket {: #OmegaBucket} | <img src="/items/fishing/omega_bucket.gif" alt="Omega Bucket" width="50" height="50">| 100 | <a href="/Bot-features/Currency-Commands/Advancements#Omega" target="_blank">`/Advancements Omega`</a> |
 |Pepe Bucket {: #PepeBucket} | <img src="/items/fishing/pepe_bucket.png" alt="Pepe Bucket" width="50" height="50">| 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a> |
 |Pink Bucket {: #PinkBucket} |<img src="/items/fishing/pink_bucket.png" alt="Pink Bucket" width="50" height="50">| 10 | Awarded to participants of the Pink Event. |
  |Shark Bucket {: #SharkBucket} | <img src="/items/fishing/shark_bucket.gif" alt="Shark Bucket" width="50" height="50">| 50 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a>, Drops |
