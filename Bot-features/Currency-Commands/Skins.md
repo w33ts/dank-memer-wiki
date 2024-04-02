@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T16:11:06.838Z
+date: 2024-04-02T16:13:54.024Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -80,6 +80,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BadoszsCard" target="_blank">Badosz's Card</a>** | Badosz Card Gnik Variant | <img src="/bot-features/skins/item-skins/badoszscard-badoszcardgnikvariant.gif" alt="Badosz Card Gnik Variant" width="50" height="50"> {: #BadoszsCardSkin} |
 | **<a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/baitbox-holidaylightsvariant.gif" alt="Holiday Lights Bait Box Variant" width="50" height="50"> {: #BaitBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#BanHammer" target="_blank">Ban Hammer</a>** | Legacy Hammer | <img src="/bot-features/skins/item-skins/banhammer-legacyhammer.png" alt="Legacy Hammer" width="50" height="50"> {: #BanHammerSkin} |
+  | **<a href="/Items/Power-ups#BankNote" target="_blank">Bank Note</a>** | OG Banknote | <img src="/bot-features/skins/item-skins/banknote-ogbanknote.png" alt="OG Banknote Variant" width="50" height="50"> {: #BanknoteSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of sus fluid</a>** | Legacy Beaker | <img src="/bot-features/skins/item-skins/beakerofsusfluid-legacybeaker.png" alt="Legacy Beaker" width="50" height="50"> {: #BeakerofsusfluidSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Binary" target="_blank">Binary</a>** | Legacy Binary | <img src="/bot-features/skins/item-skins/binary-legacybinary.png" alt="Legacy Binary" width="50" height="50"> {: #BinarySkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BirthdayCake" target="_blank">Birthday Cake</a>** | Pepe Flavored Cake Variant | <img src="/bot-features/skins/item-skins/birthdaycake-pepeflavoredcakevariant.png" alt="Pepe Flavored Cake Variant" width="50" height="50"> {: #BirthdayCakeSkin} |
@@ -213,7 +214,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Question Trivia Trophy Variant | <img src="/bot-features/skins/item-skins/triviatrophy-questiontriviatrophyvariant.png" alt="Question Trivia Trophy Variant" width="50" height="50"> {: #TriviaTrophySkin} |
   | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/triviatrophy-holidaylightsvariant.gif" alt="Holiday Lights Trophy Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Tumbleweed" target="_blank">Tumbleweed</a>** | Googly Eye Tumbleweed Variant | <img src="/bot-features/skins/item-skins/tumbleweed-googlyeyetumbleweedvariant.gif" alt="Googly Eye Tumbleweed Variant" width="50" height="50"> {: #TumbleWeedSkin} |
- | **<a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Universe Box</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/universebox-omegavariant.gif" alt="Omega Universe Box Variant" width="50" height="50"> {: #UniverseBoxSkin} |
+ | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#UniverseBox" target="_blank">Universe Box</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/universebox-omegavariant.gif" alt="Omega Universe Box Variant" width="50" height="50"> {: #UniverseBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Used Diaper</a>** | Legacy Diaper | <img src="/bot-features/skins/item-skins/useddiaper-legacydiaper.png" alt="Legacy Diaper" width="50" height="50"> {: #UsedDiaperSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a>** | Legacy Vaccine | <img src="/bot-features/skins/item-skins/vaccine-legacyvaccine.png" alt="Legacy vaccine" width="50" height="50"> {: #VaccineSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#VoodooDoll" target="_blank">Voodoo Doll</a>** | Overused Voodoo Doll Variant | <img src="/bot-features/skins/item-skins/voodoodoll-overusedvoodoodollvariant.png" alt="Overused Voodoo Doll Variant" width="50" height="50"> {: #VoodooDollSkin} |
