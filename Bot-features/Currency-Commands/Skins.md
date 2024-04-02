@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T16:13:54.024Z
+date: 2024-04-02T16:19:32.039Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -135,6 +135,8 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Junk" target="_blank">Junk</a>** | Legacy Junk (CD) | <img src="/bot-features/skins/item-skins/junk-legacyjunk(cd).png" alt="Legacy Junk (cd)" width="50" height="50"> {: #JunkSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#KablesSunglasses" target="_blank">Kable's Sunglasses</a>** | Clown Kable Variant | <img src="/bot-features/skins/item-skins/kablessunglasses-clownkablevariant.png" alt="Clown Kable Variant" width="50" height="50"> {: #KablesSunglassesSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#Landmine" target="_blank">Landmine</a>** | Booby Trap Variant | <img src="/bot-features/skins/item-skins/landmine-boobytrapvariant.gif" alt="Booby Trap Variant" width="50" height="50"> {: #LandmineSkin} |
+  | **<a href="/Items/Collectables#Laptop" target="_blank">Laptop</a>** | Gaming Variant | <img src="/bot-features/skins/item-skins/laptop-gamingvariant.gif" alt="Gaming Laptop Variant" width="50" height="50"> {: #LaptopSkin} |
+  | **<a href="/Items/Collectables#Laptop" target="_blank">Laptop</a>** | Steve Apple Variant | <img src="/bot-features/skins/item-skins/laptop-steveapplevariant.png" alt="Steve Apple Laptop Variant" width="50" height="50">|
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#LawDegree" target="_blank">Law Degree</a>** | Legacy Law Degree | <img src="/bot-features/skins/item-skins/lawdegree-legacylawdegree.png" alt="Legacy Law Degree" width="50" height="50"> {: #LawDegreeSkin} |
 | **<a href="/Items/Collectables#LegacyCommonFish" target="_blank">Legacy Common Fish</a>** | Legacy Common Fish | <img src="/bot-features/skins/item-skins/commonfish-legacycommonfish.png" alt="Legacy Common Fish" width="50" height="50"> {: #CommonFishSkin} |
 | **<a href="/Items/Collectables#LegacyExoticFish" target="_blank">Legacy Exotic Fish</a>** | Legacy Exotic Fish | <img src="/bot-features/skins/item-skins/exoticfish-legacyexoticfish.png" alt="Legacy Exotic Fish" width="50" height="50"> {: #ExoticFishSkin} |
@@ -147,6 +149,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="/Items/Collectables#LegacyRareFish" target="_blank">Legacy Rare Fish</a>** | Legacy Rare Fish | <img src="/bot-features/skins/item-skins/rarefish-legacyrarefish.png" alt="Legacy Rare Fish" width="50" height="50"> {: #RareFishSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>** | First Aid Variant | <img src="/bot-features/skins/item-skins/lifesaver-firstaidvariant.png" alt="First Aid Variant" width="50" height="50"> {: #LifeSaverSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>** | Legacy Lifesaver | <img src="/bot-features/skins/item-skins/lifesaver-legacylifesaver.png" alt="Legacy Livesaver" width="50" height="50"> |
+  | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LifeSaver" target="_blank">Life Saver</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/lifesaver-omegavariant.gif" alt="Omega Livesaver" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#LikeButton" target="_blank">Like Button</a>** | Legacy Like Button | <img src="/bot-features/skins/item-skins/likebutton-legacylikebutton.png" alt="Legacy Like Button" width="50" height="50"> {: #LikeButtonSkin} |
 | **<a href="/Items/Collectables#LiterallyKaren" target="_blank">Literally Karen</a>** | Literally Karen Witch Variant | <img src="/bot-features/skins/item-skins/literallykaren-witchvariant.png" alt="Literally Karen Witch" width="50" height="50"> {: #LiterallyKarenSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>** | Legacy Horseshoe | <img src="/bot-features/skins/item-skins/luckyhorseshoe-legacyhorseshoe.png" alt="Legacy Horseshoe" width="50" height="50"> {: #LuckyHorseshoeSkin} |
