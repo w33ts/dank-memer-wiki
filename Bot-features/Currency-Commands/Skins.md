@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T15:04:49.339Z
+date: 2024-04-02T15:07:55.411Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -285,6 +285,7 @@ The <a href="/Bot-features/Currency-Commands/Farm" target="_blank">farm</a> skin
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Blob {: #BlobSkin} | <img src="/bot-features/skins/farm-skins/farm-blob.png" alt="Farm Desert" width="50" height="50"> |
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Desert {: #DesertSkin} | <img src="/bot-features/skins/farm-skins/farm-desert.png" alt="Farm Desert" width="50" height="50"> |
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Ghostly {: #GhostlySkin} | <img src="/bot-features/skins/farm-skins/farm-ghostly.png" alt="Farm Desert" width="50" height="50"> |
+   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Omega {: #OmegaSkin} | <img src="/bot-features/skins/farm-skins/farm-omegaskin.png" alt="Omega Farm Skin" width="50" height="50"> |
   | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Pink {: #PinkSkin} | <img src="/bot-features/skins/farm-skins/farm-pink.png" alt="Farm Pink" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Raft {: #RaftSkin} | <img src="/bot-features/skins/farm-skins/farm-raft.png" alt="Farm Raft" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>** | Rainbows {: #RainbowsSkin} | <img src="/bot-features/skins/farm-skins/farm-rainbow.png" alt="Farm Rainbow" width="50" height="50"> |
