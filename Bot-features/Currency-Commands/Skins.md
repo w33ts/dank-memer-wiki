@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T16:23:04.722Z
+date: 2024-04-02T16:27:59.355Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -87,6 +87,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Colorful Variant | <img src="/bot-features/skins/item-skins/blackhole-unknownvariant.gif" alt="Colorful Black Hole Variant" width="50" height="50">  | 
 | **<a href="/Items/Collectables#BlackHole" target="_blank">Black Hole</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/blackhole-holidaylightsvariant.webp" alt="Holiday Lights Black Hole Variant" width="50" height="50"> {: #BlackHoleSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Blob" target="_blank">Blob</a>** | Legacy Blob | <img src="/bot-features/skins/item-skins/blob-legacyblob.gif" alt="Legacy Blob" width="50" height="50"> {: #BlobSkin} | 
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#BluesPlane" target="_blank">Blue's Plane</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/bluesplane-omegavariant.gif" alt="Omega Plane Variant" width="50" height="50"> {: #BluesPlaneSkin} | 
 | **<a href="/Items/Sellables#Boar" target="_blank">Boar</a>** | Legacy Boar | <img src="/bot-features/skins/item-skins/boar_legacyvariant.png" alt="Legay Boar" width="50" height="50"> {: #BoarSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BoltCutters" target="_blank">Bolt Cutters</a>** | Legacy Bolt Cutters | <img src="/bot-features/skins/item-skins/boltcutters-legacyboltcutters.png" alt="Legay Bolt Cutters" width="50" height="50"> {: #BoltCuttersSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#BottleofWhiskey" target="_blank">Bottle of Whiskey</a>** | Legacy Whiskey | <img src="/bot-features/skins/item-skins/bottleofwhiskey-legacywhiskey.png" alt="Legacy Whiskey" width="50" height="50"> {: #BottleofWhiskeySkin} |
@@ -114,7 +115,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#ElfOnTheShelf" target="_blank">Elf On The Shelf</a>** | Burning Elf Variant | <img src="/bot-features/skins/item-skins/elfontheshelf-burningvariant.gif" alt="Burning Elf Variant" width="50" height="50"> {: #ElfOnTheShelfSkin} |
 | **<a href="/Items/Collectables#EnchantedBadoszsCard" target="_blank">Enchanted Badosz's Card</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/enchantedbadoszcard-holidaylightsvariant.gif" alt="Holiday Enchanted Badosz Card" width="50" height="50"> {: #EnchantedBadoszSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a>** | Legacy Energy Drink | <img src="/bot-features/skins/item-skins/energydrink-legacyenergydrink.png" alt="Legacy Energy Drink" width="50" height="50"> {: #EnergyDrinkSkin} |
- | **<a href="/Items/Collectables#FidgetSpinner" target="_blank">Fidget Spinner</a>** | OG Spinner| <img src="/bot-features/skins/item-skins/fidgetspinner-ogvariant.png" alt="Dynamite Variant" width="50" height="50"> {: #FidgetSpinnerSkin} | 
+ | **<a href="/Items/Collectables#FidgetSpinner" target="_blank">Fidget Spinner</a>** | OG Spinner| <img src="/bot-features/skins/item-skins/fidgetspinner-ogvariant.png" alt="OG Spinner Variant" width="50" height="50"> {: #FidgetSpinnerSkin} | 
   | **<a href="https://dankmemer.wiki/en/Items/Collectables#FreemiumAd" target="_blank">Freemium Ad</a>** | Dynamite Variant | <img src="/bot-features/skins/item-skins/freemiumad-dynamitevariant.gif" alt="Dynamite Variant" width="50" height="50"> {: #FreemiumSkin} | 
    | **<a href="https://dankmemer.wiki/en/Items/Collectables#FreemiumAd" target="_blank">Freemium Ad</a>** | Universe Variant | <img src="/bot-features/skins/item-skins/freemiumad-universevariant.gif" alt="Universe Variant" width="50" height="50"> |  
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | Legacy Bread | <img src="/bot-features/skins/item-skins/freshbread-legacybread.png" alt="Legacy Bread" width="50" height="50"> {: #FreshBreadSkin} | 
@@ -211,6 +212,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#SquishyPaw" target="_blank">Squishy Paw</a>** | Squishy Cat Paw Variant | <img src="/bot-features/skins/item-skins/squishypaw-squishycatpawvariant.gif" alt="Squishy Cat Paw Variant" width="50" height="50"> {: #SquishyPawSkin} |
   | **<a href="/Items/Collectables#StackofCash" target="_blank">Stack of Cash</a>** | Snowy Variant | <img src="/bot-features/skins/item-skins/stackofcash-snowyvariant.png" alt="Snowy Stack of Cash" width="50" height="50"> {: #StackOfCashSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#StonkMachine" target="_blank">Stonk Machine</a>** | Legacy Stonk Machine | <img src="/bot-features/skins/item-skins/stonkmachine-legacystonkmachine.png" alt="Legacy Stonk Machine" width="50" height="50"> {: #StonkMachineSkin} |
+| **<a href="/Items/Collectables#Tidepod" target="_blank">Tidepod</a>** | OG Tidepod | <img src="/bot-features/skins/item-skins/tidepod-ogtidepod.png" alt="OG Tidepod" width="50" height="50"> {: #TidepodSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#TipJar" target="_blank">Tip Jar</a>** | Legacy Tip Jar | <img src="/bot-features/skins/item-skins/tipjar-legacytipjar.png" alt="Legacy Tip Jar" width="50" height="50"> {: #TipJarSkin} |
   | **<a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/toolbox-holidaylightsvariant.gif" alt="Tool Box Holiday Lights" width="50" height="50"> {: #ToolBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#TowniesEyes" target="_blank">Townie's Eyes</a>** | Bloodshot Townie Eyes Variant | <img src="/bot-features/skins/item-skins/townieseyes-bloodshottownieeyesvariant.gif" alt="Bloodshot Townie Eyes Variant" width="50" height="50"> {: #TowniesEyesSkin} |
