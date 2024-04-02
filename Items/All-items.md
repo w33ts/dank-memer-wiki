@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-04-02T15:43:23.654Z
+date: 2024-04-02T15:45:50.478Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -161,6 +161,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Sellables#MemePills" target="_blank">Meme Pills</a>
 - <a href="/Items/Collectables#Menorah" target="_blank">Menorah</a>
 - <a href="/Items/Sellables#MessageInABottle" target="_blank">Message in a Bottle</a>
+- <a href="/Items/Collectables#MetalPipe" target="_blank">Metal Pipe</a>
 - <a href="/Items/Sellables#Meteorite" target="_blank">Meteorite</a>
 - <a href="/Items/Tools#Microphone" target="_blank">Microphone</a>
 - <a href="/Items/Consumables#Mistletoe" target="_blank">Mistletoe</a>
