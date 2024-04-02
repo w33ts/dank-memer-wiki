@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T16:19:32.039Z
+date: 2024-04-02T16:23:04.722Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -114,8 +114,9 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#ElfOnTheShelf" target="_blank">Elf On The Shelf</a>** | Burning Elf Variant | <img src="/bot-features/skins/item-skins/elfontheshelf-burningvariant.gif" alt="Burning Elf Variant" width="50" height="50"> {: #ElfOnTheShelfSkin} |
 | **<a href="/Items/Collectables#EnchantedBadoszsCard" target="_blank">Enchanted Badosz's Card</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/enchantedbadoszcard-holidaylightsvariant.gif" alt="Holiday Enchanted Badosz Card" width="50" height="50"> {: #EnchantedBadoszSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#EnergyDrink" target="_blank">Energy Drink</a>** | Legacy Energy Drink | <img src="/bot-features/skins/item-skins/energydrink-legacyenergydrink.png" alt="Legacy Energy Drink" width="50" height="50"> {: #EnergyDrinkSkin} |
-  | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Freemium Ad</a>** | Dynamite Variant | <img src="/bot-features/skins/item-skins/freemiumad-dynamitevariant.gif" alt="Dynamite Variant" width="50" height="50"> {: #FreemiumSkin} | 
-   | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Freemium Ad</a>** | Universe Variant | <img src="/bot-features/skins/item-skins/freemiumad-universevariant.gif" alt="Universe Variant" width="50" height="50"> |  
+ | **<a href="/Items/Collectables#FidgetSpinner" target="_blank">Fidget Spinner</a>** | OG Spinner| <img src="/bot-features/skins/item-skins/fidgetspinner-ogvariant.png" alt="Dynamite Variant" width="50" height="50"> {: #FidgetSpinnerSkin} | 
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#FreemiumAd" target="_blank">Freemium Ad</a>** | Dynamite Variant | <img src="/bot-features/skins/item-skins/freemiumad-dynamitevariant.gif" alt="Dynamite Variant" width="50" height="50"> {: #FreemiumSkin} | 
+   | **<a href="https://dankmemer.wiki/en/Items/Collectables#FreemiumAd" target="_blank">Freemium Ad</a>** | Universe Variant | <img src="/bot-features/skins/item-skins/freemiumad-universevariant.gif" alt="Universe Variant" width="50" height="50"> |  
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | Legacy Bread | <img src="/bot-features/skins/item-skins/freshbread-legacybread.png" alt="Legacy Bread" width="50" height="50"> {: #FreshBreadSkin} | 
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>** | OG Bread | <img src="/bot-features/skins/item-skins/freshbread-ogbread.png" alt="OG Bread" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Garbage" target="_blank">Garbage</a>** | Garbage Can Variant | <img src="/bot-features/skins/item-skins/garbage-garbagecanvariant.gif" alt="Garbage Can Variant" width="50" height="50"> {: #GarbageSkin} |
