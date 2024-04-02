@@ -2,7 +2,7 @@
 title: Collectables
 description: Browe Dank Memer's collectable-type items, including pepe items, developer items, craftable items, and more.
 published: true
-date: 2024-04-01T15:21:46.042Z
+date: 2024-04-02T15:41:56.944Z
 tags: bean mp3, aetheryx flower, melmsie's beard, zomb's zombee, adventure voucher, pepe trophy, pepe medal, pepe ring, pepe sus, pepe ribbon, bunny's apron, blue's plane, badosz card, pepe statue, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T20:35:17.911Z
@@ -49,6 +49,7 @@ Collectable items are items that are meant to be collected or to help you collec
 | **Fidget Spinner** {: #FidgetSpinner} | <img src="/items/collectables/fidgetspinner.gif" alt="Fidget Spinner" width="50" height="50"> | 149 | This item is discontinued and **used to** give a temporary Coin Multiplier boost. | Yes | <a href="https://dankmemer.wiki/en/Items/Lootboxes#OldBox" target="_blank">Old Box</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#HumanPowerup" target="_blank">Yes</a> | No | 
 | **Fishing Trophy** {: #FishingTrophy} | <img src="/items/collectables/fishingtrophy.png" alt="Fishing Trophy" width="50" height="50"> | 203 | This item used to allow you to use `/fish` command without a fishing pole, but currently has no use. | No | <a href="/Bot-features/Currency-Commands/Basic-Commands#Craft" target="_blank">Craft</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | No | No | 
 | **Fool's Notif** {: #FoolsNotif} | <img src="/items/collectables/foolsnotif.gif" alt="Fool's Notif" width="50" height="50"> | 74 | This item was originally for April Fool's day, but now has no use. | No | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#CollectingFiend" target="_blank">Yes</a> | No |
+| **Freemium Ad** {: #FreemiumAd} | <img src="/items/collectables/freemiumad.gif" alt="Freemium Ad" width="50" height="50"> | 250 | A collectable item that can be received from Freemium | No | <a href="/About-Dank-Memer/Vote#Freemium" target="_blank">Freemium</a> | No | <a href="/Bot-features/Currency-Commands/Skins#FreemiumSkin" target="_blank">Yes</a> | 
 | **Friend's Gift** {: #FriendsGift} | <img src="/items/collectables/friendsgift.png" alt="Friend's Gift" width="50" height="50"> | 77 | This item is just a collectable now | No | <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | No | No | 
 | **Gift Box** {: #GiftBox} | <img src="/items/collectables/giftbox.png" alt="Gift Box" width="50" height="50"> | 98 | This item is just a collectable now. | No | <a href="https://dankmemer.wiki/en/Items/Lootboxes#OldBox" target="_blank">Old Box</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | No | No | 
 | **Golden Coins** {: #GoldenCoins} | <img src="/items/collectables/goldencoins.png" alt="Golden Coins" width="50" height="50"> | 218 |An Exclusive item for the staff in Dank Memer's servers. It is not in any way able to be transferred to or from people. | No | <a href="/About-Dank-Memer/The-dank-team" target="_blank">Staff member</a> | No | No | 
