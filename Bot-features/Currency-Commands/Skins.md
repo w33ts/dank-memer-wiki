@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T15:07:55.411Z
+date: 2024-04-02T15:16:41.553Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -235,6 +235,7 @@ The pet skins can be equipped on a pet you own, but only for the type of pet it 
 | **<a href="/Bot-features/Currency-Commands/Pets#Catgirl" target="_blank">Catgirl Pet</a>** | Zero Catgirl Variant | <img src="/bot-features/skins/pet-skins/catgirlpet-zerocatgirlvariant.png" alt="Zero Catgirl Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Crab" target="_blank">Crab Pet</a>** | Money Crab Variant | <img src="/bot-features/skins/pet-skins/crabpet-moneycrabvariant.png" alt="Money Crab Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Crab" target="_blank">Crab Pet</a>** | Under the Sea Crab Variant | <img src="/bot-features/skins/pet-skins/crabpet-undertheseacrabvariant.png" alt="Under the Sea Crab Variant" width="50" height="50"> |
+  | **<a href="/Bot-features/Currency-Commands/Pets#Cupid" target="_blank">Cupid Pet</a>** | Demon Variant | <img src="/bot-features/skins/pet-skins/cupidpet-demonvariant.png" alt="Demon Cupid Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#Dog" target="_blank">Dog Pet</a>** | Shiba Pup Variant | <img src="/bot-features/skins/pet-skins/dogpet-shibapupvariant.png" alt="Shiba Pup Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#DragonPet" target="_blank">Dragon Pet</a>** | Chaos Pet Dragon Variant | <img src="/bot-features/skins/pet-skins/dragonpet-chaospetdragonvariant.png" alt="Chaos Pet Dragon Variant" width="50" height="50"> |
 | **<a href="/Bot-features/Currency-Commands/Pets#DragonPet" target="_blank">Dragon Pet</a>** | Hunt Item Dragon Variant | <img src="/bot-features/skins/pet-skins/dragonpet-huntitemdragonvariant.png" alt="Hunt Item Dragon Variant" width="50" height="50"> |
