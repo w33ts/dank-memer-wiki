@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-01-19T00:28:01.744Z
+date: 2024-04-02T15:43:23.654Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -104,6 +104,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#FishingTrophy" target="_blank">Fishing Trophy</a>
 - <a href="/Items/Collectables#FoolsNotif" target="_blank">Fool's Notif</a>
 - <a href="/Items/Sellables#Fossil" target="_blank">Fossil</a>
+- <a href="/Items/Collectables#FreemiumAd" target="_blank">Freemium Ad</a>
 - <a href="/Items/Sellables#FreshBread" target="_blank">Fresh Bread</a>
 - <a href="/Items/Collectables#FriendsGift" target="_blank">Friend's Gift</a>
 - <a href="/Items/Sellables#Garbage" target="_blank">Garbage</a>
