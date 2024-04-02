@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T15:49:58.737Z
+date: 2024-04-02T16:02:55.985Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -89,7 +89,8 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="/Items/Sellables#Boar" target="_blank">Boar</a>** | Legacy Boar | <img src="/bot-features/skins/item-skins/boar_legacyvariant.png" alt="Legay Boar" width="50" height="50"> {: #BoarSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#BoltCutters" target="_blank">Bolt Cutters</a>** | Legacy Bolt Cutters | <img src="/bot-features/skins/item-skins/boltcutters-legacyboltcutters.png" alt="Legay Bolt Cutters" width="50" height="50"> {: #BoltCuttersSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#BottleofWhiskey" target="_blank">Bottle of Whiskey</a>** | Legacy Whiskey | <img src="/bot-features/skins/item-skins/bottleofwhiskey-legacywhiskey.png" alt="Legacy Whiskey" width="50" height="50"> {: #BottleofWhiskeySkin} |
-| **<a href="https://dankmemer.wiki/en/Items/Tools#BoxofSand" target="_blank">Box of Sand</a>** | Sand Box Castle Variant | <img src="/bot-features/skins/item-skins/boxofsand-sandboxcastlevariant.gif" alt="Sand Box Castle Variant" width="50" height="50"> {: #BoxofSandSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Tools#BoxofSand" target="_blank">Box of Sand</a>** | OG Box of Sand Variant | <img src="/bot-features/skins/item-skins/boxofsand-ogboxvariant.png" alt="OG Box of Sand Variant" width="50" height="50"> {: #BoxofSandSkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Tools#BoxofSand" target="_blank">Box of Sand</a>** | Sand Box Castle Variant | <img src="/bot-features/skins/item-skins/boxofsand-sandboxcastlevariant.gif" alt="Sand Box Castle Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Consumables#BoxedChocolates" target="_blank">Boxed Chocolates</a>** | Boxed Chocolates Fountain Variant | <img src="/bot-features/skins/item-skins/boxedchocolates-boxedchocolatefountainvariant.gif" alt="Boxed Chocolates Fountain Variant" width="50" height="50"> {: #BoxedChocolatesSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Cactus" target="_blank">Cactus</a>** |  Dancing Cactus Variant | <img src="/bot-features/skins/item-skins/cactus-dancingvariant.gif" alt="Dancing Cactus Variant" width="50" height="50"> {: #CactusSkin} |
   | **<a href="https://dankmemer.wiki/en/Items/Collectables#Cactus" target="_blank">Cactus</a>** |  Holiday Lights Variant | <img src="/bot-features/skins/item-skins/cactus-holidaylightsvariant.gif" alt="Holiday Lights Cactus Variant" width="50" height="50"> |
@@ -171,10 +172,12 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeMedal" target="_blank">Pepe Medal</a>** | Legacy Pepe Medal | <img src="/bot-features/skins/item-skins/pepemedal-legacypepemedal.gif" alt="Legacy Pepe Medal" width="50" height="50"> {: #PepeMedalSkin} |
  | **<a href="/Items/Collectables#PepeRibbon" target="_blank">Pepe Ribbon</a>** | Legacy Ribbon Skin | <img src="/bot-features/skins/item-skins/peperibbon-legacyribbon.png" alt="Legacy Ribbon Skin" width="50" height="50"> {: #PepeRibbonSkin} |
   | **<a href="/Items/Collectables#PepeRibbon" target="_blank">Pepe Ribbon</a>** | Quality Variant Skin | <img src="/bot-features/skins/item-skins/peperibbon-qualityvariant.gif" alt="Quality Variant Skin" width="50" height="50"> |
+    | **<a href="/Items/Collectables#PepeRing" target="_blank">Pepe Ring</a>** | Dollar Store Variant | <img src="/bot-features/skins/item-skins/pepering-dollarstorevariant.png" alt="Dollar Store Pepe Ring" width="50" height="50"> {: #PepeRingSkin}|
 | **<a href="/Items/Collectables#PepeStatue" target="_blank">Pepe Statue</a>** | Mermaid Pepe Statue | <img src="/bot-features/skins/item-skins/pepestatue-mermaidvariant.gif" alt="Mermaid Pepe Statue" width="50" height="50"> {: #PepeStatueSkin} |
 | **<a href="/Items/Collectables#PepeSus" target="_blank">Pepe Sus</a>** | Legacy Pepe Sus | <img src="/bot-features/skins/item-skins/pepesus-legacyvariant.png" alt="Legacy Pepe Sus" width="50" height="50"> {: #PepeSusSkin} |
-| **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Legacy Pepe Trophy | <img src="/bot-features/skins/item-skins/pepetrophy-legacypepetrophy.gif" alt="Legacy Pepe Trophy" width="50" height="50"> {: #PepeTrophySkin} |
-  | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Blood Pour Variant | <img src="/bot-features/skins/item-skins/pepetrophy-bloodpourvariant.png" alt="Blood Pour Pepe Trophy" width="50" height="50">  |
+ | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Blood Pour Variant | <img src="/bot-features/skins/item-skins/pepetrophy-bloodpourvariant.png" alt="Blood Pour Pepe Trophy" width="50" height="50"> {: #PepeTrophySkin} |
+| **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Legacy Pepe Trophy | <img src="/bot-features/skins/item-skins/pepetrophy-legacypepetrophy.gif" alt="Legacy Pepe Trophy" width="50" height="50"> |
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeTrophy" target="_blank">Pepe Trophy</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/pepetrophy-omegavariant.gif" alt="Legacy Pepe Trophy" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PetCollar" target="_blank">Pet Collar</a>** | Legacy Collar | <img src="/bot-features/skins/item-skins/petcollar-legacycollar.png" alt="Legacy Collar" width="50" height="50"> {: #PetCollarSkin} |
 | **<a href="/Items/Tools#PetFood" target="_blank">Pet Food</a>** | Fish Food Variant | <img src="/bot-features/skins/item-skins/petfood-fishfoodvariant.png" alt="Fish Food Variant" width="50" height="50"> {: #PetFoodSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>** | Moldy Pizza Variant | <img src="/bot-features/skins/item-skins/pizzaslice-moldypizzavariant.png" alt="Moldy Pizza Variant" width="50" height="50"> {: #PizzaSliceSkin} |
