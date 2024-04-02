@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T16:03:34.893Z
+date: 2024-04-02T16:11:06.838Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -169,6 +169,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeCoin" target="_blank">Pepe Coin</a>** | Legacy Pepe Coin | <img src="/bot-features/skins/item-skins/pepecoin-legacypepecoin.gif" alt="Legacy Pepe Coin" width="50" height="50"> {: #PepeCoinSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeCrown" target="_blank">Pepe Crown</a>** | Legacy Pepe Crown | <img src="/bot-features/skins/item-skins/pepecrown-legacypepecrown.png" alt="Legacy Pepe Crown" width="50" height="50"> {: #PepeCrownSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeCrown" target="_blank">Pepe Crown</a>** | OG Crown Variant | <img src="/bot-features/skins/item-skins/pepecrown-ogcrownvariant.png" alt="OG Crown Variant" width="50" height="50"> |
+  | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeCrown" target="_blank">Pepe Crown</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/pepecrown-omegavariant.gif" alt="Omega Crown Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#PepeMedal" target="_blank">Pepe Medal</a>** | Legacy Pepe Medal | <img src="/bot-features/skins/item-skins/pepemedal-legacypepemedal.gif" alt="Legacy Pepe Medal" width="50" height="50"> {: #PepeMedalSkin} |
  | **<a href="/Items/Collectables#PepeRibbon" target="_blank">Pepe Ribbon</a>** | Legacy Ribbon Skin | <img src="/bot-features/skins/item-skins/peperibbon-legacyribbon.png" alt="Legacy Ribbon Skin" width="50" height="50"> {: #PepeRibbonSkin} |
   | **<a href="/Items/Collectables#PepeRibbon" target="_blank">Pepe Ribbon</a>** | Quality Variant Skin | <img src="/bot-features/skins/item-skins/peperibbon-qualityvariant.gif" alt="Quality Variant Skin" width="50" height="50"> |
@@ -212,6 +213,7 @@ Item skins can be equipped on an item. Many items have more than one possible sk
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Question Trivia Trophy Variant | <img src="/bot-features/skins/item-skins/triviatrophy-questiontriviatrophyvariant.png" alt="Question Trivia Trophy Variant" width="50" height="50"> {: #TriviaTrophySkin} |
   | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/triviatrophy-holidaylightsvariant.gif" alt="Holiday Lights Trophy Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Tumbleweed" target="_blank">Tumbleweed</a>** | Googly Eye Tumbleweed Variant | <img src="/bot-features/skins/item-skins/tumbleweed-googlyeyetumbleweedvariant.gif" alt="Googly Eye Tumbleweed Variant" width="50" height="50"> {: #TumbleWeedSkin} |
+ | **<a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Universe Box</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/universebox-omegavariant.gif" alt="Omega Universe Box Variant" width="50" height="50"> {: #UniverseBoxSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#UsedDiaper" target="_blank">Used Diaper</a>** | Legacy Diaper | <img src="/bot-features/skins/item-skins/useddiaper-legacydiaper.png" alt="Legacy Diaper" width="50" height="50"> {: #UsedDiaperSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a>** | Legacy Vaccine | <img src="/bot-features/skins/item-skins/vaccine-legacyvaccine.png" alt="Legacy vaccine" width="50" height="50"> {: #VaccineSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Tools#VoodooDoll" target="_blank">Voodoo Doll</a>** | Overused Voodoo Doll Variant | <img src="/bot-features/skins/item-skins/voodoodoll-overusedvoodoodollvariant.png" alt="Overused Voodoo Doll Variant" width="50" height="50"> {: #VoodooDollSkin} |
