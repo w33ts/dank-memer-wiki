@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-04-02T14:58:34.420Z
+date: 2024-04-02T14:59:23.798Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -303,7 +303,7 @@ The fish tank skins can be equipped on your fish tank, and it will be what you o
 |:------:|:----:|:------:|
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Base Skin {: #BaseTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-base.png" alt="Base Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Black Rock Skin {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
-    | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Blue Skin {: #BlueTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blue.png" alt="Blue Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Blue Skin {: #BlueTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blue.png" alt="Blue Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Bone Skin {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Ice Skin {: #IceTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-ice.png" alt="Ice Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Orange Skin {: #OrangeTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-orange.png" alt="Orange Fish Tank" width="100"> |
