@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-04-02T15:45:50.478Z
+date: 2024-04-04T00:07:30.801Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -198,6 +198,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits (Deprecated)</a>
 - <a href="/Items/Collectables#PinkRubberDucky" target="_blank">Pink Rubber Ducky</a>
 - <a href="/Items/Sellables#PinkSludgeMonster" target="_blank">Pink Sludge Monster</a>
+- <a href="/Items/Collectables#PixelTrophy" target="_blank">Pixel Trophy</a>
 - <a href="/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>
 - <a href="/Items/Sellables#PlasticBag" target="_blank">Plastic Bag</a>
 - <a href="/Items/Lootboxes#PlasticBox" target="_blank">Plastic Box</a>
