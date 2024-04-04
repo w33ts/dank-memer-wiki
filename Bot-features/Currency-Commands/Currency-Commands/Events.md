@@ -2,7 +2,7 @@
 title: Events
 description: Learn about past and present events happening with Dank Memer.
 published: true
-date: 2024-04-01T16:45:58.252Z
+date: 2024-04-04T14:02:34.556Z
 tags: events, /event, blob event, odd eye event, pink event, puzzle key event
 editor: markdown
 dateCreated: 2023-11-17T09:49:28.103Z
@@ -18,6 +18,8 @@ In 2024, on April 1st, Dank <a href="https://dankmemer.lol/blogs/april-first-par
 </center>
 
 Quickly, users discovered the bot did NOT play the requested song, and it instead played a variety of sounds and songs with metal pipes clanking overtop. Running the command did give an exclusive new item, though, a <a href="/Items/Collectables#MetalPipe" target="_blank">Metal Pipe</a> item. Currently, it is believed the item will be a limited time item, released only for this April Fool's event.
+
+From April 2nd, the command was renamed to `/laypipe` and the Metal Pipe item was no longer obtainable from the command. The only way at the moment to obtain a Metal Pipe is through the `/market`.
 
 ### List of Possible Sounds
 - <a href="https://www.youtube.com/watch?v=5UkFq3uOf7M&pp=ygVEMTgxMl9PdmVydHVyZV9lbmRpbmdfYnV0X0lfYWRkZWRfdGhlX21ldGFsX3BpcGVfZmFsbGluZ19zb3VuZF9lZmZlY3Q%3D" target="_blank">1812 Overture ending but with a metal pipe falling sound effect</a>
