@@ -2,7 +2,7 @@
 title: Fishing Skills
 description: Learn about the different fishing skills you can upgrade to make fishing easier, faster, and more profitable.
 published: true
-date: 2024-04-08T21:14:46.089Z
+date: 2024-04-08T21:26:10.868Z
 tags: fish buckets, fishing, fish skills, fish catch, fish guide, fishing npcs, skill points, skill challenges
 editor: markdown
 dateCreated: 2023-11-17T09:24:21.401Z
@@ -418,7 +418,7 @@ You can find a list of all of the possible skill challenges in the `/fish guide`
 | Humble | Feature a <a href="/Items/Fishing/Creatures" target="_blank">creature</a> that weighs under one pound | 1 | Try to fish for smaller creatures like shrimp and minnows. |
 | Wormussy | Catch 100 <a href="/Items/Fishing/Creatures#Charybdis" target="_blank">Charybdis</a> creatures | 3 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> and <a href="/Items/Fishing#Tools" target="_blank">Harpoon</a> for better odds to catch a boss. Also Remember, nets cannot catch bosses. |
 | Bucket B^tch | Own at least 3 <a href="/Items/Fishing#Buckets" target="_blank">buckets</a> | 1 | Upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#ShopKeeper" target="_blank">Shop Keeper</a> skill to make the buckets in the <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a> cheaper. |
-| Brazil #1 | Hold 50 fish at once named “Brazil” | Use the Storage Specialist skill or a larger bucket ot increase your bucket space and select all fish at once to name them all at the same time. | 
+| Brazil #1 | Hold 50 fish at once named “Brazil” | 1 | Use the Storage Specialist skill or a larger bucket ot increase your bucket space and select all fish at once to name them all at the same time. | 
 | Golden Dorado | Catch 50 Golden Dorados | 1 | Use <a href="/Items/Fishing#Baits" target="_blank">Lucky Bait</a> to help you catch rarer fish and <a href="/Items/Fishing/Creatures" target="_blank">check when the Golden Dorado is available</a>  |
 | Truly Idle | Keep your <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishIdle" target="_blank">idle machine</a> running non-stop for 18 hours | 2 | Increase the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#AFK" target="_blank">AFK Skill</a> so your idle machine will have more time before being full, and try to start it very early in the morning so you can check it every 2 hours without interrupting your sleep. |
 | Mines! | Hit 100 Mines | 1 | Avoid applying skill points to the Keen Angler Skill in the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Nature Category</a> until after you've finished this task. Also avoid using any <a href="/Items/Fishing#Tools" target="_blank">tools</a> when hitting mines. |
