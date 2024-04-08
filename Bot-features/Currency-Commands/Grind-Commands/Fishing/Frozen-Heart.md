@@ -2,7 +2,7 @@
 title: Season of the Frozen Heart
 description: See the possible rewards from fishing Season 2: Season of the Frozen Heart
 published: true
-date: 2024-04-08T21:01:07.951Z
+date: 2024-04-08T22:49:01.851Z
 tags: rewards, fish, fishing, fish season, season pass, season, seasaon pass rewards
 editor: markdown
 dateCreated: 2024-01-01T22:44:30.535Z
