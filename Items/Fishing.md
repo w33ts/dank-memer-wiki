@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-04-02T16:44:07.818Z
+date: 2024-04-08T20:57:22.785Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -34,14 +34,17 @@ Each tool has slightly different abilities when fishing, and a different durabil
 
 <center>
   
-| Tool | Image | Default Number of Uses |Usage Notes | Found |
+| Tool | Image | Default Number of Uses | Buffs (Positives) | Debuffs (negatives) | 
 |:--------:|:------:|:------:|:--------------:|:------:|
-|Bare Hands {: #BareHands} | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |Cannot catch bosses, items, or use bait without upgrading the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Nature" target="_blank">Zen Hands skill</a>. Cannot catch multiple fish at a time.| All users have by default. |
-|Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 8 | Can catch one creature at a time, use bait, and catch bosses and items. |  <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-|Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 12 | Can use bait and catch bosses, items, and multiple fish at a time.| <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-| Net {: #Net} | <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">| 6 | Can use bait and catch items and multiple fish at a time. Can only catch some bosses (Pliosaur, Issrakr, and Bunyip). | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a> |
-| Dynamite {: #Dynamite} | <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 3 | Can use bait and catch bosses and multiple fish at a time. No items.| <a href="/Items/Lootboxes#ToolBox" target="_blank">Tool Box</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">Season of the Haunted Waters</a> |
-|Idle Fishing Machine {: #IdleMachine} | <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is upgraded.  | Can't catch bosses, use baits, or set a location unless you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">AFK Skill</a>.| Unlock by putting at least one point on the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">AFK skill</a> |
+|Bare Hands {: #BareHands} | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |  +5% chance to catch unique variants | Cannot catch bosses or equip baits | 
+|Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 10 | +2% chance for NPC encounters, +5% chance for high quality variants | Cannot catch bosses |
+|Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 20  | +8% chance to catch bosses, and high durability  | Reduces chroma chance by 20%  |
+| Net {: #Net} | <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">|  5 | Double item catches and can catch more creatures on average | Cannot catch bosses and low durability  |
+| Dynamite {: #Dynamite} | <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 5 | +8% chance for an NPC encounter and can catch more creatures on average  | Cannot use bait or catch items, and has a low durability |
+| Fishing Bow {: #FishingBow} | <img src="/items/fishing/fishingbow.webp" alt="Fishing Bow" width="50" height="50">| 50 | 50% lower cooldown and high durability | Cannot catch high quality or chromas |
+| Magnet Fishing Rope {: #MagnetFishingRope} | <img src="/items/fishing/magnetfishingrope.webp" alt="Magnet Fishing Rope" width="50" height="50">| 5 | 2x the chance to catch skeleton keys and catches only items | Low durability and cannot use bait |
+|Idle Fishing Machine {: #IdleMachine} | <img src="/items/fishing/idle.gif" alt="Idle Fishing Machine" width="50" height="50">| Catches 5 fish before needing emptied, unless AFK skill is upgraded.  | Can idly fish for you while you are away from Discord.| Can't catch bosses, use baits, or set a location unless you upgrade the <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills#Science" target="_blank">AFK Skill</a>. Does not count toward fishing leaderboards|
+
 
 </center>
 
@@ -56,15 +59,15 @@ There are tons of possible baits you can use while fishing, and each one has a d
 |Eyeball Bait {: #EyeballBait} | <img src="/items/fishing/eyeball_bait.webp" alt="Eyeball Bait" width="50" height="50">| Heavily increases the odds to catch chroma variants (but chance is still rare) | 3 | Crypt Keeper's Pond |
 |Ghastly Bait {: #GhastlyBait} | <img src="/items/fishing/ghastly_bait.webp" alt="Ghastly Bait" width="50" height="50">|  Adds a chance to catch Halloween items while fishing. | 5 | Crypt Keeper's Pond |
  |Gift Bait {: #GiftBait} | <img src="/items/fishing/gift_bait.png" alt="Gift Bait" width="50" height="50">|  Adds a chance to catch winter Holiday items while fishing. | 5 | Ice Caves, Snowy Mountain, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
-|Golden Bait {: #GoldenBait} | <img src="/items/fishing/golden_bait.webp" alt="Golden Bait" width="50" height="50">| Increases the chance for high-quality fish. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|Golden Bait {: #GoldenBait} | <img src="/items/fishing/golden_bait.webp" alt="Golden Bait" width="50" height="50">| Increases the chance for high-quality fish. | 8 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Lucky Bait {: #LuckyBait} | <img src="/items/fishing/lucky_bait.webp" alt="Lucky Bait" width="50" height="50">| Increases your luck to help you catch rarer fish. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Magnet Bait {: #MagnetBait} | <img src="/items/fishing/magnet_bait.webp" alt="Magnet Bait" width="50" height="50">| Helps you catch only loot, not creatures. | 5 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>|
 |Money Bait {: #MoneyBait} | <img src="/items/fishing/money_bait.webp" alt="Money Bait" width="50" height="50">|  Instantly sells your creatures for both coins AND tokens instead of putting them in a bucket. | 15 | <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Timely Bait {: #TimelyBait} |<img src="/items/fishing/timely_bait.webp" alt="Timely Bait" width="50" height="50">| Helps you catch creatures outside of their normal time. | 8 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
 |Turkey Bait {: #TurkeyBait} | <img src="/items/fishing/turkey_bait.png" alt="Timely Bait" width="50" height="50">| Adds a <a href="/en/Items/Fishing/Creatures#TurkeyFish" target="_blank">Turkey Fish</a> to your catch. Is the only way to catch one. | 5 | Currently Unobtainable |
-|Vintage Bait {: #VintageBait} | <img src="/items/fishing/vintage_bait.webp" alt="Vintage Bait" width="50" height="50">| Helps you catch creatures instead of items. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
-|Weighted Bait {: #WeightedBait} |<img src="/items/fishing/weighted_bait.webp" alt="Weighted Bait" width="50" height="50">| Increases your chance to catch larger sized fish. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
-|XP Bait {: #XPBait} |<img src="/items/fishing/xp_bait.gif" alt="XP Bait" width="50" height="50">| Gives 3x Season Pass XP on any catch and gives 1-3 XP points for regular dank leveling. | 15 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
+|Vintage Bait {: #VintageBait} | <img src="/items/fishing/vintage_bait.webp" alt="Vintage Bait" width="50" height="50">| Helps you catch creatures instead of items. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
+|Weighted Bait {: #WeightedBait} |<img src="/items/fishing/weighted_bait.webp" alt="Weighted Bait" width="50" height="50">| Increases your chance to catch larger sized fish. | 10 | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">Fish Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a> |
+|XP Bait {: #XPBait} |<img src="/items/fishing/xp_bait.gif" alt="XP Bait" width="50" height="50">| Gives 3x Season Pass XP on any catch and gives 1-3 XP points for regular dank leveling. | 12 | <a href="/Bot-features/Currency-Commands/Basic-Commands#GemShop" target="_blank">Gem Shop</a>, <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>, Level Reward |
 
 
   </center>
