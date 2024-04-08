@@ -2,21 +2,23 @@
 title: Season of the Frozen Heart
 description: See the possible rewards from fishing Season 2: Season of the Frozen Heart
 published: true
-date: 2024-01-01T22:44:30.535Z
+date: 2024-04-08T21:01:07.951Z
 tags: rewards, fish, fishing, fish season, season pass, season, seasaon pass rewards
 editor: markdown
 dateCreated: 2024-01-01T22:44:30.535Z
 ---
 
-# Season of the Frozen Heart
+# Fish Season 2: Season of the Frozen Heart
 Every few months, a new `/fish season` will be released, offering different rewards for users to earn and unlock by fishing. Each creature you catch gives you XP that helps you level up in the `/fish season`, and rarer creatures, high-quality fish, variants, and bosses give more XP than common fish.
 
 There are two tiers of rewards users can complete. The free track of rewards is at the top of each image in `/fish season` and shows what all users can unlock. The bottom row of rewards are the premium rewards that users can unlock on top of the normal rewards by upgrading to the Premium Season Pass or Premium Season Pass+. 
 
 Each fish season is only available for a limited time unless you upgrade to premium. Premium pass holders will continue to have access to the season pass forever, so they can continue working on it until they've unlocked every reward.
 
-The current season is called "The Season of the Frozen Heart."
+This second season was called "The Season of the Frozen Heart."
 The previous season was called  "<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">The Season of the Haunted Waters</a>."
+
+The current season pass is titled, "<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Season-3" target="_blank">The Season of the Booty</a>."
 
 ## Season of the Frozen Heart
 <center>
