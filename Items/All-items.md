@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-04-04T00:07:30.801Z
+date: 2024-04-08T20:56:07.498Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -62,6 +62,8 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Sellables#Carrot" target="_blank">Carrot</a>
 - <a href="/Items/Tools#CarrotSeeds" target="_blank">Carrot Seeds</a>
 - <a href="/Items/Tools#CellPhone" target="_blank">Cell Phone</a>
+- <a href="/Items/Collectables#ChadsWeights" target="_blank">Chad’s Weights</a>
+- <a href="/Items/Collectables#ChetsUSB" target="_blank">Chet’s USB</a>
 - <a href="/Items/Collectables#ChillPill" target="_blank">Chill Pill</a>
 - <a href="/Items/Collectables#ChocolateCake" target="_blank">Chocolate Cake</a>
 - <a href="/Items/Packs#ChristmasGift" target="_blank">Christmas Gift</a>
@@ -80,6 +82,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#CursedPepe" target="_blank">Cursed Pepe</a>
 - <a href="/Items/Lootboxes#DailyBox" target="_blank">Daily Box</a>
 - <a href="/Items/Lootboxes#DankBox" target="_blank">Dank Box</a>
+- <a href="/Items/Collectables#DankMemersHardDrive" target="_blank">Dank Memer’s Hard Drive</a>
 - <a href="/Items/Sellables#Deer" target="_blank">Deer</a>
 - <a href="/Items/Collectables#DesignerHoodie" target="_blank">Designer Hoodie</a>
 - <a href="/Items/Lootboxes#DeveloperBox" target="_blank">Developer Box</a>
@@ -101,6 +104,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Tools#FertilizerBag" target="_blank">Fertilizer Bag</a>
 - <a href="/Items/Collectables#FidgetSpinner" target="_blank">Fidget Spinner</a>
 - <a href="/Items/Power-ups#FierceFangFare" target="_blank">Fierce Fange Fare</a>
+- <a href="/Items/Collectables#FiguresWatch" target="_blank">Figure’s Watch</a>
 - <a href="/Items/Collectables#FishingTrophy" target="_blank">Fishing Trophy</a>
 - <a href="/Items/Collectables#FoolsNotif" target="_blank">Fool's Notif</a>
 - <a href="/Items/Sellables#Fossil" target="_blank">Fossil</a>
@@ -153,6 +157,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Sellables#LotusFlower" target="_blank">Lotus Flower</a>
 - <a href="/Items/Tools#LotusSeeds" target="_blank">Lotus Seeds</a>
 - <a href="/Items/Power-ups#LuckyHorseshoe" target="_blank">Lucky Horseshoe</a>
+- <a href="/Items/Collectables#MargauxsDoll" target="_blank">Margaux’s Doll</a>
 - <a href="/Items/Collectables#MelmsiesBanana" target="_blank">Melmsie's Banana</a>
 - <a href="/Items/Collectables#MelmsiesBeard" target="_blank">Melmsie's Beard</a>
 - <a href="/Items/Lootboxes#MembershipBox" target="_blank">Membership Box</a>
@@ -198,6 +203,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#PinkPlasticBits" target="_blank">Pink Plastic Bits (Deprecated)</a>
 - <a href="/Items/Collectables#PinkRubberDucky" target="_blank">Pink Rubber Ducky</a>
 - <a href="/Items/Sellables#PinkSludgeMonster" target="_blank">Pink Sludge Monster</a>
+- <a href="/Items/Collectables#PirateHat" target="_blank">Pirate Hat</a>
 - <a href="/Items/Collectables#PixelTrophy" target="_blank">Pixel Trophy</a>
 - <a href="/Items/Power-ups#PizzaSlice" target="_blank">Pizza Slice</a>
 - <a href="/Items/Sellables#PlasticBag" target="_blank">Plastic Bag</a>
@@ -220,6 +226,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Tools#RobbersWishlist" target="_blank">Robbers Wishlist</a>
 - <a href="/Items/Collectables#RoyalScepter" target="_blank">Royal Scepter</a>
 - <a href="/Items/Tools#RustyMachine" target="_blank">Rusty Machine</a>
+- <a href="/Items/Collectables#SamuelsBook" target="_blank">Samuel’s Book</a>
 - <a href="/Items/Collectables#SanicHotDog" target="_blank">Sanic Hot Dog</a>
 - <a href="/Items/Lootboxes#SantasBag" target="_blank">Santa's Bag</a>
 - <a href="/Items/Collectables#SantasHat" target="_blank">Santa's Hat</a>
@@ -229,6 +236,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Power-ups#ShopCoupon" target="_blank">Shop Coupon</a>
 - <a href="/Items/Tools#Shovel" target="_blank">Shovel</a>
 - <a href="/Items/Power-ups#ShreddedCheese" target="_blank">Shredded Cheese</a>
+- <a href="/Items/Collectables#SkeletonKey" target="_blank">Skeleton Key</a>
 - <a href="/Items/Sellables#Skunk" target="_blank">Skunk</a>
 - <a href="/Items/Tools#Snowball" target="_blank">Snowball</a>
 - <a href="/Items/Collectables#Snowflake" target="_blank">Snowflake</a>
@@ -253,6 +261,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Power-ups#TentacledTemptation" target="_blank">Tentacled Temptation</a>
 - <a href="/Items/Collectables#TheLetter" target="_blank">The Letter</a>
 - <a href="/Items/Collectables#TheMegaphone" target="_blank">The Megaphone</a>
+- <a href="/Items/Collectables#ThrymsLeash" target="_blank">Thrym’s Leash </a>
 - <a href="/Items/Collectables#Tidepod" target="_blank">Tidepod</a>
 - <a href="/Items/Tools#TipJar" target="_blank">Tip Jar</a>
 - <a href="/Items/Collectables#ToiletPaper" target="_blank">Toilet Paper</a>
@@ -277,6 +286,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Collectables#WinningLotteryTicket" target="_blank">Winning Lottery Ticket</a>
 - <a href="/Items/Lootboxes#WorkBox" target="_blank">Work Box</a>
 - <a href="/Items/Sellables#Worm" target="_blank">Worm</a>
+- <a href="/Items/Collectables#ZarasPirateSword" target="_blank">Zara’s Pirate Sword</a>
 - <a href="/Items/Sellables#ZigsCapybara" target="_blank">Zig's Capybara</a>
 - <a href="/Items/Collectables#ZomBsZomBee" target="_blank">ZomB's ZomBee</a>
 
