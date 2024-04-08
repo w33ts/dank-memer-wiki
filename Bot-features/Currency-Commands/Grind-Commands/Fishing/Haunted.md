@@ -2,7 +2,7 @@
 title: Season of the Haunted Waters
 description: See what rewards are possible for the first fish season, the Season of the Haunted Waters.
 published: true
-date: 2024-04-08T21:00:12.206Z
+date: 2024-04-08T22:49:14.832Z
 tags: rewards, fish season, premium pass, season pass, fish season pass, fish pass, season rewards, haunted, haunted waters
 editor: markdown
 dateCreated: 2023-11-03T22:05:39.527Z
