@@ -2,7 +2,7 @@
 title: Fishing
 description: 
 published: true
-date: 2024-03-29T23:51:44.651Z
+date: 2024-04-08T15:46:48.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T07:09:10.915Z
@@ -74,7 +74,7 @@ Each location has a different set of possible <a href="/Items/Fishing/Creatures"
 
 To complete a location page in `/fish guide`, you must catch one of each creature possible at the location and meet each NPC possible at the location. In order to catch one of the <a href="/Items/Fishing/Creatures#Bosses" target="_blank">boss creatures</a>, you must first catch every other possible creature at the location. If a creature is ever moved to a new location, you must catch it at the new location to re-finish the location even if you've caught it before somewhere else.
 
-Traveling to a different location takes 60 minutes by default, but you can speed up the process by using gems to fast travel.
+Traveling to a different location takes 60 minutes by default, but you can speed up the process by using <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Skills" target="_blank">/fish skills</a> for shorter wait times or gems to fast travel.
 
 
 
@@ -160,7 +160,7 @@ The `/fish season` command shows you the current season pass that is available f
 
 <br>
 <center>
-  <img src="/bot-features/fishing/fishseason.png" alt="Fish leaderboard" width="300">
+  <img src="/bot-features/fishing/fishseason.png" alt="Fish Season" width="300">
   </center>
 
 There are two possible reward tracks you can earn from: the free track on top and the premium track on the bottom. All users will receive the free rewards when they reach that tier, but only users who buy the premium season pass will receive the premium rewards. 
@@ -180,6 +180,7 @@ Event fish, variants, and bosses give more XP, so if you are trying to level up 
 
 **Previous Season Passes:**
 - <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Haunted" target="_blank">The Season of the Haunted Waters</a>
+- <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Frozen-Heart" target="_blank">The Season of the Frozen Heart</a>
 
 ## Fish Settings {: #FishSettings}
 The `/fish settings` command allows you to change your settings for fishing so you can control how bait and tools are managed.
