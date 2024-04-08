@@ -2,7 +2,7 @@
 title: Fishing Creatures
 description: Learn about the different creatures you can capture while fishing.
 published: true
-date: 2024-03-27T04:42:38.335Z
+date: 2024-04-08T20:57:52.239Z
 tags: fish, kraken, legendary fish, fishing, creatures, bosses, leviathan, charybdis, turtle god, cod, salmon, red arowana, golden dorado, shrimp, catfish, crayfish, jormungandr, piranha, mahi mahi, marlin, electric eel, rainbow bass, pufferfish, barracuda, tuna, swordfish, squid, giant squid, guppy, koi, flying fish, goldfish, vodyanoy, spectral fish, skeleton fish, ghost fish, zombie fish
 editor: markdown
 dateCreated: 2023-11-05T01:00:21.258Z
@@ -39,6 +39,7 @@ Bosses are worth more coins and tokens, and they give more XP toward your `/fish
 |Jormungandr {: #Jormungandr} | <img src="/items/fishing/creatures/jormungandr_new.png" alt="Jormungandr" width="50">  | All Day | Wily River |  <img src="/items/fishing/creatures/variants/jomungandr_hq.gif" alt="HQ Jormungandr" width="50"> <img src="/items/fishing/creatures/variants/jormungandr_chroma.webp" alt="Chroma Jormungandr" width="50"> | 6,000,000 |
 |Kraken {: #Kraken} | <img src="/items/fishing/creatures/kraken_new.png" alt="Kraken" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/kraken_hq.gif" alt="HQ Kraken" width="50"> | 6,000,000 |
 |Leviathan {: #Leviathan} | <img src="/items/fishing/creatures/leviathan.webp" alt="Leviathan" width="50">  | All Day | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/leviathan_hq.gif" alt="HQ Leviathan" width="50">  | 6,000,000 |
+| Lusca {: #Lusca} | <img src="/items/fishing/creatures/lusca2.png" alt="Lusca" width="50">  | All Day | Scurvy Waters | <img src="/items/fishing/creatures/variants/lusca_hq.gif" alt="HQ Lusca" width="50"> | ?? |
 | Pliosaur {: #Pliosaur} | <img src="/items/fishing/creatures/pliosaur.webp" alt="Pliosaur" width="50">  | All Day | Ice Caves |  <img src="/items/fishing/creatures/variants/pliosaur_hq.gif" alt="HQ Pliosaur" width="50"> | 10,000,000 |
 |Scylla {: #Scylla} | <img src="/items/fishing/creatures/scylla.webp" alt="Scylla" width="50">  | All Day | Vertigo Beach | <img src="/items/fishing/creatures/variants/scylla_hq.gif" alt="HQ Scylla" width="50">  | 6,000,000 |
 |Vodyanoy {: #Vodyanoy} | <img src="/items/fishing/creatures/vodyanoy.png" alt="Vodyanoy" width="50">  | All Day | Mystic Pond | <img src="/items/fishing/creatures/variants/vodyanoy_hq.gif" alt="Vodyanoy" width="50"> | 6,000,000 |
@@ -96,7 +97,7 @@ If creatures are only in a location that is not available or are limited in some
   
   
 ## Saltwater Creatures {: #Saltwater}
-Saltwater creatures are generally found in ocean areas, like Vertigo Beach and the Underwater Sanctuary. Each creature has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
+Saltwater creatures are generally found in ocean areas, like Scurvy Waters, Vertigo Beach, and the Underwater Sanctuary. Each creature has variations you can catch, such a chroma variants that are a different color, high-quality variants that are sparkly, or unique variants with a different style of art (such as the top-sheet edition of the Ghost Fish).
 
 All of the common fish give 1 XP toward your `/fish season` pass, but rarer fish, event fish, variants, and bosses give more. 
 
@@ -111,6 +112,7 @@ If creatures are only in a location that is not available or are limited in some
   | Arctic Char {: #ArcticChar2} | <img src="/items/fishing/creatures/arcticchar.png" alt="Arctic Char" width="50">  | All Day | Ice Caves, Snowy Mountain | <img src="/items/fishing/creatures/variants/arcticchar_hq.gif" alt="HQ Arctic Char" width="50"> | 5,000 |
   | Barracuda {: #Barracuda} | <img src="/items/fishing/creatures/barracuda.webp" alt="Barracuda" width="50">  | 10pm - 9am | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/barracuda_hq.gif" alt="HQ Barracuda" width="50"> | 7,500 |
 | Beluga Whale {: #BelugaWhale} | <img src="/items/fishing/creatures/belugawhale.png" alt="Beluga Whale" width="50">  | All Day | Ice Caves | <img src="/items/fishing/creatures/variants/belugawhale_hq.gif" alt="HQ Beluga Whale" width="50"> | 12,000 |
+  | Blue Tang {: #BlueTang} | <img src="/items/fishing/creatures/bluetang2.png" alt=" Blue Tang" width="50">  | 2am - 10pm  | Scurvy Waters | <img src="/items/fishing/creatures/variants/bluetang_hq.gif" alt="HQ Blue Tang" width="50"> | ??  |
 | Butterfly Fish {: #ButterflyFish} | <img src="/items/fishing/creatures/butterflyfish.png" alt="Butterflyfish" width="50">  | 4am - 9pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/butterflyfish_hq.gif" alt="HQ Butterfly Fish" width="50"><img src="/items/fishing/creatures/variants/butterflyfish_chroma.webp" alt="Chroma Butterfly Fish" width="50"> | 100,000 |
 | Cod {: #Cod} | <img src="/items/fishing/creatures/cod.webp" alt="Cod" width="50">  | 10am - 9pm  | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/cod_hq.gif" alt="HQ Cod" width="50"> | 5,000 |
 | Coelacanth {: #Coelacanth} | <img src="/items/fishing/creatures/coelacanth.webp" alt="Coelacanth" width="50">  | All Day  | Ice Caves, Underwater Sanctuary | <img src="/items/fishing/creatures/variants/coelacanth_hq.gif" alt="HQ Coelacanth" width="50"> <img src="/items/fishing/creatures/variants/coelacanth_chroma.png" alt="Chroma Coelacanth" width="50"> | 100,000 |
@@ -118,12 +120,16 @@ If creatures are only in a location that is not available or are limited in some
 | Giant Squid {: #GiantSquid} | <img src="/items/fishing/creatures/giantsquid.webp" alt="Giant Squid" width="50">  | 4pm - 9am  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/giantsquid2_hq.gif" alt="HQ Giant Squid" width="50"> <img src="/items/fishing/creatures/variants/giantsquid_chroma.png" alt="Chroma Giant Squid" width="50"> | 100,000 |
 |Hammerhead Shark {: #HammerheadShark} | <img src="/items/fishing/creatures/hammerheadshark.png" alt="Hammerhead Shark" width="50">  | 4pm - 9am  | Vertigo Beach | <img src="/items/fishing/creatures/variants/hammerheadshark_hq.gif" alt="HQ Hammerhead Shark" width="50"> | 100,000 |
 | Jellyfish {: #Jellyfish} | <img src="/items/fishing/creatures/jellyfish.png" alt="Jellyfish" width="50">  | 10pm - 9am  | Ice Caves, Vertigo Beach | <img src="/items/fishing/creatures/variants/jellyfish_hq.gif" alt="HQ Jellyfish" width="50"> <img src="/items/fishing/creatures/variants/jellyfish_chroma.png" alt="Chroma Jellyfish" width="50"> | 5,000 |
+  | Kathzilla {: # Kathzilla} | <img src="/items/fishing/creatures/kathzilla.png" alt="Kathzilla" width="50">  | 7pm - 7am  | Scurvy Waters | <img src="/items/fishing/creatures/variants/kathzilla_hq.gif" alt="HQ Kathzilla" width="50"> | ??  |
 | Leafy Sea Dragon {: #LeafySeaDragon} | <img src="/items/fishing/creatures/leafyseadragon.png" alt="Leafy Sea Dragon" width="50">  | 7am - 10pm  | Ice Caves, Vertigo Beach | <img src="/items/fishing/creatures/variants/leafyseadragon_hq.gif" alt="HQ Leafy Sea Dragon" width="50"> <img src="/items/fishing/creatures/variants/leafyseadragon_chroma.png" alt="Chroma Leafy Sea Dragon" width="50"> | 100,000 |
+  | Lionfish {: #Lionfish} | <img src="/items/fishing/creatures/lionfish.png" alt="Lionfish" width="50">  | 2am - 1pm  | Scurvy Waters | <img src="/items/fishing/creatures/variants/lionfish.gif" alt="HQ Lionfish" width="50"> | ??  |
 | Mahi Mahi {: #MahiMahi} | <img src="/items/fishing/creatures/mahimahi.webp" alt="Mahi Mahi" width="50">  |  10am - 3am | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/mahimahi_hq.gif" alt="HQ Mahi Mahi" width="50"> <img src="/items/fishing/creatures/variants/mahimahi_chroma.png" alt="Chroma Mahi Mahi" width="50"> | 12,000 |
 | Marlin {: #Marlin} | <img src="/items/fishing/creatures/marlin.webp" alt="Marlin" width="50">  | 4am - 9pm  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/marlin_hq.gif" alt="HQ Marlin" width="50"> <img src="/items/fishing/creatures/variants/marlin_chroma.webp" alt="Chroma Marlin" width="50"> | 100,000 |
 | Narwhal {: #Narwhal} | <img src="/items/fishing/creatures/narwhal.png" alt="Narwhal" width="50">  | All Day | Ice Caves | <img src="/items/fishing/creatures/variants/narwhal_hq.gif" alt="HQ Narwhal" width="50"> <img src="/items/fishing/creatures/variants/narwhal_chroma.png" alt="Chroma Narwhal" width="50"> | 12,000 |
 | Ocean Sunfish {: #NOceanSunfish} | <img src="/items/fishing/creatures/ocean_sunfish.webp" alt="Ocean Sunfish" width="50">  | 12am - 6pm | Ice Caves, Vertigo Beach | <img src="/items/fishing/creatures/variants/oceansunfish_hq.gif" alt="HQ Ocean Sunfish" width="50"> <img src="/items/fishing/creatures/variants/oceansunfish_chroma.png" alt="Chroma Ocean Sunfish" width="50"> | 12,000 |
+  | Parrotfish {: #Parrotfish} | <img src="/items/fishing/creatures/parrotfish.png" alt="Parrotfish" width="50">  | 4pm - 8am  | Scurvy Waters | <img src="/items/fishing/creatures/variants/parrotfish_hq.gif" alt="HQ Parrotfish" width="50"> <img src="/items/fishing/creatures/variants/parrotfish_chroma.gif" alt="Chroma Parrotfish" width="50"> | ??|
 | Pufferfish {: #Pufferfish} | <img src="/items/fishing/creatures/pufferfish.png" alt="Pufferfish" width="50">  |  4pm - 9am  |Vertigo Beach | <img src="/items/fishing/creatures/variants/pufferfish_hq.gif" alt="HQ Pufferfish" width="50"> <img src="/items/fishing/creatures/variants/pufferfish_spineless.png" alt="Spineless Pufferfish" width="50"> <img src="/items/fishing/creatures/variants/pufferfish_chroma.webp" alt="Chroma Pufferfish" width="50"> | 12,000 |
+  | Sailfish {: #Sailfish} | <img src="/items/fishing/creatures/sailfish.png" alt="Sailfish" width="50">  | 7am - 7pm | Scurvy Waters | <img src="/items/fishing/creatures/variants/sailfish_hq.gif" alt="HQ Sailfish" width="50"> | ??  |
 | Salmon {: #Salmon2} | <img src="/items/fishing/creatures/salmon.png" alt="Salmon" width="50">  |  4pm - 3am  | Underwater Sanctuary, Wily River | <img src="/items/fishing/creatures/variants/salmon_hq.gif" alt="HQ Salmon" width="50"> | 7,500 |
 | Sardine {: #Sardine} | <img src="/items/fishing/creatures/sardine.png" alt="Sardine" width="50">  | 4am - 9pm  | Underwater Sanctuary, Vertigo Beach | <img src="/items/fishing/creatures/variants/sardine_hq.gif" alt="HQ Sardine" width="50"> | 2,500 |
 | Shrimp {: #Shrimp} | <img src="/items/fishing/creatures/shrimp.png" alt="Shrimp" width="50">  | 10pm - 3pm  | Vertigo Beach | <img src="/items/fishing/creatures/variants/shrimp_hq.gif" alt="HQ Shrimp" width="50"> <img src="/items/fishing/creatures/variants/shrimp_chroma.png" alt="Chroma Shrimp" width="50"> | 4,000 |
@@ -133,6 +139,7 @@ If creatures are only in a location that is not available or are limited in some
 | Tuna {: #Tuna} | <img src="/items/fishing/creatures/tuna.png" alt="Tuna" width="50">  |  10am - 9pm  | Underwater Sanctuary | <img src="/items/fishing/creatures/variants/tuna_hq.gif" alt="HQ Tuna" width="50"> <img src="/items/fishing/creatures/variants/tuna_chroma.webp" alt="Chroma Tuna" width="50"> | 7,500 |
 | Turkey Fish {: #TurkeyFish2} | <img src="/items/fishing/creatures/turkeyfish.png" alt="Turkey Fish" width="50">  |  All Day <br> (Requires Turkey Bait)  | Any Location <br> (Requires Turkey Bait) | <img src="/items/fishing/creatures/variants/turkeyfish_hq.gif" alt="HQ Tuna" width="50"> | 7,500 |
 | Vampire Squid {: #VampireSquid} | <img src="/items/fishing/creatures/vamp_squid.webp" alt="Vampire Squid" width="50">  |  5am - 10pm  | Ice Caves, Underwater Sanctuary | <img src="/items/fishing/creatures/variants/vampiresquid_hq.gif" alt="HQ Vampire Squid" width="50"> <img src="/items/fishing/creatures/variants/vampiresquid_chroma.png" alt="Chroma Vampire Squid" width="50"> <img src="/items/fishing/creatures/variants/vampiresquid_realvampire.png" alt="Real Vampire, Vampire Squid" width="50">  | 12,000 |
+  | Wahoo {: #Wahoo} | <img src="/items/fishing/creatures/wahoo.png" alt="Wahoo" width="50">  | 2pm - 1am | Scurvy Waters | <img src="/items/fishing/creatures/variants/wahoo_hq.gif" alt="HQ Wahoo" width="50"> | ??|
 
   </center>
 
@@ -156,6 +163,7 @@ Some locations are only available for holidays or special events.
 - <a href="/Items/Fishing/Creatures#CryptKeepersPond" target="_blank">Crypt Keeper's Pond</a> (Holiday/Event Location)
 - <a href="/Items/Fishing/Creatures#IceCaves" target="_blank">Ice Caves</a> (Holiday/Event Location)
 - <a href="/Items/Fishing/Creatures#MysticPond" target="_blank">Mystic Pond</a> (Tuesdays & Saturdays)
+- <a href="/Items/Fishing/Creatures#ScurvyWaters" target="_blank">Scurvy Waters</a> (Saltwater)
 - <a href="/Items/Fishing/Creatures#SnowyMountain" target="_blank">Snowy Mountain</a> (Holiday/Event Location)
 - <a href="/Items/Fishing/Creatures#UnderwaterSanctuary" target="_blank">Underwater Sanctuary</a> (Saltwater)
 - <a href="/Items/Fishing/Creatures#VertigoBeach" target="_blank">Vertigo Beach</a> (Saltwater)
@@ -281,6 +289,30 @@ Mystic Pond can be visited by the <a href="/Bot-features/Currency-Commands/Grind
 
 </center>
   
+<br>
+
+### <font color =b32d2d>Scurvy Waters</font> {: #ScurvyWaters}
+
+Scurvy Waters is a saltwater fishing location. You can meet several <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishNPCs" target="_blank">fishing NPCs</a> here, including Chet Sterling, Zara Grey, and Meridian.
+
+<br>
+<center>
+  <img src="/bot-features/fishing/scurvywaters.png" alt="Scurvey Waters" width="400">
+  
+ Creature Name| Image | UTC Time |  Location(s) | Variants | Sell Price |
+|:--------:|:------:|:------:|:------:|:------:|:------:|
+| Blue Tang {: #BlueTang} | <img src="/items/fishing/creatures/bluetang2.png" alt=" Blue Tang" width="50">  | 2am - 10pm  | Scurvy Waters | <img src="/items/fishing/creatures/variants/bluetang_hq.gif" alt="HQ Blue Tang" width="50"> | ??  |
+| Kathzilla {: # Kathzilla} | <img src="/items/fishing/creatures/kathzilla.png" alt="Kathzilla" width="50">  | 7pm - 7am  | Scurvy Waters | <img src="/items/fishing/creatures/variants/kathzilla_hq.gif" alt="HQ Kathzilla" width="50"> | ??  |
+| Lionfish {: #Lionfish} | <img src="/items/fishing/creatures/lionfish.png" alt="Lionfish" width="50">  | 2am - 1pm  | Scurvy Waters | <img src="/items/fishing/creatures/variants/lionfish.gif" alt="HQ Lionfish" width="50"> | ??  |
+| Parrotfish {: #Parrotfish} | <img src="/items/fishing/creatures/parrotfish.png" alt="Parrotfish" width="50">  | 4pm - 8am  | Scurvy Waters | <img src="/items/fishing/creatures/variants/parrotfish_hq.gif" alt="HQ Parrotfish" width="50"> <img src="/items/fishing/creatures/variants/parrotfish_chroma.gif" alt="Chroma Parrotfish" width="50"> | ??|
+| Sailfish {: #Sailfish} | <img src="/items/fishing/creatures/sailfish.png" alt="Sailfish" width="50">  | 7am - 7pm | Scurvy Waters | <img src="/items/fishing/creatures/variants/sailfish_hq.gif" alt="HQ Sailfish" width="50"> | ??  |
+| Wahoo {: #Wahoo} | <img src="/items/fishing/creatures/wahoo.png" alt="Wahoo" width="50">  | 2pm - 1am | Scurvy Waters | <img src="/items/fishing/creatures/variants/wahoo_hq.gif" alt="HQ Wahoo" width="50"> | ??|
+| **BOSS** Lusca {: #Lusca} | <img src="/items/fishing/creatures/lusca2.png" alt="Lusca" width="50">  | All Day | Scurvy Waters | <img src="/items/fishing/creatures/variants/lusca_hq.gif" alt="HQ Lusca" width="50"> | ?? |
+
+
+</center>
+  
+
 <br>
 
 ### <font color =b32d2d>Snowy Mountain</font> {: #SnowyMountain}
