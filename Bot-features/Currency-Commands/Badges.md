@@ -2,7 +2,7 @@
 title: Badges
 description: Learn about the possible badges you can earn when grinding and running commands, such as the collector's badge, yearly badges, premium badge, and more.
 published: true
-date: 2024-04-02T16:36:37.047Z
+date: 2024-04-08T16:01:38.136Z
 tags: fight, collector's, collector's badge, hunt, fish, dig, beg, search, crime, premium user, badges, goals, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-05-31T12:05:19.978Z
@@ -82,7 +82,7 @@ The currently obtainable badges are badges you can unlock, and they stay unlocke
 | Diggin It | <img src="/bot-features/dank-goals/digginit.png" alt="Diggin It" width="50" height="50"> | Catch 250 dig bosses | <img src="/bot-features/dank-goals/badges/digginitplatinum.png" alt="Diggin It Platinum" width="50" height="50"> | Catch 400 dig bosses |
 | Business Savvy | <img src="/bot-features/dank-goals/businesssavvy.png" alt="Business Savvy" width="50" height="50"> | Earn 20,000,000 coins from `/work` | <img src="/bot-features/dank-goals/badges/businesssavvyplatinum.png" alt="Business Savvy Platinum" width="50" height="50"> | Earn 100,000,000 coins from `/work` |
 | Always High | <img src="/bot-features/dank-goals/alwayshigh.png" alt="Always High" width="50" height="50"> | Win 12,500 games of `/highlow` | <img src="/bot-features/dank-goals/badges/alwayshighplatinum.png" alt="Always High Platinum" width="50" height="50"> | Win 20,000 games of `/highlow` | 
-| Rob Them Blind | <img src="/bot-features/dank-goals/robthemblind.png" alt="Rob Them Blind" width="50" height="50"> | Successfully `/rob` 50,000,000,000 coins | <img src="/bot-features/dank-goals/badges/robthemblindplatinum.png" alt="Rob Them Blind Platinum" width="50" height="50"> | Successfully `/rob` 200,000,000,000 coins |
+| Rob Them Blind {: #RobThemBlindBadge} | <img src="/bot-features/dank-goals/robthemblind.png" alt="Rob Them Blind" width="50" height="50"> | Successfully `/rob` 50,000,000,000 coins | <img src="/bot-features/dank-goals/badges/robthemblindplatinum.png" alt="Rob Them Blind Platinum" width="50" height="50"> | Successfully `/rob` 200,000,000,000 coins |
 | Disenfranchised Voter {: #Voter} | <img src="/bot-features/dank-goals/disenfranchisedvoter.png" alt="Disenfranchised Voter" width="50" height="50"> | Reach `/vote` level 115 three times | <img src="/bot-features/dank-goals/badges/disenfranchisedvoterplatinum.png" alt="Disenfranchised Voter Platinum" width="50" height="50"> | Reach `/vote` level 115 six times |
 | Bester Quester {: #Quest} | <img src="/bot-features/dank-goals/besterquester.png" alt="Bester Quester" width="50" height="50"> | Complete 20 weekly `/quests` | <img src="/bot-features/dank-goals/badges/besterquesterplatinum.png" alt="Bester Quester Platinum" width="50" height="50"> | Complete 40 weekly `/quests` | 
 | Bold Adventurer | <img src="/bot-features/dank-goals/boldadventurer.png" alt="Bold Adventurer" width="50" height="50"> | Win 500 adventures | <img src="/bot-features/dank-goals/badges/boldadventurerplatinum.png" alt="Bold Adventurer Platinum" width="50" height="50"> | Win 1,000 adventures |
