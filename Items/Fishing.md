@@ -2,7 +2,7 @@
 title: Fishing "Items"
 description: Learn about the tools, baits, tank decorations, and buckets you can use when fishing in Dank Memer.
 published: true
-date: 2024-04-08T20:57:22.785Z
+date: 2024-04-10T03:14:54.937Z
 tags: bait, fish buckets, buckets, bucket, fishing, rod, dynamite, harpoon, fishing rod, fishing net, net, pepe bucket, metal bucket, wooden bucket, pink bucket, fish tank, decorations, neon plant, haunted house, skull, demon
 editor: markdown
 dateCreated: 2023-11-03T20:56:10.515Z
@@ -38,7 +38,7 @@ Each tool has slightly different abilities when fishing, and a different durabil
 |:--------:|:------:|:------:|:--------------:|:------:|
 |Bare Hands {: #BareHands} | <img src="/items/fishing/hand.gif" alt="Bare Hand" width="50" height="50">| Infinite |  +5% chance to catch unique variants | Cannot catch bosses or equip baits | 
 |Fishing Rod {: #FishingRod} |<img src="/items/fishing/fishing_rod.webp" alt="Fishing Rod" width="50" height="50">| 10 | +2% chance for NPC encounters, +5% chance for high quality variants | Cannot catch bosses |
-|Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 20  | +8% chance to catch bosses, and high durability  | Reduces chroma chance by 20%  |
+|Harpoon {: #Harpoon} | <img src="/items/fishing/harpoon.webp" alt="Harpoon" width="50" height="50">| 15  | +8% chance to catch bosses, and high durability  | Reduces chroma chance by 20%  |
 | Net {: #Net} | <img src="/items/fishing/net.webp" alt="Net" width="50" height="50">|  5 | Double item catches and can catch more creatures on average | Cannot catch bosses and low durability  |
 | Dynamite {: #Dynamite} | <img src="/items/fishing/dynamite.gif" alt="Dynamite" width="50" height="50">| 5 | +8% chance for an NPC encounter and can catch more creatures on average  | Cannot use bait or catch items, and has a low durability |
 | Fishing Bow {: #FishingBow} | <img src="/items/fishing/fishingbow.webp" alt="Fishing Bow" width="50" height="50">| 50 | 50% lower cooldown and high durability | Cannot catch high quality or chromas |
