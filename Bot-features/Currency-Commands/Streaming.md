@@ -2,7 +2,7 @@
 title: Stream Command
 description: Learn more detail about the /stream command, how it works, how to make the most money, and more.
 published: true
-date: 2024-03-29T16:13:28.372Z
+date: 2024-05-04T21:21:18.269Z
 tags: stream, xp, green screen, camera, mic, microphone, headphones, sound card, sponsors, viewers, level, interactions, ringlight, ring light, streaming
 editor: markdown
 dateCreated: 2023-11-28T23:25:20.315Z
@@ -47,7 +47,7 @@ Streaming items are usable items that can be found in Collect Donations (and oth
 
 | Item | Image | Use | Found
 |:------:|:----:|:------:|:------:|
-| Camera | <img src="/items/tools/camera.png" alt="Camera" width="50" height="50"> | This item doubles the amount of viewers watching your streams.  | `/stream`, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a>, <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands" target="_blank">Grinding</a> |
+| Camera | <img src="/items/tools/camera.png" alt="Camera" width="50" height="50"> | This item increases the amount of viewers watching your streams by 1.8x.  | `/stream`, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a>, <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands" target="_blank">Grinding</a> |
 | Electryifying Zing | <img src="/items/power-ups/electrifyingzing.gif" alt="Electrifying Zing" width="50" height="50"> | It doubles your streaming profits when consumed and lasts for 24 hours. | <a href="/Bot-features/Currency-Commands/Basic-Commands#FishingShop" target="_blank">/fish shop</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> |
 |Green Screen | <img src="/items/tools/greenscreen.png" alt="Green Screen" width="50" height="50"> | This item doubles your revenue from Run AD. | `/stream`, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a>, <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands" target="_blank">Grinding</a> |
 |Headphones | <img src="/items/tools/headphones.png" alt="Head Phones" width="50" height="50"> | This item increases your max idle time by 30 minutes.| `/stream`, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> |
