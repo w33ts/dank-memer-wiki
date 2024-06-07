@@ -2,11 +2,16 @@
 title: About the Bot
 description: Info about Dank Memer's history and types of commands, the Dank Memer website and store, the Dank Memer Community server (DMC) and support server (DMO), and the /partners command. 
 published: true
-date: 2024-01-01T20:46:51.225Z
+date: 2024-06-07T23:58:35.257Z
 tags: bot history, store, dank store, dank website, patreon, premium, invite, invite the bot, partners, server links, social media, twitter, instagram, tiktok, reddit, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:27:21.627Z
 ---
+
+
+<center>
+<img src="/about-dank-memer/dmc_banner.jpg" alt="DMC Banner" width="500">
+</center>
 
 # About Dank Memer
 
