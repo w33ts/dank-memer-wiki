@@ -2,7 +2,7 @@
 title: Dank Memer Wiki Home
 description: 
 published: true
-date: 2024-01-02T04:42:50.600Z
+date: 2024-06-07T23:59:10.875Z
 tags: home, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T15:54:28.873Z
@@ -14,6 +14,11 @@ dateCreated: 2023-04-28T15:54:28.873Z
 This wiki is dedicated to helping users understand and make the most of Dank Memer, one of the most popular bots on Discord. Dank Memer is a multi-featured discord bot with a wide variety of currency commands, memes, games, image generators, and more, all with a little bit of sass and a twist of its own.
 
 The Dank Memer Wiki is entirely volunteer run by a team of avid Dank Memer players and is not associated with or managed by Dank Memer. This wiki is intended to be a guide and a resource for users to help answer questions and explain bot features so users have a place to go when they want more information.
+
+<br>
+<center>
+<img src="/about-dank-memer/dmc_banner.jpg" alt="DMC Banner" width="500">
+</center>
 
 ## Latest (wiki) updates
 
