@@ -2,16 +2,11 @@
 title: About the Bot
 description: Info about Dank Memer's history and types of commands, the Dank Memer website and store, the Dank Memer Community server (DMC) and support server (DMO), and the /partners command. 
 published: true
-date: 2024-06-07T23:58:35.257Z
+date: 2024-06-08T00:00:04.455Z
 tags: bot history, store, dank store, dank website, patreon, premium, invite, invite the bot, partners, server links, social media, twitter, instagram, tiktok, reddit, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T20:27:21.627Z
 ---
-
-
-<center>
-<img src="/about-dank-memer/dmc_banner.jpg" alt="DMC Banner" width="500">
-</center>
 
 # About Dank Memer
 
@@ -20,6 +15,11 @@ Dank Memer was initially named Markos and was created by Melmsie as a project to
 Today, Dank Memer is a multi-featured discord bot with currency commands, complex fishing system, memes, games, and more, all with a little bit of sass and a twist of its own. It has grown to be one of the most popular bots on Discord and is in millions of servers, has a team of 10+ paid staff members working around the globe and a huge userbase!
 
 To learn more, you can follow Dank Memer on <a href="/About-Dank-Memer/About-the-bot#Social" target="_blank">Social Media</a>, visit the Dank Memer <a href="/About-Dank-Memer/About-the-bot#Website" target="_blank">Website</a>, or <a href="/About-Dank-Memer/About-the-bot#Community" target="_blank">join the community</a>.
+
+<br>
+<center>
+<img src="/about-dank-memer/dmc_banner.jpg" alt="DMC Banner" width="500">
+</center>
 
 ## Commands 
 Dank Memer has hundreds of commands and subcommands users can try, and they include everything from setting reminders to browsing memes or fishing and hunting. The three main types of commands are Currency Commands; Fun, Game & Image Commands; and Utility & Config Commands.
