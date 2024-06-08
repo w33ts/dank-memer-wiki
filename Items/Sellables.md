@@ -2,7 +2,7 @@
 title: Sellables
 description: Browse the possible sellable-type items that are available on the bot, including animals, work items, and more.
 published: true
-date: 2024-04-02T16:33:18.231Z
+date: 2024-06-08T03:39:31.639Z
 tags: kraken, dragon, sellables, sellable items, aplus, a plus, ant, rabbit, deer, aha, pitcher plant, legendary fish, rare fish, common fish, stickbug, lady bug, duck, skunk, worm, mole man, fossil, meteorite, music note, beaker of sus fluid, vaccine, law degree, trash, junk, garbage, fresh bread, star fragment, lasso, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:32:25.441Z
@@ -10,6 +10,8 @@ dateCreated: 2023-04-30T21:32:25.441Z
 
 # Sellable Items
 Sellable items are items that you can sell directly to the bot for coins using the <a href="/Bot-features/Currency-Commands/Basic-Commands#Shop" target="_blank">/shop sell</a>  command. The value of these items is affected by your <a href="/Bot-features/Currency-Commands/Multipliers#Coin" target="_blank">coin multiplier</a>, and the higher your multiplier the more they are worth.
+
+You can see the current market value, net value, and more about these items on the <a href="https://dankmemer.lol/items" target="_blank">Dank Memer Website</a>.
 
 > The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
 {.is-info}
@@ -28,6 +30,7 @@ Sellable items are items that you can sell directly to the bot for coins using t
 | **Corncob** {: #Corncob} | <img src="/items/sellables/corncob.png" alt="Corncob" width="50" height="50"> | 8 | Just a corncob. | 71,500 | <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#AdeptFarmer" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#CorncobSkin" target="_blank">Yes</a> | 
 | **Corndog** {: #Corndog} | <img src="/items/sellables/corndog.png" alt="Corndog" width="50" height="50"> | 9 | Just a corndog. | 55,000 | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Grind-Commands" target="_blank">Grinding</a>, <a href="/Bot-features/Currency-Commands/Grind-Commands#Scratch" target="_blank">Scratch</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#BitsandBobs" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#CorndogSkin" target="_blank">Yes</a> | 
 | **Deer** {: #Deer} | <img src="/items/sellables/deer_new.png" alt="Deer" width="50" height="50"> | 19 | Just a deer. | 16,500 | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#Hunter" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#DeerSkin" target="_blank">Yes</a> | 
+| **Delta 9** {: #Delta9} | <img src="/items/sellables/delta9.png" alt="Deer" width="50" height="50"> | 19 | A plant you can grow using Delta 9 Seeds. Can be crafted into the Delta 9 Roll. Cannot be transferred. | 825,000 | <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a> | No | No | 
 | **Diamond** {: #Diamond} | <img src="/items/sellables/diamond.png" alt="Diamond" width="50" height="50"> | 215 | Just a diamond. | 715,000 | <a href="/Bot-features/Currency-Commands/Farm" target="_blank">Farm</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#AdeptFarmer" target="_blank">Yes</a> | No | 
 | **Dragon** {: #Dragon} | <img src="/items/sellables/dragon_new.gif" alt="Dragon" width="50" height="50"> | 21 | Just a dragon. | 220,000 | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#Hunter" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#DragonSkin" target="_blank">Yes</a> | 
 | **Duck** {: #Duck} | <img src="/items/sellables/duck_new.png" alt="Duck" width="50" height="50"> | 18 | Just a duck. | 11,000 | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Grind-Commands#Hunt" target="_blank">Hunt</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#Hunter" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#DuckSkin" target="_blank">Yes</a> | 
