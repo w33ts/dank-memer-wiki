@@ -1,8 +1,8 @@
 ---
-title: Debuff
+title: Debuffs
 description: Browse Dank Memer's debuff-type items, including box of sand, empowered fart, snowball, voodoo doll, and more.
 published: true
-date: 2024-06-08T02:29:26.708Z
+date: 2024-06-08T02:29:52.659Z
 tags: fart in a bottle, box of sand, sand, empowered, empowered fart, fart, snowball, used diaper, voodoo doll, debuff
 editor: markdown
 dateCreated: 2024-06-08T02:29:26.708Z
