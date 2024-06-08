@@ -2,7 +2,7 @@
 title: All Items
 description: Browse a complete list of every item available in Dank Memer.
 published: true
-date: 2024-06-08T04:26:20.505Z
+date: 2024-06-08T04:27:00.201Z
 tags: collectables, use, items, all items, item list, consumables, drops, tools, sellables, powerups, power-ups, power ups, usable items, usable, lootboxes, packs, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-30T21:33:10.040Z
@@ -32,7 +32,7 @@ Below is a list of the normal items within Dank Memer. For Fishing-related "item
 - <a href="/Items/Lootboxes#BaitBox" target="_blank">Bait Box</a>
 - <a href="/Items/Sellables#BanHammer" target="_blank">Ban Hammer</a>
 - <a href="/Items/Buffs#BankNote" target="_blank">Bank Note</a>
-- <a href="/Items/Collectibless#BarrelofSludge" target="_blank">Barrel of Sludge</a>
+- <a href="/Items/Collectibles#BarrelofSludge" target="_blank">Barrel of Sludge</a>
 - <a href="/Items/Sellables#Beakerofsusfluid" target="_blank">Beaker of Sus fluid</a>
 - <a href="/Items/Sellables#Bean" target="_blank">Bean</a>
 - <a href="/Items/Trinkets#BeanMp3Player" target="_blank">Bean Mp3 Player</a>
