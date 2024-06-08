@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-06-08T02:29:54.495Z
+date: 2024-06-08T02:31:08.226Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -228,9 +228,9 @@ Item skins can be equipped on an item. Many items have more than one possible sk
   | **<a href="https://dankmemer.wiki/en/Items/Collectables#TriviaTrophy" target="_blank">Trivia Trophy</a>** | Holiday Lights Variant | <img src="/bot-features/skins/item-skins/triviatrophy-holidaylightsvariant.gif" alt="Holiday Lights Trophy Variant" width="50" height="50"> |
 | **<a href="https://dankmemer.wiki/en/Items/Collectables#Tumbleweed" target="_blank">Tumbleweed</a>** | Googly Eye Tumbleweed Variant | <img src="/bot-features/skins/item-skins/tumbleweed-googlyeyetumbleweedvariant.gif" alt="Googly Eye Tumbleweed Variant" width="50" height="50"> {: #TumbleWeedSkin} |
  | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#UniverseBox" target="_blank">Universe Box</a>** | Omega Variant | <img src="/bot-features/skins/item-skins/universebox-omegavariant.gif" alt="Omega Universe Box Variant" width="50" height="50"> {: #UniverseBoxSkin} |
-| **<a href="Items/Debuffs#UsedDiaper" target="_blank">Used Diaper</a>** | Legacy Diaper | <img src="/bot-features/skins/item-skins/useddiaper-legacydiaper.png" alt="Legacy Diaper" width="50" height="50"> {: #UsedDiaperSkin} |
+| **<a href="/Items/Debuffs#UsedDiaper" target="_blank">Used Diaper</a>** | Legacy Diaper | <img src="/bot-features/skins/item-skins/useddiaper-legacydiaper.png" alt="Legacy Diaper" width="50" height="50"> {: #UsedDiaperSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#Vaccine" target="_blank">Vaccine</a>** | Legacy Vaccine | <img src="/bot-features/skins/item-skins/vaccine-legacyvaccine.png" alt="Legacy vaccine" width="50" height="50"> {: #VaccineSkin} |
-| **<a href="Items/Debuffs#VoodooDoll" target="_blank">Voodoo Doll</a>** | Overused Voodoo Doll Variant | <img src="/bot-features/skins/item-skins/voodoodoll-overusedvoodoodollvariant.png" alt="Overused Voodoo Doll Variant" width="50" height="50"> {: #VoodooDollSkin} |
+| **<a href="/Items/Debuffs#VoodooDoll" target="_blank">Voodoo Doll</a>** | Overused Voodoo Doll Variant | <img src="/bot-features/skins/item-skins/voodoodoll-overusedvoodoodollvariant.png" alt="Overused Voodoo Doll Variant" width="50" height="50"> {: #VoodooDollSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Lootboxes#WeddingGift" target="_blank">Wedding Gift</a>** | Deluxe Wedding Gift Variant | <img src="/bot-features/skins/item-skins/weddinggift-deluxeweddinggiftvariant.png" alt="Deluxe Wedding Gift Variant" width="50" height="50"> {: #WeddingGiftSkin} |
 | **<a href="/Items/Collectables#WinningLotteryTicket" target="_blank">Winning Lottery Ticket</a>** | Legacy Lottery Ticket | <img src="/bot-features/skins/item-skins/winninglotteryticket-legacyvariant.png" alt="Legacy Lottery Ticket" width="50" height="50"> {: #WinningLotteryTicketSkin} |
 | **<a href="https://dankmemer.wiki/en/Items/Sellables#ZigsCapybara" target="_blank">Zig's Capybara</a>** | Swag Capybara Variant {: #ZigsCapybaraSkin} | <img src="/bot-features/skins/item-skins/zigscapybara-swagvariant.png" alt="Swag Capybara Variant" width="50" height="50"> |
