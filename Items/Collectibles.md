@@ -2,14 +2,14 @@
 title: Collectibles
 description: Browse Dank Memer's collectible-type items, including pepe items, developer items, drop items, and more.
 published: true
-date: 2024-06-08T04:18:52.137Z
+date: 2024-06-08T04:21:32.824Z
 tags: aetheryx flower, melmsie's beard, zomb's zombee, pepe trophy, pepe medal, pepe ring, pepe sus, pepe ribbon, blue's plane, pepe statue, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-04-28T20:35:17.911Z
 ---
 
-# Collectable Items
-Collectable items are items that are meant to be collected or to help you collect. Most do not have a use and are not sellable to the bot unless you have the <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector Badge</a>.
+# Collectible Items
+Collectible items are items that are meant to be collected or to help you collect. Most do not have a use and are not sellable to the bot unless you have the <a href="/Bot-features/Currency-Commands/Badges#Collector" target="_blank">Collector's Badge</a>.
 
 > The below info gives you a general idea of where to find each item, but is not a complete list of every possible location and simply gives a few main sources.
 {.is-info}
@@ -101,7 +101,7 @@ Collectable items are items that are meant to be collected or to help you collec
 | **Townie's Eyes** {: #TowniesEyes} | <img src="/items/collectables/townieseyes.gif" alt="Townie's Eyes" width="50" height="50"> | 175 | Dank Team member Townie's Developer item. | Yes | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DeveloperBox" target="_blank">Developer Box</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#DevCollector" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#TowniesEyesSkin" target="_blank">Yes</a> | 
 | **Trivia Trophy** {: #TriviaTrophy} | <img src="/items/collectables/triviatrophy.png" alt="Trivia Trophy" width="50" height="50"> | 224 | This item is obtained from answering trivia questions correctly. It can not be transferred on the market or anywhere else. | No | <a href="/Bot-features/Fun-Games-Image/Fun-and-Images#Trivia" target="_blank">Trivia</a> | No | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#TriviaTrophySkin" target="_blank">Yes</a>| 
 | **Tumbleweed** {: #Tumbleweed} | <img src="/items/collectables/tumbleweed.gif" alt="Tumbleweed" width="50" height="50"> | 96 | An item obtained from the Out West Adventure (and Box). This item can be used and is consumed, but it does not do anything. | Yes | <a href="/Bot-features/Currency-Commands/Adventure" target="_blank">Adventure</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#OldCowboy" target="_blank">Yes</a> | <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Skins#TumbleweedSkin" target="_blank">Yes</a> | 
-| **Weet's Donut** {: #WeetsDonut} | <img src="/items/sellables/weetsdonut.png" alt="Weet's Donut" width="50" height="50"> | 239 | Dank Team member Weet his Developer item. | 1,100,000 | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DeveloperBox" target="_blank">Developer Box</a>, <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#DevCollector" target="_blank">Yes</a> | No | 
+| **Weet's Donut** {: #WeetsDonut} | <img src="/items/sellables/weetsdonut.png" alt="Weet's Donut" width="50" height="50"> | 239 | Dank Team member Weet's Developer item. | 1,100,000 | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DeveloperBox" target="_blank">Developer Box</a>, <a href="https://dankmemer.wiki/en/Bot-features/Currency-Commands/Grind-Commands#Postmemes" target="_blank">Postmemes</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#DevCollector" target="_blank">Yes</a> | No | 
 | Zara’s Pirate Sword {: #ZarasPirateSword} | <img src="/items/collectables/zaraspiratesword.gif" alt="Zara’s Pirate Sword" width="50" height="50">  |  253 |  A collectable item you can receive from the NPC Zara while fishing. | Yes | <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing" target="_blank">Fishing</a> , <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | No |  No 
 | **ZomB's ZomBee** {: #ZomBsZomBee} | <img src="/items/collectables/zombszombee.gif" alt="Zomb'S ZomBee" width="50" height="50"> | 222 | Dank Team member ZomB's Developer item. | No | <a href="https://dankmemer.wiki/en/Items/Lootboxes#DeveloperBox" target="_blank">Developer Box</a>, <a href="/Bot-features/Currency-Commands/Market" target="_blank">Market</a> | <a href="/Bot-features/Currency-Commands/Bundles#DevCollector" target="_blank">Yes</a> | No |
 
