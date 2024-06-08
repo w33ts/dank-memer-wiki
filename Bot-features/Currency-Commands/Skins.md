@@ -2,7 +2,7 @@
 title: Skins
 description: Learn about the skins and skin fragments and how you can collect and use them.
 published: true
-date: 2024-06-08T04:11:24.998Z
+date: 2024-06-08T04:36:00.925Z
 tags: pets, skins, skins select, skins view, badge skins, item skins, pet skins, art, skin fragments, fragments, dank memer wiki, dankmemer wiki
 editor: markdown
 dateCreated: 2023-06-02T18:43:27.264Z
@@ -338,12 +338,13 @@ The fish tank skins can be equipped on your fish tank, and it will be what you o
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Black Rock Skin {: #BlackRockTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blackrock.png" alt="Black Rock Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Blue Skin {: #BlueTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-blue.png" alt="Blue Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Bone Skin {: #BoneTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-bonetank.png" alt="Bone Fish Tank" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Caribbean Skin {: #CaribbeanTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-caribbean.png" alt="Caribbean Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Ice Skin {: #IceTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-ice.png" alt="Ice Fish Tank" width="100"> |
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Orange Skin {: #OrangeTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-orange.png" alt="Orange Fish Tank" width="100"> |
   | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Pink Skin {: #PinkTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-pink.webp" alt="Fish Tank Pink" width="100"> |
   | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Purple Skin {: #PurpleTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-purple.png" alt="Purple Fish Tank" width="100"> |
   | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | Valentine's Skin {: #ValentinesTankSkin} | <img src="/bot-features/skins/fish-tanks/fishtank-valentines.png" alt="Valentine's Tank" width="100"> |
-| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing#FishTank" target="_blank">Fish Tank</a>** | UNKNOWN Tank {: #UNKOWNTankSkin} | UNKNOWN|
+
   
   </center>
   
@@ -355,8 +356,11 @@ The <a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" targe
 | Name | Skin Name | Skin Image |
 |:------:|:----:|:------:|
 | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Base Skin {: #BaseGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-base.png" alt="Base Fish Guidebook Skin" width="100"> |
-  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Valentine's Skin {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-valentines.png" alt="Valentine's Fish Guidebook Skin" width="100"> |
-  | **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Winter Skin {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-winterskin.png" alt="Winter Fish Guidebook Skin" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Gem Inspired Skin {: #GemInspiredGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-geminspired.png" alt="Gem Inspired Fish Guidebook Skin" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Pirate Skin {: #PirateGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-pirate.png" alt="Pirate Fish Guidebook Skin" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Space Depth Skin {: #SpaceDepthGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-spacedepth.png" alt="Space Depth Fish Guidebook Skin" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Valentine's Skin {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-valentines.png" alt="Valentine's Fish Guidebook Skin" width="100"> |
+| **<a href="/Bot-features/Currency-Commands/Grind-Commands/Fishing/Guide" target="_blank">Fish Guide</a>** | Winter Skin {: #WinterGuidebookSkin} | <img src="/bot-features/skins/fish-guidebook-skins/fishguidebook-winterskin.png" alt="Winter Fish Guidebook Skin" width="100"> |
 
 
   </center>
