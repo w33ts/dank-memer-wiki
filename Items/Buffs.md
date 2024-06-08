@@ -1,8 +1,8 @@
 ---
 title: Buffs
-description: Browse Dank Memer's buff-type items, including adventure compass, bank notes, candy corn, credit cards, and more.
+description: Browse Dank Memer's buff-type items, including adventure compass, bank note, candy corn, credit card, and more.
 published: true
-date: 2024-06-08T02:03:46.693Z
+date: 2024-06-08T02:15:04.034Z
 tags: prestige coin, stonk coin, shredded cheese, cowboy boots, pet collar, pet saddle, robbers mask, alcohol, whiskey, bottle of whiskey, credit card, boxed chocolate, birthday cake, candy corn, adventure compass, ammo, life saver, lucky horseshoe, apple, bank note, lifesaver, green screen, camera, microphone, headphones, sound card, ring light, compass, bolt cutters, boxed, caipirinha, crunchy taco, taco, cupid's big toe, cupid's toe, toe, delta 9, delta 9 roll, electrifying zing, elf on the shelf, elf, energy drink, fake id, fierce fang fare, grub pail, inflated delicacy, joke book, landmine, horseshoe, motivational poster, poster, padlock, pepes bathwater, bathwater, pet feeder, pizza slice, prismatic delight, shootin gstar, spooky mask, stolen amulet, streak freeze, sunbeard's d20, d20, tentacled temptation
 editor: markdown
 dateCreated: 2024-06-08T02:02:38.832Z
